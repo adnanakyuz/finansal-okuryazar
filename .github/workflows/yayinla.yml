@@ -1,0 +1,71 @@
+# Yeni sayı geldiğinde: önce denetle, sorun yoksa siteyi yayınla.
+# Sabah yazı işleri (Claude) yeni sayıyı ya doğrudan main dalına ya da claude/... ile başlayan bir dala gönderir.
+# claude/... dalı gelirse: denetlenir, main'e birleştirilir, sonra main için yayın başlatılır.
+# Denetim başarısız olursa hiçbir şey yayınlanmaz; sitede bir önceki sayı kalır.
+name: Yayınla
+
+on:
+  push:
+    branches: [main, "claude/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: write
+
+concurrency:
+  group: yayin-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  denetle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Sayıları denetle
+        run: node scripts/dogrula.mjs
+      - name: Claude dalını main'e birleştir ve yayını başlat
+        if: startsWith(github.ref, 'refs/heads/claude/')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -B main origin/main
+          git merge --no-edit "origin/${GITHUB_REF_NAME}"
+          node scripts/arsiv.mjs
+          node scripts/dogrula.mjs
+          git add sayilar/index.json
+          git diff --cached --quiet || git commit -m "Arşiv listesi güncellendi"
+          git push origin main
+          git push origin --delete "${GITHUB_REF_NAME}" || true
+          gh workflow run yayinla.yml --ref main
+
+  yayinla:
+    needs: denetle
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.dagit.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Yalnızca okura gidecek dosyaları topla
+        run: |
+          mkdir _site
+          cp -r index.html sema.js sw.js manifest.webmanifest ikonlar sayilar _site/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: dagit
+        uses: actions/deploy-pages@v4

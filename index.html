@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Finansal Okuryazar</title>
+<meta name="description" content="Paranın dilini sade Türkçeyle anlatan, her sabah çıkan ücretsiz günlük ekonomi gazetesi.">
+<meta name="theme-color" content="#FBFAF8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121316" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="ikonlar/ikon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="ikonlar/ikon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Okuryazar">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500;6..96,700;6..96,900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&display=swap">
+<style>
+/* Düzen: basılı günlük gazete. Künye ve kulaklar, kayan piyasa şeridi, numaralı sayfa menüsü,
+   her sayfanın başında folyo satırı, iki yana yaslı sütunlar, ince sütun çizgileri. */
+:root{
+  --paper:#FBFAF8; --paper-2:#F0EFEB; --ink:#16181D; --ink-2:#4A4C52; --muted:#76777C;
+  --rule:#16181D; --hair:#D6D4CF; --accent:#B3121B; --up:#1C7A49; --down:#B3121B; --flat:#76777C;
+  --box:#FFFFFF; --olcek:1;
+  --f-display:"Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
+  --f-body:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-ui:"IBM Plex Sans Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#121316; --paper-2:#1B1C20; --ink:#ECEAE5; --ink-2:#BEBCB6; --muted:#8E8D89;
+  --rule:#ECEAE5; --hair:#34353A; --accent:#FF5B5F; --up:#4CC38A; --down:#FF6B6E; --flat:#8E8D89; --box:#1A1B1F; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --paper:#121316; --paper-2:#1B1C20; --ink:#ECEAE5; --ink-2:#BEBCB6; --muted:#8E8D89;
+  --rule:#ECEAE5; --hair:#34353A; --accent:#FF5B5F; --up:#4CC38A; --down:#FF6B6E; --flat:#8E8D89; --box:#1A1B1F; color-scheme:dark }
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.6;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+a{color:inherit}
+a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.kicker{font-family:var(--f-ui);font-size:12.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
+h1,h2,h3,h4{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.08}
+p{margin:0}
+.num{font-variant-numeric:tabular-nums}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.yasla{hyphens:auto;-webkit-hyphens:auto;text-wrap:pretty}
+/* İki yana yaslama yalnızca geniş sütunlarda: dar sütunda kelime arası boşluklar açılıp okumayı zorlaştırıyor. */
+@media (min-width:1000px){.sutunlar .yasla,.front-main .yasla{text-align:justify}}
+
+/* Üst satır ve araçlar */
+.topline{display:flex;flex-wrap:wrap;gap:8px 18px;justify-content:space-between;align-items:center;padding-block:10px;border-bottom:1px solid var(--hair);font-family:var(--f-ui);font-size:13px;color:var(--ink-2)}
+.tools{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.tools select,.tools button{font-family:var(--f-ui);font-size:13px;background:var(--box);color:var(--ink);border:1px solid var(--hair);border-radius:3px;padding:5px 8px;cursor:pointer;min-height:32px}
+.tools select{max-width:210px}
+.tools button[aria-pressed="true"]{border-color:var(--ink)}
+
+/* Künye ve kulaklar */
+.mast{display:grid;grid-template-columns:150px minmax(0,1fr) 150px;align-items:center;gap:12px;padding-block:18px 8px}
+.ear{border:1px solid var(--rule);padding:8px 10px;font-family:var(--f-ui);font-size:12px;line-height:1.35;text-transform:uppercase;letter-spacing:.05em;text-align:center}
+.ear b{display:block;font-family:var(--f-display);font-size:20px;letter-spacing:0;text-transform:none;line-height:1.1;margin-top:2px}
+.title{text-align:center}
+.title h1{font-weight:900;font-size:clamp(32px,8.6vw,88px);letter-spacing:-.01em;line-height:.95}
+.title h1 span{color:var(--accent)}
+.motto{margin-top:8px;font-style:italic;color:var(--ink-2);font-size:15.5px}
+.mastrule{border:0;border-top:3px solid var(--rule);margin:8px 0 0}
+.mastrule2{border:0;border-top:1px solid var(--rule);margin:3px 0 0}
+.meta{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 16px;padding-block:7px;font-family:var(--f-ui);font-size:13px;letter-spacing:.04em;text-transform:uppercase;border-bottom:1px solid var(--rule)}
+
+/* Durum bandı (bugünün sayısı yoksa, arşivden okunuyorsa, çevrimdışıysa) */
+.durum{display:none;margin-top:10px;padding:9px 12px;font-family:var(--f-ui);font-size:14.5px;background:var(--paper-2);border-left:4px solid var(--accent)}
+.durum.on{display:block}
+.durum a{font-weight:700}
+
+/* Kayan piyasa şeridi */
+.tape{overflow:hidden;border-bottom:1px solid var(--hair);background:var(--paper)}
+.tape-in{display:flex;width:max-content;animation:kay var(--sure,60s) linear infinite}
+.tape:hover .tape-in,.tape:focus-within .tape-in,.tape.dur .tape-in{animation-play-state:paused}
+@keyframes kay{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.tape{overflow-x:auto}.tape-in{animation:none}}
+.tick{display:flex;flex-direction:column;padding:8px 16px;border-right:1px solid var(--hair);font-family:var(--f-ui);min-width:118px}
+.tick .n{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}
+.tick .v{font-size:17px;font-weight:600;white-space:nowrap}
+.tick .c{font-size:13px;font-weight:600;white-space:nowrap}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+
+/* Sayfa menüsü */
+.nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--paper);border-bottom:1px solid var(--rule)}
+.nav-in{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+.nav-in::-webkit-scrollbar{display:none}
+.nav button{font-family:var(--f-ui);font-size:14px;font-weight:600;letter-spacing:.03em;background:none;border:0;color:var(--ink-2);padding:11px 11px;white-space:nowrap;cursor:pointer;border-bottom:3px solid transparent}
+.nav button small{font-weight:700;color:var(--muted);margin-right:5px}
+.nav button:hover{color:var(--ink);border-bottom-color:var(--hair)}
+.nav button.on{color:var(--ink);border-bottom-color:var(--accent)}
+
+/* Sayfalar */
+main{padding-block:18px 40px;zoom:var(--olcek)}
+.page{padding-block:30px 8px;border-top:3px double var(--rule);scroll-margin-top:60px}
+.page:first-child{border-top:0;padding-top:4px}
+.folio{display:flex;justify-content:space-between;gap:10px;font-family:var(--f-ui);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding-bottom:6px;border-bottom:1px solid var(--hair);margin-bottom:14px}
+.folio b{color:var(--ink)}
+.folio .orta{font-family:var(--f-display);font-weight:900;letter-spacing:.04em;color:var(--ink)}
+.pagehead{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:18px;padding-bottom:8px;border-bottom:1px solid var(--rule)}
+.pagehead h2{font-size:clamp(26px,4.4vw,38px);font-weight:900}
+.pagehead .alt{font-family:var(--f-body);font-style:italic;font-size:15.5px;color:var(--ink-2);text-align:right}
+.lead-p{font-size:18px;color:var(--ink-2)}
+
+/* 1. sayfa */
+.manset-ust{display:flex;flex-direction:column;gap:10px;padding-bottom:16px;border-bottom:1px solid var(--rule);margin-bottom:18px}
+.manset-ust h2.man{font-size:clamp(34px,6.4vw,70px);font-weight:900;letter-spacing:-.01em}
+.front{display:grid;grid-template-columns:minmax(0,8fr) minmax(0,4fr);gap:28px}
+.front-main{min-width:0;display:flex;flex-direction:column;gap:14px}
+.front-main .spot{font-size:20px;line-height:1.5}
+.dateline{font-family:var(--f-ui);font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:14px}
+.bullets{margin:4px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:9px}
+.bullets li{padding-left:20px;position:relative}
+.bullets li::before{content:"";position:absolute;left:2px;top:.62em;width:8px;height:8px;background:var(--accent)}
+.side{min-width:0;display:flex;flex-direction:column;gap:18px;border-left:1px solid var(--hair);padding-left:24px}
+.box{background:var(--box);border:1px solid var(--hair);padding:16px 18px}
+.box h4{font-family:var(--f-ui);font-size:13px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;margin-bottom:10px;color:var(--ink)}
+.box p{font-size:16px}
+.mini{width:100%;border-collapse:collapse;font-family:var(--f-ui);font-size:15px}
+.mini td{padding:6px 0;border-bottom:1px solid var(--hair)}
+.mini td:nth-child(2),.mini td:nth-child(3){text-align:right;white-space:nowrap;padding-left:8px}
+.icindekiler{list-style:none;margin:0;padding:0;font-family:var(--f-ui);font-size:15px}
+.icindekiler li{border-bottom:1px dotted var(--hair)}
+.icindekiler button{all:unset;cursor:pointer;display:flex;justify-content:space-between;gap:8px;width:100%;padding:6px 0}
+.icindekiler button:hover span:first-child{text-decoration:underline}
+.icindekiler button:focus-visible{outline:2px solid var(--accent)}
+.icindekiler b{font-weight:700}
+.seconds{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;margin-top:26px;border-top:3px solid var(--rule)}
+.seconds article{padding:16px 20px 4px 0;display:flex;flex-direction:column;gap:8px;min-width:0}
+.seconds article+article{padding-left:20px;border-left:1px solid var(--hair)}
+.seconds h3{font-size:24px;font-weight:700}
+.seconds p{font-size:16px;color:var(--ink-2)}
+
+/* Piyasa tablosu */
+.tblwrap{overflow-x:auto;border-top:2px solid var(--rule)}
+table.mkt{width:100%;border-collapse:collapse;font-size:16px;min-width:620px}
+.mkt th{font-family:var(--f-ui);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:10px 10px 8px 0;border-bottom:1px solid var(--rule)}
+.mkt td{padding:12px 10px 12px 0;border-bottom:1px solid var(--hair);vertical-align:top}
+.mkt td.a{font-family:var(--f-ui);font-weight:600;white-space:nowrap}
+.mkt td.v{font-family:var(--f-ui);font-weight:600;white-space:nowrap;text-align:right}
+.mkt td.c{font-family:var(--f-ui);font-weight:700;white-space:nowrap;text-align:right;padding-right:18px}
+.mkt td.w{color:var(--ink-2);font-size:15.5px}
+.arrow{display:inline-block;width:1.1em}
+.kaydir{display:none;font-family:var(--f-ui);font-size:12.5px;color:var(--muted);margin:0 0 6px}
+.rates{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin-top:22px}
+.rate .big{font-family:var(--f-display);font-size:40px;font-weight:900;line-height:1;margin:4px 0}
+.rate .lbl{font-family:var(--f-ui);font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.07em}
+.rate p{margin-top:8px;font-size:15.5px;color:var(--ink-2)}
+
+/* Okuma sayfası (Dosya): iki sütun gövde + yan kutular */
+.read{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:32px}
+.read .head{display:flex;flex-direction:column;gap:10px;margin-bottom:16px}
+.read .head h3{font-size:clamp(30px,4.6vw,46px);font-weight:900}
+.read .head .spot{font-size:19px;color:var(--ink-2);font-style:italic}
+.sutunlar{columns:2 280px;column-gap:30px;column-rule:1px solid var(--hair)}
+.sutunlar p{margin-bottom:14px}
+.dropcap::first-letter{font-family:var(--f-display);font-weight:900;float:left;font-size:4.1em;line-height:.82;padding:6px 8px 0 0;color:var(--accent)}
+.aside{min-width:0;display:flex;flex-direction:column;gap:16px}
+.explain{border-top:3px solid var(--accent);background:var(--box);border-left:1px solid var(--hair);border-right:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:14px 16px}
+.explain h4{font-family:var(--f-ui);font-size:13px;letter-spacing:.09em;text-transform:uppercase;margin-bottom:8px}
+.explain p{font-size:15.5px}
+
+/* Haberler */
+.news{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px}
+.news article{padding:16px 0;border-bottom:1px solid var(--hair);display:flex;flex-direction:column;gap:8px;min-width:0}
+.news h3{font-size:24px;font-weight:700}
+.news p{font-size:16px}
+.etki{font-family:var(--f-ui);font-size:14.5px;color:var(--ink-2);background:var(--paper-2);padding:8px 10px;border-left:3px solid var(--ink);text-align:left}
+.etki b{color:var(--ink)}
+.kaynak{font-family:var(--f-ui);font-size:13px;color:var(--muted)}
+.kaynak a{text-underline-offset:2px}
+
+/* Köşe yazıları */
+.columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}
+.col{padding:4px 22px 14px;min-width:0;display:flex;flex-direction:column;gap:12px}
+.col:first-child{padding-left:0}
+.col+.col{border-left:1px solid var(--hair)}
+.col .byline{display:flex;align-items:center;gap:10px}
+.col .seal{width:42px;height:42px;border-radius:50%;border:1.5px solid var(--ink);display:grid;place-items:center;font-family:var(--f-display);font-weight:900;font-size:17px;flex:none}
+.col .who{font-family:var(--f-ui);font-size:13px;letter-spacing:.07em;text-transform:uppercase;font-weight:700;line-height:1.3}
+.col .who small{display:block;font-weight:400;color:var(--muted);letter-spacing:.04em;text-transform:none;font-size:13px}
+.col h3{font-size:24px;font-weight:700;font-style:italic}
+.col p{font-size:16px}
+
+/* Senaryolar */
+.scen{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.scen .box h4.pos{color:var(--up)} .scen .box h4.neg{color:var(--down)}
+.scen ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:8px;font-size:16px}
+.disclaimer{margin-top:16px;font-family:var(--f-ui);font-size:14px;color:var(--muted);font-style:italic}
+
+/* Ajanda */
+.agenda{list-style:none;margin:0;padding:0;border-top:2px solid var(--rule)}
+.agenda li{display:grid;grid-template-columns:150px minmax(0,1fr);gap:16px;padding:11px 0;border-bottom:1px solid var(--hair)}
+.agenda .d{font-family:var(--f-ui);font-weight:700;font-size:15px}
+.agenda .hi .d{color:var(--accent)}
+.agenda .e{font-size:16px}
+.pill{display:inline-block;font-family:var(--f-ui);font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;border:1px solid var(--accent);color:var(--accent);padding:1px 6px;margin-left:8px;vertical-align:2px}
+
+/* Sözlük */
+.dict{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin:0}
+.dict dt{font-family:var(--f-display);font-weight:900;font-size:22px}
+.dict dd{margin:6px 0 0;font-size:16px;color:var(--ink-2)}
+.dict div{border-top:2px solid var(--ink);padding-top:10px}
+
+/* Kaynaklar */
+.notes{font-family:var(--f-ui);font-size:14.5px;color:var(--ink-2);margin:0 0 16px;padding-left:18px}
+.notes li{margin-bottom:4px}
+.sources{columns:2 300px;column-gap:28px;font-family:var(--f-ui);font-size:14px;margin:0;padding-left:22px}
+.sources li{break-inside:avoid;margin-bottom:5px}
+.sources a{text-decoration-color:var(--hair);text-underline-offset:2px}
+.sources a:hover{text-decoration-color:var(--accent)}
+footer{border-top:3px solid var(--rule);padding-block:14px 30px;font-family:var(--f-ui);font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:6px}
+footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
+
+/* Boş durum */
+.empty{text-align:center;padding-block:60px;display:flex;flex-direction:column;gap:12px;align-items:center}
+.empty h2{font-size:34px;font-weight:900}
+.empty p{max-width:52ch;color:var(--ink-2)}
+.press{width:56px;height:4px;background:var(--accent);animation:press 1.4s ease-in-out infinite}
+@keyframes press{0%,100%{transform:scaleX(.3)}50%{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.press{animation:none}}
+
+@media (max-width:900px){
+  .mast{grid-template-columns:minmax(0,1fr)}
+  .ear{display:none}
+  .front,.read{grid-template-columns:minmax(0,1fr)}
+  .side{border-left:0;padding-left:0;border-top:1px solid var(--rule);padding-top:18px}
+  .seconds,.columns{grid-template-columns:minmax(0,1fr)}
+  .seconds article+article,.col+.col{padding-left:0;border-left:0;border-top:1px solid var(--hair)}
+  .col{padding:16px 0}
+  .news,.scen{grid-template-columns:minmax(0,1fr)}
+  .kaydir{display:block}
+}
+@media (max-width:600px){
+  /* Telefonda piyasa tablosu kart olur: üstte ad-seviye-değişim, altında sade açıklama. Yana kaydırma yok. */
+  table.mkt{min-width:0}
+  .mkt thead{display:none}
+  .mkt tr{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:0 14px;padding:12px 0;border-bottom:1px solid var(--hair)}
+  .mkt td{border:0;padding:0}
+  .mkt td.c{padding-right:0}
+  .mkt td.w{grid-column:1/-1;margin-top:6px}
+  .kaydir{display:none}
+}
+@media (max-width:520px){
+  body{font-size:16.5px}
+  .agenda li{grid-template-columns:minmax(0,1fr);gap:2px}
+  .meta{font-size:11.5px}
+  .folio .orta{display:none}
+  .pagehead{flex-direction:column;gap:2px}
+  .pagehead .alt{text-align:left}
+}
+@media print{
+  .tools,.nav,.tape,.durum{display:none!important}
+  body{background:#fff;color:#000}
+  .page{break-before:page}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topline">
+    <span id="tl-left">Günlük ekonomi gazetesi · Ücretsiz</span>
+    <div class="tools">
+      <label for="arsiv" class="sr">Arşiv</label>
+      <select id="arsiv" aria-label="Arşivden sayı seç"><option>Yükleniyor…</option></select>
+      <button type="button" id="kucult" aria-label="Yazıyı küçült">A−</button>
+      <button type="button" id="buyut" aria-label="Yazıyı büyüt">A+</button>
+      <button type="button" id="tema" aria-label="Gece/gündüz görünümü">◐</button>
+    </div>
+  </div>
+  <header class="mast">
+    <div class="ear" id="ear-l">Sayı<b id="ear-no">—</b></div>
+    <div class="title">
+      <h1>FİNANSAL <span>OKURYAZAR</span></h1>
+      <p class="motto">Paranın dilini sade Türkçeyle anlatan günlük gazete</p>
+    </div>
+    <div class="ear">Fiyatı<b>0 TL</b></div>
+  </header>
+  <hr class="mastrule"><hr class="mastrule2">
+  <div class="meta"><span id="m-date">—</span><span id="m-no">Sayı —</span><span id="m-note">Her sabah yeni sayı</span></div>
+  <div class="durum" id="durum" role="status"></div>
+</div>
+<div class="tape" id="tape-k" aria-label="Piyasa şeridi"><div class="tape-in" id="tape"></div></div>
+<nav class="nav" aria-label="Sayfalar"><div class="nav-in wrap" id="nav"></div></nav>
+<main class="wrap" id="paper">
+  <section class="empty">
+    <div class="press" aria-hidden="true"></div>
+    <h2>Sayı matbaada</h2>
+    <p>Gazete yükleniyor…</p>
+  </section>
+</main>
+<div class="wrap"><footer>
+  <div class="kunye"><span><b>FİNANSAL OKURYAZAR</b> · Yazı İşleri: Claude (yapay zekâ) · Her sabah yeniden basılır</span><span>İçerik bilgilendirme amaçlıdır, yatırım tavsiyesi değildir.</span></div>
+  <span>Rakamlar baskı saatindeki değerlerdir; gün içinde değişebilir. Her haberin kaynağı, son sayfada listelenir.</span>
+</footer></div>
+
+<script type="module">
+import { dogrula } from "./sema.js";
+
+const $ = (s, r = document) => r.querySelector(s);
+function el(tag, attrs, ...kids) {
+  const e = document.createElement(tag);
+  if (attrs) for (const k in attrs) {
+    if (k === "class") e.className = attrs[k];
+    else if (k === "text") e.textContent = attrs[k];
+    else e.setAttribute(k, attrs[k]);
+  }
+  for (const k of kids) { if (k == null || k === false) continue; e.append(k.nodeType ? k : document.createTextNode(String(k))); }
+  return e;
+}
+const arr = (v) => (Array.isArray(v) ? v : []);
+const str = (v) => (v == null ? "" : String(v));
+const dirOf = (d) => (d === "up" ? "up" : d === "down" ? "down" : "flat");
+const arrow = (d) => (d === "up" ? "▲" : d === "down" ? "▼" : "■");
+const azalt = matchMedia("(prefers-reduced-motion: reduce)");
+const kayit = { al(k) { try { return localStorage.getItem(k); } catch { return null; } }, koy(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+
+// Bugünün tarihi, İstanbul saatiyle (YYYY-AA-GG) ve saat.
+const bugun = () => new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Istanbul" }).format(new Date());
+const saat = () => Number(new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Istanbul", hour: "2-digit", hour12: false }).format(new Date()));
+
+let liste = [];   // sayilar/index.json → [{tarih, tarihMetni, sayi, baslik}]
+let current = null;
+
+/* Araçlar: yazı boyutu ve tema */
+const OLCEKLER = [0.9, 1, 1.12, 1.25, 1.4];
+let olcek = Math.max(0, OLCEKLER.indexOf(Number(kayit.al("fo-olcek")) || 1));
+function olcekUygula() { document.documentElement.style.setProperty("--olcek", OLCEKLER[olcek]); kayit.koy("fo-olcek", OLCEKLER[olcek]); }
+$("#kucult").onclick = () => { olcek = Math.max(0, olcek - 1); olcekUygula(); };
+$("#buyut").onclick = () => { olcek = Math.min(OLCEKLER.length - 1, olcek + 1); olcekUygula(); };
+olcekUygula();
+const tema = kayit.al("fo-tema");
+if (tema) document.documentElement.dataset.theme = tema;
+$("#tema").onclick = () => {
+  const koyu = document.documentElement.dataset.theme ? document.documentElement.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  const yeni = koyu ? "light" : "dark";
+  document.documentElement.dataset.theme = yeni; kayit.koy("fo-tema", yeni);
+};
+
+/* Sayfa menüsü */
+const SAYFALAR = [
+  ["s-manset", "Manşet"], ["s-piyasa", "Piyasalar"], ["s-dosya", "Dosya"], ["s-gundem", "Gündem"],
+  ["s-tekno", "Teknoloji"], ["s-kose", "Köşe Yazıları"], ["s-senaryo", "Ne Olabilir?"],
+  ["s-ajanda", "Ajanda"], ["s-sozluk", "Sözlük"], ["s-kaynak", "Kaynaklar"],
+];
+let gorunen = SAYFALAR;
+function git(id) {
+  const t = document.getElementById(id);
+  if (t) t.scrollIntoView({ behavior: azalt.matches ? "auto" : "smooth", block: "start" });
+}
+function navKur() {
+  const n = $("#nav"); n.textContent = "";
+  gorunen.forEach(([id, ad], i) => {
+    const b = el("button", { type: "button", "data-t": id, class: i === 0 ? "on" : "" }, el("small", { text: String(i + 1) }), ad);
+    b.addEventListener("click", () => git(id));
+    n.append(b);
+  });
+}
+function spy() {
+  let on = gorunen[0]?.[0];
+  for (const [id] of gorunen) { const t = document.getElementById(id); if (t && t.getBoundingClientRect().top < 140) on = id; }
+  document.querySelectorAll("#nav button").forEach((b) => {
+    const a = b.dataset.t === on;
+    if (a && !b.classList.contains("on")) b.scrollIntoView({ block: "nearest", inline: "nearest" });
+    b.classList.toggle("on", a);
+  });
+}
+addEventListener("scroll", spy, { passive: true });
+
+/* Yardımcılar */
+function folio(no, d) { return el("div", { class: "folio" }, el("span", null, "Sayfa ", el("b", { text: String(no) })), el("span", { class: "orta", text: "Finansal Okuryazar" }), el("span", { text: str(d.tarihMetni || d.tarih) })); }
+function pagehead(baslik, alt) { return el("div", { class: "pagehead" }, el("h2", { text: baslik }), alt ? el("span", { class: "alt", text: alt }) : null); }
+function link(u, t) { return /^https:\/\//i.test(str(u)) ? el("a", { href: u, target: "_blank", rel: "noopener noreferrer", text: t || u }) : el("span", { text: t || u }); }
+function kaynakSatiri(k) { return k && k.url ? el("p", { class: "kaynak" }, "Kaynak: ", link(k.url, str(k.ad || "bağlantı") + " ↗")) : null; }
+
+function render(d) {
+  current = d;
+  const P = $("#paper"); P.textContent = "";
+  const tm = str(d.tarihMetni || d.tarih);
+  $("#m-date").textContent = tm;
+  $("#m-no").textContent = "Sayı " + str(d.sayi || "—");
+  $("#ear-no").textContent = str(d.sayi || "—");
+  $("#m-note").textContent = str(d.notlar || "Her sabah yeni sayı");
+  $("#tl-left").textContent = "Günlük ekonomi gazetesi · Ücretsiz";
+  document.title = "Finansal Okuryazar · " + tm;
+
+  // Kayan şerit: içerik iki kez yazılır, yarısı kadar kayınca başa döner.
+  const tp = $("#tape"); tp.textContent = "";
+  const tik = (m, gizli) => el("div", { class: "tick", ...(gizli ? { "aria-hidden": "true" } : {}) }, el("span", { class: "n", text: str(m.ad) }), el("span", { class: "v num", text: str(m.deger) }), el("span", { class: "c num " + dirOf(m.yon), text: arrow(m.yon) + " " + str(m.degisim) }));
+  arr(d.piyasalar).forEach((m) => tp.append(tik(m)));
+  if (!azalt.matches) arr(d.piyasalar).forEach((m) => tp.append(tik(m, true)));
+  tp.style.setProperty("--sure", Math.max(30, arr(d.piyasalar).length * 5) + "s");
+
+  // Bölümlerden boş olanları atla, sayfa numaraları kaymasın diye sırayla numaralandır.
+  const var_ = { "s-tekno": arr(d.teknoloji).length > 0 };
+  gorunen = SAYFALAR.filter(([id]) => var_[id] !== false);
+  const no = (id) => gorunen.findIndex(([x]) => x === id) + 1;
+  navKur();
+
+  // SAYFA 1 · MANŞET
+  const M = d.manset || {};
+  const s1 = el("section", { class: "page", id: "s-manset" });
+  s1.append(el("div", { class: "manset-ust" }, el("span", { class: "kicker", text: str(M.ustBaslik) }), el("h2", { class: "man", text: str(M.baslik) })));
+  const fm = el("div", { class: "front-main" }, el("p", { class: "spot yasla" }, el("span", { class: "dateline", text: "İstanbul — " }), str(M.spot)));
+  if (arr(M.ozet).length) { const ul = el("ul", { class: "bullets" }); arr(M.ozet).forEach((x) => ul.append(el("li", { text: str(x) }))); fm.append(el("h4", { class: "kicker", text: "Kısaca" }), ul); }
+  const side = el("aside", { class: "side" });
+  if (d.gununOzeti) side.append(el("div", { class: "box" }, el("h4", { text: "Günün özeti" }), el("p", { text: str(d.gununOzeti) })));
+  const tb = el("tbody");
+  arr(d.piyasalar).slice(0, 7).forEach((m) => tb.append(el("tr", null, el("td", { text: str(m.ad) }), el("td", { class: "num", text: str(m.deger) }), el("td", { class: "num " + dirOf(m.yon), text: arrow(m.yon) + " " + str(m.degisim) }))));
+  side.append(el("div", { class: "box" }, el("h4", { text: "Piyasalar bir bakışta" }), el("table", { class: "mini" }, tb)));
+  const ic = el("ol", { class: "icindekiler" });
+  gorunen.slice(1).forEach(([id, ad]) => { const b = el("button", { type: "button" }, el("span", { text: ad }), el("b", { text: String(no(id)) })); b.onclick = () => git(id); ic.append(el("li", null, b)); });
+  side.append(el("div", { class: "box" }, el("h4", { text: "Bu sayıda" }), ic));
+  s1.append(el("div", { class: "front" }, fm, side));
+  if (arr(d.ikinciMansetler).length) {
+    const sc = el("div", { class: "seconds" });
+    arr(d.ikinciMansetler).forEach((a) => sc.append(el("article", null, el("span", { class: "kicker", text: str(a.ustBaslik) }), el("h3", { text: str(a.baslik) }), el("p", { class: "yasla", text: str(a.spot) }))));
+    s1.append(sc);
+  }
+  P.append(s1);
+
+  // PİYASALAR
+  const s2 = el("section", { class: "page", id: "s-piyasa" });
+  s2.append(folio(no("s-piyasa"), d), pagehead("Piyasalar", "Rakamlar ve sade nedenleri"));
+  const t = el("table", { class: "mkt" });
+  t.append(el("thead", null, el("tr", null, el("th", { text: "Varlık" }), el("th", { text: "Seviye", style: "text-align:right" }), el("th", { text: "Değişim", style: "text-align:right;padding-right:18px" }), el("th", { text: "Neden? Sade anlatım" }))));
+  const tbb = el("tbody");
+  arr(d.piyasalar).forEach((m) => tbb.append(el("tr", null, el("td", { class: "a", text: str(m.ad) }), el("td", { class: "v num", text: str(m.deger) }), el("td", { class: "c num " + dirOf(m.yon) }, el("span", { class: "arrow", text: arrow(m.yon) }), str(m.degisim)), el("td", { class: "w", text: str(m.neden) }))));
+  t.append(tbb);
+  s2.append(el("p", { class: "kaydir", text: "Tabloyu sağa kaydırarak açıklamaları okuyabilirsiniz →" }), el("div", { class: "tblwrap" }, t));
+  if (arr(d.faiz).length) {
+    const r = el("div", { class: "rates" });
+    arr(d.faiz).forEach((f) => r.append(el("div", { class: "box rate" }, el("span", { class: "lbl", text: str(f.kurum) }), el("div", { class: "big num", text: str(f.mevcut) }), el("p", null, el("b", { text: "Beklenti: " }), str(f.beklenti)), f.not ? el("p", { text: str(f.not) }) : null)));
+    s2.append(r);
+  }
+  P.append(s2);
+
+  // DOSYA
+  const D = d.dosya || {};
+  const s3 = el("section", { class: "page", id: "s-dosya" });
+  s3.append(folio(no("s-dosya"), d), pagehead("Günün Dosyası", "Derinlemesine, ama sade"));
+  const govde = el("div", { class: "sutunlar" });
+  arr(D.paragraflar).forEach((p, i) => govde.append(el("p", { class: "yasla" + (i === 0 ? " dropcap" : ""), text: str(p) })));
+  const body = el("div", { style: "min-width:0" }, el("div", { class: "head" }, el("span", { class: "kicker", text: str(D.ustBaslik) }), el("h3", { text: str(D.baslik) }), D.spot ? el("p", { class: "spot", text: str(D.spot) }) : null), govde);
+  const as = el("aside", { class: "aside" });
+  arr(D.kutular).forEach((k) => as.append(el("div", { class: "explain" }, el("h4", { text: str(k.baslik) }), el("p", { text: str(k.metin) }))));
+  s3.append(el("div", { class: "read" }, body, as));
+  P.append(s3);
+
+  // GÜNDEM ve TEKNOLOJİ
+  const haberSayfasi = (id, baslik, alt, liste, etiket, ekAlan, ekBaslik) => {
+    const s = el("section", { class: "page", id });
+    s.append(folio(no(id), d), pagehead(baslik, alt));
+    const nw = el("div", { class: "news" });
+    arr(liste).forEach((g) => nw.append(el("article", null,
+      el("span", { class: "kicker", text: str(g.etiket || etiket) }), el("h3", { text: str(g.baslik) }), el("p", { class: "yasla", text: str(g.metin) }),
+      g[ekAlan] ? el("p", { class: "etki" }, el("b", { text: ekBaslik + ": " }), str(g[ekAlan])) : null, kaynakSatiri(g.kaynak))));
+    s.append(nw); P.append(s);
+  };
+  haberSayfasi("s-gundem", "Türkiye ve Dünya", "Gündem ve cebinize etkisi", d.gundem, "Gündem", "etki", "Cebine etkisi");
+  if (var_["s-tekno"]) haberSayfasi("s-tekno", "Yapay Zekâ ve Teknoloji", "Paranın yeni adresi", d.teknoloji, "Teknoloji", "neden", "Neden önemli");
+
+  // KÖŞE YAZILARI
+  const s6 = el("section", { class: "page", id: "s-kose" });
+  s6.append(folio(no("s-kose"), d), pagehead("Köşe Yazıları", "Yazı İşleri masalarından görüş"));
+  const cols = el("div", { class: "columns" });
+  arr(d.koseYazilari).forEach((c) => {
+    const ini = str(c.kose).split(/\s+/).map((w) => w[0] || "").join("").slice(0, 2).toLocaleUpperCase("tr-TR");
+    const cc = el("article", { class: "col" }, el("div", { class: "byline" }, el("span", { class: "seal", text: ini, "aria-hidden": "true" }), el("span", { class: "who" }, str(c.kose), el("small", { text: str(c.imza || "Yazı İşleri") }))), el("h3", { text: str(c.baslik) }));
+    arr(c.paragraflar).forEach((p) => cc.append(el("p", { class: "yasla", text: str(p) })));
+    cols.append(cc);
+  });
+  s6.append(cols); P.append(s6);
+
+  // BUNDAN SONRA NE OLABİLİR?
+  const Y = d.senaryolar || {};
+  const s7 = el("section", { class: "page", id: "s-senaryo" });
+  s7.append(folio(no("s-senaryo"), d), pagehead("Bundan Sonra Ne Olabilir?", "İki ihtimal, sade dille"));
+  const mk = (baslik, cls, l) => { const ul = el("ul"); arr(l).forEach((x) => ul.append(el("li", { text: str(x) }))); return el("div", { class: "box" }, el("h4", { class: cls, text: baslik }), ul); };
+  s7.append(el("div", { class: "scen" }, mk("İyi giderse", "pos", Y.olumlu), mk("Kötü giderse", "neg", Y.olumsuz)));
+  if (Y.riskler) s7.append(el("p", { class: "lead-p yasla", style: "margin-top:16px", text: str(Y.riskler) }));
+  s7.append(el("p", { class: "disclaimer", text: str(Y.uyari || "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir.") }));
+  P.append(s7);
+
+  // AJANDA
+  const s8 = el("section", { class: "page", id: "s-ajanda" });
+  s8.append(folio(no("s-ajanda"), d), pagehead("Ajanda", "Takvimde neler var?"));
+  const ag = el("ul", { class: "agenda" });
+  arr(d.ajanda).forEach((a) => { const hi = a.onem === "yuksek"; ag.append(el("li", { class: hi ? "hi" : "" }, el("span", { class: "d", text: str(a.gun) }), el("span", { class: "e" }, str(a.olay), hi ? el("span", { class: "pill", text: "Kritik" }) : null))); });
+  s8.append(ag); P.append(s8);
+
+  // SÖZLÜK
+  const s9 = el("section", { class: "page", id: "s-sozluk" });
+  s9.append(folio(no("s-sozluk"), d), pagehead("Okuryazarlık Sözlüğü", "Bugünün kavramları"));
+  const dl = el("dl", { class: "dict" });
+  arr(d.sozluk).forEach((s) => dl.append(el("div", null, el("dt", { text: str(s.terim) }), el("dd", { text: str(s.aciklama) }))));
+  s9.append(dl); P.append(s9);
+
+  // KAYNAKLAR
+  const s10 = el("section", { class: "page", id: "s-kaynak" });
+  s10.append(folio(no("s-kaynak"), d), pagehead("Kaynaklar ve Teyit Notları", "Şeffaflık sayfası"));
+  if (arr(d.teyitNotlari).length) {
+    const ul = el("ul", { class: "notes" }); arr(d.teyitNotlari).forEach((n) => ul.append(el("li", { text: str(n) })));
+    s10.append(el("h4", { class: "kicker", text: "Teyit notları: emin olamadıklarımız", style: "margin-bottom:8px" }), ul);
+  }
+  const ol = el("ol", { class: "sources" });
+  arr(d.kaynaklar).forEach((k) => ol.append(el("li", null, link(k.url, str(k.baslik)))));
+  s10.append(el("h4", { class: "kicker", text: "Bu sayıda kullanılan kaynaklar", style: "margin-bottom:8px" }), ol);
+  P.append(s10);
+
+  arsivDoldur();
+  durumYaz();
+  spy();
+}
+
+function durumYaz() {
+  const b = $("#durum"); b.textContent = ""; b.className = "durum";
+  if (!current || !liste.length) return;
+  const enYeni = liste[0];
+  if (current.tarih !== enYeni.tarih) {
+    const a = el("a", { href: "#" + enYeni.tarih, text: "En yeni sayıya git →" });
+    b.append("Arşivden " + str(current.tarihMetni) + " sayısını okuyorsunuz. ", a);
+  } else if (enYeni.tarih < bugun()) {
+    b.append(saat() < 9
+      ? "Bugünkü sayı matbaada; genellikle sabah 07.30 civarında çıkar. Şimdilik son sayıyı okuyorsunuz."
+      : "Bugünkü sayı henüz yayımlanmadı. Son sayıyı (" + str(enYeni.tarihMetni) + ") okuyorsunuz.");
+  } else if (!navigator.onLine) {
+    b.append("İnternet bağlantısı yok; cihazda kayıtlı son sayıyı okuyorsunuz.");
+  } else return;
+  b.classList.add("on");
+}
+
+function arsivDoldur() {
+  const s = $("#arsiv"); s.textContent = "";
+  if (!liste.length) { s.append(el("option", { text: "Henüz sayı yok" })); return; }
+  liste.forEach((x) => { const o = el("option", { value: str(x.tarih), text: str(x.tarihMetni || x.tarih) + " · Sayı " + str(x.sayi) }); if (current && current.tarih === x.tarih) o.selected = true; s.append(o); });
+}
+$("#arsiv").addEventListener("change", (e) => { location.hash = e.target.value; });
+
+function bos(baslik, mesaj) {
+  const P = $("#paper"); P.textContent = "";
+  P.append(el("section", { class: "empty" }, el("h2", { text: baslik }), el("p", { text: mesaj })));
+}
+
+async function getir(yol) {
+  const r = await fetch(yol, { cache: "no-cache" });
+  if (!r.ok) throw new Error(yol + " → " + r.status);
+  return r.json();
+}
+
+async function sayiAc(tarih) {
+  const hedef = liste.find((x) => x.tarih === tarih) || liste[0];
+  try {
+    const d = await getir("sayilar/" + hedef.tarih + ".json");
+    const { hatalar } = dogrula(d);
+    if (hatalar.length) { console.warn("Sayı denetimi:", hatalar); bos("Bu sayı denetimden geçemedi", "Bu sayıda hatalı ya da eksik bilgi bulundu, bu yüzden gösterilmiyor. Arşivden başka bir sayı seçebilirsiniz."); arsivDoldur(); return; }
+    const ayni = current && current.tarih === d.tarih;
+    render(d);
+    if (!ayni) scrollTo({ top: 0 });
+  } catch (e) {
+    console.warn(e);
+    bos("Sayı açılamadı", navigator.onLine ? "Gazete şu an yüklenemedi. Biraz sonra sayfayı yenileyin." : "İnternet bağlantısı yok ve bu sayı cihazda kayıtlı değil. Bağlanınca tekrar deneyin.");
+    arsivDoldur();
+  }
+}
+
+addEventListener("hashchange", () => { const h = location.hash.slice(1); if (/^\d{4}-\d{2}-\d{2}$/.test(h)) sayiAc(h); });
+
+(async () => {
+  try {
+    const idx = await getir("sayilar/index.json");
+    liste = arr(idx.sayilar).filter((x) => x && x.tarih).sort((a, b) => (a.tarih < b.tarih ? 1 : -1));
+  } catch (e) { console.warn(e); }
+  if (!liste.length) { bos("Henüz sayı yok", "İlk sayı yarın sabah burada olacak."); arsivDoldur(); return; }
+  await sayiAc(location.hash.slice(1));
+})();
+
+// Uygulama gibi kurulum ve çevrimdışı okuma.
+if ("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+addEventListener("online", durumYaz); addEventListener("offline", durumYaz);
+// Telefonda şeride dokununca dursun, tekrar dokununca devam etsin.
+$("#tape-k").addEventListener("click", (e) => e.currentTarget.classList.toggle("dur"));
+</script>
+</body>
+</html>

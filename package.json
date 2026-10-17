@@ -1,0 +1,12 @@
+{
+  "name": "finansal-okuryazar",
+  "private": true,
+  "type": "module",
+  "description": "Her sabah çıkan ücretsiz günlük ekonomi gazetesi",
+  "scripts": {
+    "arsiv": "node scripts/arsiv.mjs",
+    "dogrula": "node scripts/dogrula.mjs",
+    "rakamlar": "node scripts/rakamlar.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

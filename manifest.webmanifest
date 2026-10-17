@@ -1,0 +1,17 @@
+{
+  "name": "Finansal Okuryazar",
+  "short_name": "Okuryazar",
+  "description": "Paranın dilini sade Türkçeyle anlatan, her sabah çıkan ücretsiz günlük ekonomi gazetesi.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBFAF8",
+  "theme_color": "#FBFAF8",
+  "icons": [
+    { "src": "ikonlar/ikon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "ikonlar/ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "ikonlar/ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "ikonlar/ikon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

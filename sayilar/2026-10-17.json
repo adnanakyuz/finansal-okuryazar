@@ -1,0 +1,197 @@
+{
+  "tarih": "2026-10-17",
+  "tarihMetni": "17 Ekim 2026, Cumartesi",
+  "sayi": 1,
+  "notlar": "Hafta sonu baskısı · Rakamlar 16 Ekim Cuma kapanışı",
+  "gununOzeti": "Borsa İstanbul haftayı %4,4 kayıpla kapattı ve üst üste beşinci haftasını ekside geçirdi. Sebep: MSCI'ın fon skandalı yüzünden Türkiye'ye gösterdiği 'sarı kart'. Dünyada ise petrol 110 dolara dokundu, yapay zekâ şirketlerinin borçları tartışılmaya başlandı. Yeni haftanın kilit günü 22 Ekim Perşembe: TCMB faiz kararı.",
+  "manset": {
+    "ustBaslik": "Borsa İstanbul · MSCI kararı",
+    "baslik": "MSCI'dan Türkiye'ye sarı kart: Borsa beşinci haftada da düştü",
+    "spot": "Dünyanın en büyük endeks kuruluşu, fon skandalı nedeniyle Türk hisselerindeki endeks değişikliklerini dondurdu. Haziran 2027'ye kadar düzelme olmazsa Türkiye 'gelişmekte olan piyasa' liginden düşebilir. BIST 100 Cuma günü %2,9 değer kaybetti.",
+    "ozet": [
+      "BIST 100: 11.722 puan. Günlük −%2,88, haftalık −%4,44. Mayıs rekorunun %20'den fazla altında.",
+      "MSCI yeni hisse eklemeyi, ağırlık artışlarını ve üst lige geçişleri durdurdu. İşlemler sürüyor, statü henüz değişmedi.",
+      "HSBC kararı 'koşullu rahatlama' olarak görüyor ve Türkiye'de 'Ağırlık Artır' tavsiyesini koruyor.",
+      "Erdoğan: 'Fon sorununu kontrol altına aldık.' Tasfiye edilen fonlarda ödemeler başladı."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Emtia",
+      "baslik": "Petrol yeniden 110 dolarda",
+      "spot": "Husilerin Suudi Arabistan'a saldırıları ve Hürmüz'deki gerilimle Brent %3,7 yükselerek 109,86 dolardan kapandı. Yılbaşından beri artış %75'in üzerinde."
+    },
+    {
+      "ustBaslik": "Wall Street",
+      "baslik": "Yapay zekâ borcu Nasdaq'ı vurdu",
+      "spot": "50 milyar dolar borçlu CoreWeave'in tahvil faizi %16'ya yaklaştı. Nasdaq haftayı %4,5 kayıpla kapattı, para bankalara ve enerjiye kaçtı."
+    },
+    {
+      "ustBaslik": "Faiz",
+      "baslik": "Gözler Perşembe günü TCMB'de",
+      "spot": "Ekonomistlerin büyük çoğunluğu politika faizinin %37'den %36'ya indirilmesini bekliyor. Goldman Sachs ise sabit kalacağını düşünüyor."
+    }
+  ],
+  "piyasalar": [
+    {"ad": "BIST 100", "deger": "11.722", "degisim": "%2,88", "yon": "down", "neden": "MSCI'ın endeks değişikliklerini dondurması yabancı yatırımcının iştahını kesti. Bütün sektörler düştü; en sert kayıplar metal eşya (−%4,9), finansal kiralama (−%5,7) ve ticarette (−%4,3). Endeks dolar bazında Haziran 2025'ten beri en düşük seviyede."},
+    {"ad": "Dolar/TL", "deger": "49,53", "degisim": "%0,11", "yon": "up", "neden": "Kur kontrollü şekilde yavaş yavaş yükseliyor. Haftalık artış %0,4. Piyasa katılımcıları ekim sonu için 49,80 bekliyor."},
+    {"ad": "Euro/TL", "deger": "55,76", "degisim": "%0,19", "yon": "up", "neden": "Euro dolara karşı güçlü (1 euro ≈ 1,12 dolar), bu yüzden TL karşısında dolardan daha çok kazandı. Haftalık +%0,9."},
+    {"ad": "Gram altın", "deger": "6.657 TL", "degisim": "%0,34", "yon": "up", "neden": "Ons altındaki hafif yükseliş ve doların TL karşısındaki artışı gram altını yukarı taşıdı. Haftalık bazda neredeyse yatay. Kapalıçarşı fiyatı 6.648 TL."},
+    {"ad": "Çeyrek altın", "deger": "10.885 TL", "degisim": "%0,34", "yon": "up", "neden": "Gram altınla aynı yönde hareket eder. Satış fiyatıdır; alış ile satış arasındaki fark yaklaşık 235 TL."},
+    {"ad": "Ons altın", "deger": "4.181 $", "degisim": "%0,26", "yon": "up", "neden": "Zayıflayan dolar ve savaş riski destek oldu. Ama Fed'in faiz artırma ihtimali baskı yapıyor; altın dokuz hafta sonra ilk haftalık kaybına gidiyor (yaklaşık −%0,5)."},
+    {"ad": "Brent petrol", "deger": "109,86 $", "degisim": "%3,7", "yon": "up", "neden": "Husilerin Suudi Arabistan'a füze saldırıları, Hürmüz'deki gemi saldırıları ve Ukrayna'nın Rus rafinerilerini vurması. Mayıs'tan beri ilk kez 110 dolara dokundu."},
+    {"ad": "WTI petrol", "deger": "101,41 $", "degisim": "%3,5", "yon": "up", "neden": "ABD petrolü de aynı nedenlerle 100 doları aştı. (Kasım kontratı; Aralık kontratı 99,02 $.)"},
+    {"ad": "Bitcoin", "deger": "≈81.700 $", "degisim": "≈%2", "yon": "up", "neden": "Hafta içinde bir ayın ardından ilk kez 80 bin doların altına indi ve 1 milyar dolarlık kaldıraçlı pozisyon silindi. Ardından alıcılar geldi."},
+    {"ad": "S&P 500", "deger": "7.659", "degisim": "%1,09", "yon": "down", "neden": "Teknoloji hisseleri yapay zekâ harcamalarının geri dönüp dönmeyeceği endişesiyle satıldı. Haftalık −%1,95."},
+    {"ad": "Nasdaq", "deger": "26.140", "degisim": "%2,14", "yon": "down", "neden": "CoreWeave, Nebius gibi borçla büyüyen yapay zekâ şirketleri %11-12 düştü. Çip endeksi 8 gündür düşüyor. Haftalık −%4,48."},
+    {"ad": "Dow Jones", "deger": "52.002", "degisim": "%0,34", "yon": "down", "neden": "Para teknolojiden bankalara ve enerjiye kaydığı için Dow daha az düştü; haftayı +%0,67 ile artıda kapattı."},
+    {"ad": "ABD 10 yıllık", "deger": "%5,10", "degisim": "−14,6 bp (hafta)", "yon": "down", "neden": "Hisseden kaçan para güvenli liman olarak tahvile gitti, faiz düştü. Ekim başında %5,33 ile zirve görmüştü."},
+    {"ad": "Dolar endeksi", "deger": "≈102", "degisim": "haftalık düşüş", "yon": "down", "neden": "Dolar beş hafta sonra ilk haftalık kaybına gidiyor. Not: rakam Perşembe kapanışı, tek kaynak."}
+  ],
+  "faiz": [
+    {"kurum": "TCMB politika faizi", "mevcut": "%37", "beklenti": "22 Ekim'de 100 baz puan indirimle %36 (20 ekonomistten 19'u). Yıl sonu beklentisi %35.", "not": "Goldman Sachs faizin sabit kalacağını düşünüyor; gerekçesi rezerv kaybı ve finansal istikrar riski."},
+    {"kurum": "Fed (ABD) faizi", "mevcut": "%3,75–4,00", "beklenti": "28 Ekim'de artış olasılığı ≈%15; Aralık'ta 25 bp artış olasılığı %79–89.", "not": "Fed Eylül'de 2023'ten beri ilk kez faiz artırdı. Başkan Warsh 'toplantıları önceden yargılamam' dedi."},
+    {"kurum": "Türkiye enflasyonu (Eylül)", "mevcut": "%29,73", "beklenti": "Yıl sonu beklentisi %29,63 (TCMB anketi). Ekim için aylık %2,11 bekleniyor.", "not": "Eylül'de aylık %1,84 ile beklentinin (%2,18) altında geldi; gıda fiyatları düştü."}
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Fon skandalı ve MSCI",
+    "baslik": "Türkiye 'gelişmekte olan piyasa' liginden düşer mi?",
+    "spot": "Bir avuç fonun sığ hisselerde yarattığı balon, şimdi bütün borsanın vitrinini tehdit ediyor. Ne oldu, neden önemli, sizi nasıl etkiler?",
+    "paragraflar": [
+      "Hikâye Eylül ortasında başladı. TERA ve Pusula bağlantılı bazı yatırım fonları, halka açıklık oranı düşük ve az işlem gören küçük şirketlerin hisselerine yığılmıştı. Yatırımcılar paralarını geri istemeye başlayınca fonlar bu hisseleri satamadı, çünkü alıcı yoktu. Likidite kilitlendi. Sermaye Piyasası Kurulu (SPK) yedi kuruma ait 131 fonun tasfiyesine karar verdi, yüz binlerce yatırımcı etkilendi. 16 Eylül'de BIST 100 tek günde %6 düştü; 9 Ekim itibarıyla 85 kişi tutuklandı.",
+      "MSCI'ın derdi tam olarak şu: Bir şirketin hisselerinin ne kadarının gerçekten 'halka açık' olduğu, küresel endekslerde o şirkete ne kadar ağırlık verileceğini belirler. Eğer şirketle bağlantılı fonlar hisseleri tutuyorsa, kâğıt üzerinde halka açık görünen paylar gerçekte öyle değildir ve endeks ağırlığı şişer. Bu yüzden MSCI 15 Ekim'den itibaren Türkiye'de üç şeyi dondurdu: halka açıklık ve hisse sayısı artışları endekse yansımayacak, MSCI Turkey IMI'ya yeni hisse eklenmeyecek ve küçük şirketler büyük şirket endekslerine terfi etmeyecek.",
+      "Önemli nokta şu ki Türkiye'nin statüsü bugün değişmedi ve borsada işlemler sürüyor. Ama MSCI net bir süre verdi: Haziran 2027'ye kadar yeterli ilerleme görülmezse Türkiye'nin 'Sınır Piyasa' ya da 'Bağımsız Piyasa' kategorisine indirilmesi için istişare başlayabilir. SPK'nın gerçek faydalanıcısı halka açık sayılmayan kişilere ait fon paylarını hesaptan çıkaran yeni düzenlemesini MSCI 'başlangıç niteliğinde' buldu. İstediği; daha hızlı ve ayrıntılı ortaklık açıklamaları, koordineli işlemlere karşı etkili yaptırım ve halka açıklığın bağımsız şekilde doğrulanabilmesi.",
+      "Görüşler ikiye ayrılıyor. HSBC kararı bir uyarı olarak görüyor ama Endonezya'nın aksine Türkiye'ye doğrudan istişare açılmadığını, yani zaman tanındığını vurguluyor; Türkiye'de 'Ağırlık Artır' tavsiyesini koruyor. Analist İris Cibre ise ek sürenin olumlu olduğunu ama belirsizliğin uzamasının yabancı girişini zorlaştıracağını söylüyor. Hükümet tarafında Cumhurbaşkanı Erdoğan sorunun kontrol altına alındığını ve aşırı kazançların geri alınacağını açıkladı; Bakan Şimşek yeni sermaye piyasası suçları düzenlemesinin 2027 başında yürürlüğe girmesini hedefliyor. Meclis'teki kanun teklifine göre yatırımcılara 1 milyon TL'ye kadar ara ödeme yapılacak ve kamu kaynağı kullanılmayacak.",
+      "Rakamlar baskıyı gösteriyor. Türkiye'nin 5 yıllık risk primi (CDS) Eylül sonunda 250 baz puanı aşarak 4 ayın zirvesine çıktı; Eylül başında 204'tü. TCMB rezervleri altı haftada yaklaşık 21 milyar dolar eriyip 167,4 milyar dolara indi, 9 Ekim haftasında 171,6 milyar dolara toparlandı. BIST 100 ise Mayıs'taki rekorunun %20'den fazla altında, yani teknik olarak 'ayı piyasasında'.",
+      "Sıradan yatırımcı için ders basit: Bir hissenin ne kadar az el değiştirdiği ve sahiplerinin kim olduğu artık fiyatı kadar önemli. Halka açıklığı düşük, işlem hacmi sığ, fon sahipliği yoğun hisselerde risk belirgin biçimde arttı. Fon alırken de 'ne kazandırdı'nın yanında 'içinde ne var' sorusunu sormak gerekiyor. Geçen hafta en çok kazandıran fon türünün para piyasası fonları (+%0,83) olması tesadüf değil; yatırımcılar riskten kaçıyor."
+    ],
+    "kutular": [
+      {"baslik": "Bu ne demek? MSCI", "metin": "Dünyadaki büyük fonların hangi ülkeye ve hangi hisseye ne kadar para koyacağını belirleyen endeksleri hazırlayan şirket. MSCI'ın 'gelişmekte olan piyasalar' endeksini takip eden fonlar trilyonlarca dolar yönetir. Bu ligden düşmek, bu paranın bir kısmının otomatik olarak çıkması demektir."},
+      {"baslik": "Bu ne demek? Halka açıklık oranı", "metin": "Bir şirketin hisselerinin ne kadarının borsada serbestçe alınıp satılabildiğini gösterir. Patronların ya da bağlantılı kurumların elindeki paylar bu orana dahil edilmez. Oran şişirilirse hisse gerçekte olduğundan daha likit görünür."},
+      {"baslik": "Takvim", "metin": "Haziran 2027: MSCI'ın yıllık piyasa sınıflandırma değerlendirmesi. Türkiye'nin statüsü o zaman masaya gelecek."}
+    ]
+  },
+  "gundem": [
+    {"etiket": "Türkiye · Faiz", "baslik": "TCMB Perşembe günü indirime gidecek mi?", "metin": "Eylül enflasyonu yıllık %29,73 ile beklentinin (%30,16) altında geldi; bu indirime alan açıyor. Öte yandan borsa, rezervler ve petrol fiyatı temkin gerektiriyor. Piyasa katılımcıları anketinde yıl sonu dolar beklentisi 51,55 TL.", "etki": "İndirim gelirse mevduat faizleri yavaşça düşer, kredi biraz ucuzlar. Sürpriz şekilde sabit kalırsa TL için güçlü bir güven mesajı olur.", "kaynak": {"ad": "Apara", "url": "https://www.apara.com.tr/ekonomi/2026/10/16/ekonomistlerin-faiz-beklentisi-belli-oldu"}},
+    {"etiket": "Türkiye · Bütçe", "baslik": "2027 bütçesi: Açık hedefi GSYH'nin %3,5'i", "metin": "Cevdet Yılmaz 2027 için savunmaya 2,2 trilyon TL, tarıma 1,3 trilyon TL, reel sektöre 658 milyar TL ve SGK işveren desteğine 351 milyar TL ayrıldığını açıkladı.", "etki": "Bütçe disiplini enflasyonun düşmesi ve kredi notu için kritik. Açık büyürse faiz ve kur üzerinde baskı artar.", "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-ekim-2026-3791528"}},
+    {"etiket": "Dünya · Enerji", "baslik": "Körfez'de gerilim tırmanıyor", "metin": "Husiler Suudi Arabistan'ı vurmaya devam ediyor, Hürmüz'de gemiler hedef alınıyor. ABD İran'ın otomotiv, demiryolu ve çelik sektörüne yeni yaptırımlar getirdi, Katar arabuluculuk yapıyor. Eurasia Group çatışmanın tırmanma ihtimalini %35'ten %65'e çıkardı.", "etki": "Türkiye enerjisinin çoğunu ithal ediyor. Petrol pahalılaştıkça akaryakıt, ulaşım ve enflasyon yükselir, cari açık büyür.", "kaynak": {"ad": "Nefes", "url": "https://www.nefes.com.tr/abdden-irana-pes-pese-yeni-yaptirim-dalgasi-gerilim-yeniden-tirmandi-155045"}},
+    {"etiket": "Dünya · ABD", "baslik": "ABD'de enflasyon geri döndü", "metin": "Eylül'de yıllık enflasyon %3,7'ye çıktı (beklenti %3,6). Benzin bir ayda %9,1 zamlandı. Üretici fiyatları Mart 2022'den beri en hızlı artışı gösterdi. Buna karşın Eylül'de sadece 29 bin kişilik istihdam yaratıldı.", "etki": "Fed faizi artırırsa dolar güçlenir, gelişmekte olan ülkelere giden para azalır. Bu da TL ve Borsa İstanbul için zorlu bir ortam demek.", "kaynak": {"ad": "CBS News", "url": "https://www.cbsnews.com/news/september-cpi-report-inflation-energy-costs/"}},
+    {"etiket": "Dünya · Avrupa", "baslik": "ECB de faiz artırmaya hazırlanıyor", "metin": "Piyasa Avrupa Merkez Bankası'nın Aralık'ta faiz artırma olasılığını yaklaşık %87 olarak fiyatlıyor.", "etki": "Türkiye'nin en büyük ihracat pazarı Avrupa. Orada faiz artışı talebi yavaşlatabilir; öte yandan güçlü euro ihracatçının gelirini TL bazında artırır."},
+    {"etiket": "Türkiye · Kredi notu", "baslik": "S&P kararı bekleniyordu", "metin": "S&P Global'in 16 Ekim akşamı Türkiye notunu açıklaması bekleniyordu; anketteki 16 analistin tamamı notun BB- ve görünümün 'durağan' kalacağını öngörüyordu. Kararın sonucunu baskı saatine kadar teyit edemedik.", "etki": "Not değişmezse sürpriz yok. Kurum daha önce fon soruşturmasının nota aşağı yönlü baskı yapmayacağını açıklamıştı.", "kaynak": {"ad": "Dünya", "url": "https://www.dunya.com/ekonomi/turkiyenin-kredi-notunda-beklenti-belli-oldu-haberi-842609"}}
+  ],
+  "teknoloji": [
+    {"etiket": "Yapay zekâ · Finans", "baslik": "CoreWeave: Yapay zekâ çağının ilk borç sınavı", "metin": "Nvidia'nın müşterisi bulut şirketi CoreWeave'in yaklaşık 50 milyar dolar borcu var, piyasa değeri ise 39 milyar dolar. Hiç kâr etmedi. 2030 vadeli tahvillerinin faizi bir haftada 5 puan artarak %16'ya yaklaştı, hisse Cuma günü %11-12 düştü. Gartner'a göre bu tür 'neocloud' şirketlerinin %80'i 2030'a kadar bağımsızlığını kaybedecek.", "neden": "Yapay zekâ altyapısı büyük oranda borçla kuruluyor. Faizler yükseldikçe en zayıf halka kopabilir ve bu risk aynı yatırımcıların elindeki diğer şirketlere sıçrayabilir.", "kaynak": {"ad": "Reuters", "url": "https://www.galvnews.com/news_reuters/business/analysis-why-coreweave-is-in-the-crosshairs-of-the-ai-scare/article_4b44a561-48eb-5504-befc-237708a241d1.html"}},
+    {"etiket": "Çip", "baslik": "Çip hisselerinde 1 trilyon dolarlık kayıp", "metin": "Dünyanın en büyük 20 yapay zekâ ve yarı iletken hissesi dört günde 1 trilyon dolardan fazla değer kaybetti. SK Hynix −%11, Samsung −%9, Advantest −%14. Çinli CXMT'nin bellek çipinde ilerleme kaydetmesi de rekabet korkusunu artırdı.", "neden": "JPMorgan bunu bir 'dönüm noktası' olarak görüyor. Kore borsasının yarısı bu iki şirketten oluştuğu için düşüş tüm Asya'ya yayıldı.", "kaynak": {"ad": "AOL", "url": "https://www.aol.com/articles/heres-whats-driving-weeks-1-143825000.html"}},
+    {"etiket": "Halka arz", "baslik": "Anthropic: 16,8 milyar dolarlık çeyrek, ama değerleme düşüyor", "metin": "Claude'u geliştiren Anthropic, yatırımcılara üçüncü çeyrek gelirinin 16,8 milyar dolar olduğunu ve düzeltilmiş bazda kâra geçtiğini bildirdi. Kasım'da planlanan halka arzda değerlemenin 2 trilyon yerine 1,5 trilyon dolar civarında konuşulduğu haberleri piyasayı etkiledi.", "neden": "Yapay zekâ şirketlerinin gerçekten para kazanıp kazanmadığı sorusunun ilk büyük cevabı bu halka arzla gelecek.", "kaynak": {"ad": "CNBC", "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"}},
+    {"etiket": "Regülasyon", "baslik": "AB'den ilk yapay zekâ soruşturmaları", "metin": "AB Yapay Zekâ Ofisi, AI Act kapsamındaki ilk soruşturmalarını OpenAI ve Anthropic'e yönelik başlattı. ABD'de 8 eyalet OpenAI'a çocuk güvenliği gerekçesiyle dava açtı. Fed Başkanı Warsh yapay zekâyı 'hayatımdaki en önemli değişim' olarak niteledi ama geçişin 'çok sarsıntılı' olabileceğini söyledi.", "neden": "Kurallar sıkılaştıkça şirketlerin maliyeti artar; bu da yatırımcıların büyüme beklentilerini etkiler.", "kaynak": {"ad": "AI Weekly", "url": "https://aiweekly.co/ai-news-today/edition/2026-10-15"}}
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Vitrin kirlenince bütün dükkân satamaz",
+      "paragraflar": [
+        "Bir mahallede tek bir manav çürük meyveyi parlatıp satarsa, ertesi gün o mahalleden alışveriş yapan herkes bütün tezgâhlara şüpheyle bakar. MSCI'ın Türkiye kararı tam olarak budur. Sorun birkaç fonun birkaç küçük hissede yaptığı iş; fatura ise bütün borsaya kesildi.",
+        "İşin iyi tarafı, kartın kırmızı değil sarı olması. Önümüzde Haziran 2027'ye kadar bir süre var. Bu süre, şeffaflık kurallarını gerçekten uygulamak için bir fırsat. Uygulanırsa Türkiye bu krizden daha temiz ve daha güvenilir bir piyasa olarak çıkabilir. Uygulanmazsa yabancı yatırımcı kapıdan çıkmadan önce zaten çıkmış olur.",
+        "Sizin için pratik soru şu: Elinizdeki hisse ya da fon, kötü bir günde kime satılabilir? Cevabı bilmiyorsanız, riskinizi de tam bilmiyorsunuz demektir."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Petrol, faiz ve borsa: Üç ipli düğüm",
+      "paragraflar": [
+        "Bu hafta üç ip birbirine dolandı. Petrol 110 dolara çıktı, bu enflasyonu besliyor. Enflasyon ABD'de yükseldi, bu da Fed'i faiz artırmaya itiyor. Faiz yükseldikçe borçla büyüyen şirketler, yani yapay zekâ altyapı şirketleri, sarsılıyor.",
+        "Türkiye bu düğümün tam ortasında duruyor. Pahalı petrol cari açığı büyütüyor, güçlü dolar gelişmekte olan ülkelerden para çekiyor, MSCI kararı da yabancının iştahını kesiyor. TCMB'nin Perşembe günkü kararı bu yüzden sıradan bir indirim kararı değil; dengeyi nasıl kuracağının sinyali olacak.",
+        "İzlenecek tek rakam isteseniz, benim cevabım Brent. 100 doların altına inerse nefes alırız. 120'yi aşarsa bütün hesaplar yeniden yapılır."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Fon alırken sorulacak üç soru",
+      "paragraflar": [
+        "Fon skandalının en acı yanı, mağdurların çoğunun 'fon güvenlidir, profesyoneller yönetiyor' diye düşünmesiydi. Fon bir kutudur; kutunun güvenliği içindekine bağlıdır.",
+        "Fon almadan önce üç soru sorun. Birincisi: İçinde ne var? Fonun aylık portföy raporu TEFAS ve KAP'ta ücretsiz yayınlanır. İkincisi: Varlıklar ne kadar kolay satılır? Birkaç küçük hisseye yığılmış bir fon, herkes aynı anda çıkmak istediğinde zorlanır. Üçüncüsü: Getiri neden bu kadar yüksek? Piyasanın çok üzerinde getiri, çoğu zaman piyasanın çok üzerinde risk demektir.",
+        "Bu soruların cevabını bulmak 15 dakikanızı alır. 15 dakika, birikiminizin yıllarca kilitli kalmasından çok daha ucuzdur."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "TCMB ölçülü bir 100 baz puan indirim yapar, rezervlerdeki toparlanma sürer.",
+      "Fon yasası hızla geçer, yatırımcı ödemeleri sorunsuz ilerler ve güven geri gelir.",
+      "Körfez'de gerilim düşer, Brent 100 doların altına iner.",
+      "Bu üçü birlikte gelirse borsadaki satış baskısı hafifler ve yabancı yatırımcı yeniden ilgi gösterebilir."
+    ],
+    "olumsuz": [
+      "Körfez'de çatışma tırmanır ve Brent 120 doların üzerine çıkar.",
+      "Fed Ekim'de sürpriz artış yapar, dolar güçlenir.",
+      "Meta ve Tesla bilançoları yapay zekâ harcamalarına dair şüpheyi derinleştirir.",
+      "MSCI belirsizliği uzar, yabancı yatırımcı Türk hisselerinden çıkmayı sürdürür; az işlem gören küçük hisseler en çok zarar görür."
+    ],
+    "riskler": "Altın, faiz artışı ortamında baskı altında kalabilir ama jeopolitik bir şok bunu her an tersine çevirebilir. Teknolojiye yoğunlaşmış bir portföy, borçla büyüyen yapay zekâ altyapısının riskini de taşır.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {"gun": "Pzt 19 Ekim", "olay": "ABD bilançoları: Fifth Third, Steel Dynamics", "onem": "orta"},
+    {"gun": "Sal 20 Ekim", "olay": "Netflix, GM, 3M, RTX bilançoları · ABD konut başlangıçları", "onem": "orta"},
+    {"gun": "Çar 21 Ekim", "olay": "Meta, Tesla, IBM, Texas Instruments, SAP bilançoları: yapay zekâ harcamalarının gerçek testi", "onem": "yuksek"},
+    {"gun": "Per 22 Ekim", "olay": "TCMB faiz kararı (beklenti %37 → %36) · TCMB haftalık rezerv verisi · P&G, Blackstone bilançoları", "onem": "yuksek"},
+    {"gun": "Cum 23 Ekim", "olay": "American Express bilançosu · ABD Michigan tüketici güveni", "onem": "orta"},
+    {"gun": "27–28 Ekim", "olay": "Fed faiz kararı", "onem": "yuksek"},
+    {"gun": "29 Ekim", "olay": "Intel bilançosu", "onem": "orta"},
+    {"gun": "12 Kasım", "olay": "TCMB yılın son Enflasyon Raporu", "onem": "yuksek"},
+    {"gun": "8–9 Aralık", "olay": "Fed yılın son faiz kararı", "onem": "yuksek"},
+    {"gun": "Haziran 2027", "olay": "MSCI piyasa sınıflandırma değerlendirmesi: Türkiye'nin statüsü", "onem": "yuksek"}
+  ],
+  "sozluk": [
+    {"terim": "Baz puan", "aciklama": "Faizdeki değişimi ölçmek için kullanılır. 100 baz puan = 1 puan. Faiz %37'den %36'ya inerse '100 baz puan indirim' denir."},
+    {"terim": "CDS (risk primi)", "aciklama": "Bir ülkenin borcunu ödememe riskine karşı yapılan sigortanın fiyatı. Yükselirse ülke 'daha riskli' görülüyor demektir; borçlanma pahalılaşır."},
+    {"terim": "Ayı piyasası", "aciklama": "Bir endeksin zirvesinden %20 veya daha fazla düşmesi. BIST 100 şu an Mayıs rekorunun %20'den fazla altında."},
+    {"terim": "Likidite", "aciklama": "Bir varlığı fiyatını çok bozmadan ne kadar hızlı nakde çevirebildiğiniz. Fon skandalı, likiditesi düşük hisselerin kriz anında nasıl kilitlendiğini gösterdi."},
+    {"terim": "Tahvil getirisi", "aciklama": "Devlete ya da şirkete borç verdiğinizde aldığınız yıllık faiz. Tahvil fiyatı yükselince getirisi düşer; ikisi ters yönde hareket eder."}
+  ],
+  "teyitNotlari": [
+    "S&P'nin 16 Ekim akşamı beklenen kredi notu kararının sonucu baskı saatine kadar teyit edilemedi.",
+    "Dolar endeksi (≈102) Perşembe kapanışıdır ve tek kaynaktan alınmıştır.",
+    "Brent'in gün ortası fiyatı 105,8 $, kapanışı 109,86 $. WTI'da fark kontrat ayından kaynaklanıyor (Kasım 101,41 $, Aralık 99,02 $).",
+    "Gram altında serbest piyasa (6.657 TL) ile Kapalıçarşı (6.648 TL) arasında küçük fark var."
+  ],
+  "kaynaklar": [
+    {"baslik": "Bloomberg HT – Piyasalarda günün özeti 16 Ekim 2026", "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-16-ekim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3791688"},
+    {"baslik": "Bloomberg HT – Ekonomi ve siyaset gündemi 16 Ekim", "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-ekim-2026-3791528"},
+    {"baslik": "Bloomberg HT – HSBC'den MSCI değerlendirmesi", "url": "https://www.bloomberght.com/hsbc-den-msci-in-turkiye-kararina-iliskin-degerlendirme-3791623"},
+    {"baslik": "Bloomberg HT – Erdoğan: Fon sorunu kontrol altına alındı", "url": "https://www.bloomberght.com/cumhurbaskani-erdogan-fon-sorunu-kontrol-altina-alindi-3791670"},
+    {"baslik": "Capital – Piyasalarda gün ortası 16 Ekim", "url": "https://www.capital.com.tr/haberler/tum-haberler/piyasalarda-gun-ortasi-borsa-doviz-ve-altinda-son-durum-ne-16-ekim-2026"},
+    {"baslik": "CNBC-e – Haftanın kaybettireni BIST 100", "url": "https://www.cnbce.com/borsa/haftanin-kaybettireni-bist-100-oldu-iste-en-cok-kazandiran-yatirim-araclari-h39645"},
+    {"baslik": "CNBC-e – CDS 4 ayın zirvesinde", "url": "https://www.cnbce.com/haberler/turkiyenin-5-yillik-cdsi-4-ayin-zirvesinde-fon-krizi-risk-primini-yukseltti-h38174"},
+    {"baslik": "Medyascope – MSCI Türkiye endekslerini dondurdu", "url": "https://medyascope.tv/2026/10/16/msci-turkiye-borsa-endeksleri-dondurma-statu-uyarisi/"},
+    {"baslik": "Karar – Fon skandalının faturası büyüyor", "url": "https://www.karar.com/guncel-haberler/fon-skandalinin-faturasi-buyuyor-msci-turkiye-endekslerini-dondurdu-2078701"},
+    {"baslik": "Cumhuriyet – MSCI'dan Haziran 2027 süresi", "url": "https://www.cumhuriyet.com.tr/ekonomi/msci-dan-turk-borsasi-icin-kritik-karar-haziran-2027-ye-kadar-sure-verildi-2547273"},
+    {"baslik": "Diken – HSBC: İkaz zaman kazandırdı", "url": "https://www.diken.com.tr/hsbc-ikaz-turkiye-piyasalarina-zaman-kazandirdi/"},
+    {"baslik": "Aydınlık – MSCI uyarısı Borsa İstanbul'u sarstı", "url": "https://www.aydinlik.com.tr/haber/msci-uyarisi-borsa-istanbulu-sarsti-bankacilik-ve-sanayi-hisselerinde-sert-kayip-594739"},
+    {"baslik": "Yeni Alanya – Borsa günü düşüşle kapattı", "url": "https://www.yenialanya.com/borsa-gunu-dususle-kapatti-gozler-tcmbde"},
+    {"baslik": "Karar – TCMB Ekim piyasa katılımcıları anketi", "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"},
+    {"baslik": "Apara – Ekonomistlerin faiz beklentisi", "url": "https://www.apara.com.tr/ekonomi/2026/10/16/ekonomistlerin-faiz-beklentisi-belli-oldu"},
+    {"baslik": "Investing.com TR – TCMB Ekim faiz kararı beklentisi", "url": "https://tr.investing.com/news/economy-news/tcmb-ekim-2026-faiz-karar-100-baz-puan-indirim-beklentisi-4102340"},
+    {"baslik": "Ekonomist – Eylül 2026 enflasyonu", "url": "https://www.ekonomist.com.tr/ekonomi-haberleri/tuik-acikladi-eylul-2026-enflasyon-rakamlari-belli-oldu-79509"},
+    {"baslik": "Döviz.com – TCMB rezervleri", "url": "https://haber.doviz.com/altin-ve-degerli-metal-haberleri/merkez-bankasi-rezervlerinde-6-haftalik-kayip-serisi-sonlandi/941454"},
+    {"baslik": "Dünya – S&P takvimi ve beklenti", "url": "https://www.dunya.com/ekonomi/turkiyenin-kredi-notunda-beklenti-belli-oldu-haberi-842609"},
+    {"baslik": "NTV – Fon tasfiye kanun teklifi", "url": "https://www.ntv.com.tr/turkiye/fon-tasfiye-kanunu-bugun-meclise-sunulacak-1745545"},
+    {"baslik": "Nefes – ABD'den İran'a yeni yaptırımlar", "url": "https://www.nefes.com.tr/abdden-irana-pes-pese-yeni-yaptirim-dalgasi-gerilim-yeniden-tirmandi-155045"},
+    {"baslik": "TheStreet – Stock Market Today Oct 16, 2026", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+    {"baslik": "Investrade – Market Review Oct 16, 2026", "url": "https://investrade.com/market-review-october-16-2026/"},
+    {"baslik": "Reuters – S&P 500, Nasdaq steep weekly losses", "url": "https://lufkindailynews.com/news_reuters/business/s-p-500-nasdaq-set-for-steep-weekly-losses-as-ai-jitters-rattle-investors/article_f5c45022-bd53-584e-aae5-36054aed81fc.html"},
+    {"baslik": "Reuters – Why CoreWeave is in the crosshairs", "url": "https://www.galvnews.com/news_reuters/business/analysis-why-coreweave-is-in-the-crosshairs-of-the-ai-scare/article_4b44a561-48eb-5504-befc-237708a241d1.html"},
+    {"baslik": "AOL – What's driving the $1T chip wipeout", "url": "https://www.aol.com/articles/heres-whats-driving-weeks-1-143825000.html"},
+    {"baslik": "CBS News – September CPI 3.7%", "url": "https://www.cbsnews.com/news/september-cpi-report-inflation-energy-costs/"},
+    {"baslik": "Benzinga – Fed hike odds after Warsh", "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62408879/fed-rate-hike-odds-warsh-ai"},
+    {"baslik": "Business Recorder – Gold heads for weekly fall", "url": "https://www.brecorder.com/news/40444523/gold-gains-on-softer-dollar-but-heads-for-weekly-fall"},
+    {"baslik": "Rigzone – Brent hits $110", "url": "https://www.rigzone.com/news/wire/brent_oil_hits_110_as_supply_risks_mount-16-oct-2026-184870-article/"},
+    {"baslik": "CoinDesk – Bitcoin price", "url": "https://www.coindesk.com/price/bitcoin"},
+    {"baslik": "StockTitan – Earnings week of Oct 19", "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-19-2026"},
+    {"baslik": "CNBC – Anthropic Q3 revenue $16.8B", "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"},
+    {"baslik": "AI Weekly – Oct 15 edition", "url": "https://aiweekly.co/ai-news-today/edition/2026-10-15"}
+  ]
+}

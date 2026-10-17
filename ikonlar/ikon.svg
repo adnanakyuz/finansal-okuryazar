@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#FBFAF8"/>
+  <rect x="64" y="96" width="384" height="10" fill="#16181D"/>
+  <rect x="64" y="114" width="384" height="3" fill="#16181D"/>
+  <text x="256" y="340" text-anchor="middle" font-family="Didot, 'Bodoni 72', Georgia, serif" font-weight="900" font-size="230" fill="#16181D">F<tspan fill="#B3121B">O</tspan></text>
+  <rect x="64" y="392" width="384" height="3" fill="#16181D"/>
+  <rect x="64" y="403" width="384" height="10" fill="#16181D"/>
+</svg>
