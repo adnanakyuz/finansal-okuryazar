@@ -1,6 +1,6 @@
 // Çevrimdışı okuma: her dosya önce internetten istenir, gelen kopya cihaza kaydedilir;
 // internet yoksa cihazdaki son kopya okunur. Sürüm değişince eski önbellek silinir.
-const SURUM = "fo-v1";
+const SURUM = "fo-v2";
 const ISKELET = ["./", "index.html", "sema.js", "manifest.webmanifest", "ikonlar/ikon.svg", "ikonlar/ikon-192.png"];
 
 self.addEventListener("install", (e) => {
@@ -24,7 +24,7 @@ async function onceAg(req) {
 
 async function onceOnbellek(req) {
   const c = await caches.open(SURUM);
-  const eski = await c.match(req, { ignoreSearch: true });
+  const eski = await c.match(req);
   const yeni = fetch(req).then((r) => { if (r.ok || r.type === "opaque") c.put(req, r.clone()); return r; }).catch(() => eski);
   return eski || yeni;
 }
