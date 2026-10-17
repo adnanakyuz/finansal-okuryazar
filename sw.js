@@ -1,6 +1,6 @@
 // Çevrimdışı okuma: her dosya önce internetten istenir, gelen kopya cihaza kaydedilir;
 // internet yoksa cihazdaki son kopya okunur. Sürüm değişince eski önbellek silinir.
-const SURUM = "fo-v2";
+const SURUM = "fo-v3";
 const ISKELET = ["./", "index.html", "sema.js", "manifest.webmanifest", "ikonlar/ikon.svg", "ikonlar/ikon-192.png"];
 
 self.addEventListener("install", (e) => {
@@ -14,7 +14,8 @@ self.addEventListener("activate", (e) => {
 async function onceAg(req) {
   const c = await caches.open(SURUM);
   try {
-    const r = await fetch(req);
+    // no-cache: tarayıcının 10 dakikalık kopyasına güvenme, sunucuya "yeni sürüm var mı?" diye sor.
+    const r = await fetch(req.mode === "navigate" ? req.url : req, { cache: "no-cache" });
     if (r.ok) c.put(req, r.clone());
     return r;
   } catch {
