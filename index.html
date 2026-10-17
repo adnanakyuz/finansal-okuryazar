@@ -337,6 +337,7 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
 <footer>
   <div class="kunye"><span><b>FİNANSAL OKURYAZAR</b> · Yazı İşleri: Claude (yapay zekâ) · Her sabah yeniden basılır</span><span>İçerik bilgilendirme amaçlıdır, yatırım tavsiyesi değildir.</span></div>
   <span>Rakamlar baskı saatindeki değerlerdir; gün içinde değişebilir. Her haberin kaynağı, son sayfada listelenir.</span>
+  <span>Kaç kişinin okuduğunu ve hangi sayfaların okunduğunu adsız olarak sayıyoruz. Çerez kullanılmaz, kişisel bilgi toplanmaz.</span>
 </footer></div>
 
 <script type="module">
@@ -621,6 +622,7 @@ async function sayiAc(tarih) {
     if (hatalar.length) { console.warn("Sayı denetimi:", hatalar); bos("Bu sayı denetimden geçemedi", "Bu sayıda hatalı ya da eksik bilgi bulundu, bu yüzden gösterilmiyor. Arşivden başka bir sayı seçebilirsiniz."); arsivDoldur(); return; }
     const ayni = current && current.tarih === d.tarih;
     render(d);
+    if (!ayni) sayacBagla(d);
     if (!ayni) scrollTo({ top: 0 });
   } catch (e) {
     console.warn(e);
@@ -643,6 +645,47 @@ addEventListener("hashchange", () => { const h = location.hash.slice(1); if (/^\
 // Uygulama gibi kurulum ve çevrimdışı okuma.
 if ("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 addEventListener("online", durumYaz); addEventListener("offline", durumYaz);
+// Ziyaretçi sayacı (GoatCounter). Çerez yok, kişisel bilgi yok; yalnızca kaç kez açıldığı,
+// hangi günün sayısının ve hangi sayfanın okunduğu sayılır. SAYAC boşsa hiçbir şey gönderilmez.
+const SAYAC = "";   // GoatCounter kodu, ör. "finansalokuryazar" → https://finansalokuryazar.goatcounter.com
+const sayacAcik = SAYAC && location.hostname !== "localhost" && location.hostname !== "127.0.0.1";
+const sayacKuyruk = [];
+const sayacDeneme = new URLSearchParams(location.search).has("sayac-test");   // deneme: göndermez, window.sayacKaydi'na yazar
+function say(yol, baslik) {
+  if (sayacDeneme) { (window.sayacKaydi ||= []).push(yol); return; }
+  if (!sayacAcik) return;
+  const v = { path: yol, title: baslik, event: true };
+  if (window.goatcounter && goatcounter.count) goatcounter.count(v); else sayacKuyruk.push(v);
+}
+if (sayacAcik) {
+  const s = document.createElement("script");
+  s.async = true; s.src = "https://gc.zgo.at/count.js";
+  s.dataset.goatcounter = "https://" + SAYAC + ".goatcounter.com/count";
+  s.onload = () => { sayacKuyruk.splice(0).forEach((v) => goatcounter.count(v)); };
+  document.head.append(s);
+}
+// Bir sayfa ekranın yarısını (kısa sayfalarda kendisinin çoğunu) 4 saniye kaplarsa "okundu" sayılır; aynı sayı için bir kez.
+let okunanlar = new Set(), bekleyen = new Map();
+const gozcu = "IntersectionObserver" in window ? new IntersectionObserver((girdiler) => {
+  for (const g of girdiler) {
+    const id = g.target.id;
+    const gorunur = g.isIntersecting && g.intersectionRect.height >= Math.min(g.boundingClientRect.height * 0.6, innerHeight * 0.5);
+    if (gorunur && !okunanlar.has(id) && !bekleyen.has(id)) {
+      bekleyen.set(id, setTimeout(() => {
+        bekleyen.delete(id); okunanlar.add(id);
+        const ad = (SAYFALAR.find(([x]) => x === id) || [, id])[1];
+        say("bolum/" + id.slice(2), "Bölüm: " + ad);
+      }, 4000));
+    } else if (!gorunur && bekleyen.has(id)) { clearTimeout(bekleyen.get(id)); bekleyen.delete(id); }
+  }
+}, { threshold: Array.from({ length: 21 }, (_, i) => i / 20) }) : null;
+function sayacBagla(d) {
+  say("sayi/" + d.tarih, "Sayı " + d.sayi + " · " + str(d.tarihMetni));
+  if (!gozcu) return;
+  gozcu.disconnect(); bekleyen.forEach(clearTimeout); bekleyen.clear(); okunanlar = new Set();
+  document.querySelectorAll("#paper .page").forEach((s) => gozcu.observe(s));
+}
+
 // Öner: telefonda paylaşım menüsünü açar, yoksa bağlantıyı panoya kopyalar.
 const SITE = "https://adnanakyuz.github.io/finansal-okuryazar/";
 async function kopyala(b) {
