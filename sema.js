@@ -76,6 +76,16 @@ export function dogrula(d) {
   haber(d.gundem, "gundem", 3, 8, "etki");
   haber(d.teknoloji, "teknoloji", 0, 4, "neden");
 
+  // Fiyat beklentileri: 18 Ekim 2026 sayısından itibaren zorunlu. Her beklentinin "kim diyor" ve kaynağı olmalı.
+  if (d.beklentiler == null) {
+    if (typeof d.tarih === "string" && d.tarih >= "2026-10-18") hata("beklentiler: bu bölüm zorunlu (en az 4 konu)");
+  } else dizi(d.beklentiler, "beklentiler", 4, 8).forEach((b, i) => {
+    const y = `beklentiler[${i}]`;
+    metin(b?.konu, `${y}.konu`); metin(b?.ozet, `${y}.ozet`, 30); metin(b?.neden, `${y}.neden`, 20); metin(b?.kimDiyor, `${y}.kimDiyor`, 5); metin(b?.vade, `${y}.vade`);
+    if (!["yukari", "asagi", "yatay", "belirsiz"].includes(b?.yon)) hata(`${y}.yon: yukari, asagi, yatay veya belirsiz olmalı`);
+    if (!/^https:\/\//.test(b?.kaynak?.url || "")) hata(`${y}.kaynak.url: her beklentinin https:// ile başlayan bir kaynağı olmalı`);
+  });
+
   const goruldu = new Set();
   dizi(d.koseYazilari, "koseYazilari", 1, 3).forEach((c, i) => {
     const y = `koseYazilari[${i}]`;
@@ -113,8 +123,8 @@ export function dogrula(d) {
   });
 
   // Haber kaynakları, kaynaklar listesinde de yer almalı.
-  for (const g of [...(Array.isArray(d.gundem) ? d.gundem : []), ...(Array.isArray(d.teknoloji) ? d.teknoloji : [])]) {
-    if (g?.kaynak?.url && !urller.has(g.kaynak.url)) uyari(`"${g.baslik}": kaynak adresi kaynaklar listesinde yok`);
+  for (const g of ["gundem", "teknoloji", "beklentiler"].flatMap((k) => (Array.isArray(d[k]) ? d[k] : []))) {
+    if (g?.kaynak?.url && !urller.has(g.kaynak.url)) uyari(`"${g.baslik || g.konu}": kaynak adresi kaynaklar listesinde yok`);
   }
 
   // Tüm metinlerde yasak ifade taraması.

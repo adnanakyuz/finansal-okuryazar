@@ -23,7 +23,7 @@ Okur profesyonel değil. Ekonomiyi merak eden, cebini düşünen, sabah çayıyl
 4. **Her haber gerçek ve ulaşılabilir bir kaynağa dayanır.** `gundem` ve `teknoloji` haberlerine `kaynak: {ad, url}` ekle; aynı adres `kaynaklar` listesinde de olsun. Adresi WebFetch ile açıp içeriğin haberle uyuştuğunu gör. Açamadığın adresi kullanma.
 5. **Son 48 saatin haberi.** Daha eski bir gelişmeyi "bugün olmuş" gibi yazma. Eski bilgi bağlam olarak kullanılabilir, tarihi belirtilerek.
 6. **Ajandaya yalnızca resmî olarak açıklanmış tarihler** girer (TCMB, Fed, TÜİK takvimleri, şirketlerin açıkladığı bilanço günleri).
-7. **Al/sat tavsiyesi yok.** "Alın", "satın", "fırsat", "kesin kazanç", hedef fiyat, destek/direnç seviyesi yok. Senaryolar "olursa ne olur" diliyle yazılır.
+7. **Al/sat tavsiyesi yok.** "Alın", "satın", "fırsat", "kesin kazanç", destek/direnç seviyesi yok. Gazete kendi hedef fiyatını vermez. Senaryolar "olursa ne olur" diliyle yazılır. Bir kurumun açıkladığı tahmin (ör. "X Bankası yıl sonu altın için 4.500 $ bekliyor") yalnızca Fiyat Beklentileri bölümünde, kurumun adı ve kaynağıyla birlikte aktarılabilir.
 8. **Köşe yazılarında gerçek ya da uydurma kişi adı yok.** İmza her zaman masa adıdır (aşağıdaki tabloda).
 9. Haberde adı geçen kişilerin sözlerini tırnak içinde verirken birebir kaynaktaki gibi ver; emin değilsen tırnaksız özetle.
 10. **Kaynaklar ücretsiz ve herkese açık** olmalı. Ödeme duvarlı sayfayı kaynak gösterme.
@@ -72,6 +72,12 @@ Alan adları ASCII, değerler Türkçe. Parantez içindeki sayılar öğe adedid
 
   "faiz": [ { "kurum": "TCMB politika faizi", "mevcut": "%37", "beklenti": "", "not": "" } ],   // (1-5)
 
+  "beklentiler": [ { "konu": "Altın", "yon": "yukari|asagi|yatay|belirsiz", "vade": "Yıl sonuna kadar",
+                     "ozet": "1-2 cümle: beklenti ne?",
+                     "neden": "Sade dille neden böyle düşünülüyor",
+                     "kimDiyor": "Hangi kurumlar/uzmanlar bu görüşte; aykırı görüş varsa o da",
+                     "kaynak": { "ad": "", "url": "https://..." } } ],                 // (4-8) ZORUNLU
+
   "dosya": { "ustBaslik": "Günün Dosyası · Konu", "baslik": "", "spot": "",
              "paragraflar": ["Günün en önemli konusunu baştan anlatan 4-6 paragraf"],   // (3-8)
              "kutular": [ { "baslik": "Bu ne demek? Terim", "metin": "" } ] },          // (0-4)
@@ -95,6 +101,17 @@ Alan adları ASCII, değerler Türkçe. Parantez içindeki sayılar öğe adedid
 }
 ```
 
+**Fiyat Beklentileri (okurun en çok merak ettiği sayfa):**
+
+Okur "altın, ev, arsa, araba, dolar pahalanacak mı?" diye soruyor. Bu sayfa bunun sade cevabıdır; ama **tahmini biz yapmayız, kurumların ve verilerin söylediğini aktarırız.**
+
+- Her gün şu dört konu mutlaka olur: **Altın, Konut (ev), Arsa, Otomobil (sıfır ve ikinci el).** Gündeme göre 4 tane daha eklenebilir: Dolar/TL, Kira, Gümüş, Borsa, Akaryakıt, Mevduat faizi gibi.
+- `yon` kurumların çoğunluğunun beklentisidir. Görüşler ikiye bölünmüşse `belirsiz` yaz ve `kimDiyor`'da iki tarafı da söyle.
+- Dayanaklar: TCMB Piyasa Katılımcıları Anketi, TCMB Konut Fiyat Endeksi, TÜİK konut satış istatistikleri, Endeksa/Sahibinden gibi açık fiyat endeksleri, ODMD ve OYDER (otomobil satış ve fiyat haberleri), ÖTV/vergi kararları (Resmî Gazete), bankaların ve uluslararası kurumların yayımladığı altın/döviz tahminleri, Dünya Altın Konseyi.
+- `neden` alanında okurun gündelik hayatından anlat: "Kredi faizleri düşerse ev talebi artar, fiyatlar yükselebilir."
+- Dil daima "yükselebilir / düşebilir / bekleniyor" olur. "Yükselecek", "kesin", "şimdi alın", "kaçırmayın" asla yazılmaz.
+- Kaynağı olmayan beklenti yazılmaz. 30 günden yeni bir veri ya da tahmin bulunamazsa `yon: "belirsiz"` yaz, bulunan en son veriyi tarihiyle ver ve durumu `teyitNotlari`'na ekle. Kurum tahmini yoksa bunu `kimDiyor` alanında açıkça söyle ("Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor").
+
 **Köşeler ve imzaları (başka köşe yok):**
 
 | kose | imza | konusu |
@@ -111,4 +128,5 @@ Alan adları ASCII, değerler Türkçe. Parantez içindeki sayılar öğe adedid
 - Her haberin kaynak adresini açıp okudum mu?
 - Bir lise öğrencisi manşeti ve günün özetini anlar mı?
 - Herhangi bir cümle "şunu al / şunu sat" diye okunabilir mi? Okunabiliyorsa yeniden yaz.
+- Fiyat Beklentileri'nde altın, konut, arsa ve otomobil var mı? Her birinin "kim diyor" ve kaynağı dolu mu?
 - `node scripts/dogrula.mjs BUGÜN` "Her şey yolunda" dedi mi?
