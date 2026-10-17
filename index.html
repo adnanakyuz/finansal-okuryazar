@@ -648,7 +648,7 @@ if ("serviceWorker" in navigator) addEventListener("load", () => navigator.servi
 addEventListener("online", durumYaz); addEventListener("offline", durumYaz);
 // Ziyaretçi sayacı (GoatCounter). Çerez yok, kişisel bilgi yok; yalnızca kaç kez açıldığı,
 // hangi günün sayısının ve hangi sayfanın okunduğu sayılır. SAYAC boşsa hiçbir şey gönderilmez.
-const SAYAC = "";   // GoatCounter kodu, ör. "finansalokuryazar" → https://finansalokuryazar.goatcounter.com
+const SAYAC = "finansalokuryazar";   // GoatCounter paneli: https://finansalokuryazar.goatcounter.com
 const sayacAcik = SAYAC && location.hostname !== "localhost" && location.hostname !== "127.0.0.1";
 const sayacKuyruk = [];
 const sayacDeneme = new URLSearchParams(location.search).has("sayac-test");   // deneme: göndermez, window.sayacKaydi'na yazar
