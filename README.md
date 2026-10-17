@@ -9,7 +9,7 @@ Telefonda uygulama gibi, bilgisayarda gazete gibi okunur.
 
 | Saat (İstanbul) | Ne olur | Kim yapar |
 |---|---|---|
-| 06.30 | Dolar, euro, altın, gümüş, Bitcoin rakamları resmî ve ücretsiz kaynaklardan çekilir (TCMB, Avrupa Merkez Bankası, CoinGecko, gold-api) | GitHub (ücretsiz) |
+| 06.00 | Dolar, euro, altın, gümüş, Bitcoin rakamları resmî ve ücretsiz kaynaklardan çekilir (TCMB, Avrupa Merkez Bankası, CoinGecko, gold-api) | GitHub (ücretsiz) |
 | 07.00 | Claude haberleri araştırır, her rakamı ikinci bir kaynakla karşılaştırır, sayıyı yazar | Claude aboneliğin (bulutta, bilgisayarın kapalı olabilir) |
 | ~07.30 | Sayı **denetimden** geçer. Eksik, hatalı ya da "şunu al" diyen bir şey varsa yayınlanmaz | GitHub (ücretsiz) |
 | ~07.35 | Gazete yayında; telefonundaki uygulama açılınca yeni sayı gelir | GitHub Pages (ücretsiz) |
@@ -22,7 +22,7 @@ Bir sabah bir şey ters giderse sitede dünkü sayı kalır ve üstte "Bugünkü
 
 ## Telefona uygulama gibi kurmak
 
-1. Gazetenin adresini telefonda aç (adres kurulumdan sonra burada yazacak).
+1. Gazetenin adresini telefonda aç: **https://adnanakyuz.github.io/finansal-okuryazar/**
 2. **iPhone (Safari):** Paylaş düğmesi → "Ana Ekrana Ekle".
    **Android (Chrome):** Sağ üstteki üç nokta → "Ana ekrana ekle" veya "Uygulamayı yükle".
 3. Ana ekranda kırmızı-siyah **FO** simgesi çıkar. İnternet yokken bile son açtığın sayıyı okuyabilirsin.
@@ -53,14 +53,12 @@ Bir sabah bir şey ters giderse sitede dünkü sayı kalır ve üstte "Bugünkü
 
 ---
 
-## Kurulumda senden beklenenler (bir kez)
+## Kurulum (17 Ekim 2026'da yapıldı)
 
-1. **GitHub hesabı** (ücretsiz): github.com → Sign up. Bu bilgisayarda zaten `adnanakyuz` hesabıyla giriş yapılmış.
-2. Claude Code'a "yayınla" demen yeterli. Gerisini o yapar:
-   - GitHub'da `finansal-okuryazar` adlı herkese açık bir depo açar ve dosyaları yükler,
-   - GitHub Pages'i açar (gazetenin adresi: `https://adnanakyuz.github.io/finansal-okuryazar/`),
-   - her sabah 07.00'de çalışan bulut görevini kurar.
-3. İsteğe bağlı: claude.ai'deki eski 07.07 görevini kapatmak (claude.ai → Ayarlar → Zamanlanmış görevler). İkisi aynı anda çalışabilir ama gereksiz kullanım hakkı harcar.
+- Depo: https://github.com/adnanakyuz/finansal-okuryazar (herkese açık; ücretsiz yayın için gerekli)
+- Gazete: https://adnanakyuz.github.io/finansal-okuryazar/
+- Sabah görevi: https://claude.ai/code/routines adresinde "Finansal Okuryazar · sabah sayısı" adıyla. Buradan durdurabilir, saatini değiştirebilir veya "şimdi çalıştır" diyebilirsin.
+- İsteğe bağlı: claude.ai'deki eski 07.07 görevini kapat. İkisi aynı anda çalışabilir ama gereksiz kullanım hakkı harcar.
 
 ## Talimatı veya tasarımı değiştirmek
 

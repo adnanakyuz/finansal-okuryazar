@@ -35,7 +35,7 @@ Okur profesyonel değil. Ekonomiyi merak eden, cebini düşünen, sabah çayıyl
 1. **Tarihi belirle.** `TZ=Europe/Istanbul date +%F` → bugünün tarihi (örn. `2026-10-18`). Türkçe tarih metni: "18 Ekim 2026, Pazar".
 2. **Bugünün sayısı zaten var mı?** `sayilar/BUGÜN.json` varsa dur, hiçbir şey yapma.
 3. **Sayı numarası:** `sayilar/index.json` içindeki en büyük `sayi` + 1.
-4. **Otomatik rakamları oku:** `veri/rakamlar.json` (her sabah 06.30'da GitHub tarafından TCMB, ECB, CoinGecko ve gold-api'den çekilir). Dosyanın `olusturma` zamanı bugüne ait değilse veya bir kalem eksikse, aynı rakamı WebSearch/WebFetch ile kendin bul. Bu dosyadaki rakamlar **birinci kaynaktır**; ikinci kaynakla (ör. Bloomberg HT, AA, Döviz.com, Investing) karşılaştır.
+4. **Otomatik rakamları oku:** `veri/rakamlar.json` (her sabah 06.00 civarı GitHub tarafından TCMB, ECB, CoinGecko ve gold-api'den çekilir). Dosyanın `olusturma` zamanı bugüne ait değilse veya bir kalem eksikse, aynı rakamı WebSearch/WebFetch ile kendin bul. Bu dosyadaki rakamlar **birinci kaynaktır**; ikinci kaynakla (ör. Bloomberg HT, AA, Döviz.com, Investing) karşılaştır.
 5. **Araştır (25-35 arama/okuma).** Öncelik sırası:
    - Türkiye: TCMB, TÜİK, Hazine, KAP duyuruları; AA, Bloomberg HT, Dünya, Ekonomim, NTV, BBC Türkçe, DW Türkçe.
    - Dünya: Reuters, AP, CNBC, BBC, Financial Times'ın açık sayfaları, merkez bankalarının resmî siteleri.
