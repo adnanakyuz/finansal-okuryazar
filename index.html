@@ -232,6 +232,27 @@ table.mkt{width:100%;border-collapse:collapse;font-size:16px;min-width:620px}
 .bek p{font-size:16px}
 .bek .kim{font-family:var(--f-ui);font-size:14px;color:var(--ink-2)}
 
+/* Ana ekrana ekle: üst düğme, telefonda alttaki şerit, iPhone için adım penceresi */
+.kur-dugme{font-weight:700;border-color:var(--ink)!important}
+.kur-serit{position:fixed;left:0;right:0;bottom:0;z-index:20;display:none;align-items:center;gap:12px;background:var(--ink);color:var(--paper);padding:12px max(16px,env(safe-area-inset-left,0px)) calc(12px + env(safe-area-inset-bottom,0px));font-family:var(--f-ui);box-shadow:0 -4px 18px rgba(0,0,0,.18)}
+.kur-serit.on{display:flex}
+.kur-serit img{width:40px;height:40px;border-radius:9px;flex:none;background:#FBFAF8}
+.kur-serit p{flex:1;min-width:0;font-size:14.5px;line-height:1.35}
+.kur-serit p b{display:block;font-size:15.5px}
+.kur-serit .ekle{background:var(--accent);color:#fff;border:0;border-radius:4px;padding:10px 14px;font:700 15px var(--f-ui);cursor:pointer;flex:none}
+.kur-serit .kapat{background:none;border:0;color:var(--paper);font-size:22px;line-height:1;padding:6px;cursor:pointer;flex:none;opacity:.75}
+body.serit-acik{padding-bottom:84px}
+dialog.kur-pencere{border:0;border-radius:10px;padding:0;max-width:min(420px,calc(100vw - 32px));background:var(--box);color:var(--ink);box-shadow:0 20px 60px rgba(0,0,0,.35)}
+dialog.kur-pencere::backdrop{background:rgba(0,0,0,.45)}
+.kur-pencere .ic{padding:22px 22px 18px;display:flex;flex-direction:column;gap:14px}
+.kur-pencere h2{font-size:24px;font-weight:700}
+.kur-pencere ol{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:12px;font-family:var(--f-ui);font-size:16px}
+.kur-pencere li{display:flex;gap:12px;align-items:center}
+.kur-pencere .no{width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;display:grid;place-items:center;font-weight:700;flex:none}
+.kur-pencere svg{width:26px;height:26px;flex:none;vertical-align:middle}
+.kur-pencere button{align-self:flex-end;font:600 15px var(--f-ui);background:var(--ink);color:var(--paper);border:0;border-radius:4px;padding:9px 16px;cursor:pointer}
+@media print{.kur-serit{display:none!important}}
+
 /* Öner: karekod ve paylaş */
 .oner{display:grid;grid-template-columns:auto minmax(0,1fr);gap:20px;align-items:center;border-top:3px double var(--rule);padding-block:24px}
 .oner .kod{background:#fff;padding:8px;border:1px solid var(--hair);width:164px;height:164px}
@@ -301,6 +322,7 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
       <button type="button" id="kucult" aria-label="Yazıyı küçült">A−</button>
       <button type="button" id="buyut" aria-label="Yazıyı büyüt">A+</button>
       <button type="button" id="tema" aria-label="Gece/gündüz görünümü">◐</button>
+      <button type="button" id="kur" class="kur-dugme" hidden>📲 Uygulamayı yükle</button>
     </div>
   </div>
   <header class="mast">
@@ -336,6 +358,19 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
   </section>
 </main>
 <div class="wrap">
+<div class="kur-serit" id="kur-serit" role="region" aria-label="Uygulamayı yükle">
+  <img src="ikonlar/ikon-192.png" alt="">
+  <p><b>Gazeteyi ana ekrana ekle</b>Her sabah tek dokunuşla aç.</p>
+  <button type="button" class="ekle" id="kur-ekle">Ekle</button>
+  <button type="button" class="kapat" id="kur-kapat" aria-label="Kapat">×</button>
+</div>
+<dialog class="kur-pencere" id="kur-pencere" aria-labelledby="kur-baslik">
+  <div class="ic">
+    <h2 id="kur-baslik">Ana ekrana ekle</h2>
+    <ol id="kur-adimlar"></ol>
+    <button type="button" id="kur-tamam">Tamam</button>
+  </div>
+</dialog>
 <section class="oner" aria-labelledby="oner-baslik">
   <div class="kod"><img src="ikonlar/karekod.svg" width="148" height="148" alt="Finansal Okuryazar sitesinin karekodu"></div>
   <div>
@@ -699,6 +734,66 @@ function sayacBagla(d) {
   gozcu.disconnect(); bekleyen.forEach(clearTimeout); bekleyen.clear(); okunanlar = new Set();
   document.querySelectorAll("#paper .page").forEach((s) => gozcu.observe(s));
 }
+
+// Ana ekrana ekle. Android ve bilgisayarda (Chrome, Edge, Samsung) tarayıcının kendi kurulum
+// penceresi tek dokunuşla açılır. iPhone buna izin vermez; orada adımları gösteren pencere açılır.
+const kurulu = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const kurTest = new URLSearchParams(location.search).get("kur-test");   // deneme: ios | android
+const iPhone = kurTest === "ios" || /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const telefon = matchMedia("(pointer: coarse)").matches || kurTest;
+let kurIstemi = null;
+const PAYLAS_SIMGE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Paylaş simgesi"><path d="M12 3v12"/><path d="M7 8l5-5 5 5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>';
+const EKLE_SIMGE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-label="Ekle simgesi"><rect x="3" y="3" width="18" height="18" rx="4"/><path d="M12 8v8M8 12h8"/></svg>';
+function adim(no, html) { const li = el("li", null, el("span", { class: "no", text: String(no) })); const s = el("span"); s.innerHTML = html; li.append(s); return li; }
+function kurGoster() {
+  if (kurulu()) return;
+  $("#kur").hidden = false;
+  if (iPhone || telefon) $("#kur").textContent = "📲 Ana ekrana ekle";
+  let kapali = 0; try { kapali = Number(localStorage.getItem("fo-kur-kapat")) || 0; } catch {}
+  if (telefon && Date.now() - kapali > 14 * 864e5) { $("#kur-serit").classList.add("on"); document.body.classList.add("serit-acik"); }
+}
+function kurGizle() { $("#kur").hidden = true; $("#kur-serit").classList.remove("on"); document.body.classList.remove("serit-acik"); }
+async function kur() {
+  if (kurIstemi) {
+    kurIstemi.prompt();
+    const { outcome } = await kurIstemi.userChoice;
+    kurIstemi = null;
+    if (outcome === "accepted") kurGizle();
+    return;
+  }
+  const ol = $("#kur-adimlar"); ol.textContent = "";
+  $("#kur-baslik").textContent = iPhone || telefon ? "Ana ekrana ekle" : "Uygulamayı yükle";
+  if (iPhone) {
+    ol.append(adim(1, "Ekranın altındaki (iPad'de üstteki) " + PAYLAS_SIMGE + " <b>Paylaş</b> simgesine dokun."),
+      adim(2, "Açılan listede aşağı kaydır, " + EKLE_SIMGE + " <b>Ana Ekrana Ekle</b>'yi seç."),
+      adim(3, "Sağ üstteki <b>Ekle</b>'ye dokun. Gazete ana ekranında!"));
+  } else if (telefon) {
+    ol.append(adim(1, "Tarayıcının sağ üstündeki <b>⋮</b> menüsüne dokun."),
+      adim(2, "<b>Ana ekrana ekle</b> ya da <b>Uygulamayı yükle</b>'yi seç."),
+      adim(3, "<b>Ekle</b> / <b>Yükle</b>'ye dokun. Gazete ana ekranında!"));
+  } else if (/firefox/i.test(navigator.userAgent)) {
+    ol.append(adim(1, "Firefox siteleri uygulama olarak kurmuyor."),
+      adim(2, "<b>Ctrl+D</b> (Mac'te <b>⌘+D</b>) ile gazeteyi yer imlerine ekleyebilirsin."),
+      adim(3, "Uygulama gibi açmak istersen gazeteyi <b>Chrome</b> ya da <b>Edge</b> ile aç ve bu düğmeye tekrar bas."));
+  } else if (/safari/i.test(navigator.userAgent) && !/chrome|edg/i.test(navigator.userAgent)) {
+    ol.append(adim(1, "Ekranın en üstündeki menü çubuğunda <b>Dosya</b>'ya tıkla."),
+      adim(2, "<b>Dock'a Ekle</b>'yi seç."),
+      adim(3, "<b>Ekle</b>'ye tıkla. Gazete Dock'ta, uygulama gibi açılır."));
+  } else {
+    ol.append(adim(1, "Adres çubuğunun sağ ucundaki <b>yükle</b> simgesine (⊕ ya da ekranlı simge) tıkla. Görmüyorsan sağ üstteki <b>⋮</b> / <b>…</b> menüsünü aç."),
+      adim(2, "<b>Finansal Okuryazar'ı yükle</b> ya da <b>Uygulamalar → Bu siteyi uygulama olarak yükle</b>'yi seç."),
+      adim(3, "<b>Yükle</b>'ye tıkla. Gazete masaüstünde ve başlat menüsünde, kendi penceresinde açılır."));
+  }
+  $("#kur-pencere").showModal();
+}
+addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); kurIstemi = e; kurGoster(); });
+addEventListener("appinstalled", () => { kurGizle(); say("olay/ana-ekrana-eklendi", "Ana ekrana eklendi"); });
+// Düğme her cihazda görünür (zaten kuruluysa görünmez). Alttaki şerit yalnızca telefonda çıkar.
+kurGoster();
+$("#kur").onclick = kur;
+$("#kur-ekle").onclick = kur;
+$("#kur-kapat").onclick = () => { $("#kur-serit").classList.remove("on"); document.body.classList.remove("serit-acik"); try { localStorage.setItem("fo-kur-kapat", String(Date.now())); } catch {} };
+$("#kur-tamam").onclick = () => $("#kur-pencere").close();
 
 // Öner: telefonda paylaşım menüsünü açar, yoksa bağlantıyı panoya kopyalar.
 const SITE = "https://adnanakyuz.github.io/finansal-okuryazar/";
