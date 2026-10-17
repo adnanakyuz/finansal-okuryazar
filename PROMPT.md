@@ -114,6 +114,42 @@ Okur "altın, ev, arsa, araba, dolar pahalanacak mı?" diye soruyor. Bu sayfa bu
 - Dil daima "yükselebilir / düşebilir / bekleniyor" olur. "Yükselecek", "kesin", "şimdi alın", "kaçırmayın" asla yazılmaz.
 - Kaynağı olmayan beklenti yazılmaz. 30 günden yeni bir veri ya da tahmin bulunamazsa `yon: "belirsiz"` yaz, bulunan en son veriyi tarihiyle ver ve durumu `teyitNotlari`'na ekle. Kurum tahmini yoksa bunu `kimDiyor` alanında açıkça söyle ("Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor").
 
+**Günün Karikatürü (zorunlu, 4-7 kare; tercihen 6):**
+
+Gazetenin karikatür köşesi. Çizim kodla, sabit karakterlerle kurulur; sen yalnızca **senaryoyu** yazarsın.
+
+- **Ton:** Kara mizah. Hem güldürsün hem düşündürsün; günün ekonomi haberindeki çelişkiyi ya da halkın derdini eleştirsin. Son kare mutlaka bir **espriyle (punchline)** bitsin.
+- **Sabit karakterler** (başka karakter yok):
+  - `ahmet`: **Ahmet Amca**, kravatlı emekli memur. Gazetesini okur, her şeyi bilir, sık sık sinirlenir.
+  - `kemal`: **Esnaf Kemal**, kahveci. Pratik zekâlı, işini bilir, lafı gediğine koyar.
+  - `zeynep`: **Zeynep**, genç çalışan. Kira, kredi, fon ve kripto derdinde; telefonu elinden düşmez.
+- **Kurallar:**
+  - **Durumlar eleştirilir, gerçek kişiler değil.** Siyasetçi, şirket sahibi gibi gerçek kişilerin adı geçmez ve onlarla alay edilmez. Kurumlar (TCMB, Fed, MSCI) yalnızca haberdeki rolleriyle anılır.
+  - Hakaret, küfür, cinsellik yok. Kimsenin kimliği, dini ya da kökeniyle dalga geçilmez.
+  - Karikatürdeki her rakam o günkü sayıdaki doğru rakamdır. Uydurma rakam kullanılmaz.
+  - Al/sat tavsiyesi yok, karakter ağzından bile ("Altın alın!" gibi) olmaz. Okura faydalı bir ders verilebilir ("garanti getiri vaadi dolandırıcılık işaretidir" gibi).
+- **Okuma sırası:** Bir karede iki balon varsa önce konuşan karakter **solda** dursun.
+- **Balon uzunluğu:** Karede tek balon varsa en fazla 110 karakter, iki balon varsa her biri en fazla 70 karakter. Kısa ve vurucu yaz.
+- `dayanak`: Karikatürün dayandığı haberi bir cümleyle yaz.
+
+```jsonc
+"karikatur": {
+  "baslik": "Sarı Kart",
+  "dayanak": "Dayanak: MSCI, fon skandalı nedeniyle … dondurdu.",
+  "kareler": [
+    { "sahne": "kahve|sokak|market|ev|banka|bos",
+      "nesne": "yok|cay|defter|grafik-yukari|grafik-asagi|fiyat|ev|araba|altin|cuzdan|kumbara|domates",  // isteğe bağlı
+      "nesneYer": "sol|orta|sag",            // eşya, karakter olmayan bir yere konmalı
+      "karakterler": [ { "kim": "ahmet|kemal|zeynep", "yer": "sol|orta|sag",
+                         "ifade": "normal|konus|bagir|gul|endise|sasir",
+                         "poz": "normal|eller-havada|isaret|kafa-kasi|gazete|telefon",
+                         "efekt": "yok|ter|soru|unlem|sok" } ],          // 1-3 karakter, her biri farklı yerde
+      "balonlar": [ { "kim": "ahmet", "metin": "MSCI borsamıza sarı kart göstermiş, Kemal!" } ]   // 0-2 balon
+    }
+  ]
+}
+```
+
 **Köşeler ve imzaları (başka köşe yok):**
 
 | kose | imza | konusu |
@@ -131,4 +167,5 @@ Okur "altın, ev, arsa, araba, dolar pahalanacak mı?" diye soruyor. Bu sayfa bu
 - Bir lise öğrencisi manşeti ve günün özetini anlar mı?
 - Herhangi bir cümle "şunu al / şunu sat" diye okunabilir mi? Okunabiliyorsa yeniden yaz.
 - Fiyat Beklentileri'nde altın, konut, arsa ve otomobil var mı? Her birinin "kim diyor" ve kaynağı dolu mu?
+- Karikatür güldürüyor mu, son karede espri var mı? Gerçek bir kişiyle alay ediyor mu? Ediyorsa yeniden yaz.
 - `node scripts/dogrula.mjs BUGÜN` "Her şey yolunda" dedi mi?

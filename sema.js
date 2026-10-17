@@ -17,6 +17,15 @@ const YASAK = [
 
 const TARIH = /^\d{4}-\d{2}-\d{2}$/;
 
+// Karikatür seçenekleri (karikatur.js ile aynı olmalı).
+const KR_KIM = ["ahmet", "kemal", "zeynep"];
+const KR_SAHNE = ["kahve", "sokak", "market", "ev", "banka", "bos"];
+const KR_YER = ["sol", "orta", "sag"];
+const KR_IFADE = ["normal", "konus", "bagir", "gul", "endise", "sasir"];
+const KR_POZ = ["normal", "eller-havada", "isaret", "kafa-kasi", "gazete", "telefon"];
+const KR_EFEKT = ["yok", "ter", "soru", "unlem", "sok"];
+const KR_NESNE = ["yok", "cay", "defter", "grafik-yukari", "grafik-asagi", "fiyat", "ev", "araba", "altin", "cuzdan", "kumbara", "domates"];
+
 export function dogrula(d) {
   const hatalar = [], uyarilar = [];
   const hata = (m) => hatalar.push(m), uyari = (m) => uyarilar.push(m);
@@ -85,6 +94,41 @@ export function dogrula(d) {
     if (!["yukari", "asagi", "yatay", "belirsiz"].includes(b?.yon)) hata(`${y}.yon: yukari, asagi, yatay veya belirsiz olmalı`);
     if (!/^https:\/\//.test(b?.kaynak?.url || "")) hata(`${y}.kaynak.url: her beklentinin https:// ile başlayan bir kaynağı olmalı`);
   });
+
+  // Günün karikatürü: 19 Ekim 2026 sayısından itibaren zorunlu.
+  if (d.karikatur == null) {
+    if (typeof d.tarih === "string" && d.tarih >= "2026-10-19") hata("karikatur: bu bölüm zorunlu (4-7 kare)");
+  } else {
+    const KR = nesne(d.karikatur, "karikatur");
+    metin(KR.baslik, "karikatur.baslik", 3); metin(KR.dayanak, "karikatur.dayanak", 20);
+    dizi(KR.kareler, "karikatur.kareler", 4, 7).forEach((k, i) => {
+      const y = `karikatur.kareler[${i}]`;
+      if (!KR_SAHNE.includes(k?.sahne)) hata(`${y}.sahne: ${KR_SAHNE.join(", ")} olmalı`);
+      if (k?.nesne != null && !KR_NESNE.includes(k.nesne)) hata(`${y}.nesne: ${KR_NESNE.join(", ")} olmalı`);
+      if (k?.nesneYer != null && !KR_YER.includes(k.nesneYer)) hata(`${y}.nesneYer: sol, orta veya sag olmalı`);
+      const kisiler = dizi(k?.karakterler, `${y}.karakterler`, 1, 3);
+      const yerler = new Set(), kimler = new Set();
+      kisiler.forEach((c, j) => {
+        const z = `${y}.karakterler[${j}]`;
+        if (!KR_KIM.includes(c?.kim)) hata(`${z}.kim: ${KR_KIM.join(", ")} olmalı`);
+        if (!KR_YER.includes(c?.yer)) hata(`${z}.yer: sol, orta veya sag olmalı`);
+        if (yerler.has(c?.yer)) hata(`${z}.yer: aynı karede iki karakter aynı yerde olamaz`);
+        if (kimler.has(c?.kim)) hata(`${z}.kim: aynı karede bir karakter iki kez olamaz`);
+        yerler.add(c?.yer); kimler.add(c?.kim);
+        if (c?.ifade != null && !KR_IFADE.includes(c.ifade)) hata(`${z}.ifade: ${KR_IFADE.join(", ")} olmalı`);
+        if (c?.poz != null && !KR_POZ.includes(c.poz)) hata(`${z}.poz: ${KR_POZ.join(", ")} olmalı`);
+        if (c?.efekt != null && !KR_EFEKT.includes(c.efekt)) hata(`${z}.efekt: ${KR_EFEKT.join(", ")} olmalı`);
+      });
+      if (k?.nesne && k.nesne !== "yok" && yerler.has(k.nesneYer || "orta")) uyari(`${y}: eşya bir karakterle aynı yerde, üst üste binebilir`);
+      const balonlar = dizi(k?.balonlar, `${y}.balonlar`, 0, 2);
+      balonlar.forEach((b, j) => {
+        const z = `${y}.balonlar[${j}]`;
+        if (!kimler.has(b?.kim)) hata(`${z}.kim: konuşan karakter bu karede olmalı`);
+        const sinir = balonlar.length === 1 ? 110 : 70;
+        if (metin(b?.metin, `${z}.metin`, 2) && b.metin.length > sinir) hata(`${z}.metin: en fazla ${sinir} karakter olmalı (şu an ${b.metin.length}); balona sığmaz`);
+      });
+    });
+  }
 
   const goruldu = new Set();
   dizi(d.koseYazilari, "koseYazilari", 1, 3).forEach((c, i) => {

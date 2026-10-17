@@ -16,7 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,900&family=Source+Serif+4:opsz,wght@8..60,600..800&family=Inter:opsz,wght@14..32,400..700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,900&family=Source+Serif+4:opsz,wght@8..60,600..800&family=Inter:opsz,wght@14..32,400..700&family=Kalam:wght@700&display=swap">
 <style>
 /* Düzen: basılı günlük gazete. Künye ve kulaklar, kayan piyasa şeridi, numaralı sayfa menüsü,
    her sayfanın başında folyo satırı, iki yana yaslı sütunlar, ince sütun çizgileri. */
@@ -191,6 +191,18 @@ table.mkt{width:100%;border-collapse:collapse;font-size:16px;min-width:620px}
 .col .who small{display:block;font-weight:400;color:var(--muted);letter-spacing:.04em;text-transform:none;font-size:13px}
 .col h3{font-size:24px;font-weight:700}
 .col p{font-size:16px}
+
+/* Günün karikatürü: 3 sütunlu bant, telefonda 1 sütun. Balon yazıları karenin genişliğine göre ölçeklenir. */
+.kr-bant{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.kr-kare{position:relative;aspect-ratio:560/420;border:3.5px solid #16181D;overflow:hidden;container-type:inline-size;background:#F4EBDD}
+.kr-kare svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.kr-no{position:absolute;left:6px;top:4px;font:700 12px var(--f-ui);color:#9A8F80;z-index:2}
+.kr-balon{position:absolute;top:2.5%;background:#fff;color:#16181D;border:2.5px solid #16181D;border-radius:46%/40%;padding:2.8cqw 4.6cqw;font:700 3.5cqw/1.13 Kalam,"Comic Sans MS",cursive;text-align:center;text-transform:uppercase;z-index:3}
+.kr-balon::after{content:"";position:absolute;bottom:-3.2cqw;left:var(--x,50%);border-left:1.8cqw solid transparent;border-right:1.8cqw solid transparent;border-top:3.6cqw solid #16181D;transform:translateX(-50%) skewX(var(--e,-18deg))}
+.kr-balon::before{content:"";position:absolute;bottom:-2.1cqw;left:var(--x,50%);border-left:1.2cqw solid transparent;border-right:1.2cqw solid transparent;border-top:2.6cqw solid #fff;transform:translateX(-50%) skewX(var(--e,-18deg));z-index:1}
+.kr-dayanak{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 16px;margin-top:10px;font-family:var(--f-ui);font-size:13.5px;color:var(--muted)}
+@media (max-width:900px){.kr-bant{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){.kr-bant{grid-template-columns:minmax(0,1fr)}}
 
 /* Senaryolar */
 .scen{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
@@ -391,6 +403,7 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
 
 <script type="module">
 import { dogrula } from "./sema.js";
+import { karikaturCiz } from "./karikatur.js";
 
 const $ = (s, r = document) => r.querySelector(s);
 function el(tag, attrs, ...kids) {
@@ -435,7 +448,7 @@ $("#tema").onclick = () => {
 /* Sayfa menüsü */
 const SAYFALAR = [
   ["s-manset", "Manşet"], ["s-piyasa", "Piyasalar"], ["s-beklenti", "Fiyat Beklentileri"], ["s-dosya", "Dosya"], ["s-gundem", "Gündem"],
-  ["s-tekno", "Teknoloji"], ["s-kose", "Köşe Yazıları"], ["s-senaryo", "Ne Olabilir?"],
+  ["s-tekno", "Teknoloji"], ["s-kose", "Köşe Yazıları"], ["s-karikatur", "Karikatür"], ["s-senaryo", "Ne Olabilir?"],
   ["s-ajanda", "Ajanda"], ["s-sozluk", "Sözlük"], ["s-kaynak", "Kaynaklar"],
 ];
 let gorunen = SAYFALAR;
@@ -487,7 +500,7 @@ function render(d) {
   tp.style.setProperty("--sure", Math.max(30, arr(d.piyasalar).length * 5) + "s");
 
   // Bölümlerden boş olanları atla, sayfa numaraları kaymasın diye sırayla numaralandır.
-  const var_ = { "s-tekno": arr(d.teknoloji).length > 0, "s-beklenti": arr(d.beklentiler).length > 0 };
+  const var_ = { "s-tekno": arr(d.teknoloji).length > 0, "s-beklenti": arr(d.beklentiler).length > 0, "s-karikatur": arr(d.karikatur?.kareler).length > 0 };
   gorunen = SAYFALAR.filter(([id]) => var_[id] !== false);
   const no = (id) => gorunen.findIndex(([x]) => x === id) + 1;
   navKur();
@@ -586,6 +599,16 @@ function render(d) {
     cols.append(cc);
   });
   s6.append(cols); P.append(s6);
+
+  // GÜNÜN KARİKATÜRÜ
+  if (var_["s-karikatur"]) {
+    const kr = d.karikatur;
+    const sk = el("section", { class: "page", id: "s-karikatur" });
+    sk.append(folio(no("s-karikatur"), d), pagehead("Günün Karikatürü", str(kr.baslik)));
+    sk.append(karikaturCiz(kr));
+    sk.append(el("p", { class: "kr-dayanak" }, el("span", { text: str(kr.dayanak) }), el("span", { text: "Ahmet Amca, Esnaf Kemal ve Zeynep · Karakterler hayalidir" })));
+    P.append(sk);
+  }
 
   // BUNDAN SONRA NE OLABİLİR?
   const Y = d.senaryolar || {};

@@ -61,7 +61,7 @@ jobs:
       - name: Yalnızca okura gidecek dosyaları topla
         run: |
           mkdir _site
-          cp -r index.html sema.js sw.js manifest.webmanifest ikonlar sayilar _site/
+          cp -r index.html sema.js karikatur.js sw.js manifest.webmanifest ikonlar sayilar _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

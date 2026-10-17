@@ -124,6 +124,24 @@
       ]
     }
   ],
+  "karikatur": {
+    "baslik": "Sarı Kart",
+    "dayanak": "Dayanak: MSCI, fon skandalı nedeniyle Türk hisselerindeki endeks değişikliklerini dondurdu. Bilgi: \"Garantili yüksek getiri\" vaadi dolandırıcılığın en bilinen işaretidir.",
+    "kareler": [
+      {"sahne": "kahve", "karakterler": [{"kim": "ahmet", "yer": "sol", "ifade": "konus", "poz": "gazete"}, {"kim": "kemal", "yer": "sag", "ifade": "konus"}],
+       "balonlar": [{"kim": "ahmet", "metin": "MSCI borsamıza sarı kart göstermiş, Kemal!"}, {"kim": "kemal", "metin": "Hakemi kim? VAR'a gitsin abi!"}]},
+      {"sahne": "kahve", "karakterler": [{"kim": "ahmet", "yer": "sol", "ifade": "bagir", "poz": "isaret"}, {"kim": "kemal", "yer": "sag", "ifade": "normal", "poz": "kafa-kasi"}],
+       "balonlar": [{"kim": "ahmet", "metin": "Futbol değil bu! Bazı fonlar parayı kimsenin almadığı hisselere yığmış, şimdi satamıyorlar!"}]},
+      {"sahne": "kahve", "karakterler": [{"kim": "zeynep", "yer": "orta", "ifade": "endise", "poz": "telefon", "efekt": "ter"}],
+       "balonlar": [{"kim": "zeynep", "metin": "Ahmet Amca! Benim fonun reklamında \"garantili yüksek getiri\" yazıyordu…"}]},
+      {"sahne": "kahve", "karakterler": [{"kim": "ahmet", "yer": "orta", "ifade": "bagir", "poz": "eller-havada", "efekt": "sok"}],
+       "balonlar": [{"kim": "ahmet", "metin": "\"Garanti\" gördün mü kaçacaksın kızım, kaç!"}]},
+      {"sahne": "kahve", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "gul"}, {"kim": "zeynep", "yer": "orta", "ifade": "sasir"}, {"kim": "ahmet", "yer": "sag", "ifade": "normal"}],
+       "balonlar": [{"kim": "kemal", "metin": "Ben paramı en güvenli yere koydum!"}, {"kim": "zeynep", "metin": "Nereye?"}]},
+      {"sahne": "kahve", "nesne": "defter", "nesneYer": "sag", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "gul", "poz": "isaret"}],
+       "balonlar": [{"kim": "kemal", "metin": "Veresiye defterine! Herkes bana borçlu, kimse ödemiyor ama!"}]}
+    ]
+  },
   "senaryolar": {
     "olumlu": [
       "TCMB ölçülü bir 100 baz puan indirim yapar, rezervlerdeki toparlanma sürer.",
