@@ -1,8 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#FBFAF8"/>
-  <rect x="64" y="96" width="384" height="10" fill="#16181D"/>
-  <rect x="64" y="114" width="384" height="3" fill="#16181D"/>
-  <text x="256" y="340" text-anchor="middle" font-family="Didot, 'Bodoni 72', Georgia, serif" font-weight="900" font-size="230" fill="#16181D">F<tspan fill="#B3121B">O</tspan></text>
-  <rect x="64" y="392" width="384" height="3" fill="#16181D"/>
-  <rect x="64" y="403" width="384" height="10" fill="#16181D"/>
+  <!-- Finansal Okuryazar logosu: bir gazete sayfası; sol sütunda yazı satırları (sade anlatım),
+       sağ sütunda yükselen çubuklar (piyasalar) ve sayfanın dışına taşan kırmızı ok (okurun kazandığı bilgi). -->
+  <rect width="512" height="512" rx="112" fill="#FBFAF8"/>
+  <!-- Gazete sayfası -->
+  <path d="M118 108h232l44 44v252a8 8 0 0 1-8 8H118a8 8 0 0 1-8-8V116a8 8 0 0 1 8-8z" fill="#FFFFFF" stroke="#16181D" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M350 108v36a8 8 0 0 0 8 8h36" fill="none" stroke="#16181D" stroke-width="14" stroke-linejoin="round"/>
+  <!-- Künye -->
+  <rect x="144" y="148" width="180" height="22" rx="3" fill="#16181D"/>
+  <rect x="144" y="182" width="224" height="5" rx="2" fill="#16181D"/>
+  <!-- Yazı satırları -->
+  <g fill="#9A9BA0">
+    <rect x="144" y="212" width="86" height="10" rx="5"/>
+    <rect x="144" y="238" width="86" height="10" rx="5"/>
+    <rect x="144" y="264" width="70" height="10" rx="5"/>
+    <rect x="144" y="306" width="86" height="10" rx="5"/>
+    <rect x="144" y="332" width="86" height="10" rx="5"/>
+    <rect x="144" y="358" width="56" height="10" rx="5"/>
+  </g>
+  <!-- Yükselen çubuklar -->
+  <g fill="#16181D">
+    <rect x="252" y="320" width="28" height="56" rx="3"/>
+    <rect x="292" y="284" width="28" height="92" rx="3"/>
+    <rect x="332" y="244" width="28" height="132" rx="3"/>
+  </g>
+  <!-- Sayfadan taşan ok -->
+  <path d="M236 318 L300 262 L330 280 L408 196" fill="none" stroke="#B3121B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M372 186 L424 178 L414 230 Z" fill="#B3121B" stroke="#B3121B" stroke-width="8" stroke-linejoin="round"/>
 </svg>

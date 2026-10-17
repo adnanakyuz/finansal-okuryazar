@@ -96,6 +96,8 @@ Alan adları ASCII, değerler Türkçe. Parantez içindeki sayılar öğe adedid
 
   "ajanda": [ { "gun": "Per 22 Ekim", "olay": "", "onem": "yuksek|orta" } ],             // (1-12)
   "sozluk": [ { "terim": "", "aciklama": "Bir ortaokul öğrencisinin anlayacağı dille" } ],   // (2-6)
+  // Sözlük terimleri o günün haberlerinden seçilir ve son 30 günün sayılarındaki terimleri tekrar etmez
+  // (önce sayilar/ klasöründeki son sayıların "sozluk" alanlarına bak).
   "teyitNotlari": ["Teyit edilemeyen, çelişen ya da tek kaynaklı bilgiler"],             // (0-15)
   "kaynaklar": [ { "baslik": "Yayın – Haber başlığı", "url": "https://..." } ]           // (8-60)
 }

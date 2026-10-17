@@ -12,14 +12,19 @@ let hataVar = false;
 const yaz = (isaret, m) => console.log(`${isaret} ${m}`);
 
 const sayiNo = new Map();
+const sozlukGecmisi = []; // [tarih, terim] — son 30 günde aynı terim tekrar etmesin diye
+const kucuk = (s) => String(s || "").toLocaleLowerCase("tr-TR").trim();
 for (const f of dosyalar) {
   const tarih = f.slice(0, 10);
   let d;
   try { d = JSON.parse(await readFile(new URL(f, KLASOR), "utf8")); }
   catch (e) { yaz("✗", `${f}: JSON okunamadı (${e.message})`); hataVar = true; continue; }
   sayiNo.set(tarih, d.sayi);
+  const oncekiTerimler = sozlukGecmisi.filter(([t]) => (Date.parse(tarih) - Date.parse(t)) / 864e5 <= 30).map(([, x]) => x);
+  for (const s of Array.isArray(d.sozluk) ? d.sozluk : []) sozlukGecmisi.push([tarih, kucuk(s?.terim)]);
   if (hedef && tarih !== hedef) continue;
   const { hatalar, uyarilar } = dogrula(d);
+  for (const s of Array.isArray(d.sozluk) ? d.sozluk : []) if (oncekiTerimler.includes(kucuk(s?.terim))) uyarilar.push(`sozluk: "${s.terim}" son 30 gün içinde zaten açıklandı, başka bir terim seçin`);
   if (d.tarih !== tarih) hatalar.push(`tarih alanı (${d.tarih}) dosya adıyla (${tarih}) aynı değil`);
   for (const h of hatalar) yaz("✗", `${f}: ${h}`);
   for (const u of uyarilar) yaz("!", `${f}: ${u}`);

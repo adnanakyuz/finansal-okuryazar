@@ -1,6 +1,6 @@
 // Çevrimdışı okuma: her dosya önce internetten istenir, gelen kopya cihaza kaydedilir;
 // internet yoksa cihazdaki son kopya okunur. Sürüm değişince eski önbellek silinir.
-const SURUM = "fo-v4";
+const SURUM = "fo-v5";
 const ISKELET = ["./", "index.html", "sema.js", "manifest.webmanifest", "ikonlar/ikon.svg", "ikonlar/ikon-192.png"];
 
 self.addEventListener("install", (e) => {

@@ -54,6 +54,7 @@ p{margin:0}
 
 /* Üst satır ve araçlar */
 .topline{display:flex;flex-wrap:wrap;gap:8px 18px;justify-content:space-between;align-items:center;padding-block:10px;border-bottom:1px solid var(--hair);font-family:var(--f-ui);font-size:13px;color:var(--ink-2)}
+.tl-sol{display:flex;align-items:center;gap:8px}
 .tools{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .tools select,.tools button{font-family:var(--f-ui);font-size:13px;background:var(--box);color:var(--ink);border:1px solid var(--hair);border-radius:3px;padding:5px 8px;cursor:pointer;min-height:32px}
 .tools select{max-width:210px}
@@ -291,7 +292,7 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
 <body>
 <div class="wrap">
   <div class="topline">
-    <span id="tl-left">Günlük ekonomi gazetesi · Ücretsiz</span>
+    <span class="tl-sol"><img src="ikonlar/ikon.svg" alt="" width="26" height="26"><span id="tl-left">Günlük ekonomi gazetesi · Ücretsiz</span></span>
     <div class="tools">
       <label for="arsiv" class="sr">Arşiv</label>
       <select id="arsiv" aria-label="Arşivden sayı seç"><option>Yükleniyor…</option></select>
