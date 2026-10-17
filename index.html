@@ -54,7 +54,6 @@ p{margin:0}
 
 /* Üst satır ve araçlar */
 .topline{display:flex;flex-wrap:wrap;gap:8px 18px;justify-content:space-between;align-items:center;padding-block:10px;border-bottom:1px solid var(--hair);font-family:var(--f-ui);font-size:13px;color:var(--ink-2)}
-.tl-sol{display:flex;align-items:center;gap:8px}
 .tools{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .tools select,.tools button{font-family:var(--f-ui);font-size:13px;background:var(--box);color:var(--ink);border:1px solid var(--hair);border-radius:3px;padding:5px 8px;cursor:pointer;min-height:32px}
 .tools select{max-width:210px}
@@ -65,8 +64,11 @@ p{margin:0}
 .ear{border:1px solid var(--rule);padding:8px 10px;font-family:var(--f-ui);font-size:12px;line-height:1.35;text-transform:uppercase;letter-spacing:.05em;text-align:center}
 .ear b{display:block;font-family:var(--f-display);font-size:20px;letter-spacing:0;text-transform:none;line-height:1.1;margin-top:2px}
 .title{text-align:center}
-.title h1{font-family:var(--f-logo);font-weight:900;font-size:clamp(32px,8.6vw,88px);letter-spacing:-.01em;line-height:.95}
-.title h1 span{color:var(--accent)}
+.marka{display:flex;align-items:center;justify-content:center;gap:clamp(10px,2vw,22px)}
+.marka svg{width:clamp(78px,13vw,132px);height:auto;flex:none}
+.marka .kalem-cizgi{stroke:var(--accent)} .marka .kalem{fill:var(--ink)} .marka .kalem-delik{fill:var(--paper);stroke:var(--paper)} .marka .satir{fill:var(--muted)}
+.title h1{font-family:var(--f-logo);font-weight:900;font-size:clamp(30px,7.6vw,80px);letter-spacing:-.01em;line-height:.95;text-align:left}
+.title h1 span{color:var(--accent);display:block}
 .motto{margin-top:8px;font-style:italic;color:var(--ink-2);font-size:15.5px}
 .mastrule{border:0;border-top:3px solid var(--rule);margin:8px 0 0}
 .mastrule2{border:0;border-top:1px solid var(--rule);margin:3px 0 0}
@@ -292,7 +294,7 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
 <body>
 <div class="wrap">
   <div class="topline">
-    <span class="tl-sol"><img src="ikonlar/ikon.svg" alt="" width="26" height="26"><span id="tl-left">Günlük ekonomi gazetesi · Ücretsiz</span></span>
+    <span id="tl-left">Günlük ekonomi gazetesi · Ücretsiz</span>
     <div class="tools">
       <label for="arsiv" class="sr">Arşiv</label>
       <select id="arsiv" aria-label="Arşivden sayı seç"><option>Yükleniyor…</option></select>
@@ -304,8 +306,19 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
   <header class="mast">
     <div class="ear" id="ear-l">Sayı<b id="ear-no">—</b></div>
     <div class="title">
-      <h1>FİNANSAL <span>OKURYAZAR</span></h1>
-      <p class="motto">Paranın dilini sade Türkçeyle anlatan günlük gazete</p>
+      <div class="marka">
+        <svg viewBox="60 70 400 370" aria-hidden="true">
+          <path class="kalem-cizgi" d="M78 420 L170 334 L224 372 L310 262" fill="none" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+          <g transform="translate(316 256) rotate(45) scale(0.7)">
+            <path class="kalem" d="M0 0 C34 -52 76 -100 76 -156 L76 -214 L-76 -214 L-76 -156 C-76 -100 -34 -52 0 0 Z"/>
+            <rect class="kalem" x="-90" y="-262" width="180" height="40" rx="8"/>
+            <circle class="kalem-delik" cx="0" cy="-128" r="20"/>
+            <path class="kalem-delik" d="M0 -106 V-16" stroke-width="9" stroke-linecap="round"/>
+          </g>
+          <g class="satir"><rect x="70" y="92" width="150" height="14" rx="7"/><rect x="70" y="124" width="190" height="14" rx="7"/><rect x="70" y="156" width="120" height="14" rx="7"/></g>
+        </svg>
+        <h1>FİNANSAL <span>OKURYAZAR</span></h1>
+      </div>      <p class="motto">Paranın dilini sade Türkçeyle anlatan günlük gazete</p>
     </div>
     <div class="ear">Fiyatı<b>0 TL</b></div>
   </header>
