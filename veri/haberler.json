@@ -1,7 +1,84 @@
 {
- "olusturma": "2026-10-18T19:14:30.701Z",
+ "olusturma": "2026-10-18T20:10:46.773Z",
  "not": "Son 72 saatin haberleri, ücretsiz RSS akışlarından otomatik çekildi.",
  "haberler": [
+  {
+   "kaynak": "CNBC-e",
+   "baslik": "BMW'den elektrikli otomobil rekoru: Tek şarjla 1.213 kilometre gitti",
+   "ozet": "BMW'nin yeni i3 50L modeli, tek şarjla 1.213 kilometre yol kat ederek markanın elektrikli otomobillerinde menzil rekoru kırdı. Yeni nesil batarya teknolojisiyle geliştirilen model, 100 kilometrede yalnızca 8,8 kWh enerji tüketti.",
+   "url": "https://www.cnbce.com/otomotiv/bmwden-elektrikli-otomobil-rekoru-tek-sarjla-1213-kilometre-gitti-g39713",
+   "tarih": "2026-10-18T19:54:00.000Z"
+  },
+  {
+   "kaynak": "Dünya",
+   "baslik": "Türkiye'den Kanada'ya taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Kanada'da bir askeri üste dün meydana gelen patlama nedeniyle yaşanan can kayıplarından derin üzüntü duyulduğunu bildirdi.",
+   "url": "https://www.dunya.com/gundem/turkiyeden-kanadaya-taziye-mesaji-haberi-844359",
+   "tarih": "2026-10-18T19:53:00.000Z"
+  },
+  {
+   "kaynak": "Dünya",
+   "baslik": "İstanbul'da AVM'de İsrail vatandaşına protesto",
+   "ozet": "İstanbul Sarıyer’de Filistin Özgürlük Nöbeti Platformu üyeleri, bir AVM'de İsrail vatandaşını proteste etti. Yaşananların ardından AVM boşaltıldı.",
+   "url": "https://www.dunya.com/gundem/istanbulda-avmde-israil-vatandasina-protesto-haberi-844358",
+   "tarih": "2026-10-18T19:50:00.000Z"
+  },
+  {
+   "kaynak": "Dünya",
+   "baslik": "Netanyahu'dan seçim vaadi: İran rejimini devireceğiz",
+   "ozet": "İsrail Başbakanı Binyamin Netanyahu, 27 Ekim'de yapılacak seçimlerin \"varoluşsal öneme sahip\" olduğunu ileri sürerek açıkladığı güvenlik doktrininde \"İran rejimini devirme\" sözü verdi.",
+   "url": "https://www.dunya.com/dunya/netanyahudan-secim-vaadi-iran-rejimini-devirecegiz-haberi-844357",
+   "tarih": "2026-10-18T19:43:00.000Z"
+  },
+  {
+   "kaynak": "Ekonomim",
+   "baslik": "Uludağ’da kar kalınlığı 20 santimi buldu",
+   "ozet": "Türkiye'nin önde gelen kış turizmi merkezlerinden Uludağ'da, kar kalınlığı 20 santimetreye ulaştı.",
+   "url": "https://www.ekonomim.com/sektorler/turizm/uludagda-kar-kalinligi-20-santimi-buldu-haberi-925496",
+   "tarih": "2026-10-18T19:33:00.000Z"
+  },
+  {
+   "kaynak": "Ekonomim",
+   "baslik": "Netanyahu, ulusal güvenlik doktrininde \"İran rejimi\"ni devirmeyi vadetti",
+   "ozet": "İsrail Başbakanı Binyamin Netanyahu, 27 Ekim'de yapılacak seçimlerin \"varoluşsal öneme sahip\" olduğunu ileri sürerek açıkladığı güvenlik doktrininde \"İran rejimini devirme\" sözü verdi.",
+   "url": "https://www.ekonomim.com/dunya/netanyahu-ulusal-guvenlik-doktrininde-iran-rejimini-devirmeyi-vadetti-haberi-925492",
+   "tarih": "2026-10-18T19:26:00.000Z"
+  },
+  {
+   "kaynak": "Dünya",
+   "baslik": "Hindistanlı ünlü oyuncu silahlı saldırıya uğradı",
+   "ozet": "Hindistan’da ünlü oyuncu Tiger Shroff’un aracına kimliği belirsiz kişiler tarafından en az 4 el ateş edildi. Saldırıda şoför ve bir hayran yaralanırken, Shroff saldırıdan yara almadan kurtuldu.",
+   "url": "https://www.dunya.com/video-galeri/diger/hindistanli-unlu-oyuncu-silahli-saldiriya-ugradi-video-844356",
+   "tarih": "2026-10-18T19:20:00.000Z"
+  },
+  {
+   "kaynak": "Ekonomim",
+   "baslik": "Isparta'da kanyonda facia: Mahsur kalan gruptan acı haber geldi",
+   "ozet": "Isparta’nın Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllüsü grubuna yönelik arama kurtarma çalışmalarında bir kişinin cansız bedenine ulaşılırken, 13 kişiyi kurtarma çalışmaları sürüyor.",
+   "url": "https://www.ekonomim.com/gundem/ispartada-kanyonda-facia-mahsur-kalan-gruptan-aci-haber-geldi-haberi-925487",
+   "tarih": "2026-10-18T19:20:00.000Z"
+  },
+  {
+   "kaynak": "Dünya",
+   "baslik": "Hindistanlı ünlü oyuncu silahlı saldırıya uğradı",
+   "ozet": "Hindistan’da ünlü oyuncu Tiger Shroff’un aracına kimliği belirsiz kişiler tarafından en az 4 el ateş edildi. Saldırıda şoför ve bir hayran yaralanırken, Shroff saldırıdan yara almadan kurtuldu.",
+   "url": "https://www.dunya.com/dunya/hindistanli-unlu-oyuncu-silahli-saldiriya-ugradi-haberi-844355",
+   "tarih": "2026-10-18T19:19:00.000Z"
+  },
+  {
+   "kaynak": "CNBC-e",
+   "baslik": "Fransa'da şiddet olaylarının ardından Macron'dan yeni önlem sinyali",
+   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, hayat pahalılığı protestoları sırasında yaşanan yağma ve şiddet olaylarını kınadı. Olayların ardından istihbarat ve polis hazırlıklarında eksiklik olup olmadığının incelenmesini isteyen Macron, yeni önlemlerin gündeme gelebileceğini açıkladı.",
+   "url": "https://www.cnbce.com/dunya/fransada-siddet-olaylarinin-ardindan-macrondan-yeni-onlem-sinyali-h39712",
+   "tarih": "2026-10-18T19:14:00.000Z"
+  },
+  {
+   "kaynak": "Dünya",
+   "baslik": "Aşırı yağışların ardından RAMS Park ve Aslanvadi incelendi",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı İstanbul İl Müdürlüğü, aşırı yağışların ardından RAMS Park Stadyumu ve Aslanvadi Projesi şantiye alanında yapılan teknik incelemelerde herhangi bir olumsuzluğa rastlanmadığını bildirdi.",
+   "url": "https://www.dunya.com/gundem/asiri-yagislarin-ardindan-rams-park-ve-aslanvadi-incelendi-haberi-844354",
+   "tarih": "2026-10-18T19:10:00.000Z"
+  },
   {
    "kaynak": "Dünya",
    "baslik": "Yeni Parti’nin Ankara İl Başkanlığına İbrahim Karaca seçildi",
@@ -33,7 +110,7 @@
   {
    "kaynak": "Ekonomim",
    "baslik": "Klodya Medina kimdir? Neden İstinyePark'ta protesto edildi, hangi ülkenin vatandaşını, nereli?",
-   "ozet": "İstanbul Sarıyer’deki İstinyePark AVM’de protesto edildiği belirtilen Klodya Medina Halfon, Filistin destekçisi aktivistlerin gündemine geldi.",
+   "ozet": "İstanbul Sarıyer’deki İstinyePark AVM’de protesto edilen Klodya Medina Halfon, sosyal medyanın gündemime oturdu. Vatandaşlar \"Klodya Medina kimdir? Neden İstinyePark'ta protesto edildi, hangi ülkenin vatandaşını, nereli?\" sorularının yanıtını araştırmaya başladı.",
    "url": "https://www.ekonomim.com/gundem/klodya-medina-kimdir-neden-istinyeparkta-protesto-edildi-hangi-ulkenin-vatandasini-nereli-haberi-925482",
    "tarih": "2026-10-18T18:28:00.000Z"
   },
@@ -605,13 +682,6 @@
    "tarih": "2026-10-18T12:32:26.000Z"
   },
   {
-   "kaynak": "Dünya",
-   "baslik": "Sert satışların ardından bilanço sınavı: Wall Street'te gözler teknoloji devlerinde",
-   "ozet": "Teknoloji ve yapay zekâ hisselerindeki sert satışların ardından Wall Street'te gözler şirket bilançolarına çevrildi. 19-23 Ekim haftasında Netflix, Meta ve Tesla'nın sonuçları öne çıkarken, savunma ve tüketici şirketleri de yatırımcıların takibinde olacak. Meta ve Tesla'da hisse başına kârın geçen yılın altında kalması beklenirken, Netflix ve American Express'te artış öngörülüyor.",
-   "url": "https://www.dunya.com/finans/haberler/sert-satislarin-ardindan-bilanco-sinavi-wall-streette-gozler-teknoloji-devlerinde-haberi-844317",
-   "tarih": "2026-10-18T12:32:00.000Z"
-  },
-  {
    "kaynak": "Ekonomim",
    "baslik": "Fransa sokaklarında gerilim tırmanıyor: Gözaltı sayısı 2 bini aştı",
    "ozet": "Fransa’da dün düzenlenen sarı yelekliler protestolarında gözaltına alınanların sayısının 2 bini aştığı açıklandı.",
@@ -631,13 +701,6 @@
    "ozet": "",
    "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-finansman-endiseleri-arasnda-bu-2-hisseyi-aln-analist-4107688",
    "tarih": "2026-10-18T12:16:35.000Z"
-  },
-  {
-   "kaynak": "Dünya",
-   "baslik": "Müzisyen Soner Olgun son yolculuğuna uğurlandı",
-   "ozet": "Önceki gün yaşamını yitiren Türk halk müziği sanatçısı Soner Olgun, son yolculuğuna uğurlandı. Sanatçı, Teşvikiye Camisi'nde kılınan cenaze namazının ardından Hasdal Mezarlığı'na defnedildi.",
-   "url": "https://www.dunya.com/gundem/muzisyen-soner-olgun-son-yolculuguna-ugurlandi-haberi-844316",
-   "tarih": "2026-10-18T12:15:00.000Z"
   },
   {
    "kaynak": "Bloomberg HT",
@@ -666,13 +729,6 @@
    "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan’ın \"Bağımsızlığın Yeniden Sağlanması Günü\"nü tebrik etti.",
    "url": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogandan-azerbaycana-bagimsizlik-gunu-mesaji-haberi-925448",
    "tarih": "2026-10-18T11:56:00.000Z"
-  },
-  {
-   "kaynak": "Dünya",
-   "baslik": "Cumhurbaşkanı Erdoğan Azerbaycan'ın bağımsızlık gününü kutladı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın Bağımsızlığın Yeniden Sağlanması Günü'nü sosyal medya hesabından yayımladığı mesajla kutladı. Türkiye ve Türk milleti adına tebriklerini ileten Erdoğan, İlham Aliyev'e \"gardaşım\" diye seslendi.",
-   "url": "https://www.dunya.com/dunya/cumhurbaskani-erdogan-azerbaycanin-bagimsizlik-gununu-kutladi-haberi-844315",
-   "tarih": "2026-10-18T11:55:00.000Z"
   },
   {
    "kaynak": "Habertürk Ekonomi",
@@ -710,20 +766,6 @@
    "tarih": "2026-10-18T11:27:00.000Z"
   },
   {
-   "kaynak": "Dünya",
-   "baslik": "İran'dan ABD'ye sert mesaj: Tehditler karşısında boyun eğmeyeceğiz",
-   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD'den gelen saldırı tehditlerine ilişkin, \"Tehditler karşısında boyun eğmeyeceğiz.\" dedi.",
-   "url": "https://www.dunya.com/dunya/irandan-abdye-sert-mesaj-tehditler-karsisinda-boyun-egmeyecegiz-haberi-844314",
-   "tarih": "2026-10-18T11:26:00.000Z"
-  },
-  {
-   "kaynak": "Ekonomim",
-   "baslik": "İstanbul'da sel felaketi: Kocaeli'nde kaybolan kişinin cansız bedeni Pendik'te bulundu",
-   "ozet": "İstanbul’da 14 Ekim’de etkili olan sağanağın yol açtığı sel felaketinde can kaybı yükseliyor. Kayıp olarak aranan Türkmenistan uyruklu Murat Babacanov'un cansız bedenine Haliç'te ulaşıldı. Ayrıca Kocaeli'de sele kapılan araçtaki 2 kişiden birinin cansız bedeni Pendik'te bulundu. Kayıp diğer kişiyi arama çalışması sürüyor.",
-   "url": "https://www.ekonomim.com/gundem/istanbulda-sel-felaketi-kocaelinde-kaybolan-kisinin-cansiz-bedeni-pendikte-bulundu-haberi-925438",
-   "tarih": "2026-10-18T11:26:00.000Z"
-  },
-  {
    "kaynak": "CNBC-e",
    "baslik": "ABD'den Rusya'ya yaptırımları gevşetme sinyali: Sırada gümrük tarifeleri var",
    "ozet": "ABD Dışişleri Bakanı Marco Rubio, Donald Trump'ın Rusya'ya yönelik yaptırım ve gümrük tarifelerinin etkilerini değerlendirmek için 60 günlük süreyi kullanmak istediğini söyledi.",
@@ -731,32 +773,11 @@
    "tarih": "2026-10-18T11:24:39.000Z"
   },
   {
-   "kaynak": "Ekonomim",
-   "baslik": "İran'ın yeni Savunma Bakanı belli oldu",
-   "ozet": "İran’da, ABD ve İsrail saldırılarında yaşamını yitiren eski Savunma Bakanı Tümgeneral Aziz Nasırzade’nin yerine Mehrdad Ahlaki Kitapçi getirildi.",
-   "url": "https://www.ekonomim.com/dunya/iranin-yeni-savunma-bakani-belli-oldu-haberi-925446",
-   "tarih": "2026-10-18T11:20:00.000Z"
-  },
-  {
-   "kaynak": "Dünya",
-   "baslik": "Microsoft'un sürpriz kararı yapay zekada dengeleri değiştirdi",
-   "ozet": "Yapay zeka sektöründe milyarlarca dolarlık yatırımlar hız kesmeden sürerken veri merkezi projelerinden gelen haberler yatırımcıları endişelendirmeye başladı. Microsoft'un İngiltere'deki bir projeden çekildiği iddiası, büyük teknoloji şirketlerine bağımlı altyapı sağlayıcılarının karşı karşıya olduğu riskleri yeniden gündeme taşıdı. Elektrik tedarikindeki sorunlar ve gecikmeler ise sektörün büyüme planlarına ilişkin soru işaretlerini artırıyor.",
-   "url": "https://www.dunya.com/ekonomi/microsoftun-surpriz-karari-yapay-zekada-dengeleri-degistirdi-haberi-844313",
-   "tarih": "2026-10-18T11:19:00.000Z"
-  },
-  {
    "kaynak": "AA Ekonomi",
    "baslik": "Fed'e ilişkin \"şahin\" beklentiler ve küresel büyümeye yönelik endişeler emtia piyasasını baskıladı",
    "ozet": "Emtia piyasasında bu hafta ABD Merkez Bankasının (Fed) para politikasına ilişkin \"şahin\" beklentiler ve küresel büyümeye ilişkin endişelerle satış baskısı hakim oldu.",
    "url": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-ve-kuresel-buyumeye-yonelik-endiseler-emtia-piyasasini-baskiladi/4092610",
    "tarih": "2026-10-18T11:18:11.000Z"
-  },
-  {
-   "kaynak": "Ekonomim",
-   "baslik": "İstanbul Havalimanı dünyanın en iyi havalimanı seçildi",
-   "ozet": "İGA İstanbul Havalimanı, Condé Nast Traveller’ın 2026 Readers’ Choice Awards sıralamasında 94,29 puan alarak Singapur Changi ve Dubai Uluslararası havalimanlarını geride bıraktı ve dünyanın en iyisi seçildi.",
-   "url": "https://www.ekonomim.com/havacilik/istanbul-havalimani-dunyanin-en-iyi-havalimani-secildi-haberi-925445",
-   "tarih": "2026-10-18T11:14:00.000Z"
   },
   {
    "kaynak": "Bloomberg HT",
@@ -778,13 +799,6 @@
    "ozet": "Takasbank, TPP ve TEFAS işlemlerine ilişkin iddialara yanıt verdi. TPP'de yaklaşık 240 milyar liralık işleme karşılık 450 milyar lira tutarında teminat bulunduğunu açıklayan Takasbank, piyasada bugüne kadar herhangi bir temerrüt yaşanmadığını ve kaynak sağlayan hiçbir kurumun zarara uğramadığını bildirdi.",
    "url": "https://www.bloomberght.com/takasbanktan-finansman-iddialarina-yanit-3791742",
    "tarih": "2026-10-18T10:58:40.000Z"
-  },
-  {
-   "kaynak": "Dünya",
-   "baslik": "İran'da füze programının kilit ismi Savunma Bakanı oldu",
-   "ozet": "ABD ve İsrail'in saldırılarında Savunma Bakanı'nı kaybeden İran'da kritik bir atama gerçekleşti. Mecliste yapılan güven oylamasının ardından ülkenin yeni Savunma Bakanı belli oldu. Göreve getirilen ismin İran'ın füze ve savunma sanayisindeki geçmişi dikkat çekti.",
-   "url": "https://www.dunya.com/dunya/iranda-fuze-programinin-kilit-ismi-savunma-bakani-oldu-haberi-844312",
-   "tarih": "2026-10-18T10:42:00.000Z"
   },
   {
    "kaynak": "Bloomberg HT",
@@ -1452,25 +1466,11 @@
    "tarih": "2026-10-17T10:46:43.000Z"
   },
   {
-   "kaynak": "CNBC-e",
-   "baslik": "Süper Lig yayınlarında yeni dönem: Derbilere 4K HDR, maçlara dikey yayın planı",
-   "ozet": "Kulüpler Birliği Vakfı, Süper Lig yayınlarında 4K HDR teknolojisi, gelişmiş kamera sistemleri ve mobil cihazlara özel dikey yayın modelini içeren yeni standartlar hazırladı. Çalışmanın, yeni dönem yayın ihalesinin teknik şartnamesine katkı sağlaması hedefleniyor.",
-   "url": "https://www.cnbce.com/spor-ekonomisi/super-lig-yayinlarinda-yeni-donem-derbilere-4k-hdr-maclara-dikey-yayin-plani-h39672",
-   "tarih": "2026-10-17T10:46:27.000Z"
-  },
-  {
    "kaynak": "TRT Haber Ekonomi",
    "baslik": "Küresel piyasalar veri gündemini takip edecek",
    "ozet": "Küresel pay piyasaları bu hafta ABD'de açıklanan enflasyon verileri, Orta Doğu gündemi ve yapay zeka alanındaki gelişmelerin etkisiyle karışık seyrederken, gözler gelecek hafta yoğun veri gündemi ile önemli şirketlerin bilançolarına çevrildi.",
    "url": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-veri-gundemini-takip-edecek-960410.html",
    "tarih": "2026-10-17T10:17:00.000Z"
-  },
-  {
-   "kaynak": "CNBC-e",
-   "baslik": "Rusya ve Endonezya’dan dünyada bir ilk: Yüzer nükleer santralle elektrik üretilecek",
-   "ozet": "Rosatom ile Endonezyalı PT Pembangkit Listrik Nuklir, Endonezya’ya toplam 200 megavat kapasiteli iki yüzer nükleer güç ünitesi tedarik edilmesi için anlaşma imzaladı. Proje, bu alandaki ilk ihracat anlaşması olacak.",
-   "url": "https://www.cnbce.com/enerji/rusya-ve-endonezyadan-dunyada-bir-ilk-yuzer-nukleer-santralle-elektrik-uretilecek-h39671",
-   "tarih": "2026-10-17T10:13:29.000Z"
   },
   {
    "kaynak": "Habertürk Ekonomi",
