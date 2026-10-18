@@ -157,6 +157,43 @@ table.mkt{width:100%;border-collapse:collapse;font-size:16px;min-width:620px}
 .rate .lbl{font-family:var(--f-ui);font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.07em}
 .rate p{margin-top:8px;font-size:15.5px;color:var(--ink-2)}
 
+/* Fiyat grafikleri: tek satır aralık seçici, küçük çoklu çizgi grafikler, tablo görünümü */
+.gr-bolum{margin-top:28px;padding-top:16px;border-top:1px solid var(--rule)}
+.gr-ust{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+.gr-ust h3{font-size:24px;font-weight:700}
+.gr-aralik{display:flex;border:1px solid var(--hair);border-radius:4px;overflow:hidden}
+.gr-aralik button{font:600 14px var(--f-ui);background:var(--box);color:var(--ink-2);border:0;padding:7px 14px;cursor:pointer;min-height:36px}
+.gr-aralik button+button{border-left:1px solid var(--hair)}
+.gr-aralik button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.gr-izgara-kap{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.gr-kart{margin:0;background:var(--box);border:1px solid var(--hair);padding:12px 12px 6px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.gr-kart figcaption{display:flex;flex-direction:column;gap:1px;font-family:var(--f-ui)}
+.gr-ad{font-size:12.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.gr-deger{font-size:21px;font-weight:600;color:var(--ink)}
+.gr-fark{font-size:14px;font-weight:700;margin-left:4px}
+.gr-donem{font-size:12.5px;color:var(--muted)}
+.gr-cerceve{position:relative}
+.gr-svg{display:block;width:100%;height:auto;overflow:visible;touch-action:pan-y}
+.gr-izgara{stroke:var(--hair);stroke-width:1}
+.gr-eksen{font:500 10px var(--f-ui);fill:var(--muted);font-variant-numeric:tabular-nums}
+.gr-alan{fill:var(--ink);opacity:.08}
+.gr-cizgi{fill:none;stroke:var(--ink);stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+.gr-uc{fill:var(--ink);stroke:var(--box);stroke-width:2}
+.gr-dikey{stroke:var(--muted);stroke-width:1}
+.gr-hedef{cursor:crosshair;outline:none}
+.gr-hedef:focus-visible{outline:2px solid var(--accent)}
+.gr-ipucu{position:absolute;top:-6px;transform:translateX(-50%);background:var(--ink);color:var(--paper);font-family:var(--f-ui);font-size:12.5px;line-height:1.25;padding:5px 8px;border-radius:4px;pointer-events:none;white-space:nowrap;display:flex;flex-direction:column;align-items:center}
+.gr-ipucu.sagda{transform:translateX(-100%)}
+.gr-ipucu[hidden]{display:none}
+.gr-ipucu b{font-size:14px}
+.gr-tablo{margin-top:14px;font-family:var(--f-ui);font-size:14.5px}
+.gr-tablo summary{cursor:pointer;color:var(--ink-2);font-weight:600}
+.gr-tbl{min-width:560px}
+.gr-tbl td{padding:8px 10px 8px 0}
+.gr-tbl td.num{text-align:right;font-family:var(--f-ui);white-space:nowrap}
+.gr-kaynak{margin-top:10px;font-family:var(--f-ui);font-size:13px;color:var(--muted)}
+@media (max-width:600px){.gr-tbl{min-width:0}.gr-tbl thead{display:table-header-group}.gr-tbl tr{display:table-row}.gr-tbl td{display:table-cell;padding:6px 8px 6px 0;font-size:13px}}
+
 /* Okuma sayfası (Dosya): iki sütun gövde + yan kutular */
 .read{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:32px}
 .read .head{display:flex;flex-direction:column;gap:10px;margin-bottom:16px}
@@ -404,6 +441,7 @@ footer .kunye{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
 <script type="module">
 import { dogrula } from "./sema.js";
 import { karikaturCiz } from "./karikatur.js";
+import { grafiklerCiz } from "./grafik.js";
 
 const $ = (s, r = document) => r.querySelector(s);
 function el(tag, attrs, ...kids) {
@@ -541,6 +579,10 @@ function render(d) {
     arr(d.faiz).forEach((f) => r.append(el("div", { class: "box rate" }, el("span", { class: "lbl", text: str(f.kurum) }), el("div", { class: "big num", text: str(f.mevcut) }), el("p", null, el("b", { text: "Beklenti: " }), str(f.beklenti)), f.not ? el("p", { text: str(f.not) }) : null)));
     s2.append(r);
   }
+  // Fiyat grafikleri: veri/gecmis.json bir kez indirilir, her sayıda aynı (en güncel) grafikler gösterilir.
+  const grafikYeri = el("div");
+  s2.append(grafikYeri);
+  gecmisGetir().then((g) => { if (g && Object.keys(g.seriler || {}).length) grafikYeri.append(grafiklerCiz(g)); });
   P.append(s2);
 
   // FİYAT BEKLENTİLERİ: altın, konut, arsa, otomobil… Kurumların açıkladığı tahminlerin sade özeti.
@@ -679,6 +721,9 @@ function bos(baslik, mesaj) {
   const P = $("#paper"); P.textContent = "";
   P.append(el("section", { class: "empty" }, el("h2", { text: baslik }), el("p", { text: mesaj })));
 }
+
+let gecmisSozu = null;
+const gecmisGetir = () => (gecmisSozu ||= fetch("veri/gecmis.json", { cache: "no-cache" }).then((r) => (r.ok ? r.json() : null)).catch(() => null));
 
 async function getir(yol) {
   const r = await fetch(yol, { cache: "no-cache" });

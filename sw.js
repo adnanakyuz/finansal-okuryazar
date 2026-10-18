@@ -1,7 +1,7 @@
 // Çevrimdışı okuma: her dosya önce internetten istenir, gelen kopya cihaza kaydedilir;
 // internet yoksa cihazdaki son kopya okunur. Sürüm değişince eski önbellek silinir.
-const SURUM = "fo-v8";
-const ISKELET = ["./", "index.html", "sema.js", "karikatur.js", "manifest.webmanifest", "ikonlar/ikon.svg", "ikonlar/ikon-192.png"];
+const SURUM = "fo-v9";
+const ISKELET = ["./", "index.html", "sema.js", "karikatur.js", "grafik.js", "manifest.webmanifest", "ikonlar/ikon.svg", "ikonlar/ikon-192.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(SURUM).then((c) => c.addAll(ISKELET)).then(() => self.skipWaiting()));
