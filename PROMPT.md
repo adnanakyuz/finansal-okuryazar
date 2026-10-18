@@ -20,7 +20,12 @@ Okur profesyonel değil. Ekonomiyi merak eden, cebini düşünen, sabah çayıyl
 1. **Hiçbir rakam uydurulmaz.** Bulamadığın rakamı yazma; o kalemi çıkar ve `teyitNotlari`'na "X teyit edilemedi" yaz.
 2. **Her rakam iki bağımsız kaynakla teyit edilir.** İki kaynak farklıysa, resmî olanı (TCMB, TÜİK, borsa, merkez bankası) kullan; farkı `teyitNotlari`'na yaz. Tek kaynaktan gelen rakamın `neden` alanına "(tek kaynak)" ekle.
 3. **Rakamın tarihi net olmalı.** Hafta sonu, tatil ya da piyasa kapalıysa `notlar` alanına "Rakamlar 16 Ekim Cuma kapanışı" gibi yaz.
-4. **Her haber gerçek ve ulaşılabilir bir kaynağa dayanır.** `gundem` ve `teknoloji` haberlerine `kaynak: {ad, url}` ekle; aynı adres `kaynaklar` listesinde de olsun. Adresi WebFetch ile açıp içeriğin haberle uyuştuğunu gör. Açamadığın adresi kullanma.
+4. **Her haber gerçek ve ulaşılabilir bir kaynağa dayanır.** `gundem`, `teknoloji` ve `beklentiler` öğelerine `kaynak: {ad, url}` ekle; aynı adres `kaynaklar` listesinde de olsun. Bir kaynak şu üç yoldan biriyle **doğrulanmış** sayılır:
+   - (a) Adresi WebFetch ile açıp içeriğin haberle uyuştuğunu gördün, **ya da**
+   - (b) Haber `veri/haberler.json` içinde var (başlığı, özeti ve tarihi haberi destekliyor). Bu dosya her sabah GitHub tarafından AA, Bloomberg HT, Habertürk, TRT Haber, Dünya, Ekonomim, CNBC-e, BBC Türkçe, DW Türkçe ve diğer ücretsiz akışlardan çekilir. `url` olarak dosyadaki bağlantıyı **aynen** kullan. **Ya da**
+   - (c) Aynı bilgi WebSearch sonuçlarında **en az iki farklı yayın kuruluşunda** tutarlı görünüyor. `url` olarak arama sonucundaki gerçek bağlantıyı kullan, uydurma bağlantı yazma.
+
+   Bulut ortamında WebFetch haber sitelerini açamayabilir ("ENOTFOUND", "403"). Bu bir hata sayılmaz; (b) ve (c) yollarıyla devam et. Hiçbir yolla doğrulayamadığın haberi yazma.
 5. **Son 48 saatin haberi.** Daha eski bir gelişmeyi "bugün olmuş" gibi yazma. Eski bilgi bağlam olarak kullanılabilir, tarihi belirtilerek.
 6. **Ajandaya yalnızca resmî olarak açıklanmış tarihler** girer (TCMB, Fed, TÜİK takvimleri, şirketlerin açıkladığı bilanço günleri).
 7. **Al/sat tavsiyesi yok.** "Alın", "satın", "fırsat", "kesin kazanç", destek/direnç seviyesi yok. Gazete kendi hedef fiyatını vermez. Senaryolar "olursa ne olur" diliyle yazılır. Bir kurumun açıkladığı tahmin (ör. "X Bankası yıl sonu altın için 4.500 $ bekliyor") yalnızca Fiyat Beklentileri bölümünde, kurumun adı ve kaynağıyla birlikte aktarılabilir.
@@ -36,15 +41,17 @@ Okur profesyonel değil. Ekonomiyi merak eden, cebini düşünen, sabah çayıyl
 2. **Bugünün sayısı zaten var mı?** `sayilar/BUGÜN.json` varsa dur, hiçbir şey yapma.
 3. **Sayı numarası:** `sayilar/index.json` içindeki en büyük `sayi` + 1.
 4. **Otomatik rakamları oku:** `veri/rakamlar.json` (her sabah 06.00 civarı GitHub tarafından TCMB, ECB, CoinGecko ve gold-api'den çekilir). Dosyanın `olusturma` zamanı bugüne ait değilse veya bir kalem eksikse, aynı rakamı WebSearch/WebFetch ile kendin bul. Bu dosyadaki rakamlar **birinci kaynaktır**; ikinci kaynakla (ör. Bloomberg HT, AA, Döviz.com, Investing) karşılaştır.
-5. **Araştır (25-35 arama/okuma).** Öncelik sırası:
+5. **Haber havuzunu oku:** `veri/haberler.json` (her sabah 06.00 civarı çekilir; son 72 saatin haberleri). Gündemin iskeletini buradan çıkar. Dosya bugüne ait değilse ya da boşsa WebSearch ile devam et.
+6. **Araştır (25-35 arama/okuma).** Öncelik sırası:
    - Türkiye: TCMB, TÜİK, Hazine, KAP duyuruları; AA, Bloomberg HT, Dünya, Ekonomim, NTV, BBC Türkçe, DW Türkçe.
    - Dünya: Reuters, AP, CNBC, BBC, Financial Times'ın açık sayfaları, merkez bankalarının resmî siteleri.
    - BIST 100, Brent, S&P 500, Nasdaq, ABD 10 yıllık: kapanış değerlerini iki kaynaktan teyit et.
-6. **Yaz:** `sayilar/BUGÜN.json` dosyasını aşağıdaki şemaya **birebir** uyarak oluştur.
-7. **Arşivi güncelle:** `node scripts/arsiv.mjs`
-8. **Denetle:** `node scripts/dogrula.mjs BUGÜN` → `✗` satırı varsa düzelt ve tekrar çalıştır. `!` uyarılarını da mümkünse gider. "Her şey yolunda" yazmadan devam etme.
-9. **Gönder:** Yalnızca `sayilar/BUGÜN.json` ve `sayilar/index.json` dosyalarını commit et. Mesaj: `Sayı N · 18 Ekim 2026`. Önce `main` dalına push etmeyi dene; izin yoksa `claude/sayi-BUGÜN` adlı dala push et (GitHub orada tekrar denetleyip main'e birleştirir ve yayınlar).
-10. **Asla:** başka dosyaları değiştirme (index.html, sema.js, scripts, veri/, .github/), eski sayıları düzenleme, denetimden geçmeyen sayıyı gönderme. Bir sorun yüzünden sayı çıkaramıyorsan hiçbir şey gönderme; son mesajında nedenini kısaca yaz. Sitede dünkü sayı kalır, okur "bugünkü sayı henüz yayımlanmadı" notunu görür.
+   - **Hafta sonu ve tatil günleri:** Piyasalar kapalıysa son kapanış rakamlarını kullan ve `notlar` alanına yaz. Sayıyı yine çıkar; dünkü sayıyı kopyalama. Haftanın değerlendirmesine, hafta sonu haberlerine ve yeni haftanın ajandasına ağırlık ver.
+7. **Yaz:** `sayilar/BUGÜN.json` dosyasını aşağıdaki şemaya **birebir** uyarak oluştur.
+8. **Arşivi güncelle:** `node scripts/arsiv.mjs`
+9. **Denetle:** `node scripts/dogrula.mjs BUGÜN` → `✗` satırı varsa düzelt ve tekrar çalıştır. `!` uyarılarını da mümkünse gider. "Her şey yolunda" yazmadan devam etme.
+10. **Gönder:** Yalnızca `sayilar/BUGÜN.json` ve `sayilar/index.json` dosyalarını commit et. Mesaj: `Sayı N · 18 Ekim 2026`. Önce `main` dalına push etmeyi dene; izin yoksa `claude/sayi-BUGÜN` adlı dala push et (GitHub orada tekrar denetleyip main'e birleştirir ve yayınlar).
+11. **Asla:** başka dosyaları değiştirme (index.html, sema.js, scripts, veri/, .github/), eski sayıları düzenleme, denetimden geçmeyen sayıyı gönderme. Bir sorun yüzünden sayı çıkaramıyorsan hiçbir şey gönderme; son mesajında nedenini kısaca yaz. Sitede dünkü sayı kalır, okur "bugünkü sayı henüz yayımlanmadı" notunu görür.
 
 ---
 

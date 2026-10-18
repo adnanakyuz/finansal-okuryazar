@@ -1,6 +1,8 @@
-# Her sabah 06.00 civarı (İstanbul) ücretsiz kaynaklardan kur, altın ve kripto rakamlarını çeker,
-# veri/rakamlar.json dosyasına yazar. Yazı işleri 07.00'de bu dosyayı birinci kaynak olarak kullanır.
-name: Rakamları çek
+# Her sabah 06.00 civarı (İstanbul):
+#  1. Ücretsiz kaynaklardan kur, altın ve kripto rakamlarını çeker → veri/rakamlar.json
+#  2. Ücretsiz haber akışlarından (RSS) son 72 saatin haberlerini çeker → veri/haberler.json
+# Yazı işleri 07.00'de bu iki dosyayı kaynak olarak kullanır (bulut ortamı haber sitelerini açamasa da).
+name: Rakamları ve haberleri çek
 
 on:
   schedule:
@@ -18,12 +20,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/rakamlar.mjs
+      - name: Rakamlar
+        run: node scripts/rakamlar.mjs
+      - name: Haberler
+        run: node scripts/haberler.mjs
       - name: Kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add veri/rakamlar.json
+          git add veri/rakamlar.json veri/haberler.json
           git diff --cached --quiet && exit 0
-          git commit -m "Günün rakamları $(TZ=Europe/Istanbul date +%F)"
+          git commit -m "Günün rakamları ve haberleri $(TZ=Europe/Istanbul date +%F)"
+          git pull --rebase
           git push
