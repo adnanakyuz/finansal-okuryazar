@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-10-20",
+      "tarihMetni": "20 Ekim 2026, Salı",
+      "sayi": 4,
+      "baslik": "Borsa %2,49 düştü, SPK ve Hazine'de görev değişikliği"
+    },
+    {
       "tarih": "2026-10-19",
       "tarihMetni": "19 Ekim 2026, Pazartesi",
       "sayi": 3,
