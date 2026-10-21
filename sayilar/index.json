@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-10-21",
+      "tarihMetni": "21 Ekim 2026, Çarşamba",
+      "sayi": 5,
+      "baslik": "Borsa bir günde %3,22 yükseldi, gözler Perşembe faiz kararında"
+    },
+    {
       "tarih": "2026-10-20",
       "tarihMetni": "20 Ekim 2026, Salı",
       "sayi": 4,
