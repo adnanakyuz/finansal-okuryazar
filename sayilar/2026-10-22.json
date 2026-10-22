@@ -1,0 +1,703 @@
+{
+  "tarih": "2026-10-22",
+  "tarihMetni": "22 Ekim 2026, Perşembe",
+  "sayi": 6,
+  "notlar": "Borsa ve ABD endeksleri 21 Ekim Çarşamba kapanışı · Döviz TCMB 21 Ekim bülteni · Altın, gümüş ve Bitcoin Perşembe sabahı (TSİ 06.00 civarı)",
+  "gununOzeti": "Bugün Merkez Bankası (TCMB) faiz kararını açıklıyor; politika faizi şu an %37 ve ankete göre %36'ya indirim bekleniyor. Borsa İstanbul dün %1,87 düşüp 11.577 puana indi. Cebine etkisi: karar kredi ve mevduat faizlerini zamanla etkileyebilir, ama bugünkü tek bir rakam uzun vadeli yönü göstermez.",
+  "manset": {
+    "ustBaslik": "Merkez Bankası · Faiz",
+    "baslik": "Faiz kararı bugün: Borsa dün %1,87 düştü, gözler TCMB'de",
+    "spot": "TCMB bugün yılın yedinci faiz kararını açıklıyor. Anketteki ekonomistler politika faizinin %37'den %36'ya inmesini bekliyor; bu bir beklentidir, karar değil. Borsa İstanbul dün bu beklentinin gölgesinde günü düşüşle kapattı.",
+    "ozet": [
+      "BIST 100 dün %1,87 düşüşle 11.577,12 puandan kapandı.",
+      "TCMB faiz kararı bugün; beklenti %37'den %36'ya indirim.",
+      "Dolar/TL 49,60 civarında; ons altın 4.107 dolara geriledi.",
+      "Fon tasfiyesi kanun teklifinin ilk 5 maddesi Meclis'te kabul edildi."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Fonlar",
+      "baslik": "Fon tasfiyesi teklifinde yeni düzenleme: Bloke edilen işlemler de kapsama alındı",
+      "spot": "Meclis Genel Kurulu'nda kabul edilen önergeyle, işlemi bloke olan yatırımcılar da tasfiye hükümlerine tabi olacak. Erken çıkanların iade tutarının hesabı da değişti."
+    },
+    {
+      "ustBaslik": "Dünya · Teknoloji",
+      "baslik": "Meta'nın kârı yükseldi, aynı gün 25 milyar dolarlık ceza haberi geldi",
+      "spot": "Meta üçüncü çeyrekte beklentileri aşan sonuç açıkladı. Aynı gün ABD'de bir mahkeme, kullanıcıları yanılttığı gerekçesiyle şirkete 25 milyar dolar para cezası verdi."
+    },
+    {
+      "ustBaslik": "Siber güvenlik",
+      "baslik": "PHP açığı alarmı: Türkiye'de de önleyici çalışma başladı",
+      "spot": "İnternet sitelerinde yaygın kullanılan PHP altyapısındaki kritik açıklar nedeniyle Siber Güvenlik Başkanlığı ulusal tarama başlattı."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.577",
+      "degisim": "%1,87",
+      "yon": "down",
+      "neden": "Faiz kararı öncesi temkin ve satış baskısı vardı; kesin nedeni haberler açıkça yazmadı. Tek günlük hareket kalıcı yön göstermez."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "49,60",
+      "degisim": "%0,05",
+      "yon": "up",
+      "neden": "Kur yavaş ve kontrollü artıyor. Dolarla borcu ya da tatil planı olanlar için aylık küçük artışlar birikir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,68",
+      "degisim": "%0,11",
+      "yon": "up",
+      "neden": "Euro, dolara karşı güçlendiği için TL karşısında da biraz yükseldi; Avrupa'dan alışveriş yapanlar için maliyet artar."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.550 TL",
+      "degisim": "%0,23",
+      "yon": "down",
+      "neden": "Ons altındaki düşüşü yansıttı (hesaplanan değerdir). Sarrafta alış-satış fiyatı bundan farklı olabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.107 $",
+      "degisim": "%0,28",
+      "yon": "down",
+      "neden": "Orta Doğu gerginliğine rağmen yükselemiyor; ABD faizlerinin yüksek kalması beklentisi altını baskılıyor. (tek kaynak)"
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "82.775 $",
+      "degisim": "%0,09",
+      "yon": "up",
+      "neden": "Son 24 saatte neredeyse yatay. Kripto fiyatları kısa sürede sert oynayabilir. (tek kaynak)"
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "56,69 $",
+      "degisim": "%1,53",
+      "yon": "down",
+      "neden": "Altınla birlikte geriledi; gümüş altından daha oynak bir madendir. (tek kaynak)"
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "7.757",
+      "degisim": "%0,58",
+      "yon": "up",
+      "neden": "Meta ve IBM gibi şirketlerin güçlü bilançoları, yapay zekâ harcamalarına dair endişeleri hafifletti."
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "26.703",
+      "degisim": "%1,05",
+      "yon": "up",
+      "neden": "Teknoloji ağırlıklı endeks, bilanço sezonunun iyimserliğiyle daha çok yükseldi."
+    },
+    {
+      "ad": "Dow Jones",
+      "deger": "52.856",
+      "degisim": "%0,69",
+      "yon": "up",
+      "neden": "ABD'nin büyük sanayi ve hizmet şirketlerinde genel alım vardı."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%37",
+      "beklenti": "Bugün (22 Ekim) 100 baz puan indirimle %36 bekleniyor (anket katılımcı ekonomistler); piyasada görüşler ayrışıyor.",
+      "not": "Baz puan: yüzde birin yüzde biri; 100 baz puan = %1. Karar bugün öğleden sonra açıklanacak, bu sayıdan sonra."
+    },
+    {
+      "kurum": "Fed (ABD) faizi",
+      "mevcut": "%3,75–4,00",
+      "beklenti": "Fed kararı 27–28 Ekim'de. Bazı büyük bankaların yıl sonuna doğru faiz artışı beklediği bildirilmişti (CNBC-e, 19 Ekim).",
+      "not": "Fed faizi artırırsa dünyada borçlanma pahalanır, gelişen ülke piyasaları baskı görebilir."
+    },
+    {
+      "kurum": "Türkiye enflasyonu (Eylül, yıllık)",
+      "mevcut": "%29,73",
+      "beklenti": "Yıl sonu beklentisi %29,63 (TCMB anketi).",
+      "not": "Faiz kararı ve enflasyon birlikte okunmalı: enflasyon yüksek kaldıkça indirimin hızı tartışmalı."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "yukari",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Yabancı bankaların çoğu ons altının yıl sonunda bugünkü seviyesinin (≈4.107 $) üzerinde olacağını tahmin ediyor. Yıl sonu tahminlerinin ortası 4.825 $.",
+      "neden": "Savaş ve petrol riski güvenli liman talebini canlı tutuyor. Öte yandan Fed'in faiz artırma ihtimali altını baskılıyor; bu yüzden bazı bankalar tahminlerini aşağı çekti.",
+      "kimDiyor": "Amundi ve Natixis 5.000 $, Goldman Sachs 4.650 $ (önceki tahmini 4.900 $), OCBC 4.360 $. Daha temkinli olan ING yılın son çeyreği için 4.150 $ bekliyor. Tahminler Ağustos-Eylül raporlarına ait. Goldman Sachs ayrıca merkez bankalarının altın talebinin fiyatlara yapısal destek sağlamayı sürdürdüğünü belirtti (Ağustos'ta 39 ton alım; ilk 8 ayda 170 ton).",
+      "kaynak": {
+        "ad": "Haber TR / Matriks",
+        "url": "https://www.haber.tr/yabanci-bankalarin-altin-fiyati-tahminleri-guncellendi-2026-sonu-medyan-4825-dolar"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "yukari",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Ev fiyatları TL olarak artmaya devam ediyor ama enflasyonun gerisinde kalıyor. Yani etiket büyüyor, evin gerçek değeri biraz eriyor.",
+      "neden": "Eylül'de konut fiyatları bir yılda %22,3 arttı; aynı dönemde enflasyon daha yüksekti, bu yüzden enflasyondan arındırınca %5,7 düşüş var. Kredi faizleri yüksek kaldıkça talep sınırlı kalıyor. Kiralar ise daha hızlı artıyor (%26,6).",
+      "kimDiyor": "TCMB Konut Fiyat Endeksi (16 Ekim'de açıklandı). İleriye dönük resmî bir tahmin yok; yön son ayların verisine dayanıyor. Faiz indirimleri hızlanırsa talep ve fiyat artışı canlanabilir.",
+      "kaynak": {
+        "ad": "Sabah / TCMB",
+        "url": "https://www.sabah.com.tr/ekonomi/tcmb-rakamlarla-acikladi-eylulde-konut-fiyatlarinda-reel-dusus-7681942"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "2026 geneli",
+      "ozet": "Arsa için güncel ve güvenilir bir fiyat verisi bulamadık. Bilinen son tablo: arsa fiyatları 2025'te enflasyonun gerisinde kaldı.",
+      "neden": "2025'te konut imarlı arsaların metrekare fiyatı %20,38 arttı, enflasyon %30,89 oldu; yani arsa sahibi gerçekte değer kaybetti. Büyükşehirlerde artış daha da düşüktü (İstanbul %13). Arsa, konuta göre daha yavaş alınıp satılır; ihtiyaç anında nakde çevirmek zor olabilir.",
+      "kimDiyor": "Ocak 2026'da bir gayrimenkul uzmanı 2026'da arsa fiyatlarının enflasyon kadar artacağını öngörmüştü. Bu görüş 9 aylık; daha yenisi bulunamadı.",
+      "kaynak": {
+        "ad": "CNN Türk",
+        "url": "https://finans.cnnturk.com/finans-haberler/arsa-yatirimi-yapanlar-dikkat-arsa-fiyatlari-enflasyona-yenildi-iste-2025te-en-cok-degerlenen-5-sehie-2385808"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Sıfır araç satışları sert düştü, markalar kampanyayla müşteri arıyor. Buna karşın kur ve üretim maliyeti liste fiyatlarını yukarı itiyor.",
+      "neden": "Eylül'de otomobil satışları geçen yıla göre %27,8 azaldı. Satılmayan araç, indirim ve kampanya demek. Ama dolar yavaş yavaş yükseldikçe ithal parçalı otomobilin TL fiyatı da artıyor. İki kuvvet birbirini dengeliyor.",
+      "kimDiyor": "ODMD satış verileri (2 Ekim); Ekim fiyat listeleri. Açıklanmış bir kurum tahmini yok.",
+      "kaynak": {
+        "ad": "Foreks / ODMD",
+        "url": "https://www.foreks.com/haber/detay/6abf440d24008d7d4373ad6e/FRKS/tr/odmd-ocak-eylul-doneminde-otomobil-ve-hafif-ticari-arac-pazari-13-39-oraninda-daraldi-02-10-26/"
+      }
+    },
+    {
+      "konu": "Dolar/TL",
+      "yon": "yukari",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Piyasa profesyonelleri doların yıl sonunda 51,55 TL civarında olmasını bekliyor. Bugün 49,60 TL civarında.",
+      "neden": "TCMB kuru ani sıçramalar olmadan, enflasyondan yavaş artıracak şekilde yönetiyor. Bu yüzden dolar her ay biraz yükseliyor ama TL'deki faiz getirisi bu artışı çoğu zaman karşılıyor.",
+      "kimDiyor": "TCMB Ekim Piyasa Katılımcıları Anketi (ekonomistler ve finans profesyonelleri).",
+      "kaynak": {
+        "ad": "Karar / TCMB anketi",
+        "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+      }
+    },
+    {
+      "konu": "Petrol (Brent)",
+      "yon": "asagi",
+      "vade": "2027",
+      "ozet": "Goldman Sachs, Orta Doğu'dan petrol arzı toparlanınca fiyatların 2027'de gerilemesini bekliyor. Çatışma yeniden tırmanırsa yüksek fiyatlar daha uzun sürebilir.",
+      "neden": "Petrol pahalı kaldıkça akaryakıt ve ulaşım pahalı kalır, enflasyon zorlaşır. Arz toparlanırsa bu baskı hafifleyebilir.",
+      "kimDiyor": "Goldman Sachs. Başka kurumların güncel tahmini bu sayıda teyit edilemedi.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/enerji/petrol-fiyatlari-dusecek-mi-goldman-sachstan-yeni-tahmin-g39707"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · TCMB Faiz Kararı",
+    "baslik": "Merkez Bankası bugün faizi açıklıyor: Bu karar cebinize nasıl dokunabilir?",
+    "spot": "Bugün öğleden sonra TCMB politika faizini açıklayacak. Beklenti indirim yönünde, ama görüşler tam birleşmiş değil.",
+    "paragraflar": [
+      "TCMB bugün yılın yedinci faiz kararını açıklıyor. Politika faizi (bankaların Merkez Bankası'ndan borç aldığı faiz) şu an %37. TRT Haber ve BBC Türkçe, kararın piyasaların odağında olduğunu yazıyor.",
+      "Ankete katılan ekonomistler 100 baz puanlık indirim, yani faizin %36'ya inmesini bekliyor. BBC Türkçe ise beklentilerde ayrışma olduğunu belirtiyor. Yani kesin bir senaryo yok.",
+      "Faiz inerse ne olur? Kredi ve mevduat faizleri zamanla yumuşayabilir. Borcu olan için bu iyi haber olabilir, mevduatta parası olan için getiri azalabilir. Faiz sabit kalırsa ya da indirim beklentiden küçük gelirse piyasada dalgalanma görülebilir.",
+      "Dün Borsa İstanbul'da BIST 100 %1,87 düşüp 11.577,12 puana indi. Bir gün önce %3,22 yükselmişti. İki günlük hareket, kararın ne kadar yakından izlendiğini gösteriyor; ama nedenini haber kaynakları kesin yazmadı.",
+      "Karar metni, faizin kendisi kadar önemli. Merkez Bankası enflasyona ve gelecek aylara dair ne söylüyor? Piyasa yarın bu cümlelere bakacak. Biz kararı sonraki sayıda aktaracağız."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Politika faizi",
+        "metin": "Merkez Bankası'nın bankalara verdiği borcun faizidir. Bankaların kredi ve mevduat faizlerini dolaylı olarak etkiler."
+      },
+      {
+        "baslik": "Bu ne demek? Baz puan",
+        "metin": "Yüzde birin yüzde biri. 100 baz puan %1 eder; yani %37'den %36'ya düşüş 100 baz puandır."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Faiz",
+      "baslik": "TCMB faiz kararı bugün açıklanacak",
+      "metin": "TRT Haber'e göre Merkez Bankası'nın yılın yedinci faiz kararı bugün açıklanıyor. BBC Türkçe beklentilerde ayrışma olduğunu yazıyor.",
+      "etki": "Karar kredi ve mevduat faizlerini zamanla etkileyebilir; kredi çekmeyi ya da mevduat açmayı düşünenler karar metnini izleyebilir.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html"
+      }
+    },
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "Borsa İstanbul günü %1,87 düşüşle kapattı",
+      "metin": "AA'ya göre BIST 100 endeksi dün %1,87 değer kaybederek 11.577,12 puandan günü tamamladı.",
+      "etki": "Borsada parası olanlar için dalgalanma normaldir; kısa vadeli düşüş tek başına kalıcı kayıp demek değildir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4096198"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fonlar",
+      "baslik": "Fon tasfiyesi teklifinde bloke işlemler de kapsama alındı",
+      "metin": "Dünya ve Habertürk'e göre Meclis Genel Kurulu'nda kabul edilen önergeyle, temerrüt ya da fiyat açıklanmaması nedeniyle işlemi gerçekleşemeyen yatırımcılar da tasfiye hükümlerine tabi olacak. Ekonomim'e göre erken çıkanların iade tutarında emsal fon getirisi yerine TÜFE ve Yİ-ÜFE artışlarının ortalaması esas alınacak.",
+      "etki": "Tasfiye edilen fonlarda parası olanlar, hangi kuralın kendilerine uygulanacağını resmî duyurulardan takip etmeli.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/ak-parti-nin-fon-teklifine-iliskin-onergesiyle-bloke-islemler-tasfiyeye-dahil-edildi-3921552"
+      }
+    },
+    {
+      "etiket": "Türkiye · Finans",
+      "baslik": "JPMorgan: Aracı kurum izni iptali Türkiye'den çekilme demek değil",
+      "metin": "Bloomberg HT ve Habertürk'e göre J.P. Morgan Menkul Değerler A.Ş., faaliyet izninin iptaline yönelik sürecin grubun Türkiye'den çekilmesi anlamına gelmediğini, İstanbul Şubesi'nin bankacılık faaliyetlerinin kesintisiz süreceğini açıkladı.",
+      "etki": "Yabancı kurumların Türkiye'deki varlığı, piyasaya duyulan güven açısından izlenir; bireysel hesaplara doğrudan etkisi bildirilmedi.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/jp-morgan-araci-kurum-lisans-iptali-turkiye-den-cekilme-anlamina-gelmiyor-3792142"
+      }
+    },
+    {
+      "etiket": "Dünya · Teknoloji",
+      "baslik": "Meta'ya 25 milyar dolar para cezası",
+      "metin": "Bloomberg HT'ye göre ABD'nin New Mexico eyaletinde bir mahkeme, Meta'yı kullanıcıları gizlilik ve içerik denetimi konusunda yanılttığı gerekçesiyle 25 milyar dolar ödemeye mahkûm etti. BBC, bunun şirkete verilen en yüksek ceza olduğunu yazıyor.",
+      "etki": "Büyük teknoloji şirketlerine verilen cezalar hisse fiyatlarını ve dijital hizmetlerin kurallarını etkileyebilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/meta-ya-kullanici-gizliligi-ihlali-nedeniyle-25-milyar-dolar-ceza-3792143"
+      }
+    },
+    {
+      "etiket": "Dünya · Jeopolitik",
+      "baslik": "ABD, Ortadoğu'da personel azaltıyor; Suudi Arabistan'da havalimanına saldırı",
+      "metin": "CNBC-e'ye göre ABD, Ortadoğu'daki üs ve temsilciliklerinde personel azaltımına gidiyor. Ekonomim, Suudi Arabistan'ın Dammam kentindeki Kral Fahd Havalimanı'na saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını bildirdi.",
+      "etki": "Orta Doğu gerginliği petrolü ve altını etkileyebilir; akaryakıt fiyatları da bu yoldan hissedilebilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/abd-ortadogudaki-askerlerini-ve-diplomatlarini-geri-cekiyor-irana-yeni-saldiri-hazirligi-mi-h40021"
+      }
+    },
+    {
+      "etiket": "Dünya · Türkiye",
+      "baslik": "Kanada Başbakanı Carney Türkiye'de",
+      "metin": "BBC Türkçe'ye göre Mark Carney, Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyareti yapıyor. Ekonomi ve savunma alanlarında anlaşmalar bekleniyor.",
+      "etki": "Yeni ticaret ve savunma anlaşmaları ihracatçılar için fırsat yaratabilir; ayrıntılar henüz açıklanmadı.",
+      "kaynak": {
+        "ad": "BBC Türkçe",
+        "url": "https://www.bbc.com/turkce/articles/c5m2dz18pr4ko?at_medium=RSS&at_campaign=rss"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Şirketler · Yapay zekâ",
+      "baslik": "Meta'nın geliri %26 arttı",
+      "metin": "Ekonomim ve Bloomberg HT'ye göre Meta'nın üçüncü çeyrek geliri %26 artışla 64,6 milyar dolar oldu. CNBC-e, şirketin yatırım harcaması beklentisinin alt sınırını 135 milyar dolara yükselttiğini yazdı.",
+      "neden": "Yapay zekâ yatırımlarının sürdürülebilirliği, teknoloji hisselerinin yönünü belirliyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sirketler/metadan-beklentileri-asan-bilanco-haberi-926284"
+      }
+    },
+    {
+      "etiket": "Otomotiv",
+      "baslik": "Tesla'nın kârı %43 azaldı, geliri beklentiyi aştı",
+      "metin": "Bloomberg HT'ye göre Tesla'nın üçüncü çeyrek net kârı %43 düştü. CNBC-e ise 28,05 milyar dolarlık gelirin beklentileri aştığını bildirdi.",
+      "neden": "Robotaksi ve yapay zekâ yatırımları kârı baskılıyor; elektrikli araç fiyatlarının yönü için ipucu veriyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sektorler/otomotiv/teslanin-kari-ucuncu-ceyrekte-azaldi-haberi-926274"
+      }
+    },
+    {
+      "etiket": "Siber güvenlik",
+      "baslik": "PHP açığı: Siteler dünya genelinde düşürüldü",
+      "metin": "BBC'ye göre PHP dilindeki açıklar, yapay zekâ tarafından bulunan en önemli açıklar olarak tanımlandı. Bloomberg HT'ye göre Siber Güvenlik Başkanlığı ulusal önleyici çalışma başlattı.",
+      "neden": "Birçok internet sitesi PHP kullanıyor; kurumların güncelleme yapması gerekebilir.",
+      "kaynak": {
+        "ad": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Karar günü sabrı",
+      "paragraflar": [
+        "Bugün gazete masasında herkes aynı saate bakıyor: TCMB'nin faiz kararı. Borsa dün düştü, bir gün önce yükselmişti. Bu bize şunu söylüyor: karar öncesi beklenti, rakamdan çok sinir oynatıyor.",
+        "Faiz indirimi kâğıt üzerinde güzel haber gibi görünür, ama mevduat sahibi için getiri azalır. Kararı sadece 'indi mi, inmedi mi' diye değil, 'neden ve ne söylüyor' diye okumak gerekir.",
+        "Biz sonucu yarınki sayıda aktaracağız. O zamana kadar tahmin yürütmek yerine bütçemizi sakin tutalım."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Dünkü iki yüz: Borsa İstanbul ve Wall Street",
+      "paragraflar": [
+        "Dün Borsa İstanbul %1,87 düşerken New York'ta üç büyük endeks de yükseldi: S&P 500 %0,58, Nasdaq %1,05, Dow Jones %0,69. Haber kaynakları New York'taki yükselişi bilanço sezonuna ve yapay zekâ iyimserliğine bağlıyor.",
+        "Yerli piyasa ise bugünkü TCMB kararını bekliyor. İki farklı gündem, iki farklı yön. İzlenecekler: karar metnindeki dil ve yarın dolar/TL ile borsanın tepkisi."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Karar öncesi bütçe düzeni",
+      "paragraflar": [
+        "Faiz haberi geldiğinde acele karar vermeyin. Önce elinizdeki kredilerin sabit mi değişken mi faizli olduğuna bakın; kararın size ne getirebileceğini ancak böyle anlarsınız.",
+        "'Garanti kazanç' vaat eden her teklif dolandırıcılık işaretidir. Fon ya da yatırım bilgisini yalnızca SPK, banka ve TEFAS gibi resmî kanallardan teyit edin."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Faiz beklenti yönünde inerse kredi ve mevduat faizleri zamanla yumuşayabilir.",
+      "Karar metni enflasyonla mücadelede kararlı bir dil taşırsa piyasalarda belirsizlik azalabilir."
+    ],
+    "olumsuz": [
+      "Faiz sabit kalırsa ya da indirim beklentinin altında gelirse piyasalar dalgalanabilir.",
+      "Orta Doğu'daki gerginlik petrolü yükseltirse enflasyon baskısı artabilir."
+    ],
+    "riskler": "Petrol fiyatları, Orta Doğu'daki gelişmeler ve ABD'de faizlerin yüksek kalma ihtimali Türkiye piyasalarını etkileyebilecek ana riskler arasında.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Per 22 Ekim",
+      "olay": "TCMB faiz kararı (beklenti %37 → %36) · Kanada Başbakanı Carney'nin Türkiye ziyareti · P&G, Blackstone bilançoları",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Cum 23 Ekim",
+      "olay": "American Express bilançosu · ABD Michigan tüketici güveni",
+      "onem": "orta"
+    },
+    {
+      "gun": "27–28 Ekim",
+      "olay": "Fed faiz kararı",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "28 Ekim",
+      "olay": "Apple yeni ürün etkinliği (Los Angeles)",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "8–9 Aralık",
+      "olay": "Fed yılın son faiz kararı",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Para cezası (idari)",
+      "aciklama": "Bir mahkemenin ya da kurumun, kural ihlali yapan şirkete ödemesi için verdiği tutar."
+    },
+    {
+      "terim": "Güvenlik açığı",
+      "aciklama": "Bir yazılımdaki zayıf nokta; kötü niyetli biri bu açığı kullanarak siteye zarar verebilir."
+    },
+    {
+      "terim": "Aracı kurum",
+      "aciklama": "Borsada hisse alıp satmak isteyenlere aracılık eden şirket."
+    },
+    {
+      "terim": "Yatırım harcaması",
+      "aciklama": "Bir şirketin gelecekte para kazanmak için fabrika, makine ya da yazılıma ayırdığı para."
+    }
+  ],
+  "teyitNotlari": [
+    "BIST 100 21 Ekim kapanışı (11.577,12 puan, %1,87 düşüş) AA, Habertürk ve CNBC-e'de tutarlı; resmî Borsa İstanbul verisiyle ayrıca teyit edilemedi.",
+    "Dolar/TL (49,6015) TCMB 21 Ekim bülteninden; ECB referansı (49,602) ile uyumlu. Euro/TL (55,6781) TCMB bülteninden; ECB EUR/USD ile hesaplanan değerden (~55,72) küçük bir fark var, resmî TCMB değeri kullanıldı.",
+    "S&P 500 (7.757,17), Nasdaq (26.702,86) ve Dow (52.856,09) 21 Ekim kapanışı arama sonuçlarındaki bir borsa özetinden alındı; bir önceki sayıdaki 20 Ekim kapanışlarıyla yüzde değişimleri tutarlı, haber sitelerine bu ortamdan erişilemedi.",
+    "Brent petrol ve ABD 10 yıllık tahvil faizi için bugün güvenilir, iki kaynaklı kapanış rakamı bulunamadı; bu kalemler piyasa tablosuna alınmadı. Brent'in 108–110 dolar aralığında olduğu bildirildi, kesin rakam teyit edilemedi.",
+    "Ons altın, gümüş ve Bitcoin yalnızca otomatik veri kaynaklarından (gold-api.com, CoinGecko) alındı (tek kaynak); ons altının 4.100 dolar çevresinde olduğu Dünya haberiyle uyumlu. Gram altın hesaplanan değerdir.",
+    "Fiyat beklentileri bölümü (altın, konut, arsa, otomobil, dolar, petrol) bir önceki sayıdaki kaynaklara dayanıyor; bu sabah yeni bir kurum tahmini bulunamadı, arsa için güncel veri yok.",
+    "TCMB faiz beklentisi (%36) ve Fed faizi bir önceki sayıdaki kaynaklardan aktarıldı; BBC Türkçe beklentilerde ayrışma olduğunu belirtti, ayrıntı teyit edilemedi.",
+    "ABD'nin Ortadoğu'daki personel azaltımı haberi CNBC-e'den (tek kaynak); haber başlığındaki 'saldırı hazırlığı' ifadesi spekülasyon olduğundan metne alınmadı."
+  ],
+  "karikatur": {
+    "baslik": "Karar Günü",
+    "dayanak": "Dayanak: BIST 100 dün %1,87 düşüp 11.577 puana indi; TCMB faiz kararı bugün açıklanacak, beklenti %37'den %36'ya.",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "gazete",
+            "efekt": "soru"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "konus"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Borsa dün %1,87 düşmüş, Kemal!"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Bugün faiz kararı var abi, herkes saate bakıyor."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "orta",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Kredi taksidim %36 mı olacak %37 mi, ekran yenileyip duruyorum."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cuzdan",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Beklenti ayrı şey, karar ayrı şey."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Yani bekleyip göreceğiz."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "normal"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "sasir",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Garanti kazanç vaat eden mesajlar yine yağıyor."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Garanti dedi mi dolandırıcılık!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "eller-havada"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "gul"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Faiz inse de inmese de çayın fiyatı sabit: sohbet bedava!"
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Bari o iner, çay benden."
+          }
+        ]
+      }
+    ]
+  },
+  "kaynaklar": [
+    {
+      "baslik": "AA – Borsa günü düşüşle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4096198"
+    },
+    {
+      "baslik": "CNBC-e – Borsa günü düşüşle kapadı",
+      "url": "https://www.cnbce.com/borsa/borsa-gunu-dususle-kapadi-21-ekim-2026-h39941"
+    },
+    {
+      "baslik": "Habertürk – Borsa günü düşüşle tamamladı",
+      "url": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3921524"
+    },
+    {
+      "baslik": "BBC Türkçe – Merkez Bankası faiz kararını açıklayacak",
+      "url": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "TRT Haber – Yurt içi piyasalarında gözler faiz kararında",
+      "url": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html"
+    },
+    {
+      "baslik": "Habertürk – Fon teklifinde bloke işlemler tasfiyeye dahil edildi",
+      "url": "https://www.haberturk.com/ekonomi/ak-parti-nin-fon-teklifine-iliskin-onergesiyle-bloke-islemler-tasfiyeye-dahil-edildi-3921552"
+    },
+    {
+      "baslik": "Dünya – Fon teklifinde yeni düzenleme",
+      "url": "https://www.dunya.com/ekonomi/fon-teklifinde-yeni-duzenleme-bloke-edilen-islemler-de-tasfiye-kapsamina-alindi-haberi-844805"
+    },
+    {
+      "baslik": "Ekonomim – Fondan parasını erken çekenin ödemesi gereken tutar artırıldı",
+      "url": "https://www.ekonomim.com/ekonomi/fondan-parasini-erken-cekenin-odemesi-gereken-tutar-artirildi-haberi-926235"
+    },
+    {
+      "baslik": "Habertürk – JPMorgan: Türkiye'den çekilmiyoruz",
+      "url": "https://www.haberturk.com/ekonomi/jpmorgan-turkiye-deki-bankacilik-faaliyetlerini-buyutme-karari-aldigini-acikladi-3921538"
+    },
+    {
+      "baslik": "Bloomberg HT – JP Morgan lisans iptali",
+      "url": "https://www.bloomberght.com/jp-morgan-araci-kurum-lisans-iptali-turkiye-den-cekilme-anlamina-gelmiyor-3792142"
+    },
+    {
+      "baslik": "Bloomberg HT – Meta'ya 25 milyar dolar ceza",
+      "url": "https://www.bloomberght.com/meta-ya-kullanici-gizliligi-ihlali-nedeniyle-25-milyar-dolar-ceza-3792143"
+    },
+    {
+      "baslik": "BBC – Meta fined $25bn",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "Ekonomim – Meta'dan beklentileri aşan bilanço",
+      "url": "https://www.ekonomim.com/sirketler/metadan-beklentileri-asan-bilanco-haberi-926284"
+    },
+    {
+      "baslik": "Bloomberg HT – Meta'nın üçüncü çeyrek net kârı",
+      "url": "https://www.bloomberght.com/meta-nin-ucuncu-ceyrek-net-kri-yillik-bazda-yuzde-264-artti-3792153"
+    },
+    {
+      "baslik": "CNBC-e – Meta'dan yapay zekaya 145 milyar dolarlık yatırım",
+      "url": "https://www.cnbce.com/sirket-bilancolari/metadan-yapay-zekaya-145-milyar-dolarlik-yatirim-hisseler-bilanco-sonrasi-yukseldi-h40018"
+    },
+    {
+      "baslik": "Ekonomim – Tesla'nın karı üçüncü çeyrekte azaldı",
+      "url": "https://www.ekonomim.com/sektorler/otomotiv/teslanin-kari-ucuncu-ceyrekte-azaldi-haberi-926274"
+    },
+    {
+      "baslik": "CNBC-e – Tesla'nın geliri beklentileri aştı",
+      "url": "https://www.cnbce.com/sirket-bilancolari/teslanin-geliri-beklentileri-asti-en-buyuk-sinav-yapay-zeka-ve-robotaksi-h40016"
+    },
+    {
+      "baslik": "Ekonomim – IBM'in kârı çift haneli arttı",
+      "url": "https://www.ekonomim.com/sirketler/ibmin-kari-cift-haneli-artti-yil-sonu-beklentisi-degismedi-haberi-926283"
+    },
+    {
+      "baslik": "BBC – Websites taken down worldwide (PHP)",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "Bloomberg HT – PHP güvenlik açığına karşı harekete geçildi",
+      "url": "https://www.bloomberght.com/turkiye-de-php-guvenlik-acigina-karsi-harekete-gecildi-3792149"
+    },
+    {
+      "baslik": "BBC Türkçe – Kanada'dan Türkiye'ye başbakan düzeyinde ilk ziyaret",
+      "url": "https://www.bbc.com/turkce/articles/c5m2dz18pr4ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "CNBC-e – ABD Ortadoğu'daki askerlerini geri çekiyor",
+      "url": "https://www.cnbce.com/haberler/abd-ortadogudaki-askerlerini-ve-diplomatlarini-geri-cekiyor-irana-yeni-saldiri-hazirligi-mi-h40021"
+    },
+    {
+      "baslik": "Ekonomim – Suudi Arabistan'da havalimanına saldırı",
+      "url": "https://www.ekonomim.com/havacilik/suudi-arabistanda-havalimanina-saldiri-olu-ve-yaralilar-var-haberi-926285"
+    },
+    {
+      "baslik": "Dünya – New York borsası yükselişle kapandı",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-kapandi-haberi-844808"
+    },
+    {
+      "baslik": "Ekonomim – New York borsası günü yükselişle kapattı",
+      "url": "https://www.ekonomim.com/ekonomi/new-york-borsasi-gunu-yukselisle-kapatti-haberi-926281"
+    },
+    {
+      "baslik": "Dünya – Altında 4.100 dolar alarmı",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-4100-dolar-alarmi-uzmanlar-dusus-riskine-dikkat-cekti-galeri-844811"
+    },
+    {
+      "baslik": "Ekonomim – 3,5 trilyon dolarlık Musk imparatorluğu kapıda",
+      "url": "https://www.ekonomim.com/ekonomi/35-trilyon-dolarlik-musk-imparatorlugu-kapida-haberi-926239"
+    },
+    {
+      "baslik": "Haber TR / Matriks – Altın",
+      "url": "https://www.haber.tr/yabanci-bankalarin-altin-fiyati-tahminleri-guncellendi-2026-sonu-medyan-4825-dolar"
+    },
+    {
+      "baslik": "Sabah / TCMB – Konut (ev)",
+      "url": "https://www.sabah.com.tr/ekonomi/tcmb-rakamlarla-acikladi-eylulde-konut-fiyatlarinda-reel-dusus-7681942"
+    },
+    {
+      "baslik": "CNN Türk – Arsa",
+      "url": "https://finans.cnnturk.com/finans-haberler/arsa-yatirimi-yapanlar-dikkat-arsa-fiyatlari-enflasyona-yenildi-iste-2025te-en-cok-degerlenen-5-sehie-2385808"
+    },
+    {
+      "baslik": "Foreks / ODMD – Otomobil",
+      "url": "https://www.foreks.com/haber/detay/6abf440d24008d7d4373ad6e/FRKS/tr/odmd-ocak-eylul-doneminde-otomobil-ve-hafif-ticari-arac-pazari-13-39-oraninda-daraldi-02-10-26/"
+    },
+    {
+      "baslik": "Karar / TCMB anketi – Dolar/TL",
+      "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+    },
+    {
+      "baslik": "CNBC-e – Petrol (Brent)",
+      "url": "https://www.cnbce.com/enerji/petrol-fiyatlari-dusecek-mi-goldman-sachstan-yeni-tahmin-g39707"
+    }
+  ]
+}
