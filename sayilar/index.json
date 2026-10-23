@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-10-23",
+      "tarihMetni": "23 Ekim 2026, Cuma",
+      "sayi": 7,
+      "baslik": "Faiz indirimi geldi, borsa yine de düştü"
+    },
+    {
       "tarih": "2026-10-22",
       "tarihMetni": "22 Ekim 2026, Perşembe",
       "sayi": 6,
