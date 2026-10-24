@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-10-24",
+      "tarihMetni": "24 Ekim 2026, Cumartesi",
+      "sayi": 8,
+      "baslik": "Borsa haftayı %5 düşüşle kapattı, altın da geriledi"
+    },
+    {
       "tarih": "2026-10-23",
       "tarihMetni": "23 Ekim 2026, Cuma",
       "sayi": 7,

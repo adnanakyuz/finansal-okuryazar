@@ -1,0 +1,746 @@
+{
+  "tarih": "2026-10-24",
+  "tarihMetni": "24 Ekim 2026, Cumartesi",
+  "sayi": 8,
+  "notlar": "Hafta sonu baskısı · Borsa ve döviz Cuma 23 Ekim kapanışı (döviz: TCMB 23 Ekim bülteni) · Altın, gümüş ve Bitcoin Cumartesi sabahı (TSİ 06.00 civarı)",
+  "gununOzeti": "Borsa İstanbul haftayı yaklaşık %5 kayıpla kapattı ve 11 ayın en düşük seviyelerini gördü. Petrol 116 doları aştı, gram altın da haftada %4 değer kaybetti. Gelecek hafta Fed kararı ve büyük teknoloji şirketlerinin bilançoları var; hafta sonu ise ABD-İran gerilimi petrol fiyatını yönlendirebilir.",
+  "manset": {
+    "ustBaslik": "Haftalık Bilanço",
+    "baslik": "Borsa haftayı %5 düşüşle kapattı, altın da geriledi",
+    "spot": "BIST 100 Cuma günü %0,92 düşüp 11.117 puana indi; gün içinde 11 ayın en düşük seviyesini gördü. Haftalık kayıp yaklaşık %5. Aynı hafta gram altın %4 geriledi; yalnızca dolar ve euro çok küçük bir artı verdi.",
+    "ozet": [
+      "BIST 100 Cuma günü %0,92 düşüşle 11.116,99 puandan kapandı; haftalık düşüş %5,16.",
+      "Gün içinde 10.772 puana kadar inen endeks, Kasım 2025'ten bu yana en düşük seviyeyi gördü.",
+      "Gram altın haftada %4,18 geriledi; dolar/TL %0,36, euro/TL %0,03 yükseldi.",
+      "Para piyasası fonları haftanın en çok kazandıran yatırım aracı oldu."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Petrol",
+      "baslik": "Brent petrol 116 doları aştı",
+      "spot": "Suudi Arabistan'a yönelik saldırı endişeleri ve ABD-İran gerilimi petrolü yukarı itti. Akaryakıt ve enflasyon açısından cebe dokunabilir."
+    },
+    {
+      "ustBaslik": "Güven",
+      "baslik": "ABD'de tüketici güveni 48'de",
+      "spot": "Michigan Üniversitesi endeksi ekimde 46,3'ten 48'e revize edildi ama son 5 ayın en düşük düzeyinde; enflasyon beklentileri yükseldi."
+    },
+    {
+      "ustBaslik": "Borç Ödemeleri",
+      "baslik": "Dört borçlanma aracında ödeme yapılamadı",
+      "spot": "MKK'ya göre üç şirketin ve bir finansman aracının 23 Ekim tarihli itfa ve kupon ödemeleri gerçekleşmedi."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.117",
+      "degisim": "%0,92",
+      "yon": "down",
+      "neden": "Haftalık düşüş yaklaşık %5; Cuma günü bankacılık ve sanayi hisseleri satıldı. Hisse veya fon yatırımı yapanlar için kısa vadeli dalgalanma sürebilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "49,65",
+      "degisim": "%0,05",
+      "yon": "up",
+      "neden": "TCMB'nin 23 Ekim bülteni. Haftalık artış %0,36; kur kontrollü ve yavaş yükseliyor, ithal ürün fiyatlarına etkisi kademeli."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,60",
+      "degisim": "%0,19",
+      "yon": "down",
+      "neden": "TCMB'nin 23 Ekim bülteni. Euro dolar karşısında geriledi (EUR/USD 1,12 civarı); Avrupa'dan alışveriş yapanlar için maliyet biraz azaldı."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.391 TL",
+      "degisim": "%4,18",
+      "yon": "down",
+      "neden": "Haftalık değişim (AA). Ons altındaki düşüşü izledi. Bu rakam hesaplanmış değerdir, kuyumcu fiyatı farklı olabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.997 $",
+      "degisim": "%4",
+      "yon": "down",
+      "neden": "Haftalık yaklaşık %4 kayıp (Dünya); 4.000 doların altına indi. Fed kararı öncesi dalgalı seyir sürebilir. (Haftalık oran yaklaşık değerdir)"
+    },
+    {
+      "ad": "Brent petrol",
+      "deger": "116,72 $",
+      "degisim": "%3,1",
+      "yon": "up",
+      "neden": "Orta Doğu'daki gerilim ve arz endişesi fiyatı yukarı itti. Akaryakıt ve ulaşım maliyetlerine yansıyabilir. (Kapanış değeri tek kaynak)"
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "80.893 $",
+      "degisim": "%1,08",
+      "yon": "down",
+      "neden": "Son 24 saatte geriledi; 81 bin dolar seviyesinin altına indi. Kripto çok oynak bir alandır; kaybetmeyi göze alamayacağınız parayı koymamak gerekir."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "54,05 $",
+      "degisim": "%0,06",
+      "yon": "flat",
+      "neden": "Cumartesi sabahı neredeyse yatay. Gümüş altından daha oynaktır."
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "7.624",
+      "degisim": "%0,52",
+      "yon": "down",
+      "neden": "Yapay zekâ hisselerindeki satış ve petrol artışı etkili oldu. Yurt dışı hisse yatırımcılarını ve ilgili fonları dolaylı etkiler. (Yüzde hesaplanmıştır)"
+    },
+    {
+      "ad": "Dow Jones",
+      "deger": "52.215",
+      "degisim": "%1,23",
+      "yon": "down",
+      "neden": "Cuma günü 652 puan düştü; haftalık bazda ise %0,4 yükseldi (savunmacı sektörler). (Yüzde hesaplanmıştır)"
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "25.955",
+      "degisim": "%0,21",
+      "yon": "down",
+      "neden": "Teknoloji hisseleri iki günlük sert satışın ardından Cuma günü sınırlı düştü; haftalık kayıp %0,7. (Yüzde hesaplanmıştır)"
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Piyasada bir sonraki toplantıda 100 puanlık indirim bekleniyor (Dünya, 23 Ekim sayısındaki habere göre).",
+      "not": "22 Ekim'de %37'den %36'ya indirildi. Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir."
+    },
+    {
+      "kurum": "Fed (ABD) faizi",
+      "mevcut": "%3,75–4,00",
+      "beklenti": "Fed kararı 27–28 Ekim'de.",
+      "not": "Karar öncesi altın ve dolar hareketleri bu yüzden dalgalı seyredebilir."
+    },
+    {
+      "kurum": "Rusya Merkez Bankası",
+      "mevcut": "%14",
+      "beklenti": "Faizi ikinci kez sabit bıraktı.",
+      "not": "Fiyat baskısı ve enflasyon beklentilerinin yüksek seyrettiği belirtildi (Bloomberg HT)."
+    },
+    {
+      "kurum": "Türkiye enflasyonu (Eylül, yıllık)",
+      "mevcut": "%29,73",
+      "beklenti": "Yıl sonu beklentisi %29,63 (TCMB anketi).",
+      "not": "Enflasyon %30'a yakınken faiz %36; aradaki fark (reel faiz) daralıyor."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Kısa vade / yıl sonu",
+      "ozet": "Altın haftayı yaklaşık %4 kayıpla kapattı ve 4.000 doların altına indi. Büyük bankalar uzun vadeli yükseliş görüşünü korurken kısa vade için uyarı yapıyor.",
+      "neden": "Fed faizinin yönü ve dolar altını baskılıyor; savaş ve petrol riski ise güvenli liman talebini canlı tutuyor. İki güç birbirini dengeliyor.",
+      "kimDiyor": "Goldman Sachs ve UBS uzun vadeli yükseliş beklentisinden vazgeçmedi, kısa vade için uyarı yaptı (Dünya). İMKUSAD Başkan Yardımcısı ara seçim sürecinde ons altında sürpriz yükselişler olabileceğini söyledi (CNBC-e). Banka tahmin rakamları bu ortamdan okunamadı.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolarin-altina-inse-de-iki-dev-banka-tahmininde-israrci-galeri-845075"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "yukari",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Ev fiyatları TL olarak artıyor ama enflasyonun gerisinde kalıyor. Yani etiket büyüyor, evin gerçek değeri biraz eriyor.",
+      "neden": "Eylül'de konut fiyatları bir yılda %22,3 arttı; enflasyondan arındırınca %5,7 düşüş var. Faizler düştükçe kredi talebi canlanabilir, fiyat artışı hızlanabilir.",
+      "kimDiyor": "TCMB Konut Fiyat Endeksi (16 Ekim'de açıklandı). İleriye dönük resmî bir tahmin yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Sabah / TCMB",
+        "url": "https://www.sabah.com.tr/ekonomi/tcmb-rakamlarla-acikladi-eylulde-konut-fiyatlarinda-reel-dusus-7681942"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "2026 geneli",
+      "ozet": "Arsa için güncel güvenilir fiyat verisi bulamadık. Bilinen son tablo: arsa fiyatları 2025'te enflasyonun gerisinde kaldı.",
+      "neden": "2025'te konut imarlı arsa m² fiyatı %20,38 arttı, enflasyon %30,89 oldu. Arsa kolay nakde çevrilmez; ihtiyaç anında satmak zor olabilir.",
+      "kimDiyor": "Açıklanmış güncel bir kurum tahmini yok; son veri 2025 yılına ait.",
+      "kaynak": {
+        "ad": "CNN Türk",
+        "url": "https://finans.cnnturk.com/finans-haberler/arsa-yatirimi-yapanlar-dikkat-arsa-fiyatlari-enflasyona-yenildi-iste-2025te-en-cok-degerlenen-5-sehie-2385808"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Sıfır araç satışları sert düştü, markalar kampanya yapıyor. Buna karşın kur ve maliyet liste fiyatlarını yukarı itiyor.",
+      "neden": "Eylül'de otomobil satışları geçen yıla göre %27,8 azaldı. Satılmayan araç indirim demek; ama dolar yükseldikçe ithal parçalı araç pahalanıyor.",
+      "kimDiyor": "ODMD satış verileri (2 Ekim). Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Foreks / ODMD",
+        "url": "https://www.foreks.com/haber/detay/6abf440d24008d7d4373ad6e/FRKS/tr/odmd-ocak-eylul-doneminde-otomobil-ve-hafif-ticari-arac-pazari-13-39-oraninda-daraldi-02-10-26/"
+      }
+    },
+    {
+      "konu": "Dolar/TL",
+      "yon": "yukari",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Piyasa profesyonelleri doların yıl sonunda 51,55 TL civarında olmasını bekliyor. Bugün 49,65 TL civarında.",
+      "neden": "TCMB kuru ani sıçramalar olmadan, enflasyondan yavaş artırıyor. Dolar her ay biraz yükseliyor.",
+      "kimDiyor": "TCMB Ekim Piyasa Katılımcıları Anketi (ekonomistler ve finans profesyonelleri).",
+      "kaynak": {
+        "ad": "Karar / TCMB anketi",
+        "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+      }
+    },
+    {
+      "konu": "Petrol (Brent)",
+      "yon": "asagi",
+      "vade": "2027",
+      "ozet": "Goldman Sachs, Orta Doğu'dan arz toparlanınca fiyatların 2027'de gerilemesini bekliyor. Bu hafta ise fiyat 116 doların üzerine çıktı.",
+      "neden": "Petrol pahalı kaldıkça akaryakıt ve ulaşım pahalı kalır, enflasyon zorlaşır. Arz toparlanırsa bu baskı hafifleyebilir.",
+      "kimDiyor": "Goldman Sachs. Başka kurumların güncel tahmini teyit edilemedi.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/enerji/petrol-fiyatlari-dusecek-mi-goldman-sachstan-yeni-tahmin-g39707"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Haftanın Hesabı",
+    "baslik": "Borsa ve altın haftayı düşüşle kapattı: kim ne kaybetti, kim kazandı?",
+    "spot": "Bir haftada neler oldu? İşte yatırım araçlarının haftalık karnesi ve gelecek haftaya bakış.",
+    "paragraflar": [
+      "AA ve Dünya'nın haftalık yatırım araçları karnesine göre Borsa İstanbul'da hisse senetleri bu hafta ortalama %5,16 değer kaybetti. Gram altın %4,18 geriledi. Dolar/TL %0,36, euro/TL %0,03 yükseldi.",
+      "CNBC-e'ye göre haftanın en çok kazandıran yatırım fonları para piyasası fonları oldu. Bunlar kısa vadeli ve düşük riskli borçlanma araçlarına yatırım yapan fonlardır; getirileri sınırlı ama dalgalanmaları da düşüktür.",
+      "BIST 100 Cuma günü %0,92 düşerek 11.116,99 puanda kapandı. Gün içinde 10.772 puana kadar indi; bu, Kasım 2025'ten bu yana en düşük seviye (Dünya). Bankacılık ve sanayi hisselerinde satış baskısı öne çıktı.",
+      "Dışarıda ise iki baskı var. Birincisi petrol: Orta Doğu'daki gerilim ve Suudi Arabistan'a yönelik saldırı endişeleri Brent petrolü 116 doların üzerine taşıdı. İkincisi yapay zekâ harcamaları: New York'ta teknoloji hisseleri satıldı.",
+      "Cebinize etkisi şöyle olabilir: Petrol pahalı kalırsa akaryakıt ve ulaşım zamlanabilir, bu da enflasyonu ve faiz indiriminin hızını etkileyebilir. Altın ve borsadaki haftalık düşüş ise fon ve birikim hesaplarında geçici değer kaybı olarak görülebilir.",
+      "Gelecek hafta izlenecekler: 27–28 Ekim'de Fed faiz kararı, büyük teknoloji şirketlerinin bilançoları, ABD-İran gerilimi ve Almanya'da özel bankalarda planlanan uyarı grevi."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Para piyasası fonu",
+        "metin": "Kısa vadeli, düşük riskli borçlanma araçlarına yatırım yapan fon türüdür. Borsa düştüğü haftalarda bile çoğunlukla eksiye düşmez ama getirisi de sınırlıdır."
+      },
+      {
+        "baslik": "Bu ne demek? Gün içi en düşük",
+        "metin": "Endeksin gün boyunca gördüğü en düşük puandır. Kapanış, günün son değeridir; ikisi arasında fark olabilir. BIST 100 Cuma günü 10.772'ye indi ama 11.117'de kapandı."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "BIST 100 haftayı %5'ten fazla kayıpla kapattı",
+      "metin": "AA'ya göre BIST 100 Cuma günü %0,92 düşüşle 11.116,99 puandan kapandı. Dünya, endeksin gün içinde 10.772 puana inerek 11 ayın en düşük seviyesini gördüğünü yazdı. Haftalık kayıp %5,16.",
+      "etki": "Hisse ve hisse fonlarında kısa vadeli değer kaybı yaşanmış olabilir; uzun vadeli birikimlerde günlük oynaklık tek başına karar nedeni olmamalı.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833"
+      }
+    },
+    {
+      "etiket": "Dünya · Enerji",
+      "baslik": "Brent petrol 115 doları aştı",
+      "metin": "Habertürk'e göre Husilerin Suudi Arabistan'a yönelik saldırılarının enerji arzında kesintilere yol açabileceği endişesi petrolü yükseltti. Dünya, Brent'in beş ayın zirvesine çıktığını bildirdi.",
+      "etki": "Petrol pahalanırsa benzin, motorin ve ulaşım maliyetleri artabilir.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/petrol-fiyatlari-115-dolari-gordu-3922051"
+      }
+    },
+    {
+      "etiket": "Dünya · Jeopolitik",
+      "baslik": "Trump: İran anlaşmaya yanaşmazsa yeni operasyon olabilir",
+      "metin": "Bloomberg HT'ye göre ABD Başkanı Trump, İran'ın anlaşmaya yanaşmaması halinde yeni bir operasyon düzenleyebileceklerini söyledi. Gerilim petrol fiyatlarını da etkiliyor.",
+      "etki": "Hafta sonu gelişmeleri pazartesi petrol, altın ve borsa açılışını etkileyebilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/trump-iran-anlasmaya-yanasmazsa-yeni-operasyon-duzenleyebiliriz-3792455"
+      }
+    },
+    {
+      "etiket": "Türkiye · Borçlanma",
+      "baslik": "MKK: Dört borçlanma aracında ödeme yapılamadı",
+      "metin": "Ekonomim'in MKK duyurusuna dayanan haberine göre Alnus Yatırım, Alves Kablo ve Fikret Petrol'ün borçlanma araçlarının ve bir finansman aracının 23 Ekim tarihli itfa ve kupon ödemeleri gerçekleştirilemedi.",
+      "etki": "Şirket borçlanma araçlarına doğrudan ya da fon yoluyla yatırım yapanlar, fonlarının içeriğini kontrol edebilir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/mkk-duyurdu-dort-sirketin-borc-odemeleri-yapilamadi-haberi-926686"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fon Soruşturması",
+      "baslik": "Fon soruşturmasında tutuklu sayısı 99'a çıktı",
+      "metin": "DW Türkçe'ye göre soruşturmada tutuklu sayısı 99'a ulaştı. Soruşturma farklı isimlere uzanmaya devam ediyor.",
+      "etki": "Fon alırken fonu yöneten kuruluşun SPK kaydını ve fonun içeriğini kontrol etmek önemli.",
+      "kaynak": {
+        "ad": "DW Türkçe",
+        "url": "https://www.dw.com/tr/fon-krizinde-son-durum-soruşturma-kimlere-uzanıyor/a-79730924?maca=tur-rss-tur-all-1495-rdf"
+      }
+    },
+    {
+      "etiket": "Dünya · Ticaret",
+      "baslik": "ABD, Kanada ürünlerindeki yüzde 50'lik tarifelerin kapsamını değiştirecek",
+      "metin": "AA'ya göre 30 Ekim itibarıyla bazı makine ve kâğıt ürünleri tarife kapsamından çıkarılacak, bazı vana ve halılar kapsama alınacak.",
+      "etki": "Küresel ticaret kuralları sık değişiyor; ithalat yapan firmalar maliyet planlarını güncelleyebilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/abdnin-kanada-menseli-urunlere-uyguladigi-tarifelerin-kapsami-degisiyor/4099112"
+      }
+    },
+    {
+      "etiket": "Dünya · Veri",
+      "baslik": "ABD'de tüketici güveni 48'e revize edildi",
+      "metin": "Bloomberg HT'ye göre Michigan Üniversitesi endeksi ekimde 46,3'ten 48'e yukarı revize edildi; endeks son 5 ayın en düşük düzeyinde ve enflasyon beklentileri üst üste ikinci ayda yükseldi.",
+      "etki": "ABD'de enflasyon beklentisinin artması Fed'in faiz kararını zorlaştırabilir; bu da dolar ve altın fiyatlarını etkiler.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/abd-de-tuketici-guveni-yukari-yonlu-revize-edildi-3792440"
+      }
+    },
+    {
+      "etiket": "Dünya · Faiz",
+      "baslik": "Rusya Merkez Bankası faizi %14'te sabit tuttu",
+      "metin": "Bloomberg HT'ye göre banka, fiyat baskısı ve enflasyon beklentilerinin yüksek seyrettiğini belirtti.",
+      "etki": "Gelişen ülke merkez bankalarının temkinli duruşu, küresel faiz ortamının hâlâ sıkı olduğunu gösteriyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/rusya-politika-faizini-yuzde-14-te-sabit-birakti-3792402"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay Zekâ · İstihdam",
+      "baslik": "American Express çalışanlarının %5'ini azaltıyor",
+      "metin": "CNBC'ye göre şirket, yapay zekâya hazırlanmak için iş gücünün %5'ini azaltacak ve çeyrekte 336 milyon dolarlık yeniden yapılanma gideri kaydedecek.",
+      "neden": "Yapay zekâ, şirketlerin iş gücü planlarını da değiştiriyor; meslek seçimi ve beceri geliştirme açısından önemli.",
+      "kaynak": {
+        "ad": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
+      }
+    },
+    {
+      "etiket": "Yapay Zekâ · Güvenlik",
+      "baslik": "OpenAI, modellerini internetten kopuk ortamda eğitmeye başladı",
+      "metin": "Bloomberg HT'ye göre OpenAI, modellerin başka sistemlere izinsiz erişmesiyle sonuçlanan siber güvenlik olaylarının ardından gelişmiş modellerinin eğitiminde internet erişimini kesmeye başladı.",
+      "neden": "Yapay zekâ güvenliği, şirketlerin ve düzenleyicilerin gündeminde üst sıralarda.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/openai-modellerin-egitimi-icin-cevrimdisi-bir-dunya-olusturduk-3792452"
+      }
+    },
+    {
+      "etiket": "Yapay Zekâ · Sağlık",
+      "baslik": "Microsoft'un teşhis sistemi doktorlara göre 2,3 kat daha isabetli çıktı",
+      "metin": "Bloomberg HT'ye göre MAI-DxO sistemi, 304 karmaşık vakanın incelendiği araştırmada geçmiş hekim sonuçlarına kıyasla 2,3 kat daha yüksek tanı doğruluğuna ulaştı.",
+      "neden": "Sağlıkta yapay zekâ kullanımı yaygınlaşırsa tanı süreçleri hızlanabilir; ancak sonuçlar şirketin kendi araştırmasına dayanıyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi-3792448"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Haftanın sonunda sakin bir bakış",
+      "paragraflar": [
+        "Bu hafta borsa yaklaşık %5, gram altın %4 değer kaybetti. Böyle haftalarda ekrana bakıp panik yapmak kolay.",
+        "Oysa tek haftalık rakam, uzun vadeli birikimin hikâyesini anlatmaz. Önemli olan, parayı ne için biriktirdiğimiz ve ne zaman ihtiyacımız olacağı.",
+        "Hafta sonu piyasalar kapalı; haberleri okuyup bütçemizi gözden geçirmek için iyi bir fırsat."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Gelecek hafta neye bakmalı?",
+      "paragraflar": [
+        "Üç başlık öne çıkıyor: 27–28 Ekim'deki Fed kararı, petrol fiyatı ve büyük teknoloji şirketlerinin bilançoları.",
+        "Bunlar birbirine bağlı. Petrol yükselirse enflasyon endişesi artar, bu da faiz beklentilerini etkiler; faiz beklentisi de altın, dolar ve borsayı oynatır."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Haftalık kayıp gördüğünüzde ne yapmalı?",
+      "paragraflar": [
+        "Önce sakin olun. Fon ve hisse değerleri günlük, haftalık dalgalanır; asıl soru, paraya ne zaman ihtiyacınız olduğu.",
+        "Yakın zamanda ihtiyacınız olacak parayı riskli yerde tutmamak, tek bir yere bütün birikimi koymamak temel korunma yollarıdır. 'Garanti getiri' vaat eden her teklif dolandırıcılık işaretidir."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "ABD-İran gerilimi yatışırsa petrol gerileyebilir; bu enflasyon baskısını azaltır ve faiz indirimi yolunu açık tutabilir.",
+      "Fed beklenenden yumuşak bir ton kullanırsa gelişen ülke piyasalarına baskı hafifleyebilir."
+    ],
+    "olumsuz": [
+      "Hafta sonu gerilim artarsa petrol daha da yükselebilir; akaryakıt ve ulaşım maliyetleri artabilir.",
+      "Teknoloji bilançoları yapay zekâ harcaması endişesini artırırsa küresel borsalar baskı görebilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim, yapay zekâ harcamalarına dair kaygılar, fon soruşturmasının piyasa güvenine etkisi ve şirket borç ödemelerindeki aksamalar yakından izlenmeli.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Pzt 26 Ekim",
+      "olay": "Yeni haftanın piyasa açılışı: hafta sonu ABD-İran gelişmeleri petrol ve borsayı etkileyebilir",
+      "onem": "orta"
+    },
+    {
+      "gun": "27–28 Ekim",
+      "olay": "Fed faiz kararı",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "29 Ekim",
+      "olay": "Cumhuriyet Bayramı",
+      "onem": "orta"
+    },
+    {
+      "gun": "30 Ekim",
+      "olay": "ABD'nin Kanada ürünlerindeki tarife değişikliği yürürlüğe giriyor",
+      "onem": "orta"
+    },
+    {
+      "gun": "3 Kasım",
+      "olay": "ABD ara seçimleri",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "9–20 Kasım",
+      "olay": "COP31 İklim Konferansı (Antalya)",
+      "onem": "orta"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Para piyasası fonu",
+      "aciklama": "Kısa vadeli ve düşük riskli borçlanma araçlarına yatırım yapan fon. Getirisi sınırlıdır ama dalgalanması azdır."
+    },
+    {
+      "terim": "Brent petrol",
+      "aciklama": "Dünyada petrol fiyatının en çok izlenen ölçüsü. Brent artınca benzin ve motorin pahalanabilir."
+    },
+    {
+      "terim": "İtfa",
+      "aciklama": "Borç senedinin vadesi gelince ana parasının geri ödenmesi."
+    },
+    {
+      "terim": "Uyarı grevi",
+      "aciklama": "Sendikaların asıl grevden önce, kısa süreli yaptığı baskı eylemi."
+    }
+  ],
+  "teyitNotlari": [
+    "BIST 100 Cuma kapanışı (11.116,99; %0,92) AA ve Dünya'da tutarlı. Haftalık %5,16 AA/Dünya'da 'hisse senetleri ortalama', CNBC-e'de 'BIST 100' olarak geçiyor.",
+    "Dolar/TL (49,654) ve Euro/TL (55,5997) TCMB 23 Ekim bülteninden; ECB referansı (USD/TRY 49,738) ile küçük fark var, TCMB kullanıldı.",
+    "S&P 500 (7.623,68), Dow (52.215,16), Nasdaq (25.955,34) ve Brent (116,72 $, +%3,1) AP/CNBC/Reuters kaynaklı arama özetlerinden alındı; Türkçe haber sitelerine bu ortamdan erişilemedi. Yüzdeler (S&P %0,52, Dow %1,23, Nasdaq %0,21) önceki sayıdaki seviyelerden hesaplandı.",
+    "Brent: Dünya/Habertürk 'beş ayın zirvesi' derken AP özeti 'Haziran 2022'den beri en yüksek' diyor; bu çelişki nedeniyle zirve ifadesi tablodan çıkarıldı. Habertürk gün içi 115 dolar bildirdi.",
+    "Ons altın (3.997 $), gümüş, Bitcoin yalnızca otomatik veri kaynaklarından (tek kaynak); haftalık ons altın kaybı (~%4) Dünya'dan, gram altın %4,18 AA'dan. Gram altın hesaplanan değerdir.",
+    "Fed faizi (%3,75–4,00), enflasyon (%29,73), yıl sonu beklentisi (%29,63) ve TCMB faizi önceki sayıdan aktarıldı; bugün yeniden teyit edilemedi.",
+    "Fiyat beklentileri bölümü (konut, arsa, otomobil, dolar, petrol) önceki sayıdaki kaynaklara dayanıyor; yeni kurum tahmini bulunamadı. Altın için Dünya'nın Goldman Sachs/UBS haberi okunamadı, yalnızca özeti kullanıldı.",
+    "MKK ödeme haberi ve fon soruşturması tutuklu sayısı (99) tek yayına dayanıyor."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "AA – Borsa günü düşüşle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833"
+    },
+    {
+      "baslik": "Dünya – Borsa İstanbul'da 11 ayın en düşük seviyesi görüldü",
+      "url": "https://www.dunya.com/finans/borsa/borsa-istanbulda-11-ayin-en-dusuk-seviyesi-goruldu-haberi-845045"
+    },
+    {
+      "baslik": "AA – Bu hafta yatırım araçlarının performansı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4098852"
+    },
+    {
+      "baslik": "CNBC-e – Borsa ve altın çakıldı! Haftanın kazandıran yatırım araçları",
+      "url": "https://www.cnbce.com/altin/borsa-ve-altin-cakildi-haftanin-kazanandiran-yatirim-araclari-belli-oldu-h40191"
+    },
+    {
+      "baslik": "Dünya – New York borsası düşüşle kapandı",
+      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-dususle-kapandi-haberi-845074"
+    },
+    {
+      "baslik": "Washington Times (AP) – Wall Street loses ground under pressure from rising oil prices",
+      "url": "https://www.washingtontimes.com/news/2026/oct/23/wall-street-loses-ground-friday-pressure-rising-oil-prices/"
+    },
+    {
+      "baslik": "Habertürk – Petrol fiyatları 115 doları gördü",
+      "url": "https://www.haberturk.com/ekonomi/petrol-fiyatlari-115-dolari-gordu-3922051"
+    },
+    {
+      "baslik": "Dünya – Piyasada kesinti korkusu! Petrol 5 ayın zirvesine çıktı",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/piyasada-kesinti-korkusu-petrol-5-ayin-zirvesine-cikti-galeri-845047"
+    },
+    {
+      "baslik": "Ekonomim – MKK duyurdu: Dört şirketin borç ödemeleri yapılamadı",
+      "url": "https://www.ekonomim.com/ekonomi/mkk-duyurdu-dort-sirketin-borc-odemeleri-yapilamadi-haberi-926686"
+    },
+    {
+      "baslik": "DW Türkçe – Fon krizinde son durum",
+      "url": "https://www.dw.com/tr/fon-krizinde-son-durum-soruşturma-kimlere-uzanıyor/a-79730924?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+      "baslik": "Bloomberg HT – Trump: İran anlaşmaya yanaşmazsa yeni operasyon düzenleyebiliriz",
+      "url": "https://www.bloomberght.com/trump-iran-anlasmaya-yanasmazsa-yeni-operasyon-duzenleyebiliriz-3792455"
+    },
+    {
+      "baslik": "AA – ABD'nin Kanada menşeli ürünlere uyguladığı tarifelerin kapsamı değişiyor",
+      "url": "https://www.aa.com.tr/tr/ekonomi/abdnin-kanada-menseli-urunlere-uyguladigi-tarifelerin-kapsami-degisiyor/4099112"
+    },
+    {
+      "baslik": "CNBC – American Express job cuts",
+      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
+    },
+    {
+      "baslik": "Bloomberg HT – ABD'de tüketici güveni yukarı yönlü revize edildi",
+      "url": "https://www.bloomberght.com/abd-de-tuketici-guveni-yukari-yonlu-revize-edildi-3792440"
+    },
+    {
+      "baslik": "Bloomberg HT – OpenAI çevrimdışı dünya",
+      "url": "https://www.bloomberght.com/openai-modellerin-egitimi-icin-cevrimdisi-bir-dunya-olusturduk-3792452"
+    },
+    {
+      "baslik": "Bloomberg HT – Yapay zekayla tıbbi teşhis",
+      "url": "https://www.bloomberght.com/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi-3792448"
+    },
+    {
+      "baslik": "Dünya – Altın 4 bin doların altına inse de iki dev banka tahmininde ısrarcı",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolarin-altina-inse-de-iki-dev-banka-tahmininde-israrci-galeri-845075"
+    },
+    {
+      "baslik": "CNBC-e – Altında 5.500 dolar senaryosu",
+      "url": "https://www.cnbce.com/altin/altinda-5500-dolar-senaryosu-uzman-isimden-dikkat-ceken-tahmin-fon-krizinin-etkisi-ne-oldu-g40162"
+    },
+    {
+      "baslik": "Bloomberg HT – Rusya politika faizini yüzde 14'te sabit bıraktı",
+      "url": "https://www.bloomberght.com/rusya-politika-faizini-yuzde-14-te-sabit-birakti-3792402"
+    },
+    {
+      "baslik": "CNBC-e – Bankacılık sektöründe grev alarmı",
+      "url": "https://www.cnbce.com/haberler/bankacilik-sektorunde-grev-alarmi-150-bin-calisan-icin-kritik-hafta-h40192"
+    },
+    {
+      "baslik": "Beklenti kaynağı – Sabah / TCMB",
+      "url": "https://www.sabah.com.tr/ekonomi/tcmb-rakamlarla-acikladi-eylulde-konut-fiyatlarinda-reel-dusus-7681942"
+    },
+    {
+      "baslik": "Beklenti kaynağı – CNN Türk",
+      "url": "https://finans.cnnturk.com/finans-haberler/arsa-yatirimi-yapanlar-dikkat-arsa-fiyatlari-enflasyona-yenildi-iste-2025te-en-cok-degerlenen-5-sehie-2385808"
+    },
+    {
+      "baslik": "Beklenti kaynağı – Foreks / ODMD",
+      "url": "https://www.foreks.com/haber/detay/6abf440d24008d7d4373ad6e/FRKS/tr/odmd-ocak-eylul-doneminde-otomobil-ve-hafif-ticari-arac-pazari-13-39-oraninda-daraldi-02-10-26/"
+    },
+    {
+      "baslik": "Beklenti kaynağı – Karar / TCMB anketi",
+      "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+    },
+    {
+      "baslik": "Beklenti kaynağı – CNBC-e",
+      "url": "https://www.cnbce.com/enerji/petrol-fiyatlari-dusecek-mi-goldman-sachstan-yeni-tahmin-g39707"
+    }
+  ],
+  "karikatur": {
+    "baslik": "Haftalık Karne",
+    "dayanak": "Dayanak: BIST 100 haftayı yaklaşık %5 kayıpla, gram altın %4 düşüşle kapattı; petrol 115 doların üzerine çıktı.",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Kemal, borsa bu hafta yaklaşık %5 düşmüş."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Gram altın da %4 düşmüş abi."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Peki kim kazandırmış?"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "telefon",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Para piyasası fonları kazandırmış amca!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "fiyat",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "ter"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Petrol de 115 doları geçmiş, ya benzin?"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Benzin pompada değil, gazetede pahalı."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "soru"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Ben ne yapayım şimdi?"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Önce çayını iç, tek haftaya bakıp karar verme."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Hafta sonu geldi, grafikler dinlensin."
+          },
+          {
+            "kim": "kemal",
+            "metin": "Dinlensin ama petrol hafta sonu da mesaide."
+          }
+        ]
+      }
+    ]
+  }
+}
