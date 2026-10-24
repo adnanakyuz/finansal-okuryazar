@@ -1,110 +1,110 @@
 {
-  "olusturma": "2026-10-23T03:18:18.849Z",
+  "olusturma": "2026-10-24T03:15:48.284Z",
   "not": "Otomatik çekildi. Değişimler bir önceki çalıştırmaya göredir.",
   "kalemler": {
     "tcmb_usd": {
       "ad": "USD/TRY (TCMB döviz satış)",
-      "deger": 49.6281,
+      "deger": 49.654,
       "birim": "TL",
       "kaynak": "TCMB gösterge kuru",
       "url": "https://www.tcmb.gov.tr/kurlar/today.xml",
-      "zaman": "2026-10-23T03:18:18.849Z",
+      "zaman": "2026-10-24T03:15:48.284Z",
       "degisimYuzde": 0.05,
-      "alis": 49.5389,
-      "bultenTarihi": "22.10.2026"
+      "alis": 49.5647,
+      "bultenTarihi": "23.10.2026"
     },
     "tcmb_eur": {
       "ad": "EUR/TRY (TCMB döviz satış)",
-      "deger": 55.7043,
+      "deger": 55.5997,
       "birim": "TL",
       "kaynak": "TCMB gösterge kuru",
       "url": "https://www.tcmb.gov.tr/kurlar/today.xml",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": 0.05,
-      "alis": 55.6041,
-      "bultenTarihi": "22.10.2026"
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -0.19,
+      "alis": 55.4997,
+      "bultenTarihi": "23.10.2026"
     },
     "tcmb_gbp": {
       "ad": "GBP/TRY (TCMB döviz satış)",
-      "deger": 66.5852,
+      "deger": 66.5325,
       "birim": "TL",
       "kaynak": "TCMB gösterge kuru",
       "url": "https://www.tcmb.gov.tr/kurlar/today.xml",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": 0.07,
-      "alis": 66.2399,
-      "bultenTarihi": "22.10.2026"
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -0.08,
+      "alis": 66.1874,
+      "bultenTarihi": "23.10.2026"
     },
     "ecb_usdtry": {
       "ad": "USD/TRY (ECB referans)",
-      "deger": 49.628,
+      "deger": 49.738,
       "birim": "TL",
       "kaynak": "Avrupa Merkez Bankası (Frankfurter)",
       "url": "https://www.frankfurter.app",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": 0.05,
-      "gun": "2026-10-22"
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": 0.22,
+      "gun": "2026-10-23"
     },
     "ecb_eurusd": {
       "ad": "EUR/USD (ECB referans)",
-      "deger": 1.1205,
+      "deger": 1.1193,
       "birim": "$",
       "kaynak": "Avrupa Merkez Bankası (Frankfurter)",
       "url": "https://www.frankfurter.app",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": -0.26,
-      "gun": "2026-10-22"
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -0.11,
+      "gun": "2026-10-23"
     },
     "btc_usd": {
       "ad": "Bitcoin",
-      "deger": 81729,
+      "deger": 80893,
       "birim": "$",
       "kaynak": "CoinGecko",
       "url": "https://www.coingecko.com/tr/coins/bitcoin",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": -1.26,
-      "degisim24sYuzde": -1.24,
-      "tl": 4064562
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -1.02,
+      "degisim24sYuzde": -1.08,
+      "tl": 4020692
     },
     "eth_usd": {
       "ad": "Ethereum",
-      "deger": 2407.61,
+      "deger": 2382.23,
       "birim": "$",
       "kaynak": "CoinGecko",
       "url": "https://www.coingecko.com/tr/coins/ethereum",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": -1.3,
-      "degisim24sYuzde": -1.25,
-      "tl": 119735
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -1.05,
+      "degisim24sYuzde": -1.16,
+      "tl": 118406
     },
     "ons_altin": {
       "ad": "Ons altın",
-      "deger": 4014.2,
+      "deger": 3996.8999,
       "birim": "$",
       "kaynak": "gold-api.com",
       "url": "https://gold-api.com",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": -2.26,
-      "kaynakZamani": "2026-10-23T03:18:12Z"
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -0.43,
+      "kaynakZamani": "2026-10-24T03:15:47Z"
     },
     "ons_gumus": {
       "ad": "Ons gümüş",
-      "deger": 54.011,
+      "deger": 54.046,
       "birim": "$",
       "kaynak": "gold-api.com",
       "url": "https://gold-api.com",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": -4.72,
-      "kaynakZamani": "2026-10-23T03:18:11Z"
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": 0.06,
+      "kaynakZamani": "2026-10-24T03:15:46Z"
     },
     "gram_altin": {
       "ad": "Gram altın (hesaplanan)",
-      "deger": 6404.9662,
+      "deger": 6391.4979,
       "birim": "TL",
       "kaynak": "Hesap: ons altın × USD/TRY ÷ 31,10",
       "url": "https://gold-api.com",
-      "zaman": "2026-10-23T03:18:18.849Z",
-      "degisimYuzde": -2.21,
+      "zaman": "2026-10-24T03:15:48.284Z",
+      "degisimYuzde": -0.21,
       "hesap": true
     }
   },
