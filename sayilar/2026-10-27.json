@@ -1,0 +1,743 @@
+{
+  "tarih": "2026-10-27",
+  "tarihMetni": "27 Ekim 2026, Salı",
+  "sayi": 11,
+  "notlar": "Salı sabah baskısı · BIST 100, ABD endeksleri ve Brent Pazartesi 26 Ekim kapanışı · Döviz: TCMB 26 Ekim bülteni · Altın, gümüş ve Bitcoin Salı sabahı (TSİ 06.00 civarı)",
+  "gununOzeti": "Yatırım fonlarının tasfiyesine ilişkin kanun Resmi Gazete'de yayımlandı: 1 milyon liraya kadar ara ödeme yolu açıldı. Fed yarın faiz kararını açıklayacak ve faizi sabit tutması bekleniyor. Borsa Pazartesi günü %0,31 yükseldi.",
+  "manset": {
+    "ustBaslik": "Fon Yasası",
+    "baslik": "Fon yasası yürürlüğe girdi: 1 milyon liraya kadar ara ödeme yolu açıldı",
+    "spot": "Tasfiyesine karar verilen yatırım fonlarına ilişkin kanun Resmi Gazete'de yayımlandı. Küçük yatırımcılar için ara ödeme düzenlemesi getiriliyor. Ödemelerin ne zaman başlayacağı henüz teyit edilemedi.",
+    "ozet": [
+      "BBC Türkçe'ye göre yatırımı 1 milyon lira ve altında olanlara yatırımları kadar, üzerinde olanlara en fazla 1 milyon lira ödeme yapılacak.",
+      "Bloomberg HT'ye göre fonlardan hukuka aykırı çıkarılan varlıklar geri alınacak ve yatırımcı alacaklarının karşılanmasında kullanılacak.",
+      "SPK, Tera Portföy ve Pusula Portföy'ün faaliyetlerini geçici olarak durdurdu; fonların tasfiyesi için İş Bankası ve Ziraat Bankası görevlendirildi (Dünya).",
+      "BIST 100 Pazartesi günü %0,31 yükselerek 11.151,96 puandan kapandı (AA)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "ABD · Faiz",
+      "baslik": "Fed yarın karar verecek: faizin sabit kalması bekleniyor",
+      "spot": "AA'ya göre eylülde ivme kazanan enflasyon, faiz artırımı ihtimalini masada tutuyor. Karar 28 Ekim'de açıklanacak."
+    },
+    {
+      "ustBaslik": "Wall Street",
+      "baslik": "New York borsası Anthropic'in halka arz başvurusuyla yükseldi",
+      "spot": "Dünya'ya göre başvuru yapay zekâ hisselerine ilgiyi artırdı; S&P 500 %0,70, Nasdaq %0,82 yükseldi."
+    },
+    {
+      "ustBaslik": "Şirketler",
+      "baslik": "Özel sektör tahvillerinde temerrüt endişesi sürüyor",
+      "spot": "Ekonomim'e göre bazı şirketler tahvil ödemelerini yapamadı. TCMB, tahvil ödemelerinde kullanılan kredileri büyüme sınırından muaf tuttu."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.152",
+      "degisim": "%0,31",
+      "yon": "up",
+      "neden": "Pazartesi kapanışı (AA ve Habertürk). Geçen haftanın sert düşüşünün ardından hafif toparlanma; hisse ve fon sahipleri için kısa vadeli dalgalanma sürebilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "49,76",
+      "degisim": "%0,22",
+      "yon": "up",
+      "neden": "TCMB'nin 26 Ekim gösterge kuru (ECB referansı da 49,76). Kur yavaş ve kontrollü artıyor; ithal ürün fiyatlarına etkisi kademeli."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,75",
+      "degisim": "%0,28",
+      "yon": "up",
+      "neden": "TCMB'nin 26 Ekim gösterge kuru. EUR/USD 1,12 civarı; Avrupa'dan alışveriş yapanlar için maliyet hafif arttı."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.411 TL",
+      "degisim": "%0,06",
+      "yon": "down",
+      "neden": "Ons altın ve kurdan hesaplanan değer; kuyumcu fiyatı farklı olabilir. Fed kararı öncesi dalgalı seyir sürebilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.007 $",
+      "degisim": "%0,11",
+      "yon": "down",
+      "neden": "Dünya, altının 4 bin doları geri aldığını yazıyor; üç ayın dibinden dönüş sürüyor. Bu hafta Fed kararı ve ABD enflasyon verisi fiyatın yönünü belirleyebilir."
+    },
+    {
+      "ad": "Brent petrol",
+      "deger": "115,81 $",
+      "degisim": "%0,78",
+      "yon": "down",
+      "neden": "Pazartesi kapanışı (Reuters aktarımı). ABD-İran diplomasi haberleri fiyatı biraz geriletti ama Suudi Arabistan'a yönelik saldırılar fiyatı yüksek tutuyor; akaryakıt ve nakliye maliyetine yansıyabilir. (Tek kaynak)"
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "79.564 $",
+      "degisim": "%0,05",
+      "yon": "down",
+      "neden": "Neredeyse yatay. Kripto çok oynaktır; kaybetmeyi göze alamayacağınız parayı koymamak gerekir. (Tek kaynak)"
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "53,63 $",
+      "degisim": "%1,36",
+      "yon": "down",
+      "neden": "Gümüş altından daha oynaktır; sabah saatlerinde geriledi. (Tek kaynak)"
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "7.677",
+      "degisim": "%0,70",
+      "yon": "up",
+      "neden": "Pazartesi kapanışı; Anthropic'in halka arz başvurusu yapay zekâ ve çip hisselerini yukarı çekti. Bu hafta büyük teknoloji şirketlerinin bilançoları var."
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "26.169",
+      "degisim": "%0,82",
+      "yon": "up",
+      "neden": "Pazartesi kapanışı; teknoloji hisseleri öne çıktı."
+    },
+    {
+      "ad": "Dow Jones",
+      "deger": "52.362",
+      "degisim": "%0,28",
+      "yon": "up",
+      "neden": "Pazartesi kapanışı; endeksler 146 puan artış kaydetti."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "Fed (ABD) faizi",
+      "mevcut": "%3,75–4,00",
+      "beklenti": "27–28 Ekim toplantısında sabit kalması bekleniyor (Bloomberg HT, AA).",
+      "not": "Karar 28 Ekim'de açıklanacak. Fed'in faizi dolar, altın ve borsa gibi birçok fiyatı etkiler."
+    },
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Bir sonraki toplantıda indirim bekleniyor.",
+      "not": "22 Ekim'de %37'den %36'ya indirildi. Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Kısa vade / yıl sonu",
+      "ozet": "Altın üç ayın en düşük bölgesinde. Bir analist daha düşük bir dip görülebileceğini, uzun vadeli yükselişin ise bitmediğini söylüyor.",
+      "neden": "Faiz artışı ihtimali ve yüksek petrol altını baskılıyor; savaş ve belirsizlik ise güvenli liman talebini canlı tutuyor.",
+      "kimDiyor": "Analist Przemyslaw Radomski daha düşük dip bekliyor; bankalar toparlanma için koşullara dikkat çekiyor (Dünya). Banka tahmin rakamları bu ortamdan okunamadı.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-daha-sert-dusus-uyarisi-unlu-analist-yeni-dip-bekliyor-galeri-845244"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Satışlar yılın zirvesinde ama enflasyondan arındırılmış fiyatlar düşüyor.",
+      "neden": "BETAM'a göre reel satılık konut fiyatları yıllık %7,8 geriledi. Faizler düştükçe kredi talebi canlanabilir.",
+      "kimDiyor": "BETAM fiyat raporu (22–25 Ekim haberleri). Açıklanmış ileriye dönük kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "2026 geneli",
+      "ozet": "Arsa için güncel bir fiyat tahmini bulamadık. TOKİ 5 ve 6 Kasım'da 61 ilde 725 arsayı açık artırmayla satacak; sonuçlar ipucu verebilir.",
+      "neden": "Arsa kolay nakde çevrilmez; ihtiyaç anında satmak zor olabilir.",
+      "kimDiyor": "Açıklanmış güncel bir kurum tahmini yok; yön belirsiz.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Akaryakıt zammı ikinci elde elektrikli ve LPG'li araçlara talebi artırdı.",
+      "neden": "Yakıt pahalandıkça tüketici işletme maliyeti düşük araca yöneliyor; bu tercih fiyatları da etkileyebilir.",
+      "kimDiyor": "Ekonomim'in sektör haberi; açıklanmış bir kurum tahmini yok, yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+      }
+    },
+    {
+      "konu": "Dolar/TL",
+      "yon": "yukari",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Piyasa profesyonelleri doların yıl sonunda 51,55 TL civarında olmasını bekliyor. Bugün 49,76 TL civarında.",
+      "neden": "TCMB kuru ani sıçramalar olmadan, enflasyondan yavaş artırıyor.",
+      "kimDiyor": "TCMB Ekim Piyasa Katılımcıları Anketi.",
+      "kaynak": {
+        "ad": "Karar",
+        "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+      }
+    },
+    {
+      "konu": "Petrol (Brent)",
+      "yon": "asagi",
+      "vade": "2027",
+      "ozet": "Goldman Sachs, Orta Doğu'dan arz toparlanınca fiyatların 2027'de gerilemesini bekliyor. Şu an fiyat 115 doların üzerinde.",
+      "neden": "Petrol pahalı kaldıkça akaryakıt ve ulaşım pahalı kalır; arz toparlanırsa bu baskı hafifleyebilir.",
+      "kimDiyor": "Goldman Sachs. Başka kurumların güncel tahmini teyit edilemedi.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/enerji/petrol-fiyatlari-dusecek-mi-goldman-sachstan-yeni-tahmin-g39707"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Fon Yasası",
+    "baslik": "Fon kanunu yürürlüğe girdi: yatırımcıya ne kadar, ne zaman ödenecek?",
+    "spot": "Tasfiye edilen fonlardaki küçük yatırımcı için yeni kural ne diyor?",
+    "paragraflar": [
+      "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin kanun, 22 Ekim'de TBMM Genel Kurulu'nda kabul edildi ve Resmi Gazete'de yayımlanarak yürürlüğe girdi (BBC Türkçe).",
+      "BBC Türkçe'nin aktardığına göre yatırımı 1 milyon lira ve altında olanlara yatırımları kadar, bunun üzerinde olanlara ise en fazla 1 milyon lira ödeme yapılacak. Bloomberg HT bunu 'ara ödeme' olarak tanımlıyor. Yani bu, nihai hesabın kapanması beklenmeden verilen bir ilk ödeme.",
+      "Paranın kaynağı da belli: Bloomberg HT'ye göre fonlardan hukuka aykırı biçimde çıkarılan varlıklar geri kazanılacak ve sorumlulardan tahsil edilecek tutarlar yatırımcı alacaklarını karşılamak için kullanılacak.",
+      "Aynı gün SPK, Tera Portföy ve Pusula Portföy'ün faaliyetlerini geçici olarak durdurdu. Dünya'ya göre tasfiye kapsamı dışında kalan fonların tasfiyesi için İş Bankası ve Ziraat Bankası görevlendirildi.",
+      "Ödemelerin tam olarak ne zaman başlayacağı bu sabah kaynaklardan teyit edilemedi. Başvuru gerekip gerekmediği gibi ayrıntıların ilgili kurumların duyurularından takip edilmesi gerekiyor.",
+      "Cebinize etkisi: Fon mağduru olan biri, yatırım tutarı 1 milyon liranın altındaysa tutarın tamamına kadar ödeme alabilecek. Dolandırıcılara karşı ise kural değişmiyor: 'garanti getiri' vaadi tehlike işaretidir, yatırım yapmadan önce kurumun SPK kaydına bakın."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Ara ödeme",
+        "metin": "Bir işlem tamamen bitmeden, alacaklıya önceden yapılan kısmi ödemedir. Kalan tutar sonradan hesaplanır."
+      },
+      {
+        "baslik": "Bu ne demek? Tasfiye",
+        "metin": "Bir fonun ya da şirketin varlıklarının satılıp paraya çevrilerek alacaklılara dağıtılması ve kapatılması işlemidir."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Fon Yasası",
+      "baslik": "Fon tasfiye kanunu Resmi Gazete'de",
+      "metin": "BBC Türkçe'ye göre kanunla yatırımı 1 milyon lira ve altında olanlara yatırımları kadar, üzerinde olanlara en fazla 1 milyon lira ödeme yapılacak.",
+      "etki": "Fon mağduru küçük yatırımcılar için ara ödeme yolu açıldı; takvim henüz netleşmedi.",
+      "kaynak": {
+        "ad": "BBC Türkçe",
+        "url": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss"
+      }
+    },
+    {
+      "etiket": "Türkiye · SPK",
+      "baslik": "SPK, Tera ve Pusula Portföy'ün faaliyetlerini durdurdu",
+      "metin": "Dünya'ya göre iki şirketin faaliyetleri geçici olarak durduruldu; tasfiye kapsamı dışındaki fonların tasfiyesi için İş Bankası ve Ziraat Bankası görevlendirildi.",
+      "etki": "Bu şirketlerin fonlarına yatırım yapanlar SPK ve banka duyurularını takip etmeli.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/spkden-tera-ve-pusula-portfoye-gecici-durdurma-karari-haberi-845371"
+      }
+    },
+    {
+      "etiket": "Türkiye · Tahvil",
+      "baslik": "Özel sektör tahvil piyasasında sarsıntı sürüyor",
+      "metin": "Ekonomim'e göre tahvil ödemelerinde temerrüde düşen şirketler 1 trilyon liraya yakın piyasada endişe yarattı. TCMB, tahvil ödemeleri için kullanılan kredileri büyüme sınırından muaf tuttu.",
+      "etki": "Şirket tahvili ya da bunlara yatırım yapan fonu olanlar için risk daha görünür hale geldi.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/sirket-tahvili-piyasasinda-sarsinti-devam-ediyor-haberi-927159"
+      }
+    },
+    {
+      "etiket": "Türkiye · Bütçe",
+      "baslik": "2027 bütçesinde kentsel dönüşüm ve sosyal konuta kaynak",
+      "metin": "CNBC-e'ye göre Cumhurbaşkanı Erdoğan, 2027 bütçesinde kentsel dönüşüm için 276 milyar TL, sosyal konut için 250 milyar TL ayrıldığını açıkladı.",
+      "etki": "Konut politikaları ileride ev piyasasını etkileyebilir; ayrıntılar bütçe görüşmelerinde netleşecek.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/erdogan-acikladi-2027-butcesinde-aslan-payi-hangi-alanlara-ayrildi-iste-one-cikanlar-h40366"
+      }
+    },
+    {
+      "etiket": "Türkiye · Bilanço",
+      "baslik": "Borsada üçüncü çeyrek bilançoları sürüyor",
+      "metin": "CNBC-e'ye göre Arçelik, AgeSA, Brisa, Çimsa ve Türk Traktör gibi şirketler 2026 üçüncü çeyrek bilançolarını açıkladı.",
+      "etki": "Bilançolar hisse fiyatlarını oynatabilir; tek şirket yerine geniş bir dağılım düşünmek riski azaltır.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/sirket-bilancolari/borsada-bilanco-firtinasi-devlerin-kar-zarar-tablolari-belli-oldu-iste-o-sirketler-g40185"
+      }
+    },
+    {
+      "etiket": "Dünya · Enerji",
+      "baslik": "Hürmüz krizi yakıt faturasını 468 milyar dolar artırdı",
+      "metin": "AA'nın aktardığı CREA analizine göre Hürmüz Boğazı kaynaklı petrol şoku dünyadaki benzin ve dizel tüketicilerine 468 milyar dolarlık ek maliyet getirdi; en büyük pay ABD'de.",
+      "etki": "Petrol pahalı kaldıkça akaryakıt ve taşıma maliyeti, dolayısıyla market fiyatları baskı altında kalabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/crea-hurmuz-kaynakli-petrol-sokunda-en-agir-yakit-faturasini-abd-odedi/4101832"
+      }
+    },
+    {
+      "etiket": "ABD · Borsa",
+      "baslik": "New York borsası yükselişle kapandı",
+      "metin": "Dünya'ya göre Anthropic'in halka arz başvurusu yapay zekâ hisselerine ilgiyi artırdı ve New York borsası günü yükselişle tamamladı.",
+      "etki": "Küresel iştah borsalara ve fonlara yansıyabilir; yapay zekâ hisselerindeki dalgalanma da yüksek.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-kapandi-haberi-845378"
+      }
+    },
+    {
+      "etiket": "Dünya · Jeopolitik",
+      "baslik": "Tahran'da dörtlü bölgesel zirve",
+      "metin": "CNBC-e'ye göre Türkiye, İran, Suudi Arabistan ve Pakistan heyetleri Tahran'da bölgesel güvenlik konularını görüştü; toplantıya MİT Başkanı İbrahim Kalın da katıldı.",
+      "etki": "Gerilimin azalması petrolü gerileterek akaryakıt maliyetini hafifletebilir; belirsizlik sürüyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/dunya/tahranda-dort-ulkeyi-bulusturan-zirve-turkiyeden-ust-duzey-katilim-h40347"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay Zekâ · Halka Arz",
+      "baslik": "Anthropic halka arz başvurusunda bulundu",
+      "metin": "Bloomberg HT'ye göre şirket halka arz başvurusu yaptı. BBC Türkçe, başvuru belgesinde yapay zekânın ciddi riskler doğurabileceği uyarısının yer aldığını yazıyor.",
+      "neden": "Yapay zekâ şirketlerine yatırım iştahını gösteriyor; borsa fiyatlarını yukarı da aşağı da oynatabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/anthropic-halka-arz-basvurusunda-bulundu-3792565"
+      }
+    },
+    {
+      "etiket": "Şirketler · İstihdam",
+      "baslik": "Microsoft'tan gönüllü işten ayrılma teklifi",
+      "metin": "Bloomberg HT'ye göre Microsoft, ABD, Kanada, Hindistan ve İngiltere'deki yaklaşık 60 bin çalışanına mali destek içeren gönüllü ayrılma programı sunacak.",
+      "neden": "Büyük teknoloji şirketlerinin maliyet ve yapay zekâ yatırımı dengesini yeniden kurduğunu gösteriyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/microsoft-tan-60-bin-calisanina-gonullu-isten-ayrilma-teklifi-3792609"
+      }
+    },
+    {
+      "etiket": "Elektronik · Fiyat",
+      "baslik": "Apple Türkiye'de iPad fiyatlarını artırdı",
+      "metin": "CNBC-e'ye göre 11 inç iPad 31.999 TL oldu; en ucuz iPad'in fiyatı son 5 ayda %40 arttı.",
+      "neden": "Dövizle fiyatlanan elektronikte zam tüketicinin bütçesine doğrudan yansıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/teknoloji/apple-turkiyeden-sessiz-sedasiz-zam-fiyatlar-5-ayda-yuzde-40-artti-h40374"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Haber çok, plan tek",
+      "paragraflar": [
+        "Fon yasası yürürlüğe girdi, ama ödemelerin tarihi belli değil. Beklerken yapılacak en doğru iş, resmî duyuruları takip etmek ve söylentilerden uzak durmak.",
+        "Fed kararı yarın. Borsa, altın ve dolar kısa süre dalgalanabilir. Önümüzdeki aylarda ihtiyacınız olacak parayı nerede tuttuğunuzu bugün bir kez gözden geçirmek, haber peşinde koşmaktan daha faydalı."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Yükselen borsa, yüksek petrol",
+      "paragraflar": [
+        "Pazartesi günü S&P 500 %0,70, Nasdaq %0,82 yükseldi. Gerekçe yapay zekâ hisselerine gelen ilgi. Brent ise %0,78 gerilese de 115,81 dolarda.",
+        "İzlenecek şey karar metnindeki ton. Fed enflasyon konusunda sert konuşursa dolar ve faiz beklentisi yükselebilir. Petrol yüksek kaldığı sürece bu risk masada."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Fon mağduru olmamak için üç soru",
+      "paragraflar": [
+        "Bir fona ya da yatırım teklifine para yatırmadan önce şunu sorun: Bu kurumun SPK kaydı var mı? Fonun içinde ne var? Getiriyi garanti ediyorlar mı?",
+        "'Garanti getiri' vaadi dolandırıcılık işaretidir. Tek bir yere bütün birikiminizi koymamak, hangi haber gelirse gelsin sizi korur."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Ara ödemeler hızlı başlarsa küçük yatırımcının zararı bir ölçüde karşılanabilir ve piyasaya güven toparlanabilir.",
+      "Fed yumuşak bir ton kullanırsa dolar ve faiz baskısı hafifleyebilir; gelişen ülke piyasaları rahatlayabilir.",
+      "ABD-İran diplomasisi ilerlerse petrol gerileyebilir; akaryakıt ve enflasyon baskısı azalabilir."
+    ],
+    "olumsuz": [
+      "Ödeme takvimi uzarsa fon mağdurlarının beklentisi ve piyasa güveni zarar görebilir.",
+      "Fed aralık için artış sinyali verirse dolar yükselebilir; altın ve borsa baskı altında kalabilir.",
+      "Özel sektör tahvillerinde yeni temerrütler görülürse bu tahvillere yatırım yapan fonlar etkilenebilir."
+    ],
+    "riskler": "Fon soruşturması ve ödeme takvimi, Fed kararı, Orta Doğu'daki gerilim ve özel sektör tahvillerindeki temerrüt haberleri yakından izlenmeli.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "27 Ekim",
+      "olay": "İsrail'de genel seçim (BBC Türkçe)",
+      "onem": "orta"
+    },
+    {
+      "gun": "28 Ekim",
+      "olay": "Fed faiz kararı açıklanacak (toplantı 27–28 Ekim)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "28 Ekim",
+      "olay": "İngiltere bütçesi açıklanacak (BBC)",
+      "onem": "orta"
+    },
+    {
+      "gun": "Bu hafta",
+      "olay": "Avrupa Merkez Bankası (ECB) ve Japonya Merkez Bankası (BoJ) faiz kararları (AA)",
+      "onem": "orta"
+    },
+    {
+      "gun": "29 Ekim",
+      "olay": "Cumhuriyet Bayramı",
+      "onem": "orta"
+    },
+    {
+      "gun": "3 Kasım",
+      "olay": "ABD ara seçimleri",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "5–6 Kasım",
+      "olay": "TOKİ 61 ilde 725 arsayı açık artırmayla satacak",
+      "onem": "orta"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Temerrüt",
+      "aciklama": "Borcunu zamanında ödeyememek. Şirket tahvilinde temerrüt, tahvili alana vadesinde para ödenememesi demektir."
+    },
+    {
+      "terim": "Halka arz",
+      "aciklama": "Bir şirketin hisselerinin ilk kez borsada herkesin alıp satabileceği şekilde satışa çıkması."
+    },
+    {
+      "terim": "Özel sektör tahvili",
+      "aciklama": "Şirketlerin borç almak için çıkardığı kâğıt. Alan kişi şirkete borç vermiş olur ve faiziyle geri almayı bekler."
+    },
+    {
+      "terim": "Portföy yönetim şirketi",
+      "aciklama": "Yatırımcıların parasını fonlar aracılığıyla yöneten, SPK denetimindeki kuruluş."
+    }
+  ],
+  "karikatur": {
+    "baslik": "Ara Ödeme",
+    "dayanak": "Dayanak: Fon tasfiye kanunu Resmi Gazete'de yayımlandı; yatırımcılara 1 milyon liraya kadar ara ödeme yapılacak (BBC Türkçe).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Kemal, fon yasası çıkmış. 1 milyona kadar ara ödeme varmış."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Para ne zaman gelecek, bilen var mı?"
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Tarih henüz belli değil, duyuru bekliyoruz."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cuzdan",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "ter"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Ben o fonu 'garanti getiri' diye almıştım!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Garanti diyen çıkarsa amca, kapıyı kapat."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "bagir",
+            "poz": "eller-havada",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Ben de 'ayda katla' reklamına bakıyordum..."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Zeynep! Önce SPK kaydına bak!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Bizim kahvede tek garanti var: çay demli, hesap peşin!"
+          }
+        ]
+      }
+    ]
+  },
+  "teyitNotlari": [
+    "BIST 100 (11.151,96, %0,31) AA ve Habertürk'te aynı; iki kaynakla teyit edildi.",
+    "S&P 500, Nasdaq ve Dow Jones Pazartesi kapanışı CNBC canlı yayın verisi ve ek aracı yayınlarla teyit edildi; Cuma kapanışına göre hesaplanan değişimler tutarlı.",
+    "Brent (115,81 $) Reuters aktarımıyla tek kaynaktan alındı (Fox News/oilprice sonuçları); Salı sabahı ~114,9 $ civarı gün içi okumalar kapanış sayılmadı. Bazı sonuçlardaki 109 dolar seviyeleri farklı tarihe ait olduğu için kullanılmadı.",
+    "Dolar/TL ve Euro/TL TCMB 26 Ekim bülteni; dolar ECB referansıyla (49,76) uyumlu. Euro/TL, ECB EUR/USD ile hesaplanan değerden birkaç kuruş yüksek (TCMB satış kuru kullanıldı).",
+    "Ons altın ve gümüş gold-api'den alındı; altın için ikinci kaynak Dünya'nın '4 bin doları geri aldı' başlığı (tam rakam teyit edilemedi). Gümüş ve Bitcoin tek kaynak.",
+    "Fon ödemelerinin başlangıç tarihi kaynaklarda bulunamadı; teyit edilemedi.",
+    "Dünya, AA ve diğer haber sitelerine WebFetch ile erişilemedi (ENOTFOUND); haberler veri/haberler.json akışı ve arama sonuçlarıyla doğrulandı.",
+    "ABD 10 yıllık getiri bu sabah teyit edilemediği için listeye alınmadı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "BBC Türkçe – Fon tasfiye kanunu Resmi Gazete'de",
+      "url": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "Dünya – SPK, Tera ve Pusula Portföy'ün faaliyetlerini durdurdu",
+      "url": "https://www.dunya.com/ekonomi/spkden-tera-ve-pusula-portfoye-gecici-durdurma-karari-haberi-845371"
+    },
+    {
+      "baslik": "Ekonomim – Özel sektör tahvil piyasasında sarsıntı sürüyor",
+      "url": "https://www.ekonomim.com/ekonomi/sirket-tahvili-piyasasinda-sarsinti-devam-ediyor-haberi-927159"
+    },
+    {
+      "baslik": "CNBC-e – 2027 bütçesinde kentsel dönüşüm ve sosyal konuta kaynak",
+      "url": "https://www.cnbce.com/haberler/erdogan-acikladi-2027-butcesinde-aslan-payi-hangi-alanlara-ayrildi-iste-one-cikanlar-h40366"
+    },
+    {
+      "baslik": "CNBC-e – Borsada üçüncü çeyrek bilançoları sürüyor",
+      "url": "https://www.cnbce.com/sirket-bilancolari/borsada-bilanco-firtinasi-devlerin-kar-zarar-tablolari-belli-oldu-iste-o-sirketler-g40185"
+    },
+    {
+      "baslik": "AA – Hürmüz krizi yakıt faturasını 468 milyar dolar artırdı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/crea-hurmuz-kaynakli-petrol-sokunda-en-agir-yakit-faturasini-abd-odedi/4101832"
+    },
+    {
+      "baslik": "Dünya – New York borsası yükselişle kapandı",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-kapandi-haberi-845378"
+    },
+    {
+      "baslik": "CNBC-e – Tahran'da dörtlü bölgesel zirve",
+      "url": "https://www.cnbce.com/dunya/tahranda-dort-ulkeyi-bulusturan-zirve-turkiyeden-ust-duzey-katilim-h40347"
+    },
+    {
+      "baslik": "Bloomberg HT – Anthropic halka arz başvurusunda bulundu",
+      "url": "https://www.bloomberght.com/anthropic-halka-arz-basvurusunda-bulundu-3792565"
+    },
+    {
+      "baslik": "Bloomberg HT – Microsoft'tan gönüllü işten ayrılma teklifi",
+      "url": "https://www.bloomberght.com/microsoft-tan-60-bin-calisanina-gonullu-isten-ayrilma-teklifi-3792609"
+    },
+    {
+      "baslik": "CNBC-e – Apple Türkiye'de iPad fiyatlarını artırdı",
+      "url": "https://www.cnbce.com/teknoloji/apple-turkiyeden-sessiz-sedasiz-zam-fiyatlar-5-ayda-yuzde-40-artti-h40374"
+    },
+    {
+      "baslik": "Dünya – Altın",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-daha-sert-dusus-uyarisi-unlu-analist-yeni-dip-bekliyor-galeri-845244"
+    },
+    {
+      "baslik": "Bloomberg HT – Konut (ev)",
+      "url": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+    },
+    {
+      "baslik": "TRT Haber – Arsa",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+    },
+    {
+      "baslik": "Ekonomim – Otomobil",
+      "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+    },
+    {
+      "baslik": "Karar – Dolar/TL",
+      "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+    },
+    {
+      "baslik": "CNBC-e – Petrol (Brent)",
+      "url": "https://www.cnbce.com/enerji/petrol-fiyatlari-dusecek-mi-goldman-sachstan-yeni-tahmin-g39707"
+    },
+    {
+      "baslik": "AA – Borsa günü yükselişle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4101476"
+    },
+    {
+      "baslik": "Habertürk – Borsa günü yükselişle tamamladı",
+      "url": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3922706"
+    },
+    {
+      "baslik": "Bloomberg HT – Fon Tasfiye Kanunu yasalaştı",
+      "url": "https://www.bloomberght.com/fon-tasfiye-kanunu-yasalasti-3792612"
+    },
+    {
+      "baslik": "AA – SPK, Tera Portföy ve Pusula Portföy faaliyetlerini durdurdu",
+      "url": "https://www.aa.com.tr/tr/ekonomi/spk-tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetlerini-gecici-olarak-durdurdu/4101717"
+    },
+    {
+      "baslik": "Ekonomim – New York borsası günü yükselişle kapattı",
+      "url": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-yukselisle-kapatti-haberi-927194"
+    },
+    {
+      "baslik": "BBC Türkçe – Anthropic halka arz ediliyor",
+      "url": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "TRT Haber – Microsoft'tan çalışanlarına gönüllü işten ayrılma teklifi",
+      "url": "https://www.trthaber.com/haber/ekonomi/microsofttan-calisanlarina-gonullu-isten-ayrilma-teklifi-961270.html"
+    },
+    {
+      "baslik": "Dünya – Altın 4 bin doları geri aldı",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolari-geri-aldi-siradaki-esik-nerede-galeri-845379"
+    },
+    {
+      "baslik": "AA – ABD'de enflasyon endişeleri artarken dikkatler Fed'in faiz kararına çevrildi",
+      "url": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-endiseleri-artarken-dikkatler-fedin-bu-haftaki-faiz-kararina-cevrildi/4100814"
+    },
+    {
+      "baslik": "AA – Üç büyük merkez bankası faiz kararı alacak",
+      "url": "https://www.aa.com.tr/tr/ekonomi/uc-buyuk-merkez-bankasi-enflasyon-riskleri-altinda-faiz-karari-alacak/4100815"
+    },
+    {
+      "baslik": "Bloomberg HT – Fed'in faizleri sabit tutması bekleniyor",
+      "url": "https://www.bloomberght.com/fedin-faizleri-sabit-tutmasi-bekleniyor-3792471"
+    }
+  ]
+}
