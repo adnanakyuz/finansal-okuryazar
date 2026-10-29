@@ -1,0 +1,695 @@
+{
+  "tarih": "2026-10-29",
+  "tarihMetni": "29 Ekim 2026, Perşembe",
+  "sayi": 12,
+  "notlar": "Cumhuriyet Bayramı baskısı · BIST 100 Çarşamba 28 Ekim (yarım gün) kapanışı · Döviz: TCMB 27 Ekim bülteni (ECB referansı 28 Ekim) · Altın, gümüş ve Bitcoin Perşembe sabahı (TSİ 06.30 civarı) · Brent gün içi okuma",
+  "gununOzeti": "Fed faizi %3,75–4,00'da sabit tuttu; kararın ardından altın biraz geriledi. Türkiye'nin eylül ihracatı 25,97 milyar dolarla Cumhuriyet tarihinin en yüksek ikinci aylık seviyesine çıktı. Bugün Cumhuriyet Bayramı: piyasalar tatilde, kripto ve altın fiyatları ise izlenmeye devam ediyor.",
+  "manset": {
+    "ustBaslik": "Fed Kararı",
+    "baslik": "Fed faizi sabit tuttu, Aralık için net sinyal vermedi",
+    "spot": "ABD Merkez Bankası politika faizini %3,75–4,00'da bıraktı. Karar 10'a 2 oyla alındı. Kararın ardından ons altın 4.040 dolar civarına geriledi.",
+    "ozet": [
+      "Habertürk'e göre karar 10'a 2 oyla alındı; açıklamada ekonomik faaliyetin güçlü, enflasyonun yüksek seyrettiği belirtildi.",
+      "Bloomberg HT, Fed'in eylülde üç yıl sonra faiz artırdığını ve Aralık için net bir sinyal vermediğini yazdı.",
+      "Fed Başkanı Warsh, 2028'den itibaren yılda 8 toplantının 6'sında faiz kararı alınmasının planlandığını söyledi (CNBC-e).",
+      "BIST 100 Çarşamba günü yarım günlük seansta %0,13 yükselerek 11.165,44 puandan kapandı (AA)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Dış Ticaret",
+      "baslik": "Eylül ihracatı 25,97 milyar dolarla tarihin en yüksek ikinci aylık seviyesi",
+      "spot": "Ticaret Bakanı Bolat'a göre ihracat yıllık %15,3 arttı. Dış ticaret açığı %25,8 azalarak 5,16 milyar dolara indi."
+    },
+    {
+      "ustBaslik": "Enerji",
+      "baslik": "Avrupa'da doğalgaz fiyatı 100 euroyu aştı",
+      "spot": "AA'ya göre megavatsaat fiyatı Orta Doğu'daki gerilim ve güçlü Asya talebiyle son 4 yılın zirvesini gördü."
+    },
+    {
+      "ustBaslik": "Teknoloji",
+      "baslik": "Microsoft'un kârı arttı, Alphabet'in geliri yükseldi",
+      "spot": "Dünya'ya göre yapay zekâ yatırımları bilançoların öne çıkan konusu oldu."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.165",
+      "degisim": "%0,13",
+      "yon": "up",
+      "neden": "Çarşamba yarım günlük seansın kapanışı (AA, TRT Haber, Habertürk aynı rakamı verdi). Bugün borsa tatil; hisse sahipleri için bir sonraki seans bayram sonrasında."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "49,79",
+      "degisim": "%0,06",
+      "yon": "up",
+      "neden": "TCMB'nin 27 Ekim bülteni; ECB referansı 28 Ekim için 49,84. Kur yavaş ve kontrollü artıyor; ithal ürün fiyatlarına etkisi kademeli."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,52",
+      "degisim": "%0,40",
+      "yon": "down",
+      "neden": "TCMB'nin 27 Ekim bülteni; ECB'ye göre EUR/USD 1,11 civarında. Avrupa'dan alışveriş yapanlar için maliyet hafif düştü."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.475 TL",
+      "degisim": "%0,03",
+      "yon": "down",
+      "neden": "Ons altın ve kurdan hesaplanan değer; kuyumcu fiyatı farklı olabilir. Dünya, Fed sonrası gram altını 6.472 TL olarak verdi."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.041 $",
+      "degisim": "%0,13",
+      "yon": "down",
+      "neden": "Fed faizi sabit bırakınca altın hafif geriledi (Ekonomim 4.038, Dünya 4.043 dolar yazdı). Faiz yüksek kaldıkça altın baskı altında kalabilir."
+    },
+    {
+      "ad": "Brent petrol",
+      "deger": "115,4 $",
+      "degisim": "%1,3",
+      "yon": "up",
+      "neden": "Çarşamba gün içi okuma, kapanış değil. Suudi Arabistan'daki rafineriye yönelik saldırı haberi arz endişesini artırdı; akaryakıt ve nakliye maliyetine yansıyabilir."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "79.792 $",
+      "degisim": "%1,34",
+      "yon": "down",
+      "neden": "Perşembe sabahı; Ekonomim Fed sonrası 81 bin doların aşıldığını yazmıştı, yani gün içinde hayli oynadı. Kripto çok oynaktır; kaybetmeyi göze alamayacağınız parayı koymamak gerekir. (Tek kaynak)"
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "53,23 $",
+      "degisim": "%1,86",
+      "yon": "down",
+      "neden": "Gümüş altından daha oynaktır; sabah saatlerinde geriledi. (Tek kaynak)"
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "Fed (ABD) faizi",
+      "mevcut": "%3,75–4,00",
+      "beklenti": "Aralık için net sinyal verilmedi (Bloomberg HT).",
+      "not": "28 Ekim'de sabit tutuldu; karar 10'a 2 oyla alındı. Fed faizi dolar, altın ve borsa gibi birçok fiyatı etkiler."
+    },
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Bir sonraki toplantıda indirim bekleniyor.",
+      "not": "22 Ekim'de %37'den %36'ya indirildi. Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir."
+    },
+    {
+      "kurum": "Kanada Merkez Bankası",
+      "mevcut": "%2,50",
+      "beklenti": "Enerji fiyatları yayılırsa yeni artışlar gündeme gelebilir (Dünya).",
+      "not": "28 Ekim'de 2023'ten beri ilk kez 25 baz puan artırdı."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "yukari",
+      "vade": "2027 ortalaması",
+      "ozet": "Reuters anketine katılan 30 analist, altının 2026 ortalama ons fiyatı tahminini 4.495 dolara indirdi; 2027 için tahmini 4.650 dolara yükseltti.",
+      "neden": "Güçlü dolar ve yüksek faiz altını baskılıyor; merkez bankalarının alımları ise fiyatı destekliyor.",
+      "kimDiyor": "Reuters'ın 30 analist ve yatırımcıyla yaptığı anket (CNBC-e aktardı). Aykırı görüş için başka kaynak teyit edilemedi.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/analistlerden-altin-tahmini-revizyonu-2027-beklentisi-yukseltildi-g40525"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Satışlar yılın zirvesinde ama enflasyondan arındırılmış fiyatlar düşüyor.",
+      "neden": "BETAM'a göre reel satılık konut fiyatları yıllık %7,8 geriledi. Faizler düştükçe kredi talebi canlanabilir.",
+      "kimDiyor": "BETAM fiyat raporu (22–25 Ekim haberleri). Açıklanmış ileriye dönük kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "2026 geneli",
+      "ozet": "Arsa için güncel bir fiyat tahmini bulamadık. TOKİ 5 ve 6 Kasım'da 61 ilde 725 arsayı açık artırmayla satacak; sonuçlar ipucu verebilir.",
+      "neden": "Arsa kolay nakde çevrilmez; ihtiyaç anında satmak zor olabilir.",
+      "kimDiyor": "Açıklanmış güncel bir kurum tahmini yok; yön belirsiz.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Akaryakıt zammı ikinci elde elektrikli ve LPG'li araçlara talebi artırdı.",
+      "neden": "Yakıt pahalandıkça tüketici işletme maliyeti düşük araca yöneliyor; bu tercih fiyatları da etkileyebilir.",
+      "kimDiyor": "Ekonomim'in sektör haberi (son 30 günden); açıklanmış bir kurum tahmini yok, yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+      }
+    },
+    {
+      "konu": "Dolar/TL",
+      "yon": "yukari",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Piyasa profesyonelleri doların yıl sonunda 51,55 TL civarında olmasını bekliyor. Bugün 49,79 TL civarında.",
+      "neden": "TCMB kuru ani sıçramalar olmadan, enflasyondan yavaş artırıyor.",
+      "kimDiyor": "TCMB Ekim Piyasa Katılımcıları Anketi.",
+      "kaynak": {
+        "ad": "Karar",
+        "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+      }
+    },
+    {
+      "konu": "Petrol (Brent)",
+      "yon": "yukari",
+      "vade": "2027",
+      "ozet": "Dünya Bankası, Orta Doğu'daki çatışmalar şiddetlenirse Brent'in 2027'de ortalama 105 dolara çıkabileceği uyarısını yaptı.",
+      "neden": "Petrol pahalı kaldıkça akaryakıt ve ulaşım pahalı kalır. Banka, 2026'da petrol arzının %5,2 azalmasını ve enerji fiyatlarının %32 artmasını bekliyor.",
+      "kimDiyor": "Dünya Bankası emtia raporu (CNBC-e aktardı). Goldman Sachs'ın 27 Ekim sayımızda aktarılan görüşü ise arz toparlanınca 2027'de gerileme yönündeydi; kurumlar ayrışıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/emtia/dunya-bankasindan-emtia-raporu-enerji-ve-gida-fiyatlarinda-yukselis-bekleniyor-h40530"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Fed Kararı",
+    "baslik": "Fed faizi sabit bıraktı: Bu bizim cebimize nasıl dokunur?",
+    "spot": "ABD'deki faiz kararı uzak görünür, ama dolar, altın ve borsayı etkiler. İşte sade anlatımı.",
+    "paragraflar": [
+      "ABD Merkez Bankası (Fed) 28 Ekim'de politika faizini %3,75–4,00 aralığında sabit tuttu (AA). Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. Faiz değişmedi, yani ABD'de borç almak ne ucuzladı ne pahalılaştı.",
+      "Habertürk'e göre karar 10'a 2 oyla alındı. Açıklamada ekonomik faaliyetin güçlü seyrettiği, enflasyonun ise yüksek kaldığı belirtildi. Bloomberg HT, Fed'in eylülde üç yıl sonra faiz artırdığını hatırlatıyor.",
+      "Fed Başkanı Kevin Warsh basın toplantısında enflasyonla mücadele mesajı verdi ve finansal koşulları sıkı olarak nitelendirmedi (CNBC-e). Bloomberg HT'ye göre Fed Aralık ayı için net bir sinyal vermedi. Bu belirsizlik, piyasaların bir sonraki toplantıya kadar gelen verilere göre yön bulacağı anlamına geliyor.",
+      "Cebe etkisi dolaylı. ABD'de faiz yüksek kaldıkça dolar genelde güçlü kalır ve altın üzerinde baskı oluşabilir. Nitekim karardan sonra ons altın 4.040 dolar civarına geriledi. Faiz yüksek olduğunda altın gibi faiz getirmeyen varlıklar daha az cazip görünebilir.",
+      "Türkiye açısından asıl soru, yabancı yatırımcının gelişen ülke varlıklarına bakışı. ABD faizi yüksek kalırsa yabancı fon akışı zorlaşabilir; bu da kur ve borsada dalgalanma yaratabilir. Bunlar olasılıktır, kesin sonuç değil.",
+      "Bu sabah dikkat edilecek tek şey acele etmemek. Bugün Cumhuriyet Bayramı nedeniyle Türkiye'de piyasalar kapalı; fiyat hareketlerini bayram sonrası seansta daha net göreceğiz."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Baz puan",
+        "metin": "Faiz değişimini ölçmenin yolu. 100 baz puan %1'e eşittir. Kanada'nın 25 baz puan artırması, faizin %0,25 yükselmesi demektir."
+      },
+      {
+        "baslik": "Bu ne demek? Oy farkı",
+        "metin": "Fed'de karar kurulda oylanır. 10'a 2 çıkması, iki üyenin farklı düşündüğünü, kurulda fikir ayrılığı olduğunu gösterir."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "ABD · Faiz",
+      "baslik": "Fed faizi sabit tuttu",
+      "metin": "Fed politika faizini %3,75–4,00'da bıraktı. Karar 10'a 2 oyla alındı (Habertürk). Fed Başkanı Warsh, 2028'den itibaren yılda 8 toplantının 6'sında faiz kararı alınmasının planlandığını açıkladı (CNBC-e).",
+      "etki": "Faiz yüksek kalırsa dolar güçlü, altın baskılı kalabilir; Türkiye'ye yabancı para girişi zorlaşabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/fed-politika-faizini-sabit-tuttu/4104235"
+      }
+    },
+    {
+      "etiket": "Türkiye · Dış Ticaret",
+      "baslik": "Eylül ihracatı Cumhuriyet tarihinin en yüksek ikinci aylık seviyesinde",
+      "metin": "İhracat eylülde yıllık %15,3 artışla 25 milyar 967 milyon dolara çıktı. İthalat %5,6 artarak 31 milyar 130 milyon dolar oldu; dış ticaret açığı 5,16 milyar dolara geriledi (Bloomberg HT, CNBC-e).",
+      "etki": "İhracat arttıkça ülkeye giren döviz artar; bu, kur üzerindeki baskıyı azaltabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-103-yillik-cumhuriyet-tarihimizin-en-yuksek-ikinci-aylik-ihracatina-ulasildi/4103745"
+      }
+    },
+    {
+      "etiket": "Avrupa · Enerji",
+      "baslik": "Doğalgaz fiyatı 100 euroyu aştı",
+      "metin": "Avrupa'da doğalgaz megavatsaat başına 100 euronun üzerine çıkarak Aralık 2022'den bu yana en yüksek seviyeyi gördü (AA, Dünya). Ekonomim, analistlerin kışın fiyatın 130 euroya çıkabileceği uyarısını aktardı.",
+      "etki": "Avrupa'da enerji pahalanırsa Türkiye'nin ihracatını ve doğalgaz ithalat maliyetini dolaylı etkileyebilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-100-avroyu-asarak-son-4-yilin-zirvesini-gordu/4104363"
+      }
+    },
+    {
+      "etiket": "Kanada · Faiz",
+      "baslik": "Kanada Merkez Bankası 2023'ten beri ilk kez faiz artırdı",
+      "metin": "Banka politika faizini 25 baz puan artırarak %2,50'ye yükseltti. Dünya'ya göre amaç, yüksek enerji fiyatlarının enflasyona yansımasını sınırlamak.",
+      "etki": "Enerji pahalılığı birçok ülkede faiz indirimini zorlaştırıyor; küresel faiz ortamı yüksek kalabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/kanada-merkez-bankasi-ndan-2023-ten-beri-ilk-faiz-artirimi-3792731"
+      }
+    },
+    {
+      "etiket": "Türkiye · Emekli",
+      "baslik": "Emekli maaşları için iyileştirme seçenekleri konuşuluyor",
+      "metin": "BBC Türkçe'nin AKP kaynaklarına dayandırdığı habere göre normal yıllık zammın yanında 'refah payı' veya 'seyyanen zam' seçenekleri masada. Yaş, çalışma durumu ve hane geliri gibi ölçütler değerlendiriliyor. Henüz resmî bir karar yok.",
+      "etki": "Karar çıkmadan rakam beklemek doğru olmaz; resmî duyuru takip edilmeli.",
+      "kaynak": {
+        "ad": "BBC Türkçe",
+        "url": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss"
+      }
+    },
+    {
+      "etiket": "Türkiye · Bankacılık",
+      "baslik": "Garanti BBVA üçüncü çeyrekte beklentinin üzerinde kâr açıkladı",
+      "metin": "Bloomberg HT'ye göre banka 33,8 milyar TL net kâr açıkladı; piyasa beklentisi 32,1 milyar TL'ydi. CNBC-e, ilk 9 ayda net kârın 96,6 milyar TL olduğunu ve yıllık %16 arttığını yazdı.",
+      "etki": "Bankaların kârı borsada bankacılık hisselerine bakışı etkiler; bu sayfa hisse önermez.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/garanti-bankasi-ucuncu-ceyrekte-net-krini-artirdi-3792778"
+      }
+    },
+    {
+      "etiket": "Dünya · Risk",
+      "baslik": "Fitch: Küresel risk ortamı yeni yıla girerken kötüleşiyor",
+      "metin": "Fitch Ratings; yapay zekâ yatırımları, Orta Doğu'daki gerilim ve sıkılaşan finansman koşullarının kredi risklerini artırdığını belirtti. Tahvil getirilerinin beklentilerin üzerine çıkabileceği uyarısı da yapıldı (Dünya).",
+      "etki": "Küresel risk artarsa gelişen ülkelerde borçlanma maliyeti yükselebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/fitchten-kuresel-risk-uyarisi-yapay-zeka-yatirimlari-mercek-altinda-haberi-845665"
+      }
+    },
+    {
+      "etiket": "Türkiye · Enflasyon",
+      "baslik": "Ekonomistler ekim enflasyonunu aylık %2,20 bekliyor",
+      "metin": "AA Finans Enflasyon Beklenti Anketi'ne katılan ekonomistler, Tüketici Fiyat Endeksi'nin (TÜFE) ekimde aylık %2,20 artacağını tahmin ediyor. Bu bir beklentidir, resmî veri değil.",
+      "etki": "Aylık %2,20, fiyatların bir ayda ortalama bu kadar artması demek; maaş ve kira artışlarını ilgilendirir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/aa-finansin-ekim-ayi-enflasyon-beklenti-anketi-sonuclandi/4103802"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Şirketler · Yapay Zekâ",
+      "baslik": "Microsoft ve Alphabet bilançolarını açıkladı",
+      "metin": "Microsoft'un net kârı yıllık %32 artarak 36,6 milyar dolara çıktı. Alphabet'in geliri %25 artışla 127,6 milyar dolar oldu; CNBC-e'ye göre Alphabet'in net kârı geriledi.",
+      "neden": "Yapay zekâ yatırımlarının şirketlere kâr getirip getirmediği, teknoloji hisselerinin yönünü belirliyor.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/sirketler/microsoft-ve-alphabetin-bilancolari-aciklandi-yapay-zeka-yatirimlari-one-cikti-haberi-845667"
+      }
+    },
+    {
+      "etiket": "Cihaz",
+      "baslik": "Apple dokunmatik ekranlı MacBook Pro'yu tanıttı",
+      "metin": "CNBC-e'ye göre yeni modellerde OLED ekran, M5 Pro ve M5 Max çipleri var. Apple yıllardır Mac'lerde dokunmatik ekrana mesafeliydi.",
+      "neden": "Büyük üreticilerin ürün stratejisi değiştirmesi, bilgisayar pazarında rekabeti etkileyebilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/teknoloji/apple-yillardir-karsi-cikiyordu-dokunmatik-ekranli-macbook-pro-tanitildi-iste-fiyatlar-h40544"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Tatilde de cüzdan açık",
+      "paragraflar": [
+        "Bugün Cumhuriyet Bayramı. Borsa kapalı, bankalar tatilde. Ama kur, altın ve kripto fiyatları dünyanın başka yerlerinde işlem görmeye devam ediyor.",
+        "Bayram sabahı fiyat ekranına bakıp karar vermek yerine, önümüzdeki ay ödeyeceğiniz giderleri bir kâğıda yazmak daha işe yarar. Çay hâlâ sıcakken bütçe de hazırlanabilir."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Faiz sabit, petrol pahalı",
+      "paragraflar": [
+        "Fed faizi değiştirmedi, ama Brent petrol Suudi Arabistan haberiyle 115 doları aşarak yükselişini sürdürdü. Yüksek petrol, enflasyonu yukarıda tutabilecek bir etken.",
+        "İzlenecekler: bayram sonrası ilk seansta BIST 100, dolar/TL ve Brent. Bir sonraki Fed toplantısı için gelen enflasyon verileri de belirleyici olacak."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Bayramda sahte kampanyalara dikkat",
+      "paragraflar": [
+        "Bayram öncesi indirim ve 'sınırlı süre' mesajları artar. Tanımadığınız bağlantıya tıklayıp kart bilgisi girmeyin.",
+        "Kural basit: Bir teklif 'garanti kazanç' ya da 'bugüne özel' diyorsa durup resmî sitesinden kontrol edin. Resmî kurumlar kart şifrenizi telefonda ya da mesajla istemez."
+      ]
+    }
+  ],
+  "karikatur": {
+    "baslik": "Bayram Tatili",
+    "dayanak": "Dayanak: Fed faizi sabit tuttu, ons altın Fed sonrası geriledi; Türkiye'de 29 Ekim'de piyasalar tatil (Dünya, AA).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Kemal, Fed faizi sabit tutmuş. Bizim cüzdanda ne değişti?"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Bugün bayram, borsa kapalı."
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Kripto kapanmaz, 7/24 açık!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "ter"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Altın da biraz gerilemiş. Kafam karıştı kızım."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Amca, ekrana değil bütçene bak."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "bagir",
+            "poz": "eller-havada",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Borsa kapalı, altın düşük. Çay kaç para?"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Çay açık amca, hesap bayram sonu!"
+          }
+        ]
+      }
+    ]
+  },
+  "senaryolar": {
+    "olumlu": [
+      "Dış ticaret açığı daralmaya devam ederse ülkeye giren döviz artar ve kur üzerindeki baskı azalabilir.",
+      "Orta Doğu'da arz endişeleri yatışırsa petrol gerileyebilir; bu akaryakıt ve nakliye maliyetini hafifletebilir."
+    ],
+    "olumsuz": [
+      "Fed Aralık'ta yeniden faiz artırırsa dolar güçlenebilir; altın ve gelişen ülke piyasaları baskı altında kalabilir.",
+      "Petrol ve Avrupa'da doğalgaz yüksek kalırsa enerji maliyeti enflasyonu yukarıda tutabilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim, Suudi Arabistan'daki rafineri saldırısı haberleri ve yapay zekâ hisselerindeki dalgalanma piyasaları kısa sürede etkileyebilir. Bayram nedeniyle Türkiye'de fiyatlar bugün oluşmuyor; hareket bayram sonrası seansta görülebilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "29 Ekim",
+      "olay": "Cumhuriyet Bayramı (resmî tatil)",
+      "onem": "orta"
+    },
+    {
+      "gun": "3 Kasım",
+      "olay": "ABD ara seçimleri (Fitch açıklaması)",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "5–6 Kasım",
+      "olay": "TOKİ 61 ilde 725 arsayı açık artırmayla satacak",
+      "onem": "orta"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Dış ticaret açığı",
+      "aciklama": "Bir ülkenin dışarıdan aldığı malın, dışarıya sattığı maldan fazla olması. Fark ne kadar küçülürse ülke o kadar az döviz harcar."
+    },
+    {
+      "terim": "LNG",
+      "aciklama": "Doğalgazın çok soğutularak sıvı hâle getirilip gemilerle taşınması. Boru hattı olmayan yerlere gaz götürmenin yolu."
+    },
+    {
+      "terim": "Seyyanen zam",
+      "aciklama": "Herkese aynı tutarın eklenmesi. Yüzdelik artıştan farkı, düşük maaşlıya oransal olarak daha çok katkı sağlamasıdır."
+    },
+    {
+      "terim": "Gösterge kur",
+      "aciklama": "Merkez Bankası'nın gün içinde belirlediği, resmî işlemlerde başvurulan döviz kuru."
+    }
+  ],
+  "teyitNotlari": [
+    "BIST 100 (11.165,44, %0,13) AA, TRT Haber ve Habertürk'te aynı; Çarşamba yarım günlük seansın kapanışı. Üçü de aynı ajans akışına dayanıyor olabilir.",
+    "Dolar/TL ve Euro/TL TCMB bülteni 27 Ekim tarihli (28 Ekim bülteni dosyada yok); ECB referansı 28 Ekim için 49,84. Değişimler TCMB 26 Ekim kuruna göre hesaplandı.",
+    "Brent 115,4 $ kapanış değil, Çarşamba gün içi okumadır (Dünya ve BirGün 115,36–115,53 yazdı, TRT sabah 111,22 yazdı); resmî kapanış teyit edilemedi.",
+    "S&P 500, Nasdaq, Dow Jones ve ABD 10 yıllık getiri için 28 Ekim kapanış rakamı güvenilir şekilde teyit edilemedi; listeye alınmadı. Dünya ve Ekonomim New York borsasının yükselişle kapandığını yazıyor.",
+    "Ons altın ve gümüş gold-api'den alındı; altın için Ekonomim (4.038) ve Dünya (4.043) Fed sonrası değerleri uyumlu. Gümüş ve Bitcoin tek kaynak; Ekonomim Fed sonrası Bitcoin'in 81 bini aştığını yazdı, sabah değeri 79.792.",
+    "Fed oy dağılımı (10'a 2) Habertürk'ten; kimin hangi yönde oy kullandığı bu sayıda yazılmadı, teyit edilmedi.",
+    "Konut, arsa, otomobil ve Dolar/TL beklentileri 27 Ekim sayısındaki (30 günden yeni) kaynaklara dayanıyor; bugün güncel kurum tahmini bulunamadı.",
+    "Emekli maaşı iyileştirmesi AKP kaynaklarına dayanan haber; resmî karar yok.",
+    "Dünya, AA ve diğer haber sitelerine WebFetch ile erişilemedi (ENOTFOUND); haberler veri/haberler.json akışı ve arama sonuçlarıyla doğrulandı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "AA – Fed politika faizini sabit tuttu",
+      "url": "https://www.aa.com.tr/tr/ekonomi/fed-politika-faizini-sabit-tuttu/4104235"
+    },
+    {
+      "baslik": "Habertürk – Fed faiz kararını açıkladı",
+      "url": "https://www.haberturk.com/ekonomi/son-dakika-fed-faiz-kararini-acikladi-3923277"
+    },
+    {
+      "baslik": "Bloomberg HT – Faizi sabit tutan Fed Aralık'a ilişkin net sinyal vermedi",
+      "url": "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734"
+    },
+    {
+      "baslik": "CNBC-e – Fed Başkanı Warsh duyurdu: Faiz toplantılarının takvimi değişiyor",
+      "url": "https://www.cnbce.com/faiz/fed-baskani-warsh-duyurdu-faiz-toplantilarinin-takvimi-degisiyor-h40542"
+    },
+    {
+      "baslik": "AA – Borsa günü yükselişle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4103599"
+    },
+    {
+      "baslik": "TRT Haber – Borsa günü 11.165,44 puandan tamamladı",
+      "url": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-1116544-puandan-tamamladi-961478.html"
+    },
+    {
+      "baslik": "AA – Bakan Bolat: En yüksek ikinci aylık ihracat",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-103-yillik-cumhuriyet-tarihimizin-en-yuksek-ikinci-aylik-ihracatina-ulasildi/4103745"
+    },
+    {
+      "baslik": "Bloomberg HT – Dış ticaret açığı 5,2 milyar dolara geriledi",
+      "url": "https://www.bloomberght.com/dis-ticaret-acigi-5-2-milyar-dolara-geriledi-3792722"
+    },
+    {
+      "baslik": "CNBC-e – Eylülde 25,97 milyar dolarlık ihracat",
+      "url": "https://www.cnbce.com/haberler/turkiyeden-eylulde-2597-milyar-dolarlik-ihracat-cumhuriyet-tarihinin-en-yuksek-ikinci-aylik-seviyesi-h40523"
+    },
+    {
+      "baslik": "AA – Avrupa'da doğal gaz fiyatları 100 avroyu aştı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-100-avroyu-asarak-son-4-yilin-zirvesini-gordu/4104363"
+    },
+    {
+      "baslik": "Ekonomim – Doğal gaz fiyatlarında sert yükseliş",
+      "url": "https://www.ekonomim.com/sektorler/enerji/dogal-gaz-fiyatlarinda-sert-yukselis-daha-da-yukselebilir-haberi-927688"
+    },
+    {
+      "baslik": "Bloomberg HT – Kanada Merkez Bankası'ndan ilk faiz artırımı",
+      "url": "https://www.bloomberght.com/kanada-merkez-bankasi-ndan-2023-ten-beri-ilk-faiz-artirimi-3792731"
+    },
+    {
+      "baslik": "Dünya – Kanada Merkez Bankası 3 yıl sonra faiz artırdı",
+      "url": "https://www.dunya.com/ekonomi/kanada-merkez-bankasi-3-yil-sonra-faiz-artirdi-haberi-845646"
+    },
+    {
+      "baslik": "BBC Türkçe – Emekli maaşlarına iyileştirme",
+      "url": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "Habertürk – Emekli zammında üç ayaklı model",
+      "url": "https://www.haberturk.com/ekonomi/emekli-zamminda-uc-ayakli-model-3923201"
+    },
+    {
+      "baslik": "Bloomberg HT – Garanti Bankası üçüncü çeyrek kârı",
+      "url": "https://www.bloomberght.com/garanti-bankasi-ucuncu-ceyrekte-net-krini-artirdi-3792778"
+    },
+    {
+      "baslik": "CNBC-e – Garanti BBVA güçlü bilanço",
+      "url": "https://www.cnbce.com/sirket-bilancolari/borsa-istanbulun-bankacilik-devinden-guclu-bilanco-kari-yuzde-16-yukseldi-h40539"
+    },
+    {
+      "baslik": "Dünya – Fitch'ten küresel risk uyarısı",
+      "url": "https://www.dunya.com/ekonomi/fitchten-kuresel-risk-uyarisi-yapay-zeka-yatirimlari-mercek-altinda-haberi-845665"
+    },
+    {
+      "baslik": "Bloomberg HT – Fitch: Küresel risk ortamı kötüleşiyor",
+      "url": "https://www.bloomberght.com/fitch-kuresel-risk-ortami-yeni-yila-girerken-kotulesiyor-3792783"
+    },
+    {
+      "baslik": "AA – AA Finans ekim enflasyon beklenti anketi",
+      "url": "https://www.aa.com.tr/tr/ekonomi/aa-finansin-ekim-ayi-enflasyon-beklenti-anketi-sonuclandi/4103802"
+    },
+    {
+      "baslik": "Dünya – Microsoft ve Alphabet bilançoları",
+      "url": "https://www.dunya.com/sirketler/microsoft-ve-alphabetin-bilancolari-aciklandi-yapay-zeka-yatirimlari-one-cikti-haberi-845667"
+    },
+    {
+      "baslik": "CNBC-e – Microsoft ve Alphabet bilançosunda yapay zekâ etkisi",
+      "url": "https://www.cnbce.com/sirket-bilancolari/microsoft-ve-alphabetin-bilancosunda-yapay-zeka-etkisi-biri-karini-artirdi-digeri-geriledi-h40547"
+    },
+    {
+      "baslik": "CNBC-e – Dokunmatik ekranlı MacBook Pro",
+      "url": "https://www.cnbce.com/teknoloji/apple-yillardir-karsi-cikiyordu-dokunmatik-ekranli-macbook-pro-tanitildi-iste-fiyatlar-h40544"
+    },
+    {
+      "baslik": "CNBC-e – Analistlerden altın tahmini revizyonu",
+      "url": "https://www.cnbce.com/altin/analistlerden-altin-tahmini-revizyonu-2027-beklentisi-yukseltildi-g40525"
+    },
+    {
+      "baslik": "CNBC-e – Dünya Bankası emtia raporu",
+      "url": "https://www.cnbce.com/emtia/dunya-bankasindan-emtia-raporu-enerji-ve-gida-fiyatlarinda-yukselis-bekleniyor-h40530"
+    },
+    {
+      "baslik": "Dünya – Fed sonrası altın fiyatları",
+      "url": "https://www.dunya.com/ekonomi/fed-faiz-kararini-acikladi-altin-fiyatlari-geriledi-gram-ve-ons-altinda-son-durum-haberi-845657"
+    },
+    {
+      "baslik": "Dünya – New York borsası Fed sonrası yükselişle kapandı",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-fed-karari-sonrasi-yukselisle-kapandi-haberi-845664"
+    },
+    {
+      "baslik": "Ekonomim – Fed kararı sonrası Bitcoin",
+      "url": "https://www.ekonomim.com/finans/kripto-para/fed-karari-sonrasi-bitcoinde-hareketlilik-81-bin-dolari-asti-haberi-927719"
+    },
+    {
+      "baslik": "Bloomberg HT – Petrol Suudi rafineri saldırısıyla yükseldi",
+      "url": "https://www.bloomberght.com/petrol-suudi-arabistandaki-rafineri-saldirisiyla-yukseltti-3792709"
+    },
+    {
+      "baslik": "Dünya – Brent 115 doları aştı",
+      "url": "https://www.dunya.com/finans/haberler/petrol-fiyatlari-yukseldi-brent-115-dolari-asti-haberi-845540"
+    },
+    {
+      "baslik": "Bloomberg HT – Konutta reel düşüş derinleşti",
+      "url": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ilde 725 arsa satışa çıkaracak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+    },
+    {
+      "baslik": "Ekonomim – Akaryakıt fiyatları ikinci el pazarını altüst etti",
+      "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+    },
+    {
+      "baslik": "Karar – TCMB Ekim ayı anketi",
+      "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+    }
+  ]
+}

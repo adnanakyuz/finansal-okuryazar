@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-10-29",
+      "tarihMetni": "29 Ekim 2026, Perşembe",
+      "sayi": 12,
+      "baslik": "Fed faizi sabit tuttu, Aralık için net sinyal vermedi"
+    },
+    {
       "tarih": "2026-10-27",
       "tarihMetni": "27 Ekim 2026, Salı",
       "sayi": 11,
