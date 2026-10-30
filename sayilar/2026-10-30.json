@@ -1,0 +1,669 @@
+{
+  "tarih": "2026-10-30",
+  "tarihMetni": "30 Ekim 2026, Cuma",
+  "sayi": 13,
+  "notlar": "BIST 100 Çarşamba 28 Ekim (yarım gün) kapanışı · Döviz: TCMB 27 Ekim bülteni (ECB referansı 29 Ekim) · ABD endeksleri Perşembe 29 Ekim kapanışı · Altın, gümüş, Bitcoin Cuma sabahı (TSİ 06.30 civarı)",
+  "gununOzeti": "Wall Street'te yapay zekâ harcamalarına dair endişe sürdü; Alphabet hissesi bir günde %12,3 düştü ve Nasdaq %1,38 geriledi. Kripto borsası Binance, 6,3 milyar dolarlık varlığı etkileyen şüpheli bir saldırı açıkladı. Ons altın 4.000 dolar sınırına indi; bu sabah bunların Türkiye'deki yansımaları takip edilecek.",
+  "manset": {
+    "ustBaslik": "Dünya Borsaları",
+    "baslik": "Alphabet bir günde yaklaşık 500 milyar dolar değer kaybetti",
+    "spot": "Google'ın çatı şirketi Alphabet'in hissesi bilançonun ardından %12,3 düştü. Nasdaq endeksi günü %1,38 kayıpla kapattı. Yatırımcılar yapay zekâ harcamalarının karşılığını alıp alamayacağını sorguluyor.",
+    "ozet": [
+      "Habertürk'e göre Alphabet'in piyasa değeri yaklaşık 500 milyar dolar azaldı; bu, ABD borsası tarihindeki en büyük ikinci günlük değer kaybı.",
+      "CNBC-e, arama reklamı sonuçlarının beklentileri karşılamadığını ve yapay zekâ harcamalarının arttığını yazdı.",
+      "Dünya'ya göre S&P 500 %0,3 düşüşle 7.720,39, Nasdaq %1,38 düşüşle 26.184,72 puandan kapandı.",
+      "Amazon'un satışı %12 artarken net kârı %2,4 azaldı (Bloomberg HT)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Kripto",
+      "baslik": "Binance: 6,3 milyar dolarlık varlık şüpheli saldırıdan etkilendi",
+      "spot": "BBC'ye göre şirket yaklaşık 3 milyar dolarlık varlığın dondurulduğunu ve tüm kayıpları karşılayacağını açıkladı."
+    },
+    {
+      "ustBaslik": "Yatırım Fonları",
+      "baslik": "Tasfiyedeki fonlarda ilk ara ödemeler başlıyor",
+      "spot": "CNBC-e'ye göre bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi."
+    },
+    {
+      "ustBaslik": "Altın",
+      "baslik": "Ons altın 4.000 dolar sınırına geriledi",
+      "spot": "Dünya'ya göre ABD'den gelen enflasyon verileri altında satış baskısını artırdı."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.165",
+      "degisim": "%0,13",
+      "yon": "up",
+      "neden": "Çarşamba yarım günlük seansın kapanışı (AA, TRT Haber, Habertürk). Perşembe bayram nedeniyle borsa kapalıydı; bu sabahki seansın sonucunu yarınki sayıda göreceğiz."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "49,79",
+      "degisim": "%0,00",
+      "yon": "flat",
+      "neden": "TCMB'nin 27 Ekim bülteni; ECB referansı 29 Ekim için 49,84. Kur yavaş ve kontrollü artıyor; ithal ürün fiyatlarına etkisi kademeli."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,52",
+      "degisim": "%0,00",
+      "yon": "flat",
+      "neden": "TCMB'nin 27 Ekim bülteni; ECB'ye göre EUR/USD 1,11 civarında. Avrupa'dan alışveriş ve tatil harcamaları için maliyet bu düzeyde."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.411 TL",
+      "degisim": "%0,98",
+      "yon": "down",
+      "neden": "Ons altın ve kurdan hesaplanan değer; kuyumcu fiyatı farklı olabilir. Ons fiyatındaki düşüş gram fiyatına da yansıdı."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.001 $",
+      "degisim": "%0,98",
+      "yon": "down",
+      "neden": "Dünya'ya göre ABD'den gelen enflasyon verileri satış baskısını artırdı; fiyat 4.000 dolar sınırında. Aşağı ya da yukarı sert oynayabilir."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "77.413 $",
+      "degisim": "%2,98",
+      "yon": "down",
+      "neden": "Binance'in şüpheli saldırı açıklaması kripto piyasasında endişe yarattı. Kripto çok oynaktır; kaybetmeyi göze alamayacağınız parayı koymamak gerekir. (Tek kaynak)"
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "51,62 $",
+      "degisim": "%3,03",
+      "yon": "down",
+      "neden": "Gümüş altından daha oynaktır; sabah saatlerinde sert geriledi. (Tek kaynak)"
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "7.720",
+      "degisim": "%0,3",
+      "yon": "down",
+      "neden": "Perşembe kapanışı. Yapay zekâ harcamalarına dair endişeler satışı artırdı. (Tek kaynak: Dünya; Ekonomim yönü teyit etti)"
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "26.185",
+      "degisim": "%1,38",
+      "yon": "down",
+      "neden": "Perşembe kapanışı. Alphabet'in sert düşüşü teknoloji ağırlıklı endeksi aşağı çekti. (Tek kaynak: Dünya; Ekonomim yönü teyit etti)"
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "Fed (ABD) faizi",
+      "mevcut": "%3,75–4,00",
+      "beklenti": "Aralık için net sinyal verilmedi (Bloomberg HT).",
+      "not": "28 Ekim'de sabit tutuldu. Fed faizi dolar, altın ve borsa gibi birçok fiyatı etkiler."
+    },
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Bir sonraki toplantıda indirim bekleniyor.",
+      "not": "22 Ekim'de %37'den %36'ya indirildi. Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir."
+    },
+    {
+      "kurum": "Avrupa Merkez Bankası (ECB)",
+      "mevcut": "Sabit",
+      "beklenti": "Yeni bir beklenti açıklanmadı.",
+      "not": "AA'ya göre ECB, enerji kaynaklı yüksek enflasyona rağmen üç temel faizini beklentiler doğrultusunda sabit tuttu."
+    },
+    {
+      "kurum": "Japonya Merkez Bankası (BOJ)",
+      "mevcut": "Sabit",
+      "beklenti": "Yeni bir beklenti açıklanmadı.",
+      "not": "Investing.com Türkiye'ye göre BOJ faizi beklendiği gibi sabit tuttu."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "yukari",
+      "vade": "2027 ortalaması",
+      "ozet": "Reuters anketine katılan 30 analist, altının 2026 ortalama ons fiyatı tahminini 4.495 dolara indirdi; 2027 için tahmini 4.650 dolara yükseltti. Bugün ons 4.000 dolar civarında.",
+      "neden": "Güçlü dolar ve yüksek faiz altını baskılıyor; merkez bankalarının alımları ise fiyatı destekliyor. Dünya, ABD enflasyon verilerinin kısa vadede satış baskısını artırdığını yazdı.",
+      "kimDiyor": "Reuters'ın 30 analist ve yatırımcıyla yaptığı anket (CNBC-e aktardı). Aykırı görüş için başka kaynak teyit edilemedi.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/analistlerden-altin-tahmini-revizyonu-2027-beklentisi-yukseltildi-g40525"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Satışlar yılın zirvesinde ama enflasyondan arındırılmış fiyatlar düşüyor.",
+      "neden": "BETAM'a göre reel satılık konut fiyatları yıllık %7,8 geriledi. Faizler düştükçe kredi talebi canlanabilir.",
+      "kimDiyor": "BETAM fiyat raporu (22–25 Ekim haberleri). Açıklanmış ileriye dönük kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "2026 geneli",
+      "ozet": "Arsa için güncel bir fiyat tahmini bulamadık. TOKİ 5 ve 6 Kasım'da 61 ilde 725 arsayı açık artırmayla satacak; sonuçlar ipucu verebilir.",
+      "neden": "Arsa kolay nakde çevrilmez; ihtiyaç anında satmak zor olabilir.",
+      "kimDiyor": "Açıklanmış güncel bir kurum tahmini yok; yön belirsiz.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Akaryakıt zammı ikinci elde elektrikli ve LPG'li araçlara talebi artırdı.",
+      "neden": "Yakıt pahalandıkça tüketici işletme maliyeti düşük araca yöneliyor; bu tercih fiyatları da etkileyebilir.",
+      "kimDiyor": "Ekonomim'in sektör haberi (son 30 günden); açıklanmış bir kurum tahmini yok, yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+      }
+    },
+    {
+      "konu": "Dolar/TL",
+      "yon": "yukari",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Piyasa profesyonelleri doların yıl sonunda 51,55 TL civarında olmasını bekliyor. Bugün 49,79 TL civarında.",
+      "neden": "TCMB kuru ani sıçramalar olmadan, enflasyondan yavaş artırıyor.",
+      "kimDiyor": "TCMB Ekim Piyasa Katılımcıları Anketi.",
+      "kaynak": {
+        "ad": "Karar",
+        "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+      }
+    },
+    {
+      "konu": "Petrol (Brent)",
+      "yon": "yukari",
+      "vade": "2027",
+      "ozet": "Dünya Bankası, Orta Doğu'daki çatışmalar şiddetlenirse Brent'in 2027'de ortalama 105 dolara çıkabileceği uyarısını yaptı.",
+      "neden": "Petrol pahalı kaldıkça akaryakıt ve ulaşım pahalı kalır. Banka, 2026'da petrol arzının %5,2 azalmasını ve enerji fiyatlarının %32 artmasını bekliyor.",
+      "kimDiyor": "Dünya Bankası emtia raporu (CNBC-e aktardı). Goldman Sachs'ın 27 Ekim sayımızda aktarılan görüşü ise arz toparlanınca 2027'de gerileme yönündeydi; kurumlar ayrışıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/emtia/dunya-bankasindan-emtia-raporu-enerji-ve-gida-fiyatlarinda-yukselis-bekleniyor-h40530"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Yapay Zekâ ve Borsa",
+    "baslik": "Alphabet'in sert düşüşü neden dünya piyasalarını sallıyor?",
+    "spot": "Bir şirketin hissesi bir günde %12 düşünce yalnızca onun sahiplerini değil, bütün teknoloji piyasasını etkiliyor. İşte sade anlatımı.",
+    "paragraflar": [
+      "Google'ın çatı şirketi Alphabet'in hisseleri, üçüncü çeyrek bilançosunun ardından %12,3 geriledi (Habertürk). Şirketin piyasa değeri yaklaşık 500 milyar dolar azaldı. Piyasa değeri, bir şirketin tüm hisselerinin toplam değeridir.",
+      "Habertürk'e göre bu, ABD borsalarında en büyük ikinci günlük değer kaybı oldu. CNBC-e, Alphabet'in arama reklamı sonuçlarının beklentileri karşılamadığını ve yapay zekâ harcamalarının arttığını yazdı.",
+      "Düşüş yalnızca Alphabet'le kalmadı. Dünya'ya göre Nasdaq %1,38, S&P 500 %0,3 geriledi. Ekonomim, endeksleri aşağı çekenin yapay zekâ altyapı harcamalarına dair endişeler olduğunu yazdı.",
+      "Başka şirketler de aynı konuyu gündeme getirdi. Amazon'un satışları %12 artıp 201,9 milyar dolara çıktı, net kârı ise %2,4 düşüp 20,7 milyar dolara geriledi. Şirket yıl genelindeki yatırım harcaması beklentisini 220 milyar dolarda tuttu (CNBC-e).",
+      "Intel'in üçüncü çeyrek kârı %18 azalarak 3,3 milyar dolara indi; şirketin dördüncü çeyrek tahminleri beklentilerin altında kaldı (CNBC-e).",
+      "Cebe etkisi dolaylı. Büyük teknoloji hisseleri dünya endekslerinin ağır parçası; emeklilik fonları ve yatırım fonları gibi araçlar bu hisseleri tutabiliyor. Fon sahibi biriyseniz fonun içindekilere bakmak faydalı olur. Bu bir tavsiye değil, bilgilendirmedir."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Piyasa değeri",
+        "metin": "Bir şirketin hisse sayısı ile hisse fiyatının çarpımı. Hisse fiyatı düşünce şirketin piyasa değeri de düşer."
+      },
+      {
+        "baslik": "Bu ne demek? Sermaye harcaması",
+        "metin": "Şirketin veri merkezi, çip gibi uzun vadeli yatırımlara yaptığı harcama. Yapay zekâ için bu harcamalar çok büyüdü."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Kripto · Güvenlik",
+      "baslik": "Binance şüpheli saldırının etkisini 6,3 milyar dolar olarak açıkladı",
+      "metin": "BBC'ye göre şirket yaklaşık 3 milyar dolarlık varlığın dondurulduğunu ve tüm kayıpları karşılayacağını söyledi. Ekonomim, 29 Ekim gecesi sıcak cüzdanlardan 2 milyar doları aşan kripto paranın yeni adreslere aktarıldığını yazmıştı. Saldırının ayrıntıları henüz tam doğrulanmadı.",
+      "etki": "Kripto borsalarında tutulan paranın güvencesi tartışılıyor; kripto fiyatları sert oynayabilir.",
+      "kaynak": {
+        "ad": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fonlar",
+      "baslik": "Tasfiye sürecindeki fonlarda ilk ara ödeme başlıyor",
+      "metin": "CNBC-e'ye göre tasfiye kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler bugün başlıyor.",
+      "etki": "Fonu tasfiyedeki yatırımcılar ödemelerini aracı kurumlarından takip edebilir; resmî duyuruları beklemek gerekir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-bugun-basliyor-kimler-odeme-alacak-h40598"
+      }
+    },
+    {
+      "etiket": "Orta Doğu · Enerji",
+      "baslik": "Hürmüz'de dört tanker için mayın iddiası",
+      "metin": "Dünya'ya göre Hürmüz Boğazı'nda dört tankerin mayına çarptığı iddiası petrol sevkiyatında güvenlik endişelerini artırdı. ABD'nin İran'a ilettiği yeni teklif, boğazın yedi gün içinde açılmasını öngörüyor; Tahran'ın yanıtı bekleniyor.",
+      "etki": "Petrol arzındaki belirsizlik akaryakıt ve nakliye fiyatlarını etkileyebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/gundem/hurmuzde-4-tanker-icin-mayin-iddiasi-abdden-irana-7-gunluk-teklif-haberi-845777"
+      }
+    },
+    {
+      "etiket": "Avrupa · Faiz",
+      "baslik": "ECB yüksek enflasyona rağmen faizi sabit tuttu",
+      "metin": "AA'ya göre ECB, Orta Doğu'daki gerilimin tetiklediği enerji krizine rağmen üç temel politika faizini beklentiler doğrultusunda sabit bıraktı.",
+      "etki": "Euro bölgesinde faiz sabit kalırsa Avrupa'dan yapılan ödemelerde kur etkisi sınırlı kalabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014"
+      }
+    },
+    {
+      "etiket": "Japonya · Faiz",
+      "baslik": "BOJ faizi beklendiği gibi sabit bıraktı",
+      "metin": "Investing.com Türkiye'ye göre Japonya Merkez Bankası faiz oranlarını sabit tuttu.",
+      "etki": "Büyük merkez bankalarının sabit kalması küresel piyasalarda kısa vadede sürpriz riskini azaltır.",
+      "kaynak": {
+        "ad": "Investing.com Türkiye",
+        "url": "https://tr.investing.com/news/economy-news/boj-faiz-oranlarn-beklendigi-gibi-sabit-tuttu-tufe-hedefte-4128996"
+      }
+    },
+    {
+      "etiket": "Avrupa · Enerji",
+      "baslik": "AB'den 42,6 milyon varil petrol rezervi hamlesi",
+      "metin": "Dünya'ya göre 12 AB üyesi ülke, Ocak 2027 sonuna kadar stratejik rezervlerinden 42,6 milyon varil petrolü piyasaya sürmeyi taahhüt etti. Amaç dizel piyasasını istikrara kavuşturmak.",
+      "etki": "Arz artarsa petrol ve dizel fiyatındaki baskı hafifleyebilir; sonuç göreceğiz.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/dunya/abden-enerji-hamlesi-426-milyon-varil-petrol-piyasaya-surulecek-haberi-845771"
+      }
+    },
+    {
+      "etiket": "Türkiye · İhracat",
+      "baslik": "Avrupa'ya karayolu ihracatında gecikme sinyalleri",
+      "metin": "Ekonomim'e göre vize sorunu otomotiv ve makine başta olmak üzere birçok sektörün Avrupa ticaretinde gecikmelere yol açıyor. Ticaret Bakanlığı sorunun çözümü için Dışişleri ve Ulaştırma bakanlıklarıyla koordinasyon yürüttüğünü açıkladı.",
+      "etki": "Sevkiyat gecikirse ihracatçıların maliyeti artabilir; bu da fiyatlara yansıyabilir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/avrupaya-ihracatta-rotar-sinyalleri-gelmeye-basladi-3-bakanlik-devreye-girdi-haberi-927866"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Şirketler · Yapay Zekâ",
+      "baslik": "Alphabet'te sert düşüş, Amazon'da kâr geriledi",
+      "metin": "Alphabet hissesi %12,3 düştü. Amazon'un net satışları %12 artarken net kârı %2,4 azaldı; şirket yıllık yatırım harcaması beklentisini 220 milyar dolarda tuttu.",
+      "neden": "Yapay zekâ yatırımlarının kâra dönüşüp dönüşmeyeceği teknoloji hisselerinin yönünü belirliyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/sirket-haberleri/amazonun-satislari-artti-kari-geriledi-220-milyar-dolarlik-harcama-plani-h40592"
+      }
+    },
+    {
+      "etiket": "ABD · Çin",
+      "baslik": "ABD'den elektronik cihaz testlerinde Çin'e kısıtlama",
+      "metin": "CNBC-e'ye göre ABD Federal İletişim Komisyonu, Çin dahil karşılıklı tanıma anlaşması bulunmayan ülkelerdeki laboratuvarların cihaz testlerini iki yıl sonra kabul etmeyecek. ABD'de satılan cihaz testlerinin %82,3'ü Çin'de yapılıyor.",
+      "neden": "Telefon ve bilgisayar üreticilerinin maliyetini ve tedarik zincirini etkileyebilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/teknoloji/abdden-cine-yeni-kisitlama-akilli-telefon-ve-bilgisayarlari-da-kapsiyor-h40589"
+      }
+    },
+    {
+      "etiket": "Çip",
+      "baslik": "Intel'in kârı %18 azaldı",
+      "metin": "Intel'in üçüncü çeyrek net kârı 3,3 milyar dolara indi, geliri %21 artışla 16,5 milyar dolar oldu. Dördüncü çeyrek tahminleri beklentilerin altında kaldı.",
+      "neden": "Çip üreticilerinin görünümü yapay zekâ yatırımlarının hızını da gösteriyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/sirket-haberleri/intelin-kari-dustu-gelirleri-artti-dorduncu-ceyrek-beklentisi-zayif-kaldi-h40594"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Haber hızlı, cüzdan yavaş olmalı",
+      "paragraflar": [
+        "Bir günde yarım trilyon dolarlık değer kaybı haberi insanı ürkütür. Ama bu rakam bir şirketin hisse sahiplerinin kaybıdır; herkesin cebinden çıkan para değildir.",
+        "Ekran kırmızıya dönünce acele karar vermek, çoğu zaman pahalıya patlar. Bütçenizi yazın, giderlerinizi bilin, acil durum paranızı ayırın. Gerisi sakin bir kahveyle düşünülür."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Teknoloji sallandı, altın 4.000'de",
+      "paragraflar": [
+        "Nasdaq %1,38 düştü, Bitcoin ve gümüş sabah saatlerinde geriledi, ons altın 4.000 dolar sınırına indi. Üç ayrı piyasanın aynı yönde oynaması riskten kaçışın sinyali olabilir.",
+        "İzlenecekler: Türkiye'de BIST 100'ün Çarşamba kapanışından sonraki ilk tam seansı, dolar/TL ve Brent petrol. Bunlar yalnızca izleme listesidir, yön tahmini değildir."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Paranız kimin elinde?",
+      "paragraflar": [
+        "Binance haberi, parayı bir platformda tutmanın riskini hatırlatıyor. Platform ne kadar büyük olursa olsun, saldırıya uğrayabilir.",
+        "Kural basit: Kaybetmeyi göze alamayacağınız parayı kriptoya koymayın. Hesap güvenliğiniz için iki adımlı doğrulamayı açın ve şifrenizi kimseyle paylaşmayın."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Alphabet'in düşüşü tek şirkete özgü kalırsa teknoloji piyasası kısa sürede toparlanabilir.",
+      "ABD'nin İran'a ilettiği teklif sonuç verir ve Hürmüz açılırsa petrol fiyatı gerileyebilir; bu akaryakıt maliyetini hafifletebilir."
+    ],
+    "olumsuz": [
+      "Yapay zekâ harcamalarına dair endişe yayılırsa dünya borsalarında satış baskısı sürebilir.",
+      "Binance olayı kripto piyasasında güven kaybına yol açarsa fiyatlar daha sert oynayabilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim, Hürmüz Boğazı haberleri, teknoloji hisselerindeki dalgalanma ve kripto borsalarındaki güvenlik olayları piyasaları kısa sürede etkileyebilir. Türkiye'de bayram sonrası ilk seans bu gelişmelere nasıl tepki vereceğini gösterecek.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "3 Kasım",
+      "olay": "ABD ara seçimleri (Fitch açıklaması)",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "Sağlık Bakanlığı atama kurası başvurularının son günü (kura 26 Kasım)",
+      "onem": "orta"
+    },
+    {
+      "gun": "5–6 Kasım",
+      "olay": "TOKİ 61 ilde 725 arsayı açık artırmayla satacak",
+      "onem": "orta"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Piyasa değeri",
+      "aciklama": "Bir şirketin bütün hisselerinin toplam değeri. Hisse fiyatı düşerse piyasa değeri de düşer."
+    },
+    {
+      "terim": "Sıcak cüzdan",
+      "aciklama": "İnternete bağlı kripto cüzdanı. Hızlı işlem yapılır ama saldırıya daha açıktır."
+    },
+    {
+      "terim": "Stratejik rezerv",
+      "aciklama": "Devletlerin kriz anında kullanmak için sakladığı petrol stoku."
+    },
+    {
+      "terim": "Sermaye harcaması",
+      "aciklama": "Bir şirketin veri merkezi, fabrika gibi uzun vadeli yatırımlara yaptığı harcama."
+    }
+  ],
+  "teyitNotlari": [
+    "BIST 100 (11.165,44) Çarşamba yarım günlük seansın kapanışı; Perşembe tatildi, Cuma seansı henüz açılmadı. Yüzde değişim önceki sayıdaki gibidir.",
+    "Dolar/TL ve Euro/TL TCMB 27 Ekim bülteni (veri/rakamlar.json); 29 Ekim ECB referansı 49,84. Değişim yüzdesi hesaplanamadığı için %0,00 yazıldı.",
+    "S&P 500, Nasdaq ve Dow (52.342,56, %0,25 düşüş) rakamları yalnızca Dünya'da bulundu (tek kaynak); Ekonomim yalnızca düşüşü teyit etti. Dow listeye alınmadı.",
+    "Brent petrol ve ABD 10 yıllık getiri için güvenilir güncel rakam bulunamadı; listeye alınmadı.",
+    "Ons altın, gümüş ve Bitcoin gold-api ve CoinGecko'dan alındı (veri/rakamlar.json); altın için Dünya '4 bin dolar sınırı' yazarak uyumlu. Gümüş ve Bitcoin tek kaynak.",
+    "Gram altın hesaplanan değerdir; kuyumcu fiyatı farklıdır.",
+    "Binance olayının ayrıntıları ve kayıp tutarı şirket açıklamasına dayanıyor; saldırı bağımsız kaynaklarca tam doğrulanmadı.",
+    "Hürmüz'de tanker iddiası ve ABD'nin teklifi yalnızca Dünya özetinden aktarıldı; sayfa açılamadı.",
+    "Konut, arsa, otomobil, Dolar/TL ve Brent beklentileri 22–29 Ekim tarihli (30 günden yeni) kaynaklara dayanıyor; bugün yeni kurum tahmini bulunamadı.",
+    "WebFetch haber sitelerine erişemedi; haberler veri/haberler.json akışı ve arama sonuçlarıyla doğrulandı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "BBC Business – Binance says crypto worth $6.3bn impacted in suspected hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "Investing.com Türkiye – Binance güvenlik olayının etkisini 6,3 milyar dolar olarak açıkladı",
+      "url": "https://tr.investing.com/news/cryptocurrency-news/binance-guvenlik-olaynn-etkisini-63-milyar-dolar-olarak-acklad-432SI-4128992"
+    },
+    {
+      "baslik": "Ekonomim – Binance hacklendi mi?",
+      "url": "https://www.ekonomim.com/finans/kripto-para/binance-hacklendi-mi-25-milyar-dolarlik-hareket-sonrasi-sirketten-acilama-haberi-927913"
+    },
+    {
+      "baslik": "Habertürk – 500 milyar dolar silindi",
+      "url": "https://www.haberturk.com/ekonomi/google-in-cati-sirketi-alphabet-te-tarihi-dusus-450-mslyar-dolar-silindi-3923587"
+    },
+    {
+      "baslik": "CNBC-e – Alphabet düşüşü Nasdaq'ı vurdu",
+      "url": "https://www.cnbce.com/piyasalar/alphabet-dususu-nasdaqi-vurdu-yapay-zeka-endisesi-buyuyor-h40586"
+    },
+    {
+      "baslik": "Dünya – New York borsası düşüşle kapandı",
+      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-dususle-kapandi-haberi-845774"
+    },
+    {
+      "baslik": "Ekonomim – New York borsası günü düşüşle kapattı",
+      "url": "https://www.ekonomim.com/ekonomi/new-york-borsasi-gunu-dususle-kapatti-haberi-927900"
+    },
+    {
+      "baslik": "CNBC-e – Tasfiye sürecindeki fonlarda ilk ara ödeme bugün başlıyor",
+      "url": "https://www.cnbce.com/haberler/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-bugun-basliyor-kimler-odeme-alacak-h40598"
+    },
+    {
+      "baslik": "Dünya – Hürmüz'de 4 tanker için mayın iddiası",
+      "url": "https://www.dunya.com/gundem/hurmuzde-4-tanker-icin-mayin-iddiasi-abdden-irana-7-gunluk-teklif-haberi-845777"
+    },
+    {
+      "baslik": "AA – ECB yüksek enflasyona rağmen faizleri sabit tuttu",
+      "url": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014"
+    },
+    {
+      "baslik": "Investing.com Türkiye – BOJ faiz oranlarını sabit tuttu",
+      "url": "https://tr.investing.com/news/economy-news/boj-faiz-oranlarn-beklendigi-gibi-sabit-tuttu-tufe-hedefte-4128996"
+    },
+    {
+      "baslik": "CNBC-e – Amazon'un satışları arttı, kârı geriledi",
+      "url": "https://www.cnbce.com/sirket-haberleri/amazonun-satislari-artti-kari-geriledi-220-milyar-dolarlik-harcama-plani-h40592"
+    },
+    {
+      "baslik": "Dünya – AB'den 42,6 milyon varil petrol",
+      "url": "https://www.dunya.com/dunya/abden-enerji-hamlesi-426-milyon-varil-petrol-piyasaya-surulecek-haberi-845771"
+    },
+    {
+      "baslik": "Ekonomim – Avrupa'ya ihracatta rötar sinyalleri",
+      "url": "https://www.ekonomim.com/ekonomi/avrupaya-ihracatta-rotar-sinyalleri-gelmeye-basladi-3-bakanlik-devreye-girdi-haberi-927866"
+    },
+    {
+      "baslik": "CNBC-e – ABD'den Çin'e yeni kısıtlama",
+      "url": "https://www.cnbce.com/teknoloji/abdden-cine-yeni-kisitlama-akilli-telefon-ve-bilgisayarlari-da-kapsiyor-h40589"
+    },
+    {
+      "baslik": "CNBC-e – Intel'in kârı düştü",
+      "url": "https://www.cnbce.com/sirket-haberleri/intelin-kari-dustu-gelirleri-artti-dorduncu-ceyrek-beklentisi-zayif-kaldi-h40594"
+    },
+    {
+      "baslik": "Dünya – Altında 4 bin dolar korkusu büyüyor",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-4-bin-dolar-korkusu-buyuyor-yukselis-bekleyenler-icin-kritik-uyari-galeri-845776"
+    },
+    {
+      "baslik": "CNBC-e – Analistlerden altın tahmini revizyonu",
+      "url": "https://www.cnbce.com/altin/analistlerden-altin-tahmini-revizyonu-2027-beklentisi-yukseltildi-g40525"
+    },
+    {
+      "baslik": "CNBC-e – Dünya Bankası emtia raporu",
+      "url": "https://www.cnbce.com/emtia/dunya-bankasindan-emtia-raporu-enerji-ve-gida-fiyatlarinda-yukselis-bekleniyor-h40530"
+    },
+    {
+      "baslik": "Bloomberg HT – Konutta reel düşüş derinleşti",
+      "url": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ilde 725 arsa satışa çıkaracak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+    },
+    {
+      "baslik": "Ekonomim – Akaryakıt fiyatları ikinci el pazarını altüst etti",
+      "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+    },
+    {
+      "baslik": "Karar – TCMB Ekim ayı anketi",
+      "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+    }
+  ],
+  "karikatur": {
+    "baslik": "500 Milyar",
+    "dayanak": "Dayanak: Alphabet hissesi bir günde %12,3 düştü, piyasa değeri yaklaşık 500 milyar dolar azaldı (Habertürk).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Bir şirket bir günde 500 milyar dolar kaybetmiş!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "telefon",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Hisse düştü amca, para yok olmadı."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Yok olmadı da nereye gitti?"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "ter"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Hisse sahibinin hayali küçüldü, o kadar."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "defter",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Benim hayallerim bakkal defterinde."
+          },
+          {
+            "kim": "kemal",
+            "metin": "Defterim hep güvende, borç sende!"
+          }
+        ],
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "bagir",
+            "poz": "eller-havada",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Çaya zam geldi amca!"
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Şirket 500 milyar kaybetti, ben çayda kaybediyorum!"
+          }
+        ],
+        "nesneYer": "orta"
+      }
+    ]
+  }
+}
