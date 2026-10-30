@@ -1,5 +1,5 @@
 {
-  "olusturma": "2026-10-29T03:29:35.716Z",
+  "olusturma": "2026-10-30T03:29:08.556Z",
   "not": "Otomatik çekildi. Değişimler bir önceki çalıştırmaya göredir.",
   "kalemler": {
     "tcmb_usd": {
@@ -8,7 +8,7 @@
       "birim": "TL",
       "kaynak": "TCMB gösterge kuru",
       "url": "https://www.tcmb.gov.tr/kurlar/today.xml",
-      "zaman": "2026-10-29T03:29:35.716Z",
+      "zaman": "2026-10-30T03:29:08.556Z",
       "degisimYuzde": 0,
       "alis": 49.6997,
       "bultenTarihi": "27.10.2026"
@@ -19,7 +19,7 @@
       "birim": "TL",
       "kaynak": "TCMB gösterge kuru",
       "url": "https://www.tcmb.gov.tr/kurlar/today.xml",
-      "zaman": "2026-10-29T03:29:35.716Z",
+      "zaman": "2026-10-30T03:29:08.556Z",
       "degisimYuzde": 0,
       "alis": 55.4243,
       "bultenTarihi": "27.10.2026"
@@ -30,81 +30,81 @@
       "birim": "TL",
       "kaynak": "TCMB gösterge kuru",
       "url": "https://www.tcmb.gov.tr/kurlar/today.xml",
-      "zaman": "2026-10-29T03:29:35.716Z",
+      "zaman": "2026-10-30T03:29:08.556Z",
       "degisimYuzde": 0,
       "alis": 66.0944,
       "bultenTarihi": "27.10.2026"
     },
     "ecb_usdtry": {
       "ad": "USD/TRY (ECB referans)",
-      "deger": 49.838,
+      "deger": 49.837,
       "birim": "TL",
       "kaynak": "Avrupa Merkez Bankası (Frankfurter)",
       "url": "https://www.frankfurter.app",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": 0.1,
-      "gun": "2026-10-28"
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": 0,
+      "gun": "2026-10-29"
     },
     "ecb_eurusd": {
       "ad": "EUR/USD (ECB referans)",
-      "deger": 1.1133,
+      "deger": 1.113,
       "birim": "$",
       "kaynak": "Avrupa Merkez Bankası (Frankfurter)",
       "url": "https://www.frankfurter.app",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": -0.15,
-      "gun": "2026-10-28"
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": -0.03,
+      "gun": "2026-10-29"
     },
     "btc_usd": {
       "ad": "Bitcoin",
-      "deger": 79792,
+      "deger": 77413,
       "birim": "$",
       "kaynak": "CoinGecko",
       "url": "https://www.coingecko.com/tr/coins/bitcoin",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": -1.34,
-      "degisim24sYuzde": -1.43,
-      "tl": 3976459
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": -2.98,
+      "degisim24sYuzde": -2.96,
+      "tl": 3866290
     },
     "eth_usd": {
       "ad": "Ethereum",
-      "deger": 2304.11,
+      "deger": 2216.18,
       "birim": "$",
       "kaynak": "CoinGecko",
       "url": "https://www.coingecko.com/tr/coins/ethereum",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": -2.21,
-      "degisim24sYuzde": -2.33,
-      "tl": 114826
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": -3.82,
+      "degisim24sYuzde": -3.8,
+      "tl": 110684
     },
     "ons_altin": {
       "ad": "Ons altın",
-      "deger": 4040.8999,
+      "deger": 4001.3999,
       "birim": "$",
       "kaynak": "gold-api.com",
       "url": "https://gold-api.com",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": -0.13,
-      "kaynakZamani": "2026-10-29T03:29:30Z"
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": -0.98,
+      "kaynakZamani": "2026-10-30T03:29:11Z"
     },
     "ons_gumus": {
       "ad": "Ons gümüş",
-      "deger": 53.229,
+      "deger": 51.616,
       "birim": "$",
       "kaynak": "gold-api.com",
       "url": "https://gold-api.com",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": -1.86,
-      "kaynakZamani": "2026-10-29T03:29:29Z"
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": -3.03,
+      "kaynakZamani": "2026-10-30T03:29:10Z"
     },
     "gram_altin": {
       "ad": "Gram altın (hesaplanan)",
-      "deger": 6474.8507,
+      "deger": 6411.4301,
       "birim": "TL",
       "kaynak": "Hesap: ons altın × USD/TRY ÷ 31,10",
       "url": "https://gold-api.com",
-      "zaman": "2026-10-29T03:29:35.716Z",
-      "degisimYuzde": -0.03,
+      "zaman": "2026-10-30T03:29:08.556Z",
+      "degisimYuzde": -0.98,
       "hesap": true
     }
   },
