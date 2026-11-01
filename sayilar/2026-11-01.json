@@ -1,0 +1,580 @@
+{
+  "tarih": "2026-11-01",
+  "tarihMetni": "1 Kasım 2026, Pazar",
+  "sayi": 15,
+  "notlar": "Hafta sonu baskısı · BIST 100 Cuma 30 Ekim kapanışı · Döviz: TCMB 30 Ekim bülteni · Altın, gümüş, Bitcoin Pazar sabahı (TSİ 06.30 civarı) · Haftalık değişimler AA'nın 30 Ekim haftalık özetinden",
+  "gununOzeti": "Yeni haftaya Salı günü açıklanacak Ekim enflasyonuyla giriyoruz. Geçen hafta borsa %3,22, gram altın %1,18 değer kaybetti; Borsa İstanbul'un genel müdürünün fon soruşturması kapsamında gözaltına alınması ise piyasaya güven tartışmasını büyüttü. Cebinize etkisi: dolar ve euro sakin, ama borsa ve altında oynaklık sürüyor.",
+  "manset": {
+    "ustBaslik": "Hafta Sonu · Borsa",
+    "baslik": "Borsa İstanbul Genel Müdürü fon soruşturması kapsamında gözaltına alındı",
+    "spot": "Borsa İstanbul'un genel müdürü, sermaye piyasalarındaki işlemlere yönelik fon soruşturması kapsamında gözaltına alındı. Soruşturmada örgüte üye olma ve rüşvet iddiaları var; süreç henüz yargılama aşamasında değil. Aynı gün SPK'nın başına yeni bir isim atandı.",
+    "ozet": [
+      "Gözaltı kararı fon soruşturması kapsamında verildi; iddialar henüz kanıtlanmış değil (Bloomberg HT, Dünya, CNBC-e, Ekonomim).",
+      "Resmî Gazete'de SPK Başkanlığına Vergi Denetim Kurulu Başkanı atandı.",
+      "BIST 100 Cuma günü %3,64 düşerek 10.759,56 puanda kapandı; haftalık kayıp %3,22.",
+      "Yeni haftanın ana verisi Salı günü açıklanacak Ekim enflasyonu."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Kripto",
+      "baslik": "Binance, 6,3 milyar dolarlık saldırının kayıplarının %90'ını karşıladı",
+      "spot": "Borsa, çalınan varlıklardan doğan kayıpların büyük kısmını karşıladığını açıkladı. Para çekme işlemlerinin bugün (Pazar) yeniden başlaması planlanıyor."
+    },
+    {
+      "ustBaslik": "Dünya · Faiz",
+      "baslik": "ABD'de iki Fed yetkilisinden yeni faiz artışı mesajı",
+      "spot": "Fed faizi %3,75-4 aralığında sabit tuttu. Ardından Dallas ve St. Louis Fed başkanları ek sıkılaşma gerekebileceğini söyledi. ABD'de faiz artarsa altın genellikle baskı görür."
+    },
+    {
+      "ustBaslik": "Petrol",
+      "baslik": "OPEC+ Aralık için üretim hedeflerini değiştirmeyecek",
+      "spot": "Grubun, Aralık ayı üretim hedeflerini değiştirmeme konusunda prensipte anlaştığı bildirildi. Pahalı petrol akaryakıt ve ulaşım maliyetini etkiler."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "10.760",
+      "degisim": "%3,64",
+      "yon": "down",
+      "neden": "Cuma kapanışı: 10.759,56 puan (AA, Dünya). Haftalık kayıp %3,22 (AA, CNBC-e). Borsada hisse almış birinin portföy değeri bu oranda geriledi; borsa iniş çıkışlıdır."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "49,86",
+      "degisim": "%0,48",
+      "yon": "up",
+      "neden": "TCMB'nin 30 Ekim bülteni; ECB referansı 49,95. Değişim haftalık (AA). Kur yavaş ve kontrollü artıyor."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,82",
+      "degisim": "%0,10",
+      "yon": "down",
+      "neden": "TCMB'nin 30 Ekim bülteni. Haftalık değişim (AA). Avrupa'dan alışveriş ve tatil maliyeti bu düzeyde."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.225 TL",
+      "degisim": "%1,18",
+      "yon": "down",
+      "neden": "Değer, ons fiyatı ve kurdan hesaplanır; kuyumcu fiyatı farklı olabilir. Değişim haftalık (AA)."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.876 $",
+      "degisim": "0",
+      "yon": "flat",
+      "neden": "Pazar sabahı değeri; piyasalar hafta sonu kapalı olduğu için Cumartesi sayısındaki değerle aynı. Faiz artırımı beklentisi altın üzerinde baskı yapıyor (Ekonomim, CNBC-e)."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "77.692 $",
+      "degisim": "%0,49",
+      "yon": "up",
+      "neden": "Pazar sabahı değeri. Binance saldırısı sonrası kripto piyasasının toplam değeri 2,6 trilyon doların altına inmişti (Dünya). Kripto çok oynaktır; kaybetmeyi göze alamayacağınız parayı koymamak gerekir."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "49,25 $",
+      "degisim": "0",
+      "yon": "flat",
+      "neden": "Pazar sabahı değeri. CNBC-e'ye göre gümüş geçen hafta 50 doların altına inmişti. Gümüş altından daha oynaktır."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.268 $",
+      "degisim": "%1,09",
+      "yon": "up",
+      "neden": "Pazar sabahı değeri (tek kaynak). Kripto piyasasında günlük oynaklık yüksektir."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Bir sonraki toplantıda indirim bekleniyor.",
+      "not": "22 Ekim'de %37'den %36'ya indirildi. Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. Bu hafta Salı günü Ekim enflasyonu açıklanacak; Merkez Bankası kararlarında enflasyon verisi belirleyicidir."
+    },
+    {
+      "kurum": "Fed (ABD) faizi",
+      "mevcut": "%3,75-4 aralığında sabit",
+      "beklenti": "Bazı Fed yetkilileri artırımı tartışıyor.",
+      "not": "Dünya'ya göre Dallas Fed Başkanı en az 50 baz puanlık (yüzde yarım) ek artış gerektiğini söyledi; St. Louis Fed Başkanı da yakında ek sıkılaşma gerekeceğini belirtti. ABD'de faiz artarsa altın genellikle baskı görür."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "yukari",
+      "vade": "2027'nin ilk çeyreği",
+      "ozet": "GSC adlı kuruluş, ons altın için 2027'nin ilk çeyreğinde 4.900-5.000 dolar aralığına işaret etti. Bugün ons altın 3.876 dolar civarında.",
+      "neden": "Altın, ABD'de faiz artışı beklentisi güçlendiğinde baskı görür; faiz beklentisi gevşerse toparlayabilir. Kurumlar bu konuda ayrışıyor.",
+      "kimDiyor": "GSC (CNBC-e'nin aktardığı tahmin). Reuters anketinde 30 analist 2027 ortalaması için 4.650 dolar bekliyor. Kısa vadeli görüşler ayrışıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/altin-cakildi-dev-kurulus-hedefi-acikladi-yuzde-25lik-hesap-icin-tarih-belli-oldu-g40688"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Fon skandalının konut piyasasına yansıması tartışılıyor. Bir gayrimenkul iktisatçısı, 15 ila 30 bin kişinin ev alma planından vazgeçebileceğini söylüyor.",
+      "neden": "Birikimi fonlarda olan kişiler ev almayı erteleyebilir; bu talebi azaltabilir. Öte yandan satışlar yılın zirvesinde, enflasyondan arındırılmış fiyatlar ise düşüyor.",
+      "kimDiyor": "Bir gayrimenkul iktisatçısının değerlendirmesi (Ekonomim, 31 Ekim). BETAM fiyat raporu enflasyondan arındırılmış fiyatların düştüğünü gösteriyor. Kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/fon-krizinin-yeni-faturasi-konut-piyasasinda-hesaplar-degisiyor-haberi-928291"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "5-6 Kasım",
+      "ozet": "Arsa için güncel bir fiyat tahmini bulamadık. TOKİ 5 ve 6 Kasım'da 61 ilde 725 arsayı açık artırmayla satacak; sonuçlar ipucu verebilir.",
+      "neden": "Açık artırma sonuçları, arsa talebinin güçlü mü zayıf mı olduğunu gösterebilir.",
+      "kimDiyor": "Açıklanmış güncel bir kurum tahmini yok; yön belirsiz. TOKİ satışı sonuçları ipucu verebilir.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Akaryakıt zammı ikinci elde elektrikli ve LPG'li araçlara talebi artırdı.",
+      "neden": "Yakıt pahalandıkça insanlar daha az yakan araçlara yöneliyor; bu da o araçların fiyatını etkileyebilir.",
+      "kimDiyor": "Ekonomim'in sektör haberi (son 30 günden). Açıklanmış güncel bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+      }
+    },
+    {
+      "konu": "Dolar/TL",
+      "yon": "yukari",
+      "vade": "Yıl sonu",
+      "ozet": "Piyasa profesyonelleri doların yıl sonunda 51,55 TL civarında olmasını bekliyor. Bugün 49,86 TL civarında.",
+      "neden": "Türkiye'de enflasyon, ABD ve Avrupa'dakinden yüksek olduğu için kurun kademeli artması bekleniyor.",
+      "kimDiyor": "TCMB Ekim Piyasa Katılımcıları Anketi.",
+      "kaynak": {
+        "ad": "Karar",
+        "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Fon Soruşturması",
+    "baslik": "Fon soruşturması Borsa İstanbul'a uzandı: ne oldu, cebe etkisi ne?",
+    "spot": "Borsa İstanbul Genel Müdürü gözaltına alındı. Aynı gün SPK'ya yeni başkan atandı. İkisi arasında resmî bir bağ kurulmuş değil; ama okurun sorusu aynı: paramı koyduğum yerler güvenli mi?",
+    "paragraflar": [
+      "Cuma akşamı Borsa İstanbul Genel Müdürü, sermaye piyasalarındaki işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alındı. Haberlere göre iddialar 'suç işlemek amacıyla kurulan örgüte üye olma' ve 'rüşvet' (Bloomberg HT, CNBC-e, Dünya, Ekonomim). Bunlar iddia aşamasında; yargı süreci sürüyor.",
+      "Fon soruşturması nedir? Yatırım fonları, birçok kişinin parasını bir havuzda toplayıp yönetmesi için bir kuruma emanet etmesidir. Ekonomim'e göre fon skandalı yaklaşık 450 bin kişiyi etkiliyor. Bu yüzden konu yalnızca borsa değil, çok sayıda hane için bir birikim meselesi.",
+      "Aynı gece Resmî Gazete'de Sermaye Piyasası Kurulu'nun (SPK) başkanlığına Vergi Denetim Kurulu Başkanı atandığı duyuruldu (AA, TRT Haber, Bloomberg HT). SPK, borsa ve fonları denetleyen kurumdur. Atamayla gözaltı arasında resmî bir bağ kurulmuş değil; ikisi aynı gün haber oldu.",
+      "Piyasaya yansıması nasıl oldu? BIST 100 Cuma günü %3,64 düşerek 10.759,56 puana indi, haftalığı %3,22 kayıpla kapattı. Gözaltı haberi seans kapandıktan sonra geldiği için Pazartesi açılışta piyasanın nasıl tepki vereceğini şimdiden bilemeyiz.",
+      "Cebinize etkisi: Fonlarda ya da hisse senetlerinde parası olanlar için değerler bir hafta içinde dalgalanabilir. Bu yazı yatırım tavsiyesi değildir; yalnızca bilgi içindir. Yatırım araçlarının resmî kayıtlı olup olmadığını SPK ve KAP (Kamuyu Aydınlatma Platformu) sitelerinden kontrol edebilirsiniz.",
+      "Ata Yatırım'ın bir çalışması, Borsa İstanbul'un piyasa değerinin milli gelire oranının tarihsel ortalamanın %35 altında olduğunu gösteriyor (Habertürk). Bu, borsanın ucuz olduğu anlamına gelmez; sadece tarihsel bir karşılaştırmadır."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? SPK",
+        "metin": "Sermaye Piyasası Kurulu, borsayı, fonları ve halka açık şirketleri denetleyen kamu kurumudur. Yatırımcıyı korumak onun görevlerindendir."
+      },
+      {
+        "baslik": "Bu ne demek? Yatırım fonu",
+        "metin": "Birçok kişinin parasını havuzda toplayıp bir şirketin yönettiği ortak yatırım sepetidir. Fonun değeri sepetteki varlıkların fiyatıyla değişir; kazanç da kayıp da olabilir."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "Borsa İstanbul Genel Müdürü gözaltına alındı",
+      "metin": "Borsa İstanbul Genel Müdürü, fon soruşturmaları kapsamında gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada 'örgüte üye olma' ve 'rüşvet' iddiaları yöneltiliyor.",
+      "etki": "Piyasaya güveni etkileyebilir; Pazartesi açılışta borsa bu habere tepki verebilir. Yargı süreci sürüyor, iddialar kanıtlanmış değil.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-3792993"
+      }
+    },
+    {
+      "etiket": "Türkiye · SPK",
+      "baslik": "SPK Başkanlığına yeni atama yapıldı",
+      "metin": "Resmî Gazete'de yayımlanan atama kararına göre Sermaye Piyasası Kurulu Başkanlığına Vergi Denetim Kurulu Başkanı atandı.",
+      "etki": "SPK, borsa ve fon yatırımcısını koruyan kurumdur; yeni yönetimin önceliklerini önümüzdeki günlerde göreceğiz.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676"
+      }
+    },
+    {
+      "etiket": "Türkiye · Enflasyon",
+      "baslik": "Ekim ayı enflasyonu Salı günü açıklanacak",
+      "metin": "TÜİK, Ekim ayına ilişkin enflasyon rakamlarını Salı günü açıklayacak. Eylülde aylık artış %1,84, yıllık enflasyon %29,73 olmuştu.",
+      "etki": "Enflasyon; maaş zammı, kira artışı ve faiz kararlarını etkiler. Beklentinin üstünde ya da altında gelmesi piyasayı hareketlendirebilir.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/ekim-ayi-enflasyonu-sali-gunu-aciklanacak-961691.html"
+      }
+    },
+    {
+      "etiket": "Dünya · Faiz",
+      "baslik": "Fed'den yeni faiz artışı sinyali",
+      "metin": "Fed faizi %3,75-4 aralığında sabit tuttu. Ardından Dallas Fed Başkanı en az 50 baz puanlık ek artış gerektiğini, St. Louis Fed Başkanı da yakında ek sıkılaşma gerekeceğini söyledi.",
+      "etki": "ABD'de faiz artarsa dolar güçlenebilir, altın ve gelişmekte olan ülke piyasaları baskı görebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/fedden-yeni-faiz-artisi-sinyali-en-az-50-baz-puanlik-artis-gundemde-haberi-845958"
+      }
+    },
+    {
+      "etiket": "Dünya · Kripto",
+      "baslik": "Binance kayıpların %90'ını karşıladı; para çekme Pazar günü yeniden başlayabilir",
+      "metin": "Binance, 6,3 milyar dolarlık siber saldırının ardından kayıpların %90'ını karşıladığını açıkladı. Kalan kısım için alımlar sürüyor; para çekme işlemlerinin 1 Kasım Pazar günü yeniden başlatılması planlanıyor.",
+      "etki": "Kripto platformlarında saldırı riski gerçektir. Kripto parayı ancak kaybetmeyi göze alabileceğiniz tutarla tutun.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/finans/kripto-para/binancete-son-durum-kayiplarin-yuzde-90i-karsilandi-haberi-845955"
+      }
+    },
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "OPEC+ Aralık ayı petrol üretim hedeflerini değiştirmeme konusunda anlaştı",
+      "metin": "OPEC+ ülkelerinin Aralık ayı üretim hedeflerini değiştirmeme konusunda prensipte anlaştığı bildirildi. İran savaşı nedeniyle Körfez ülkelerinin üretimi kotaların altında kalıyor.",
+      "etki": "Petrol arzı sınırlı kalırsa akaryakıt fiyatları yüksek seyredebilir; bu, ulaşım ve gıda maliyetlerine yansır.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/opec-petrol-uretiminde-kararini-verdi-aralik-ayi-icin-degisiklik-beklenmiyor-haberi-845963"
+      }
+    },
+    {
+      "etiket": "Avrupa · Hayat pahalılığı",
+      "baslik": "Almanya'da hayat pahalılığı protestoları kimi kentlerde şiddete döndü",
+      "metin": "BBC'ye göre Frankfurt polisi şehir merkezinde 'şiddetli olaylar' yaşandığını açıkladı; Berlin, Hamburg ve Köln'de de olaylar bildirildi. DW Türkçe, gençlerin 'Gen Z regelt' girişimiyle onlarca kentte eş zamanlı protesto düzenlediğini yazdı.",
+      "etki": "Avrupa'da artan yaşam maliyeti, bölgede tüketim ve büyüme beklentilerini etkileyebilir; Avrupa'ya ihracat yapan Türk firmalarını da dolaylı olarak ilgilendirir.",
+      "kaynak": {
+        "ad": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay zeka · Piyasa",
+      "baslik": "Yatırımcılar teknoloji piyasasında olası düşüşe karşı korunmaya çalışıyor",
+      "metin": "Investing.com Türkiye'ye göre yapay zeka yatırımcıları teknoloji piyasasında olası bir düşüşe karşı korunma yollarını arıyor. Geçen hafta Nasdaq 3 ayın dibine inmişti (CNBC-e).",
+      "neden": "Büyük teknoloji hisseleri emeklilik fonları ve endeks fonları aracılığıyla birçok kişinin birikimine dolaylı olarak dahildir.",
+      "kaynak": {
+        "ad": "Investing.com Türkiye",
+        "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrmclar-teknoloji-piyasasnda-olas-dususe-kars-korunmaya-calsyor-4131996"
+      }
+    },
+    {
+      "etiket": "Siber güvenlik",
+      "baslik": "FBI, rekor Binance hırsızlığını Kuzey Kore'ye bağladı",
+      "metin": "Investing.com Türkiye'ye göre FBI, 6,3 milyar dolarlık rekor Binance hırsızlığını Kuzey Kore'ye bağladı. TRM Labs da saldırıyı Kuzey Kore bağlantılı olduğu öne sürülen bir grupla ilişkilendirmişti.",
+      "neden": "Kripto platformlarındaki güvenlik açıkları milyarlarca dolarlık kayba yol açabiliyor; kendi hesabınızda iki adımlı doğrulamayı açık tutmak basit ve etkili bir önlemdir.",
+      "kaynak": {
+        "ad": "Investing.com Türkiye",
+        "url": "https://tr.investing.com/news/economy-news/fbi-rekor-63-milyar-dolarlk-binance-hrszlgn-kuzey-koreye-baglad-4131990"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Güven, rakamlardan önce gelir",
+      "paragraflar": [
+        "Piyasa, fiyatların ötesinde bir güven işidir. Borsanın başındaki ismin soruşturma kapsamında gözaltına alınması, iddialar ne olursa olsun, birçok kişinin aklına aynı soruyu getiriyor: Paramı koyduğum yer güvenli mi?",
+        "Bu soruya bugün kimse kesin cevap veremez. Yargı süreci sürüyor ve suçlama iddia aşamasında. Ama okurun yapabileceği şeyler var: yatırım aracının resmî kayıtlı olduğunu kontrol etmek, tüm birikimi tek sepete koymamak, kulaktan dolma getiri vaatlerine mesafeli durmak.",
+        "Bu hafta Salı günü açıklanacak enflasyon, bu güven tartışmasının yanına somut bir sayı koyacak. Sayıya sakin bakmak, sabah çayının tadını bozmaz."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Kripto saldırılarından ne öğrenebiliriz?",
+      "paragraflar": [
+        "Geçen hafta kripto dünyası rekor bir saldırıyla sarsıldı. Binance kayıpların büyük kısmını karşıladığını açıkladı; ama her platformdan bunu beklemek doğru olmaz.",
+        "Kendi cüzdanınız için üç basit alışkanlık: iki adımlı doğrulamayı açın, aynı şifreyi iki yerde kullanmayın, yatırımınızı kaybetmeyi göze alabileceğiniz tutarla sınırlayın.",
+        "Garanti getiri vaadi eden herkes dolandırıcılık ihtimali taşır. Gerçek yatırımda kazanç da kayıp da olabilir."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Ekim enflasyonu beklentinin altında gelirse Merkez Bankası'nın faiz indirimine devam etmesi kolaylaşabilir.",
+      "Binance'te para çekme işlemleri sorunsuz başlarsa kripto piyasasındaki endişe azalabilir.",
+      "Fed'den yumuşak mesajlar gelirse altın üzerindeki baskı hafifleyebilir."
+    ],
+    "olumsuz": [
+      "Enflasyon beklentinin üstünde gelirse faiz indirimi gecikebilir.",
+      "Fon soruşturması genişlerse borsada güven tartışması derinleşebilir.",
+      "ABD'de faiz artışı gelirse altın ve gelişmekte olan ülke piyasaları baskı görebilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim ve petrol fiyatları, yeni haftada hem enflasyon hem piyasalar için belirleyici olmayı sürdürüyor. Hafta sonu haberlerinin Pazartesi açılışta piyasaya nasıl yansıyacağı belirsiz.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "karikatur": {
+    "baslik": "Güven Endeksi",
+    "dayanak": "Dayanak: Borsa İstanbul Genel Müdürü fon soruşturması kapsamında gözaltına alındı; BIST 100 haftayı %3,22 kayıpla kapattı (Bloomberg HT, CNBC-e).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Borsa haftayı yüzde 3,22 kayıpla kapatmış!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Fon haberleri de karışık, ne yapacağız?"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Önce paranı nereye koyduğuna bak."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "defter",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Defterime her gün yazarım: kim ne aldı, ne borçlu."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Ee, bunun borsayla ilgisi?"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Defterde her şey yazılı, ama güveni kayda geçiremedim."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Güvenin vadesi yok, bir günde tükenir!"
+          }
+        ]
+      }
+    ]
+  },
+  "ajanda": [
+    {
+      "gun": "Sal 3 Kasım",
+      "olay": "TÜİK Ekim ayı enflasyon rakamlarını açıklayacak",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Sal 3 Kasım",
+      "olay": "ABD'de ara seçimler",
+      "onem": "orta"
+    },
+    {
+      "gun": "4 Kasım",
+      "olay": "İstanbul Sanayi Odası yönetim kurulu başkanlığı seçimi",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "5–6 Kasım",
+      "olay": "TOKİ 61 ilde 725 arsayı açık artırmayla satacak",
+      "onem": "orta"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "13 Kasım",
+      "olay": "SPK'nın kredili işlemlerde öz kaynak oranı uygulamasının süresi doluyor",
+      "onem": "orta"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Soruşturma",
+      "aciklama": "Savcılığın bir olayın gerçekten suç içerip içermediğini araştırdığı aşama. Soruşturma altında olmak, suçlu olmak demek değildir; karar mahkemede verilir."
+    },
+    {
+      "terim": "Yatırım fonu",
+      "aciklama": "Birçok kişinin parasının havuzda toplanıp bir kurum tarafından hisse, tahvil gibi araçlara yatırıldığı ortak sepet."
+    },
+    {
+      "terim": "Ara seçim",
+      "aciklama": "ABD'de başkanlık seçimlerinin arasında, Kongre'nin yenilenmesi için yapılan seçim."
+    }
+  ],
+  "teyitNotlari": [
+    "Piyasalar hafta sonu kapalı olduğu için BIST 100, döviz ve haftalık değişimler Cuma/30 Ekim verisidir; ons altın, gümüş, Bitcoin ve Ethereum Pazar sabahı otomatik veridir (gold-api, CoinGecko).",
+    "Dolar/TL, Euro/TL, gram altın ve BIST 100 haftalık değişimleri AA'nın 30 Ekim haftalık özetinden alındı (haberler.json); otomatik veriyle (TCMB/ECB) değerler uyumlu.",
+    "Ons altın, gümüş, Bitcoin ve Ethereum için ikinci bir bağımsız kaynakla anlık değer teyit edilemedi; WebSearch bulut ortamında güncel fiyat döndürmedi. Ethereum tek kaynaktır.",
+    "Brent petrol, S&P 500, Nasdaq ve ABD 10 yıllık tahvil faizi bu sayıda güncel iki kaynakla teyit edilemediği için piyasa tablosuna konmadı.",
+    "Borsa İstanbul Genel Müdürü gözaltı haberi haberler.json'daki birden çok yayında (Bloomberg HT, Dünya, CNBC-e, Ekonomim, BBC Türkçe) tutarlı; WebSearch bu güncel habere ulaşamadı. Kişi adı kaynakta geçse de metne alınmadı.",
+    "Binance para çekme işlemlerinin Pazar günü başlayacağı bilgisi Dünya'dan; başlayıp başlamadığı teyit edilemedi.",
+    "Fed faiz aralığı (%3,75-4) ve yetkili sözleri Dünya özetinden alındı; sayfa bulut ortamında açılamadı.",
+    "Konut, arsa ve otomobil için bu sabah yeni kurum tahmini bulunamadı; önceki günkü veriler ve Ekonomim konut haberi tarihiyle aktarıldı.",
+    "GSC'nin altın tahmini ve Reuters anket rakamı 31 Ekim sayısından devralındı; tam metin açılamadı.",
+    "ABD ara seçimleri 3 Kasım ve Ekim enflasyonunun Salı açıklanacağı bilgisi (TRT Haber, BBC Türkçe) haberlerden alındı; TÜİK takvimiyle ayrıca karşılaştırılamadı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Bloomberg HT – Borsa İstanbul Genel Müdürü gözaltına alındı",
+      "url": "https://www.bloomberght.com/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-3792993"
+    },
+    {
+      "baslik": "AA Ekonomi – SPK Başkanlığına yeni atama",
+      "url": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676"
+    },
+    {
+      "baslik": "TRT Haber – Ekim ayı enflasyonu Salı günü açıklanacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/ekim-ayi-enflasyonu-sali-gunu-aciklanacak-961691.html"
+    },
+    {
+      "baslik": "Dünya – Fed'den yeni faiz artışı sinyali",
+      "url": "https://www.dunya.com/ekonomi/fedden-yeni-faiz-artisi-sinyali-en-az-50-baz-puanlik-artis-gundemde-haberi-845958"
+    },
+    {
+      "baslik": "Dünya – Binance'te son durum: Kayıpların yüzde 90'ı karşılandı",
+      "url": "https://www.dunya.com/finans/kripto-para/binancete-son-durum-kayiplarin-yuzde-90i-karsilandi-haberi-845955"
+    },
+    {
+      "baslik": "Dünya – OPEC+ petrol üretiminde kararını verdi",
+      "url": "https://www.dunya.com/ekonomi/opec-petrol-uretiminde-kararini-verdi-aralik-ayi-icin-degisiklik-beklenmiyor-haberi-845963"
+    },
+    {
+      "baslik": "BBC – Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "Investing.com Türkiye – Yapay zeka yatırımcıları teknoloji piyasasında olası düşüşe karşı korunmaya çalışıyor",
+      "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrmclar-teknoloji-piyasasnda-olas-dususe-kars-korunmaya-calsyor-4131996"
+    },
+    {
+      "baslik": "Investing.com Türkiye – FBI, rekor Binance hırsızlığını Kuzey Kore'ye bağladı",
+      "url": "https://tr.investing.com/news/economy-news/fbi-rekor-63-milyar-dolarlk-binance-hrszlgn-kuzey-koreye-baglad-4131990"
+    },
+    {
+      "baslik": "CNBC-e – Altın çakıldı, dev kuruluş hedefi açıkladı",
+      "url": "https://www.cnbce.com/altin/altin-cakildi-dev-kurulus-hedefi-acikladi-yuzde-25lik-hesap-icin-tarih-belli-oldu-g40688"
+    },
+    {
+      "baslik": "Ekonomim – Fon krizinin yeni faturası: Konut piyasasında hesaplar değişiyor",
+      "url": "https://www.ekonomim.com/ekonomi/fon-krizinin-yeni-faturasi-konut-piyasasinda-hesaplar-degisiyor-haberi-928291"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ilde 725 arsayı satışa çıkaracak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html"
+    },
+    {
+      "baslik": "Ekonomim – Akaryakıt fiyatları ikinci el pazarını altüst etti",
+      "url": "https://www.ekonomim.com/foto-galeri/otomotiv/akaryakit-fiyatlari-ikinci-el-pazarini-altust-etti-ibre-beklenenden-hizli-dondu-galeri-926846"
+    },
+    {
+      "baslik": "Karar – TCMB'nin Ekim ayı anketi açıklandı",
+      "url": "https://www.karar.com/ekonomi-haberleri/tcmbnin-ekim-ayi-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-2078746"
+    },
+    {
+      "baslik": "AA Ekonomi – Bu hafta yatırım araçlarının performansı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4106756"
+    },
+    {
+      "baslik": "CNBC-e – Borsada haftanın kazananları ve kaybedenleri",
+      "url": "https://www.cnbce.com/borsa/borsada-haftanin-kazananlari-ve-kaybedenleri-bir-hisse-yuzde-2135-cakildi-g40697"
+    },
+    {
+      "baslik": "Habertürk – Dibi 1994'te görmüştü",
+      "url": "https://www.haberturk.com/ekonomi/borsa-milli-gelire-oranla-tarihi-ortalamanin-yuzde-35-altinda-3923779"
+    }
+  ]
+}
