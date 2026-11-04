@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-11-04",
+      "tarihMetni": "4 Kasım 2026, Çarşamba",
+      "sayi": 16,
+      "baslik": "Ekim enflasyonu beklentilerin üstünde geldi: aylık %2,58, yıllık %29,77"
+    },
+    {
       "tarih": "2026-11-01",
       "tarihMetni": "1 Kasım 2026, Pazar",
       "sayi": 15,

@@ -1,0 +1,619 @@
+{
+  "tarih": "2026-11-04",
+  "tarihMetni": "4 Kasım 2026, Çarşamba",
+  "sayi": 16,
+  "notlar": "BIST 100 3 Kasım Salı kapanışı · Döviz: TCMB 3 Kasım bülteni · Altın, gümüş, Bitcoin, Ethereum Çarşamba sabahı (TSİ 06.30 civarı) otomatik veri",
+  "gununOzeti": "Dün açıklanan Ekim enflasyonu beklentilerin üstünde geldi: aylık %2,58, yıllık %29,77. Yani market, kira ve fatura kalemlerinde fiyatlar bir ayda yaklaşık yüzde 2,6 arttı. ABD'deki ara seçimlerde ilk sonuçlar Demokratların Temsilciler Meclisi'nde çoğunluğu aldığını gösteriyor; piyasalar bu sonucun faiz ve petrol üzerindeki etkisini izliyor.",
+  "manset": {
+    "ustBaslik": "Enflasyon",
+    "baslik": "Ekim enflasyonu beklentilerin üstünde geldi: aylık %2,58, yıllık %29,77",
+    "spot": "TÜİK'e göre fiyatlar Ekim'de bir önceki aya göre yüzde 2,58 arttı. Yıllık enflasyon Eylül'deki %29,73'ten %29,77'ye çıktı. Taze sebze ve meyve ile giyim, ulaştırma ve konut kalemleri artışı yukarı çekti.",
+    "ozet": [
+      "Yıllık enflasyon %29,77; bir ay önce %29,73'tü (TRT Haber, Bloomberg HT).",
+      "Aylık %2,58 ile beklentilerin üzerinde kaldı; borsa veri sonrası geriledi (Ekonomim).",
+      "SSK ve Bağ-Kur emeklisinin Temmuz-Ekim enflasyon farkı %8,29 oldu (Habertürk).",
+      "2027 yeniden değerleme oranı %27,83 olarak belli oldu (Habertürk)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Dünya · ABD",
+      "baslik": "ABD ara seçimleri: Demokratlar Temsilciler Meclisi'nde çoğunluğu alıyor",
+      "spot": "CBS News tahminine göre Demokratlar, Cumhuriyetçilerin elindeki Temsilciler Meclisi çoğunluğunu ele geçiriyor. Senato için yarış sürüyor (BBC Türkçe, DW Türkçe)."
+    },
+    {
+      "ustBaslik": "Fon Tasfiyesi",
+      "baslik": "Tasfiyedeki fonlarda ödemeler net yatırım tutarına göre yapılacak",
+      "spot": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 455 binden fazla yatırımcının önemli bölümünün anaparasını geri alacağını söyledi (Dünya)."
+    },
+    {
+      "ustBaslik": "Dış Ticaret",
+      "baslik": "Ekim ihracatı %8,1 artışla 25,9 milyar dolara çıktı",
+      "spot": "İhracatın ithalatı karşılama oranı %79,4 oldu. Lider sektör 4 milyar 32 milyon dolarla yine otomotiv (Dünya)."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.023,55",
+      "degisim": "%0,56",
+      "yon": "up",
+      "neden": "3 Kasım Salı kapanışı (AA, TRT Haber, Habertürk). Enflasyon verisi sonrası gün içinde dalgalandı, kapanışta yükseldi. Borsa iniş çıkışlıdır; geçen haftaki sert düşüşün ardından toparlanma sürüyor."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,00",
+      "degisim": "%0,05",
+      "yon": "up",
+      "neden": "TCMB'nin 3 Kasım bülteni (satış 49,9993); ECB referansı 49,997. Kur yavaş ve kontrollü artıyor; ithal ürün fiyatları buna paralel yükseliyor."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,95",
+      "degisim": "%0,09",
+      "yon": "down",
+      "neden": "TCMB'nin 3 Kasım bülteni (satış 55,9471). Euro/dolar paritesi 1,1179 (ECB). Avrupa'dan alışveriş ve tatil maliyeti bu düzeyde."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.333 TL",
+      "degisim": "%0,26",
+      "yon": "up",
+      "neden": "Ons fiyatı ve kurdan hesaplanan değer; Borsa İstanbul'da standart altının 3 Kasım kapanışı gram başına yaklaşık 6.305 TL (TRT Haber). Kuyumcu fiyatı farklı olabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.940 $",
+      "degisim": "%0,21",
+      "yon": "up",
+      "neden": "Altın 3.893 dolara kadar gerilemiş, sonra 3.900 doların üzerine dönmüştü (Dünya). ABD'de faiz artışı beklentisi altın üzerinde baskı yapıyor."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "49,43 $",
+      "degisim": "%1,01",
+      "yon": "down",
+      "neden": "Çarşamba sabahı değeri (tek kaynak). Gümüş altından daha oynaktır."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "76.154 $",
+      "degisim": "%0,71",
+      "yon": "down",
+      "neden": "Çarşamba sabahı değeri (tek kaynak). Binance'in geçen haftaki siber saldırısı kripto piyasasında güveni sarsmıştı. Kripto çok oynaktır; kaybetmeyi göze alamayacağınız parayı bu işe koymayın."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.242 $",
+      "degisim": "%0,18",
+      "yon": "down",
+      "neden": "Çarşamba sabahı değeri (tek kaynak). Kripto piyasasında günlük oynaklık yüksektir."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Goldman Sachs, yıl sonuna kadar faizin sabit kalmasını bekliyor.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. Goldman Sachs, Ekim'de çekirdek enflasyon göstergelerinin hızlanmasına ve döviz rezervlerindeki gerilemeye dikkat çekti (CNBC-e). 22 Ekim'de %37'den %36'ya inmişti."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Altında yön belirsiz: merkez bankalarının alımı fiyatı destekliyor, ABD'de faiz artışı beklentisi ise baskı yapıyor.",
+      "neden": "Faiz yükselirse getirisi olmayan altın daha az cazip hale gelir. Merkez bankaları ise düşüşte alım yapıyor. Cuma günü açıklanacak ABD verisinin sert hareket yaratabileceği belirtiliyor.",
+      "kimDiyor": "Dünya Altın Konseyi'ne göre merkez bankası alımları 3. çeyrekte %42 artarak 321,2 tona çıktı; Dünya gazetesi ise faiz artışı ihtimalinin baskıyı sürdürdüğünü yazdı. Açıklanmış yeni bir kurum fiyat tahmini bulamadık.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/merkez-bankalari-altin-fiyatlarindaki-dususu-alim-firsatina-cevirdi-3793354"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Güncel bir kurum fiyat tahmini yok; enflasyonda konut grubu Ekim'de artışı yukarı çeken kalemlerden biri oldu.",
+      "neden": "Konut grubu fiyat artışı, kira ve ev maliyetlerinin hâlâ yüksek seyrettiğini gösteriyor. Fon tasfiyesi ve faiz seviyesi konut talebini etkileyebilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini bulamadık; yön son enflasyon verisine dayanıyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için güncel bir fiyat tahmini yok; belediye ihaleleri fiyat ipucu verebilir.",
+      "neden": "Ankara Büyükşehir ve Altındağ belediyeleri 28 taşınmazı satışa çıkardı; muhammen bedeller 1,4 milyon TL ile 18 milyon TL arasında.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/gayrimenkul/iki-belediyeden-28-gayrimenkul-satisi-karari-fiyatlar-14-milyon-tlden-basliyor-h40969"
+      }
+    },
+    {
+      "konu": "Otomobil",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Sıfır otomobil ve hafif ticari araç pazarı Ekim'de %30,8'den fazla küçüldü; talep zayıf.",
+      "neden": "Pazar Şubat'tan beri dokuz aydır yıllık bazda daralıyor; ilk 10 ayda %15,3 küçülerek 883 bin 799 adet oldu. Talep zayıfken fiyat artışları sınırlı kalabilir, ancak maliyetler yukarı yönlü.",
+      "kimDiyor": "Açıklanmış yeni bir kurum fiyat tahmini bulamadık; yön satış verisine dayanıyor.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/sektorler/otomotiv/otomotivde-1-milyona-dogru-sert-fren-pazar-9-aydir-daraliyor-ekimde-kayip-yuzde-31-haberi-846313"
+      }
+    },
+    {
+      "konu": "Politika faizi",
+      "yon": "yatay",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Goldman Sachs, TCMB'nin yılın geri kalanında politika faizini %36'da sabit tutmasını bekliyor.",
+      "neden": "Ekim'de çekirdek enflasyon göstergeleri hızlandı ve döviz rezervleri geriledi; bu yüzden faiz indirimi için alan daralıyor.",
+      "kimDiyor": "Goldman Sachs faizin sabit kalacağını söylüyor. BBVA Research de Aralık kararına ilişkin beklentisini paylaştı; ayrıntısına ulaşamadık.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/goldman-sachstan-turkiye-icin-yil-sonu-enflasyon-tahmini-h40951"
+      }
+    },
+    {
+      "konu": "Yıl sonu enflasyonu",
+      "yon": "yatay",
+      "vade": "2026 sonu",
+      "ozet": "Goldman Sachs yıl sonu enflasyon tahminini %29'da, BBVA Research %30'da tuttu.",
+      "neden": "Enflasyon yıllık %29,77'de. BBVA Research risklerin yukarı yönlü olduğunu belirtiyor; yani enflasyon tahmini aşabilir.",
+      "kimDiyor": "Goldman Sachs: %29. BBVA Research: %30, riskler yukarı yönlü.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/bbva-researchten-turkiye-icin-enflasyon-ve-faiz-tahmini-h40960"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Enflasyon",
+    "baslik": "Ekim enflasyonu neden beklentiyi aştı, cebinize ne yansıyor?",
+    "spot": "Fiyatlar Ekim'de bir ayda %2,58 arttı. Yıllık oran %29,77'ye çıktı. Üç soruda bu rakam ne anlama geliyor?",
+    "paragraflar": [
+      "Türkiye İstatistik Kurumu (TÜİK) dün Ekim enflasyonunu açıkladı. Fiyatlar bir önceki aya göre yüzde 2,58 arttı. Yıllık enflasyon ise yüzde 29,77 oldu. Eylül'de bu oran yüzde 29,73'tü.",
+      "Aylık artış beklentilerin üzerinde kaldı. Ekonomim'in aktardığına göre taze sebze ve meyvedeki çift haneli artışlar gıda fiyatlarını yukarı çekti. Önceki iki ayda gıda enflasyonu yavaşlamıştı; Ekim'de bu yön değişti. Yeni sezon giyim, ulaştırma ve konut grupları da artışa katkı yaptı.",
+      "Hazine ve Maliye Bakanı Mehmet Şimşek yıllık enflasyonun bir önceki yılın aynı ayına göre 3,1 puan düştüğünü söyledi. Ona göre savaşın etkisiyle yükselen enerji fiyatları dezenflasyonu, yani enflasyonun yavaşlamasını sınırlıyor (Bloomberg HT).",
+      "Bu rakamın cebe üç yansıması var. Birincisi, SSK ve Bağ-Kur emeklilerinin Temmuz-Ekim enflasyon farkı yüzde 8,29 oldu; memurlar için aynı fark yüzde 1,21 (Habertürk). İkincisi, 2027 yeniden değerleme oranı yüzde 27,83 çıktı; bu oran harç ve bazı cezaların artışında kullanılıyor. Üçüncüsü, enflasyon yüksek kaldıkça Merkez Bankası'nın faiz indirmesi zorlaşıyor.",
+      "Gıdada bir düzeltme gelip gelmeyeceği belli değil. Bir ekonomist Kasım'da gıda enflasyonunda düzeltme beklediğini söyledi; ancak aynı kişi yıllık enflasyonun %20-30 bandında dalgalanacağını öngördü (Bloomberg HT). Bu nedenle bütçeyi yazılı yapmak ve sabit gelirli harcamaları gözden geçirmek mantıklı olabilir."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Aylık ve yıllık enflasyon",
+        "metin": "Aylık enflasyon, fiyatların geçen aya göre değişimidir. Yıllık enflasyon ise geçen yılın aynı ayına göre değişimdir. Aylık %2,58 art arda sürerse yıllık oran çok daha yüksek olurdu; bu yüzden aylık rakam ayrıca izlenir."
+      },
+      {
+        "baslik": "Bu ne demek? Dezenflasyon",
+        "metin": "Fiyatların artmaya devam etmesi ama artış hızının yavaşlamasıdır. Fiyatlar düşmez; sadece daha yavaş yükselir."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Enflasyon",
+      "baslik": "Ekim'de TÜFE aylık %2,58, yıllık %29,77 oldu",
+      "metin": "TÜİK verilerine göre Tüketici Fiyat Endeksi (TÜFE) Ekim'de aylık %2,58 arttı. Yıllık enflasyon %29,77'ye yükseldi. Gıdada taze sebze ve meyve artışı belirleyici oldu.",
+      "etki": "Market alışverişi ve ulaşım maliyetinde artış hissedilebilir; sabit gelirli kesim için alım gücü baskısı sürüyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html"
+      }
+    },
+    {
+      "etiket": "Türkiye · Emekli",
+      "baslik": "Emeklinin enflasyon farkı %8,29, memurunki %1,21 oldu",
+      "metin": "SSK ve Bağ-Kur emekli aylıkları için Temmuz-Ekim dönemindeki enflasyon farkı %8,29 çıktı. Memur ve memur emeklisi için dört aylık fark %1,21; Ocak'taki %5 toplu sözleşme zammıyla birlikte maaş zammı şimdilik %6,26.",
+      "etki": "Emekli aylıklarındaki artış bu enflasyon farkına göre belirleniyor.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/emeklinin-enflasyon-farki-belli-oldu-3924540"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fonlar",
+      "baslik": "Tasfiyedeki fonlarda ödemeler net yatırım tutarına göre yapılacak",
+      "metin": "Cevdet Yılmaz'a göre ödemelerde yatırımcıların yatırdığı tutar ile daha önce yaptığı para çekimleri dikkate alınacak. 455 binin üzerindeki yatırımcının önemli bölümü anaparasını geri alacak.",
+      "etki": "Tasfiyedeki fonda parası olanlar ödemelerini bu hesapla alacak; kâr payı hesabı farklı olabilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/yilmazdan-fon-tasfiyesi-aciklamasi-odemelerde-net-yatirim-tutari-esas-alinacak-haberi-846335"
+      }
+    },
+    {
+      "etiket": "Dünya · ABD",
+      "baslik": "ABD ara seçimlerinde Demokratlar Temsilciler Meclisi'nde çoğunluğu alıyor",
+      "metin": "CBS News'un tahminine göre Demokratlar, Temsilciler Meclisi'nde Cumhuriyetçilerin elindeki çoğunluğu ele geçiriyor. Senato'nun kontrolü için yarış sürüyor.",
+      "etki": "ABD siyaseti faiz, dolar ve petrol beklentilerini etkileyebilir; bu da altın ve döviz fiyatlarına yansıyabilir.",
+      "kaynak": {
+        "ad": "BBC Türkçe",
+        "url": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss"
+      }
+    },
+    {
+      "etiket": "Dünya · Enerji",
+      "baslik": "Hürmüz'ün kapanması AB'nin yakıt faturasını 127 milyar avro artırdı",
+      "metin": "AB Komisyonu Başkanı Ursula von der Leyen, Hürmüz Boğazı'nın kapanmasından bu yana ithal fosil yakıtların Avrupa'ya 127 milyar avro ek maliyet getirdiğini söyledi.",
+      "etki": "Enerji fiyatları yüksek kaldıkça Türkiye'de akaryakıt ve ulaşım maliyeti de enflasyonu yukarı çekebilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinin-kapanmasi-abnin-yakit-faturasini-127-milyar-avro-artirdi/4109971"
+      }
+    },
+    {
+      "etiket": "Türkiye · Dış Ticaret",
+      "baslik": "Ekim ihracatı %8,1 artışla 25,9 milyar dolar oldu",
+      "metin": "İhracatın ithalatı karşılama oranı %79,4'e ulaştı. Otomotiv 4 milyar 32 milyon dolarla lider kaldı; savunma sanayiinde %61,1 artış var. Hazır giyim %14,4 kayıpla ilk beş sektörden çıktı.",
+      "etki": "İhracat artışı döviz girişini destekler; ancak hazır giyimdeki kayıp bu sektördeki işleri etkileyebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/ihracatci-zoru-basardi-ekim-ihracati-yuzde-81-artti-haberi-846311"
+      }
+    },
+    {
+      "etiket": "Türkiye · Otomotiv",
+      "baslik": "Otomobil ve hafif ticari araç pazarı Ekim'de %30,8'den fazla küçüldü",
+      "metin": "İlk 10 ayda pazar %15,3 küçülerek 883 bin 799 adede geriledi. Şubat'ta başlayan yıllık daralma dokuzuncu ayına girdi.",
+      "etki": "Talep zayıfken sıfır araç kampanyaları artabilir; ikinci el fiyatları da bundan etkilenir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/sektorler/otomotiv/otomotivde-1-milyona-dogru-sert-fren-pazar-9-aydir-daraliyor-ekimde-kayip-yuzde-31-haberi-846313"
+      }
+    },
+    {
+      "etiket": "Türkiye · KOBİ",
+      "baslik": "Selden etkilenen işletmelere 1 milyon liraya kadar faizsiz kredi",
+      "metin": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, KOSGEB aracılığıyla küçük işletmelere 1 milyon, mikro işletmelere 500 bin liraya kadar faizsiz kredi verileceğini açıkladı. Krediler 24 ay vadeli, 6 ay ödemesiz; başvurular 31 Aralık 2026'ya kadar alınacak.",
+      "etki": "Sel ve taşkından zarar gören esnaf için nakit akışı rahatlayabilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/bakan-kacir-sel-magduru-isletmelere-faizsiz-kredi-verilecek-haberi-846338"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Kripto · Güvenlik",
+      "baslik": "Binance saldırıyı açıkladı: 2,85 milyar dolarlık varlık donduruldu ya da ele geçirildi",
+      "metin": "Binance, geçen haftaki siber saldırının çok aşamalı ve gelişmiş bir operasyon olduğunu duyurdu. Şirkete göre FBI saldırıdan Kuzey Kore'yi sorumlu tutuyor. Kuzey Kore sorumluluğu şirket ve FBI'a atfedilen iddiadır.",
+      "neden": "Kripto borsalarında tutulan paranın güvencesi sınırlıdır; bu olay güven sorununu bir kez daha gösterdi.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/binance-siber-saldirinin-perde-arkasini-acikladi-3793350"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Rakamın arkasındaki ev bütçesi",
+      "paragraflar": [
+        "Dün açıklanan enflasyon rakamı gazetelerde yüzde 2,58 diye yazıldı. Ama market fişinde bu rakamın karşılığı bellidir: sebze, meyve, giyim ve ulaşım bir ayda pahalandı.",
+        "Resmî rakam ile hissedilen enflasyon her zaman aynı olmaz. Herkesin sepeti farklıdır. Kirada oturanın, araç kullananın ve çocuk okutanın hesabı ayrıdır.",
+        "Bu yüzden rakamı tek başına değil, kendi harcamalarınızla birlikte okumak gerekir."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Enflasyon, faiz ve borsa aynı zincirin halkaları",
+      "paragraflar": [
+        "Enflasyon beklentiyi aşınca borsa gün içinde geriledi, ama kapanışta %0,56 yükselişle toparlandı. Bu, piyasanın verinin etkisini kısmen önceden fiyatladığını gösteriyor olabilir.",
+        "Merkez Bankası faiz kararında enflasyon verisine bakar. Goldman Sachs'a göre faiz yıl sonuna kadar sabit kalabilir. Izlenecek bir diğer başlık ABD'de seçim sonrası faiz beklentileri ve Cuma günü açıklanacak veri.",
+        "Altın tarafında ise faiz artışı ihtimali ile merkez bankası alımları karşı karşıya."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Enflasyonlu ayda bütçeyi nasıl okursunuz?",
+      "paragraflar": [
+        "Ay sonunda paranın nereye gittiğini bilmek, tasarrufun ilk adımıdır. Market, ulaşım ve fatura harcamalarını ayrı ayrı yazın.",
+        "Garanti getiri vaat eden mesajlara karşı dikkatli olun. Kripto borsalarına yönelik saldırılar, paranızı tek bir yerde tutmanın riskini hatırlatıyor.",
+        "Kredi kartında asgari ödeme yapmak faiz yükünü büyütür. Mümkünse borcu tam ödeyin."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Gıda fiyatları Kasım'da düzelirse aylık enflasyon yavaşlayabilir ve Merkez Bankası'nın faiz indirimi için alan açılabilir.",
+      "Enerji fiyatlarında gerileme olursa ulaştırma ve akaryakıt kaynaklı baskı azalabilir."
+    ],
+    "olumsuz": [
+      "Gıda ve enerji fiyatları yüksek kalırsa yıllık enflasyon %30'un üzerine çıkabilir.",
+      "ABD'de faiz artışı beklentisi güçlenirse altın ve gelişmekte olan ülke piyasaları baskı görebilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim ve Hürmüz Boğazı'ndaki kısıtlamalar enerji fiyatlarını yukarı taşıyabilir. ABD'li yetkililerin aktardığına göre CENTCOM seçim sonrası İran'a saldırı planı hazırladı; Trump ise acil bir plan olmadığını söyledi. Bu belirsizlik petrol, altın ve döviz piyasalarında oynaklık yaratabilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "4 Kasım",
+      "olay": "Tasfiyedeki fonların BIST 30 hisselerinin satışının takası",
+      "onem": "orta"
+    },
+    {
+      "gun": "5 Kasım",
+      "olay": "İngiltere Merkez Bankası (BoE) faiz toplantısı",
+      "onem": "orta"
+    },
+    {
+      "gun": "5–6 Kasım",
+      "olay": "TOKİ 61 ilde 725 arsayı açık artırmayla satacak",
+      "onem": "orta"
+    },
+    {
+      "gun": "6 Kasım",
+      "olay": "Türkiye-Suudi Arabistan vize muafiyeti anlaşması yürürlüğe giriyor",
+      "onem": "orta"
+    },
+    {
+      "gun": "6 Kasım",
+      "olay": "ABD'de açıklanacak kritik veri (altın ve faiz beklentileri için izleniyor)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "13 Kasım",
+      "olay": "SPK'nın kredili işlemlerde öz kaynak oranı uygulamasının süresi doluyor",
+      "onem": "orta"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Yeniden değerleme oranı",
+      "aciklama": "Bir yılın enflasyon verisinden hesaplanan ve harç, bazı vergi ve cezaların ertesi yıl ne kadar artacağını belirleyen orandır."
+    },
+    {
+      "terim": "Enflasyon farkı",
+      "aciklama": "Emekli ve memur maaşlarına, geçen dönemde fiyatlar maaştan hızlı arttıysa eklenen telafi artışıdır."
+    },
+    {
+      "terim": "Çekirdek enflasyon",
+      "aciklama": "Fiyatı çok oynayan gıda ve enerji gibi kalemleri dışarıda bırakıp enflasyonun asıl eğilimini ölçen göstergedir."
+    },
+    {
+      "terim": "Pay geri alımı",
+      "aciklama": "Bir şirketin kendi hisselerini piyasadan satın almasıdır; hisse fiyatını dengelemek için yapılabilir."
+    }
+  ],
+  "teyitNotlari": [
+    "Ekim enflasyonu (aylık %2,58, yıllık %29,77) TRT Haber, Ekonomim ve Bloomberg HT özetlerinden (haberler.json) alındı; TÜİK sayfası bulut ortamında açılamadı, WebSearch güncel rakamı döndürmedi.",
+    "BIST 100 3 Kasım kapanışı (11.023,55; %0,56) AA, TRT Haber ve Habertürk'te tutarlı.",
+    "Dolar/TL ve Euro/TL değerleri TCMB 3 Kasım bülteninden; ECB referansıyla uyumlu.",
+    "Ons altın, gümüş, Bitcoin ve Ethereum Çarşamba sabahı otomatik veridir; gümüş, Bitcoin ve Ethereum için ikinci kaynakla teyit edilemedi (tek kaynak). Ons altın için Dünya'nın 3.900 dolar üzeri haberi yaklaşık teyit sağlıyor.",
+    "Brent petrol, S&P 500, Nasdaq ve ABD 10 yıllık tahvil faizi güncel iki kaynakla teyit edilemediği için piyasa tablosuna konmadı.",
+    "Fed faiz aralığı bu sayıda yeniden teyit edilemediği için faiz bölümüne konmadı.",
+    "TCMB politika faizi %36 bilgisi önceki sayıdan devralındı; bugün ikinci kaynakla yeniden teyit edilemedi.",
+    "Konut, arsa ve otomobil için yeni bir kurum fiyat tahmini bulunamadı; yön 'belirsiz' bırakıldı.",
+    "BBVA Research'ün Aralık faiz kararı beklentisinin ayrıntısına ulaşılamadı.",
+    "ABD ara seçim sonuçları (CBS News tahmini) kesinleşmemiştir; Senato yarışı sürüyor.",
+    "CENTCOM'un İran planı Dünya'nın ABD'li yetkililere dayandırdığı haberdir; Trump'ın 'acil plan yok' sözü Bloomberg HT'den. İkisi de bağımsız olarak teyit edilemedi."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "TRT Haber – Ekim enflasyonu açıklandı",
+      "url": "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html"
+    },
+    {
+      "baslik": "Ekonomim – Enflasyon ekimde hızlandı",
+      "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"
+    },
+    {
+      "baslik": "Bloomberg HT – Grafiklerle Ekim enflasyonu",
+      "url": "https://www.bloomberght.com/grafiklerle-ekim-enflasyonu-3793266"
+    },
+    {
+      "baslik": "Bloomberg HT – Şimşek: Yükselen enerji fiyatları dezenflasyonu sınırladı",
+      "url": "https://www.bloomberght.com/simsek-yukselen-enerji-fiyatlari-dezenflasyonu-sinirladi-3793306"
+    },
+    {
+      "baslik": "Habertürk – Emeklinin enflasyon farkı belli oldu",
+      "url": "https://www.haberturk.com/ekonomi/emeklinin-enflasyon-farki-belli-oldu-3924540"
+    },
+    {
+      "baslik": "Habertürk – 2027 yeniden değerleme oranı belli oldu",
+      "url": "https://www.haberturk.com/ekonomi/son-dakika-2027-yeniden-degerleme-orani-belli-oldu-3924509"
+    },
+    {
+      "baslik": "AA – Borsa günü yükselişle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4110273"
+    },
+    {
+      "baslik": "TRT Haber – BIST 100 endeksi günü yükselişle kapattı",
+      "url": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-962120.html"
+    },
+    {
+      "baslik": "Habertürk – BIST 100 endeksi %0,56 yükselerek 11.023,55 puandan kapandı",
+      "url": "https://www.haberturk.com/ekonomi/bist-100-endeksi-yuzde-0-56-yukselerek-11023-55-puandan-kapandi-3924680"
+    },
+    {
+      "baslik": "TRT Haber – Altın fiyatlarında son durum",
+      "url": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962107.html"
+    },
+    {
+      "baslik": "Dünya – Altında sert satış sonrası tehlike bitmedi",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-sert-satis-sonrasi-tehlike-bitmedi-4000-dolar-oncesi-kritik-sinav-galeri-846340"
+    },
+    {
+      "baslik": "Bloomberg HT – Merkez bankaları altın alımlarını artırdı (Dünya Altın Konseyi raporu)",
+      "url": "https://www.bloomberght.com/merkez-bankalari-altin-fiyatlarindaki-dususu-alim-firsatina-cevirdi-3793354"
+    },
+    {
+      "baslik": "CNBC-e – Goldman Sachs'tan Türkiye için yıl sonu enflasyon tahmini",
+      "url": "https://www.cnbce.com/haberler/goldman-sachstan-turkiye-icin-yil-sonu-enflasyon-tahmini-h40951"
+    },
+    {
+      "baslik": "CNBC-e – BBVA Research'ten Türkiye için enflasyon ve faiz tahmini",
+      "url": "https://www.cnbce.com/haberler/bbva-researchten-turkiye-icin-enflasyon-ve-faiz-tahmini-h40960"
+    },
+    {
+      "baslik": "CNBC-e – İki belediyeden 28 gayrimenkul satışı kararı",
+      "url": "https://www.cnbce.com/gayrimenkul/iki-belediyeden-28-gayrimenkul-satisi-karari-fiyatlar-14-milyon-tlden-basliyor-h40969"
+    },
+    {
+      "baslik": "Dünya – Otomotivde 1 milyona doğru sert fren",
+      "url": "https://www.dunya.com/sektorler/otomotiv/otomotivde-1-milyona-dogru-sert-fren-pazar-9-aydir-daraliyor-ekimde-kayip-yuzde-31-haberi-846313"
+    },
+    {
+      "baslik": "Dünya – İhracatçı zoru başardı, ekim ihracatı yüzde 8,1 arttı",
+      "url": "https://www.dunya.com/ekonomi/ihracatci-zoru-basardi-ekim-ihracati-yuzde-81-artti-haberi-846311"
+    },
+    {
+      "baslik": "Dünya – Yılmaz'dan fon tasfiyesi açıklaması",
+      "url": "https://www.dunya.com/ekonomi/yilmazdan-fon-tasfiyesi-aciklamasi-odemelerde-net-yatirim-tutari-esas-alinacak-haberi-846335"
+    },
+    {
+      "baslik": "BBC Türkçe – ABD'de ara seçimler: Demokratlar Temsilciler Meclisi'nde çoğunluğu sağlıyor",
+      "url": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "DW Türkçe – ABD ara seçimleri: Trump Temsilciler Meclisini kaybetti",
+      "url": "https://www.dw.com/tr/abd-ara-seçimleri-trump-temsilciler-meclisini-kaybetti/live-79848829?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+      "baslik": "AA – Hürmüz Boğazı'nın kapanması AB'nin yakıt faturasını 127 milyar avro artırdı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinin-kapanmasi-abnin-yakit-faturasini-127-milyar-avro-artirdi/4109971"
+    },
+    {
+      "baslik": "Dünya – Bakan Kacır: Sel mağduru işletmelere faizsiz kredi verilecek",
+      "url": "https://www.dunya.com/ekonomi/bakan-kacir-sel-magduru-isletmelere-faizsiz-kredi-verilecek-haberi-846338"
+    },
+    {
+      "baslik": "Bloomberg HT – Binance, siber saldırının perde arkasını açıkladı",
+      "url": "https://www.bloomberght.com/binance-siber-saldirinin-perde-arkasini-acikladi-3793350"
+    }
+  ],
+  "karikatur": {
+    "baslik": "Sepet Hesabı",
+    "dayanak": "Dayanak: TÜİK'e göre Ekim'de aylık enflasyon %2,58, yıllık %29,77 oldu (TRT Haber).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-yukari",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Enflasyon aylık yüzde 2,58 çıkmış, Kemal!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Çayın fiyatı da yüzde 2,58 mi arttı?"
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Bilmem, bakkal başka hesap yapıyor."
+          }
+        ]
+      },
+      {
+        "sahne": "market",
+        "nesne": "fiyat",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Taze sebze meyve çift haneli artmış, sepet küçüldü."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "defter",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "kafa-kasi",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Ben defterden yazarım, sen de bütçeni yaz."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Yazdım. Rakam küçülmüyor, sadece uzuyor!"
+          }
+        ]
+      }
+    ]
+  }
+}
