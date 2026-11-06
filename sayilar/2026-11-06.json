@@ -1,0 +1,304 @@
+{
+  "tarih": "2026-11-06",
+  "tarihMetni": "6 Kasım 2026, Cuma",
+  "sayi": 17,
+  "notlar": "BIST 100 ve Wall Street 5 Kasım Perşembe kapanışı · Döviz: TCMB 5 Kasım bülteni · Altın, gümüş, Bitcoin, Ethereum Cuma sabahı (TSİ 06.30 civarı) otomatik veri",
+  "gununOzeti": "ABD'deki ara seçimlerin ardından Wall Street'te yapay zekâ hisseleri sert düştü: Nasdaq %5,52, S&P 500 %4,36 geriledi. Borsa İstanbul da %1,26 değer kaybetti; altın, gümüş ve Bitcoin de aşağı yönlü. Yani dün dünya genelinde risk almak istemeyen yatırımcı çoktu; bugün 16.30'da ABD'den gelecek veri piyasaların bir sonraki yönü için izleniyor.",
+  "manset": {
+    "ustBaslik": "Piyasalar",
+    "baslik": "Wall Street'te yapay zekâ satışı: Nasdaq %5,52 düştü, Borsa İstanbul %1,26 geriledi",
+    "spot": "ABD ara seçimlerinde Demokratların kazanması, yapay zekâ veri merkezlerine yönelik düzenleme endişelerini artırdı. Üç büyük ABD endeksi Nisan 2025'ten bu yana en kötü günlerini yaşadı. Satış dalgası Bitcoin'e ve Borsa İstanbul'a da yansıdı.",
+    "ozet": [
+      "Nasdaq %5,52, S&P 500 %4,36, Dow Jones %3,44 düştü; korku endeksi VIX %69 yükseldi (Habertürk).",
+      "Borsa İstanbul'da BIST 100 günü %1,26 düşüşle 11.333,27 puandan kapattı (AA).",
+      "Bitcoin 76 bin doların altını gördü; kripto piyasasının değeri 24 saatte 108 milyar dolardan fazla azaldı (CNBC-e).",
+      "Brent petrol %3,9 yükselerek 98,29 dolara çıktı; Hürmüz Boğazı'ndaki belirsizlik fiyatı yukarı itti (AA, AP)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Dünya · Faiz",
+      "baslik": "İngiltere Merkez Bankası politika faizini %4'e yükseltti",
+      "spot": "Orta Doğu'daki çatışmalar enerji maliyetlerini artırdı. Banka, enflasyonun önümüzdeki yıl %5'e yaklaşabileceği uyarısını yaptı (Bloomberg HT, AA)."
+    },
+    {
+      "ustBaslik": "Fon Soruşturması",
+      "baslik": "Fon soruşturmasında bir eski bakan tutuklandı, iki isme adli kontrol getirildi",
+      "spot": "Soruşturmada eski bir bakan tutuklandı. Eski SPK başkanı ve bir iş insanı için yurt dışı çıkış yasağı ve imza yükümlülüğü kararı verildi (BBC Türkçe, CNBC-e)."
+    },
+    {
+      "ustBaslik": "Bankacılık",
+      "baslik": "BDDK, Golden Global Yatırım Bankası'nın faaliyet iznini kaldırdı",
+      "spot": "Bankacılık Düzenleme ve Denetleme Kurulu (BDDK) kararı Habertürk, Bloomberg HT ve Dünya'da yer aldı."
+    }
+  ],
+  "piyasalar": [
+    {"ad": "BIST 100", "deger": "11.333,27", "degisim": "%1,26", "yon": "down", "neden": "5 Kasım Perşembe kapanışı (AA, tek kaynak). ABD borsalarındaki sert satış küresel risk iştahını düşürdü. Borsa dalgalıdır; fon soruşturması haberleri de gündemde."},
+    {"ad": "Dolar/TL", "deger": "50,05", "degisim": "%0,05", "yon": "up", "neden": "TCMB'nin 5 Kasım bülteni (satış 50,0489); ECB referansı 50,047. Kur yavaş ve kontrollü artıyor; ithal ürün fiyatları buna paralel yükseliyor."},
+    {"ad": "Euro/TL", "deger": "56,25", "degisim": "%0,01", "yon": "down", "neden": "TCMB'nin 5 Kasım bülteni (satış 56,2524). Euro/dolar paritesi 1,1224 (ECB). Avrupa'dan alışveriş ve tatil maliyeti bu düzeyde."},
+    {"ad": "Gram altın", "deger": "6.511 TL", "degisim": "%2,15", "yon": "down", "neden": "Cuma sabahı ons fiyatı ve kurdan hesaplanan değer. Borsa İstanbul'da standart altın 5 Kasım'da kilogram başına 6 milyon 642 bin TL, yani gram başına yaklaşık 6.642 TL'ye çıkmıştı (TRT Haber); fark, ons altının gece düşmesinden kaynaklanıyor. Kuyumcu fiyatı farklı olabilir."},
+    {"ad": "Ons altın", "deger": "4.046 $", "degisim": "%2,2", "yon": "down", "neden": "Altın 4.100 doları koruyamadı; ABD borsalarındaki satış beklenen desteği sağlamadı (Dünya)."},
+    {"ad": "Brent petrol", "deger": "98,29 $", "degisim": "%3,9", "yon": "up", "neden": "Bir önceki günkü yaklaşık %9'luk düşüşün bir bölümünü geri aldı (AP). Hürmüz Boğazı ve İran-ABD gerginliği fiyatı oynatıyor (AA). Akaryakıt fiyatlarına yansıma olabilir."},
+    {"ad": "Bitcoin", "deger": "75.728 $", "degisim": "%6,2", "yon": "down", "neden": "Cuma sabahı değeri (CoinGecko); gün içinde 76 bin doların altı görüldü (AA, CNBC-e). Kripto çok oynaktır; kaybetmeyi göze alamayacağınız parayı bu işe koymayın."},
+    {"ad": "S&P 500", "deger": "7.353,73", "degisim": "%4,36", "yon": "down", "neden": "5 Kasım Perşembe kapanışı (CNBC; Habertürk %4,36). Yapay zekâ ve çip hisselerinde yoğun satış."},
+    {"ad": "Nasdaq", "deger": "24.315", "degisim": "%5,52", "yon": "down", "neden": "5 Kasım Perşembe kapanışı (CNBC; Habertürk %5,52). Teknoloji ağırlıklı endeks, veri merkezi düzenlemesi endişesiyle sert düştü."},
+    {"ad": "Ons gümüş", "deger": "51,66 $", "degisim": "%3,04", "yon": "down", "neden": "Cuma sabahı değeri (tek kaynak). Gümüş altından daha oynaktır."},
+    {"ad": "Ethereum", "deger": "2.227 $", "degisim": "%8,44", "yon": "down", "neden": "Cuma sabahı değeri (tek kaynak). Kripto piyasasında günlük oynaklık yüksek."}
+  ],
+  "faiz": [
+    {"kurum": "TCMB politika faizi", "mevcut": "%36", "beklenti": "Bu sayı için yeni bir kurum tahmini derlenmedi.", "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. 22 Ekim'de %37'den %36'ya indirilmişti. Bir sonraki Enflasyon Raporu 12 Kasım'da."},
+    {"kurum": "İngiltere Merkez Bankası (BoE)", "mevcut": "%4", "beklenti": "Başkan Bailey, Orta Doğu'da barış sağlanmazsa faiz artışının sürebileceğini söyledi.", "not": "5 Kasım'da 25 baz puan (yüzde çeyrek puan) artırıldı (AA, Bloomberg HT)."},
+    {"kurum": "ABD Merkez Bankası (Fed)", "mevcut": "Bu sayıda teyit edilmedi", "beklenti": "Cleveland Fed Başkanı Hammack, enflasyonu hedefe indirmek için faizlerin kısıtlayıcı olması gerektiğini söyledi.", "not": "Tek bir yetkilinin görüşüdür; Fed'in kararı değildir (Bloomberg HT)."}
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Altın Ocak zirvesinden yaklaşık %25 geriledi; Dünya Altın Konseyi geçici bir dibe yaklaşılmış olabileceğini söylüyor, ama kısa vadeli yön net değil.",
+      "neden": "Borsalar sert düşünce yatırımcı genelde güvenli limana yönelir. Ancak dün altın bu desteği bulamadı; faiz artışı ihtimali altını baskılıyor.",
+      "kimDiyor": "Dünya Altın Konseyi (WGC) toparlanmayı destekleyen koşulların geçmiş dönemlere göre güçlü olduğunu belirtti. Dünya gazetesi ekimde altın fonlarına milyarlarca dolar girdiğini yazdı. Yıl sonu için yeni bir kurum fiyat tahmini bulamadık.",
+      "kaynak": {"ad": "CNBC-e", "url": "https://www.cnbce.com/altin/altinda-dususun-sonu-mu-geldi-dunya-altin-konseyinden-kritik-sinyal-h41118"}
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları için yeni bir kurum tahmini yok; son veriler enflasyonun konut kaleminde baskı sürdüğünü gösteriyor.",
+      "neden": "Kredi faizleri düşerse ev talebi artar ve fiyatlar yükselebilir. Faizler yüksek kalırsa satışlar yavaşlayabilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor. Ekim enflasyonunda konut kalemi artışı yukarı çekenler arasındaydı (Ekonomim, 3 Kasım).",
+      "kaynak": {"ad": "Ekonomim", "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"}
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Arsa için yeni bir fiyat tahmini yok. TOKİ 61 ilde 725 arsayı 5-6 Kasım'da açık artırmayla satıyor; sonuçlar fiyat düzeyi için ipucu verebilir.",
+      "neden": "Açık artırmada ortaya çıkan fiyatlar, bölgelerdeki gerçek talebi gösterir. Faiz ve kredi koşulları arsa talebini de etkiler.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {"ad": "TRT Haber", "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"}
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Otomobil fiyatları için yeni bir kurum tahmini yok. Bloomberg HT, araç almanın 'yatırım aracı' olarak görüldüğü dönemin bittiğini ve elektrikli modellerin öne çıktığını yazıyor.",
+      "neden": "Araç satışları geriledikçe indirim ve kampanya ihtimali artabilir; kur ve vergi kararları ise fiyatı yukarı çekebilir.",
+      "kimDiyor": "Açıklanmış bir kurum fiyat tahmini yok; yön son haberlere dayanıyor. Ekim ayında pazarın daraldığı bildirilmişti (Dünya, 3 Kasım).",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/yatirim-araci-donemi-biterken-otomotivde-elektrikli-modeller-one-cikiyor-3793657"}
+    },
+    {
+      "konu": "Petrol (akaryakıt)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki günler",
+      "ozet": "Brent petrol bir gün önceki düşüşün bir bölümünü geri aldı. Yön, Hürmüz Boğazı ve İran-ABD gerginliğine bağlı.",
+      "neden": "Petrol pahalanırsa benzin ve motorin zamlanabilir; bu da ulaştırma ve gıda maliyetine yansıyabilir.",
+      "kimDiyor": "AB ve IEA, G7'nin uzlaştığı stratejik petrol stoklarının kullanıma sunulması için adımları koordine ediyor; bu arzı artırabilir. Açıklanmış bir fiyat tahmini yok.",
+      "kaynak": {"ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/abd-borsalari-sert-duserken-petrol-fiyatlari-yeniden-yukseliste/4113333"}
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Wall Street",
+    "baslik": "Yapay zekâ hisselerinde büyük satış: cebinize ne yansır?",
+    "spot": "ABD borsaları bir günde Nisan 2025'ten bu yana en sert düşüşünü yaşadı. Nedenini ve Türkiye'ye yansımasını sade dille anlatıyoruz.",
+    "paragraflar": [
+      "Dün ABD borsaları çok sert düştü. Teknoloji ağırlıklı Nasdaq endeksi %5,52 geriledi. Geniş tabanlı S&P 500 %4,36, Dow Jones ise %3,44 düştü. Dünya gazetesine göre üç endeks de Nisan 2025'ten bu yana en kötü günlük performansını gösterdi.",
+      "Satışın tetikleyicisi ABD ara seçimleri oldu. Demokratların seçimde güçlenmesi, yapay zekâ veri merkezlerine yönelik düzenleme ihtimalini gündeme getirdi. Veri merkezleri, yapay zekâ yazılımlarını çalıştıran dev bilgisayar tesisleridir. Fitch Ratings de bu projelerin olası eyalet düzenlemeleri ve elektrik tedarikindeki gecikmeler yüzünden zorlandığını bildirdi.",
+      "Çip ve yapay zekâ şirketlerinde çift haneli kayıplar yaşandı. Habertürk'e göre Tesla hisseleri %10,77 düştü ve Elon Musk'ın serveti bir günde 79,4 milyar dolar eridi. Wall Street'in korku endeksi VIX %69 yükseldi. Bu endeks yatırımcıların ne kadar tedirgin olduğunu gösterir.",
+      "Satış dalgası başka piyasalara da yayıldı. Bitcoin gün içinde 76 bin doların altını gördü. Kripto piyasasının toplam değeri 24 saatte 108 milyar dolardan fazla azaldı (CNBC-e). Altın da beklenen desteği bulamadı; ons altın bugün sabah 4.046 dolar civarında.",
+      "Türkiye'de BIST 100 endeksi günü %1,26 düşüşle 11.333,27 puandan kapattı. Yabancı yatırımcılar ise son yedi haftada Türk lirası tahvillerinden 1,5 milyar doları aşan çıkış yaptı (Ekonomim). Dolar/TL ise yavaş artışını sürdürüyor ve 50,05 civarında.",
+      "Cebinize etkisi dolaylı. Yatırım fonu ya da emeklilik fonunda yurt dışı teknoloji hisseleri varsa, değerlerinde dalgalanma görebilirsiniz. Petrolün yeniden yükselmesi ise akaryakıt fiyatları üzerinden gündelik hayatı etkileyebilir. Bugün 16.30'da ABD'den gelecek veri piyasaların bir sonraki adımı için izleniyor."
+    ],
+    "kutular": [
+      {"baslik": "Bu ne demek? Nasdaq", "metin": "Nasdaq, ABD'de teknoloji şirketlerinin yoğun olduğu bir borsa endeksidir. Yüzde 5'lik bir günlük düşüş, kısa sürede nadir görülür."},
+      {"baslik": "Bu ne demek? VIX", "metin": "VIX, 'korku endeksi' diye bilinir. Yükselmesi, yatırımcıların önümüzdeki dönem için daha fazla dalgalanma beklediğini gösterir."}
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Dünya · Borsa",
+      "baslik": "ABD borsalarında yapay zekâ depremi: Nasdaq %5,52, S&P 500 %4,36 düştü",
+      "metin": "Demokratların seçim başarısının tetiklemesiyle yapay zekâ yatırımlarının geleceğine dair endişeler sert satışa yol açtı. Dow Jones %3,44 değer kaybetti, VIX %69 yükseldi.",
+      "etki": "Yurt dışı hisse içeren fonlarda dalgalanma görülebilir; küresel risk iştahı düşünce gelişmekte olan ülke piyasaları da etkilenebilir.",
+      "kaynak": {"ad": "Habertürk", "url": "https://www.haberturk.com/ekonomi/abd-borsalarinda-yapay-zeka-depremi-3925268"}
+    },
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "BIST 100 günü %1,26 düşüşle 11.333,27 puandan kapattı",
+      "metin": "Borsa İstanbul'da endeks 5 Kasım'da güne yükselişle başlamıştı. Gün içinde satışlar arttı ve kapanış düşüşle oldu (AA, TRT Haber).",
+      "etki": "Borsa yatırımcısı için dalgalanma sürüyor; kısa vadeli oynaklık yüksek.",
+      "kaynak": {"ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197"}
+    },
+    {
+      "etiket": "Enerji · Petrol",
+      "baslik": "ABD borsaları düşerken petrol fiyatları yeniden yükselişte",
+      "metin": "İran-ABD çatışmalarına dair belirsizlikler ve Hürmüz Boğazı'nda tankerlerin alev aldığı yönündeki açıklamalar petrol fiyatlarını yeniden yukarı çekti. AP'ye göre Brent %3,9 artışla 98,29 dolara çıktı.",
+      "etki": "Petrol pahalanırsa benzin ve motorin fiyatları artabilir; bu da ulaşım ve gıda maliyetini etkileyebilir.",
+      "kaynak": {"ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/abd-borsalari-sert-duserken-petrol-fiyatlari-yeniden-yukseliste/4113333"}
+    },
+    {
+      "etiket": "Dünya · Faiz",
+      "baslik": "İngiltere Merkez Bankası politika faizini yüzde 4'e yükseltti",
+      "metin": "BoE, faizi piyasa beklentileri doğrultusunda 25 baz puan artırdı. Banka, enerji maliyetleri yüzünden enflasyonun önümüzdeki yıl %5'e yaklaşabileceğini söyledi (Bloomberg HT).",
+      "etki": "Dünyada faizlerin yükselme eğilimi, gelişmekte olan ülkelere giden parayı azaltabilir.",
+      "kaynak": {"ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasi-politika-faizini-yuzde-4e-yukseltti-/4112936"}
+    },
+    {
+      "etiket": "Türkiye · Merkez Bankası",
+      "baslik": "TCMB rezervleri 30 Ekim haftasında 4,1 milyar dolar azalarak 158,1 milyar dolara indi",
+      "metin": "Merkez Bankası'nın toplam rezervleri bir önceki haftaya göre 4 milyar 84 milyon dolar azaldı. Rezerv, ülkenin elindeki döviz ve altın stokudur.",
+      "etki": "Rezervlerin düşmesi kurun dalgalanmasına karşı elin zayıflayabileceği anlamına gelebilir; takip edilen önemli bir gösterge.",
+      "kaynak": {"ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-158-1-milyar-dolar-oldu/4112916"}
+    },
+    {
+      "etiket": "Türkiye · Yatırımcı",
+      "baslik": "Yabancı yatırımcının 7 haftada tahvilden çıkışı 1,5 milyar doları aştı",
+      "metin": "Yabancı yatırımcıların TL menkul kıymetlerinden çıkışı ekimin son haftasında da sürdü (Ekonomim). Bloomberg HT'ye göre yabancı, 30 Ekim haftasında 66 milyon dolarlık hisse sattı ve tahvilde güçlü çıkış yaptı.",
+      "etki": "Yabancı çıkışı kur ve faiz üzerinde baskı yaratabilir.",
+      "kaynak": {"ad": "Ekonomim", "url": "https://www.ekonomim.com/ekonomi/yabanci-yatirimcilarin-7-haftada-tahvilden-cikis-15-milyar-dolari-asti-haberi-929474"}
+    },
+    {
+      "etiket": "Türkiye · Bankacılık",
+      "baslik": "BDDK, Golden Global Yatırım Bankası'nın faaliyet iznini kaldırdı",
+      "metin": "Bankacılık Düzenleme ve Denetleme Kurulu (BDDK), Golden Global Yatırım Bankası AŞ'nin faaliyet iznini kaldırdı.",
+      "etki": "Kararın bireysel mevduat sahiplerine doğrudan etkisi haberlerde belirtilmedi; yatırım bankaları mevduat kabul etmez.",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3793715"}
+    },
+    {
+      "etiket": "Türkiye · Vergi",
+      "baslik": "Bakan Şimşek: Gelir, kurumlar ve KDV oranlarında artış gündemde yok",
+      "metin": "Hazine ve Maliye Bakanı Şimşek, 2027'de gelir vergisi, kurumlar vergisi ve katma değer vergisi (KDV) genel oranlarında bir artış gündemde olmadığını söyledi (TRT Haber).",
+      "etki": "Vergi oranları sabit kalırsa market ve fatura harcamalarına ek bir vergi yükü gelmemesi beklenir.",
+      "kaynak": {"ad": "TRT Haber", "url": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-gelir-kurumlar-ve-katma-deger-vergisi-oranlarinda-bir-artis-gundemde-yok-962382.html"}
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay zekâ · Yatırım",
+      "baslik": "Fitch: ABD'de yapay zekâ veri merkezi projeleri artan zorluklarla karşı karşıya",
+      "metin": "Fitch Ratings, ABD'deki yapay zekâ veri merkezi yatırımlarının olası eyalet düzenlemeleri ve elektrik tedarikindeki gecikmeler nedeniyle daha fazla risk taşıdığını bildirdi.",
+      "neden": "Yapay zekâ yatırımlarının hızı yavaşlarsa çip ve yazılım şirketlerinin hisseleri etkilenebilir; dünkü satışın arka planı bu.",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/fitch-ten-abd-deki-veri-merkezi-yatirimlarina-iliskin-uyari-3793695"}
+    },
+    {
+      "etiket": "Teknoloji · Ticaret",
+      "baslik": "Çin, ABB'nin robotik biriminin SoftBank'a satışını engelledi",
+      "metin": "Çin, ABB'nin robotik biriminin SoftBank Group'a satışını engelledi. Bu karar Japon yatırım şirketinin fiziksel yapay zekâ alanına genişleme planlarına darbe vurdu.",
+      "neden": "Teknoloji şirketlerinin satın alma kararlarında ülkeler arası rekabetin ağırlığı artıyor.",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/cin-den-softbankin-abb-yi-alma-girisimine-engel-3793611"}
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Kırmızı ekranın sabahı",
+      "paragraflar": [
+        "Dün akşam dünya borsalarının ekranları kırmızıya boyandı. Nasdaq bir günde yüzde 5,5 düştü. Böyle günlerde ilk tepki telaş olur. Oysa telaş, çoğu zaman en kötü danışmandır.",
+        "Bugün bilmemiz gereken şey şu: Düşüşün nedeni ani bir kriz değil, yapay zekâ yatırımlarının geleceğine dair bir soru işareti. Soru işaretleri günlerce, hatta haftalarca fiyatları oynatabilir.",
+        "Yeni güne sakin başlamak mümkün. Ekrana bakıp heyecanlanmak yerine, elimizdeki parayı hangi amaçla, ne kadar sürede kullanacağımızı düşünmek daha faydalı."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Aynı gün, farklı piyasalar, tek ortak neden",
+      "paragraflar": [
+        "Dün Nasdaq %5,52, BIST 100 %1,26, Bitcoin yaklaşık %6 düştü. Rakamlar farklı ama ortak bir neden var: yatırımcılar risk almak istemedi.",
+        "Altın ise normalde bu tür günlerde yükselir. Dün öyle olmadı; ons altın 4.100 doların altında kaldı. Faiz artışı ihtimali altını baskılıyor olabilir.",
+        "Bugün 16.30'daki ABD verisi izlenecek. Veri güçlü gelirse faiz artışı beklentisi artabilir; zayıf gelirse tersi. Bu bir tahmin değil, olası senaryodur."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Haberlerdeki 'garanti kazanç' vaatlerine dikkat",
+      "paragraflar": [
+        "Borsalar düşünce acele ettiren mesajlar çoğalır. Sosyal medyada ya da telefonda size ulaşan, risksiz getiri vaat eden her teklifi şüpheyle karşılayın.",
+        "Garanti getiri vaadi, dolandırıcılığın en bilinen işaretidir. Gerçek yatırım araçları kazandırabildiği gibi kaybettirebilir de.",
+        "Karar almadan önce paranızın ne kadarını, ne zaman kullanacağınızı düşünün. Acil durum için ayırdığınız parayı oynak varlıklara bağlamamak iyi bir kuraldır."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "ABD'den gelecek veri yumuşak olursa faiz artışı korkusu azalabilir ve piyasalar toparlanabilir.",
+      "Yapay zekâ yatırımlarıyla ilgili endişeler yatışırsa Nasdaq'taki kayıpların bir kısmı geri alınabilir; bu da Borsa İstanbul'a olumlu yansıyabilir."
+    ],
+    "olumsuz": [
+      "Veri merkezi düzenlemeleri sertleşirse teknoloji hisselerindeki baskı sürebilir.",
+      "Petrol fiyatı daha da yükselirse akaryakıt ve enflasyon baskısı artabilir.",
+      "Yabancının Türk lirası tahvillerinden çıkışı sürerse kur ve faiz üzerinde baskı oluşabilir."
+    ],
+    "riskler": "Küresel piyasalarda oynaklık yüksek. Hürmüz Boğazı ve İran-ABD gerginliği petrol fiyatını, ABD verisi ise faiz beklentilerini hızla değiştirebilir. Türkiye'de fon soruşturması haberleri de piyasa duyarlılığını etkiliyor.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {"gun": "Cum 6 Kasım", "olay": "ABD'den kritik veri, Türkiye saatiyle 16.30 (Dünya)", "onem": "yuksek"},
+    {"gun": "Cum 6 Kasım", "olay": "TOKİ'nin 61 ilde 725 arsa açık artırması sona eriyor", "onem": "orta"},
+    {"gun": "9-20 Kasım", "olay": "COP31 İklim Zirvesi, Antalya", "onem": "orta"},
+    {"gun": "Per 12 Kasım", "olay": "TCMB yılın son Enflasyon Raporu", "onem": "yuksek"},
+    {"gun": "12-13 Kasım", "olay": "COP31 İş ve Yatırım Zirvesi", "onem": "orta"},
+    {"gun": "Paz 15 Kasım", "olay": "Ticari araçlarda zorunlu kış lastiği uygulaması başlıyor", "onem": "orta"}
+  ],
+  "sozluk": [
+    {"terim": "VIX (korku endeksi)", "aciklama": "ABD borsasında yatırımcıların ne kadar tedirgin olduğunu gösteren endeks. Yükseldiğinde, önümüzdeki günlerde fiyatların çok oynayacağı beklenir."},
+    {"terim": "Faaliyet izni", "aciklama": "Bir bankanın çalışabilmesi için düzenleyici kurumdan aldığı yetki. Bu izin kaldırılırsa banka artık bankacılık işi yapamaz."},
+    {"terim": "Düzeltme (borsa)", "aciklama": "Bir endeksin son zirvesinden yüzde 10 ya da daha fazla düşmesine verilen ad. Nasdaq için dün bu eşik konuşuldu."},
+    {"terim": "Veri merkezi", "aciklama": "Binlerce bilgisayarın bir arada çalıştığı büyük tesis. Yapay zekâ programları bu tesislerde çalışır ve çok elektrik harcar."}
+  ],
+  "teyitNotlari": [
+    "BIST 100 kapanışı (11.333,27; %1,26) yalnızca AA'dan teyit edildi (tek kaynak); CNBC-e kapanışı 'düşüşle' yazdı ama rakam vermedi.",
+    "S&P 500 (7.353,73), Nasdaq (24.315,00) ve Brent (98,29 $) rakamları arama sonuçlarında CNBC ve AP haberlerinden alındı; sayfalar bulut ortamında doğrudan açılamadı. Yüzde değişimler Habertürk ve Dünya ile uyumlu. AP S&P 500 için %4,4 yazdı, CNBC %4,36.",
+    "ABD 10 yıllık tahvil faizi teyit edilemedi, bu nedenle yazılmadı.",
+    "TCMB politika faizi %36 (22 Ekim kararı) bir arama sonucunda tek kaynaktan görüldü; önceki sayıdaki rakamla uyumlu.",
+    "Gram altın hesaplanan değerdir (6.511 TL); Borsa İstanbul'da 5 Kasım'daki standart altın fiyatı gram başına yaklaşık 6.642 TL idi. Fark zamanlamadan kaynaklanıyor.",
+    "Ons gümüş ve Ethereum yalnızca otomatik veri kaynağından (tek kaynak) alındı.",
+    "Konut, arsa ve otomobil için yeni bir kurum tahmini bulunamadı; yön 'belirsiz' olarak yazıldı.",
+    "Cuma günü 16.30'da açıklanacak ABD verisinin adı kaynak haberde belirtilmediği için ajandada genel ifadeyle yazıldı.",
+    "WebFetch ile haber siteleri açılamadı; haberler veri/haberler.json içindeki başlık ve özetlere dayanıyor."
+  ],
+  "kaynaklar": [
+    {"baslik": "Habertürk – ABD borsalarında yapay zeka depremi", "url": "https://www.haberturk.com/ekonomi/abd-borsalarinda-yapay-zeka-depremi-3925268"},
+    {"baslik": "Dünya – ABD borsalarında kara gün: Teknoloji hisseleri sert çakıldı", "url": "https://www.dunya.com/finans/haberler/abd-borsalarinda-kara-gun-teknoloji-hisseleri-sert-cakildi-haberi-846630"},
+    {"baslik": "Dünya – Altın 4.100 doları koruyamadı, Nasdaq yüzde 5,5 düştü", "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-4100-dolari-koruyamadi-nasdaq-yuzde-55-dustu-gozler-1630da-galeri-846631"},
+    {"baslik": "AA – Borsa günü düşüşle tamamladı", "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197"},
+    {"baslik": "AA – ABD borsaları sert düşerken petrol fiyatları yeniden yükselişte", "url": "https://www.aa.com.tr/tr/ekonomi/abd-borsalari-sert-duserken-petrol-fiyatlari-yeniden-yukseliste/4113333"},
+    {"baslik": "AP (WTOP) – A brutal sell-off for AI stocks sends Wall Street reeling", "url": "https://wtop.com/national/2026/11/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/"},
+    {"baslik": "CNBC – Dow drops 1,800 points; Nasdaq tumbles into correction territory", "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"},
+    {"baslik": "CNBC-e – Bitcoin 76 bin doların altına geriledi", "url": "https://www.cnbce.com/kripto/bitcoin-76-bin-dolarin-altina-geriledi-kripto-piyasasinda-sert-satis-dalgasi-h41146"},
+    {"baslik": "AA – Bitcoin 76 bin doların altını gördü", "url": "https://www.aa.com.tr/tr/ekonomi/bitcoin-76-bin-dolarin-altini-gordu/4113454"},
+    {"baslik": "AA – İngiltere Merkez Bankası politika faizini yüzde 4'e yükseltti", "url": "https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasi-politika-faizini-yuzde-4e-yukseltti-/4112936"},
+    {"baslik": "Bloomberg HT – İngiltere'de faiz artışı", "url": "https://www.bloomberght.com/ingiltere-de-faiz-artisi-3793652"},
+    {"baslik": "AA – Merkez Bankası rezervleri 158,1 milyar dolar oldu", "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-158-1-milyar-dolar-oldu/4112916"},
+    {"baslik": "Ekonomim – Yabancı yatırımcıların 7 haftada tahvilden çıkışı 1,5 milyar doları aştı", "url": "https://www.ekonomim.com/ekonomi/yabanci-yatirimcilarin-7-haftada-tahvilden-cikis-15-milyar-dolari-asti-haberi-929474"},
+    {"baslik": "Bloomberg HT – Yabancının tahvil satışı yedi ayın zirvesinde", "url": "https://www.bloomberght.com/yabanci-yatirimci-3793638"},
+    {"baslik": "Bloomberg HT – BDDK, Golden Global Yatırım Bankası'nın faaliyet iznini kaldırdı", "url": "https://www.bloomberght.com/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3793715"},
+    {"baslik": "TRT Haber – Bakan Şimşek: Gelir, kurumlar ve KDV oranlarında artış gündemde yok", "url": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-gelir-kurumlar-ve-katma-deger-vergisi-oranlarinda-bir-artis-gundemde-yok-962382.html"},
+    {"baslik": "Bloomberg HT – Fitch'ten ABD'deki veri merkezi yatırımlarına ilişkin uyarı", "url": "https://www.bloomberght.com/fitch-ten-abd-deki-veri-merkezi-yatirimlarina-iliskin-uyari-3793695"},
+    {"baslik": "Bloomberg HT – Çin'den SoftBank'ın ABB'yi alma girişimine engel", "url": "https://www.bloomberght.com/cin-den-softbankin-abb-yi-alma-girisimine-engel-3793611"},
+    {"baslik": "CNBC-e – Altında düşüşün sonu mu geldi? Dünya Altın Konseyi'nden kritik sinyal", "url": "https://www.cnbce.com/altin/altinda-dususun-sonu-mu-geldi-dunya-altin-konseyinden-kritik-sinyal-h41118"},
+    {"baslik": "Ekonomim – Enflasyon Ekim'de hızlandı", "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"},
+    {"baslik": "TRT Haber – TOKİ, 61 ildeki 725 arsayı açık artırmayla satışa sunacak", "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"},
+    {"baslik": "Bloomberg HT – Yatırım aracı dönemi biterken otomotivde elektrikli modeller öne çıkıyor", "url": "https://www.bloomberght.com/yatirim-araci-donemi-biterken-otomotivde-elektrikli-modeller-one-cikiyor-3793657"},
+    {"baslik": "Bloomberg HT – Fed yetkilisinden 'kısıtlayıcı duruş' mesajı", "url": "https://www.bloomberght.com/fed-yetkilisinden-kisitlayici-durus-mesaji-3793671"},
+    {"baslik": "TRT Haber – Altın fiyatlarında son durum", "url": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962361.html"},
+    {"baslik": "BBC Türkçe – Fatma Betül Sayan Kaya tutuklandı", "url": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss"},
+    {"baslik": "CNBC-e – Fon soruşturmasında adli kontrol", "url": "https://www.cnbce.com/haberler/fon-sorusturmasinda-ilyas-kaya-ve-eski-spk-baskani-ibrahim-omer-gonule-adli-kontrol-h41151"},
+    {"baslik": "Dünya – Pazar ve ajanda: COP31 Antalya", "url": "https://www.dunya.com/sirketler/gelecegin-enerji-gundemi-isitma-degil-sogutma-olacak-haberi-846603"},
+    {"baslik": "TCMB – Günlük döviz kurları", "url": "https://www.tcmb.gov.tr/kurlar/today.xml"},
+    {"baslik": "CoinGecko – Bitcoin", "url": "https://www.coingecko.com/tr/coins/bitcoin"}
+  ],
+  "karikatur": {
+    "baslik": "Kırmızı Ekran",
+    "dayanak": "Dayanak: Nasdaq 5 Kasım'da %5,52, Bitcoin yaklaşık %6 düştü; ABD'de yapay zekâ hisselerinde satış (Habertürk, CNBC-e).",
+    "kareler": [
+      {"sahne": "kahve", "nesne": "grafik-asagi", "nesneYer": "orta", "karakterler": [{"kim": "ahmet", "yer": "sol", "ifade": "sasir", "poz": "gazete", "efekt": "unlem"}, {"kim": "kemal", "yer": "sag", "ifade": "normal", "poz": "normal", "efekt": "yok"}], "balonlar": [{"kim": "ahmet", "metin": "Nasdaq bir günde yüzde 5,52 düşmüş, Kemal!"}]},
+      {"sahne": "kahve", "nesne": "cay", "nesneYer": "orta", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "konus", "poz": "isaret", "efekt": "yok"}, {"kim": "ahmet", "yer": "sag", "ifade": "endise", "poz": "normal", "efekt": "soru"}], "balonlar": [{"kim": "kemal", "metin": "Benim çay hiç düşmez, en fazla soğur."}, {"kim": "ahmet", "metin": "Bu sefer soğuyan çay değil, moral!"}]},
+      {"sahne": "kahve", "nesne": "yok", "karakterler": [{"kim": "zeynep", "yer": "sol", "ifade": "endise", "poz": "telefon", "efekt": "ter"}, {"kim": "kemal", "yer": "sag", "ifade": "normal", "poz": "normal", "efekt": "yok"}], "balonlar": [{"kim": "zeynep", "metin": "Bitcoin yüzde 6 düşmüş. Ekran kıpkırmızı!"}]},
+      {"sahne": "kahve", "nesne": "yok", "karakterler": [{"kim": "ahmet", "yer": "sol", "ifade": "konus", "poz": "gazete", "efekt": "yok"}, {"kim": "kemal", "yer": "sag", "ifade": "gul", "poz": "isaret", "efekt": "yok"}], "balonlar": [{"kim": "ahmet", "metin": "Yapay zekâ her şeyi bilirmiş diyorlardı."}, {"kim": "kemal", "metin": "Fiyatın düşeceğini bilse haber verirdi."}]},
+      {"sahne": "kahve", "nesne": "defter", "nesneYer": "orta", "karakterler": [{"kim": "zeynep", "yer": "sol", "ifade": "sasir", "poz": "kafa-kasi", "efekt": "soru"}, {"kim": "ahmet", "yer": "sag", "ifade": "normal", "poz": "normal", "efekt": "yok"}], "balonlar": [{"kim": "zeynep", "metin": "Peki 'garanti kazanç' diyen mesajlar?"}, {"kim": "ahmet", "metin": "Onlar bile garanti: dolandırıcılık işareti!"}]},
+      {"sahne": "kahve", "nesne": "defter", "nesneYer": "orta", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "gul", "poz": "isaret", "efekt": "yok"}, {"kim": "ahmet", "yer": "sag", "ifade": "bagir", "poz": "eller-havada", "efekt": "unlem"}], "balonlar": [{"kim": "kemal", "metin": "Ben defterden yazarım, kırmızı kalemle."}, {"kim": "ahmet", "metin": "Bu kez haklısın, ekran da aynı renk!"}]}
+    ]
+  }
+}
