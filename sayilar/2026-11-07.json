@@ -1,0 +1,607 @@
+{
+  "tarih": "2026-11-07",
+  "tarihMetni": "7 Kasım 2026, Cumartesi",
+  "sayi": 18,
+  "notlar": "Hafta sonu baskısı · BIST 100 ve TCMB kurları 6 Kasım Cuma kapanışı · Altın, gümüş, Bitcoin, Ethereum Cumartesi sabahı (TSİ 06.30 civarı) otomatik veri · Cuma günü Wall Street ve Brent kapanışı teyit edilemediği için bu sayıda yer almıyor",
+  "gununOzeti": "Borsa İstanbul haftayı güçlü bir yükselişle kapattı: BIST 100 Cuma günü %1,32 artarak 11.482,60 puana çıktı, hafta genelinde ise %6,72 kazandırdı. Yani hisse senedi tutanların haftası iyi geçti. Ama ABD'den gelen güçlü iş verisi, Fed'in faizi tekrar artırabileceği beklentisini büyüttü; bu da önümüzdeki hafta piyasaların yönünü belirleyebilir.",
+  "manset": {
+    "ustBaslik": "Haftanın Bilançosu",
+    "baslik": "Borsa İstanbul haftayı %6,72 kazançla kapattı, Cuma günü BIST 100 %1,32 yükseldi",
+    "spot": "BIST 100 endeksi Cuma günü 11.482,60 puandan kapandı. Haftalık bazda hisse senetleri %6,72, gram altın %3,57, dolar/TL %0,42, euro/TL %0,37 değer kazandı. Kazancın en büyüğü borsadan geldi.",
+    "ozet": [
+      "BIST 100 Cuma günü %1,32 artışla 11.482,60 puana çıktı (AA).",
+      "Haftalık getiri: hisse %6,72, gram altın %3,57, dolar/TL %0,42, euro/TL %0,37 (AA).",
+      "ABD'de ekimde 165 bin kişilik yeni istihdam geldi, işsizlik %4,1'e indi (AA).",
+      "Piyasalar Fed'in aralıkta faizi 25 baz puan artırma ihtimalini %80 görüyor (CNBC-e)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Türkiye · Para Politikası",
+      "baslik": "TCMB Başkanı: Fon piyasasını yakından izliyoruz, gerekirse ek tedbir alırız",
+      "spot": "Başkan Karahan, finansal istikrarı ve likiditeyi izlediklerini, gerek görülürse her türlü ek tedbiri proaktif biçimde alacaklarını söyledi (AA, Dünya)."
+    },
+    {
+      "ustBaslik": "Dünya · Faiz",
+      "baslik": "ABD'de güçlü iş verisi sonrası Fed'in faiz artırma beklentisi büyüdü",
+      "spot": "Tarım dışı istihdam beklentiyi aştı. CNBC-e'ye göre piyasalar Fed'in aralıkta faizi artırma ihtimalini %80 görüyor."
+    },
+    {
+      "ustBaslik": "Piyasa Düzeni",
+      "baslik": "SPK, üç şirketin pay işlemleri nedeniyle 88 kişi hakkında suç duyurusunda bulunacak",
+      "spot": "Kurul ayrıca ilgili işlemler için 2 yıl süreyle işlem yasağı uygulanmasına karar verdi (Habertürk, AA)."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.482,60",
+      "degisim": "%1,32",
+      "yon": "up",
+      "neden": "Borsa Cuma günü yükselerek haftayı %6,72 artışla kapattı. Hisse senedi tutanların haftalık getirisi iyi oldu; ancak borsa bir günde de düşebilir (AA). Tek kaynak: kapanış değeri AA."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,07",
+      "degisim": "%0,05",
+      "yon": "up",
+      "neden": "TCMB'nin 6 Kasım gösterge kuru (satış). Dolar bu hafta %0,42 arttı. Dövizle borcu ya da tatili olanlar için kur yavaş yavaş yukarı gidiyor."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,96",
+      "degisim": "%0,52",
+      "yon": "down",
+      "neden": "TCMB'nin 6 Kasım gösterge kuru (satış). Euro bu hafta %0,37 değer kazandı; Cuma günü ise bir önceki bültene göre geriledi."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.566 TL",
+      "degisim": "%0,85",
+      "yon": "up",
+      "neden": "Ons altın ve dolar/TL'den hesaplanır. Borsa İstanbul'da standart altın kilogramı 6 milyon 563 bin liraya indi, yani gram yaklaşık 6.563 TL (TRT Haber). Gram altın hafta genelinde %3,57 yükseldi."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.072 $",
+      "degisim": "%0,64",
+      "yon": "up",
+      "neden": "Cuma sabahına göre hafif artış. Altın haftalık bazda yaklaşık %5 yükseldi (CNBC-e). Altın, dolar ve faiz beklentilerine duyarlıdır; Fed faiz artırırsa baskılanabilir."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "52,07 $",
+      "degisim": "%0,80",
+      "yon": "up",
+      "neden": "Cuma sabahına göre artış. Gümüş hem değerli maden hem sanayi metalidir. Yalnızca otomatik veri kaynağından alındı (tek kaynak)."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "75.948 $",
+      "degisim": "%0,29",
+      "yon": "up",
+      "neden": "Cuma sabahına göre sınırlı artış. Kripto paralar çok oynaktır; kısa sürede hem yükselip hem düşebilir (CoinGecko)."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.245 $",
+      "degisim": "%0,79",
+      "yon": "up",
+      "neden": "Cuma sabahına göre artış. Bitcoin gibi oynak bir varlıktır. Yalnızca otomatik veri kaynağından alındı (tek kaynak)."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Bu sayı için yeni bir kurum tahmini derlenmedi.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. 22 Ekim'de %37'den %36'ya indirilmişti (önceki sayıdan; tek kaynak). Karahan, fiyat istikrarı sağlanana kadar sıkı duruşun süreceğini söyledi (Dünya)."
+    },
+    {
+      "kurum": "ABD Merkez Bankası (Fed)",
+      "mevcut": "Bu sayıda teyit edilmedi",
+      "beklenti": "Piyasalar aralıkta 25 baz puan (yüzde çeyrek puan) artırım ihtimalini %80 görüyor (CNBC-e).",
+      "not": "San Francisco Fed Başkanı Daly daha fazla sıkılaşma gerekebileceğini söyledi; bu tek bir yetkilinin görüşüdür, Fed'in kararı değildir (Bloomberg HT)."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Altın bu hafta toparlandı ama yön hâlâ net değil: Fed'in faiz artırma ihtimali yükseliyor, jeopolitik gerilim ise destek veriyor.",
+      "neden": "Faiz artarsa altın tutmanın göreli cazibesi azalabilir. Orta Doğu'da gerilim sürerse güvenli liman talebi altını destekleyebilir.",
+      "kimDiyor": "Saxo Bank'ın emtia uzmanı, yükselişin kalıcı olması için belirli fiyat eşiklerinin korunması gerektiğini söyledi (CNBC-e). Yıl sonu için yeni bir kurum fiyat tahmini bulamadık.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/unlu-ekonomist-altinda-yukselisin-devami-icin-kritik-esigi-acikladi-iste-son-durum-g41235"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları için yeni bir kurum tahmini yok; son veriler enflasyonun konut kaleminde baskı sürdüğünü gösteriyor.",
+      "neden": "Kredi faizleri düşerse ev talebi artar ve fiyatlar yükselebilir. Faizler yüksek kalırsa satışlar yavaşlayabilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor. Ekim enflasyonunda konut kalemi artışı yukarı çekenler arasındaydı (Ekonomim, 3 Kasım).",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Arsa için yeni bir fiyat tahmini yok. TOKİ'nin 61 ilde 725 arsayı açık artırmayla satışa sunması fiyat düzeyi için ipucu verebilir.",
+      "neden": "Açık artırmada ortaya çıkan fiyatlar bölgelerdeki gerçek talebi gösterir. Faiz ve kredi koşulları arsa talebini de etkiler.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor (TRT Haber, önceki sayıdaki haber).",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Otomobil fiyatları için yeni bir kurum tahmini yok. Bloomberg HT, araç almanın 'yatırım aracı' olarak görüldüğü dönemin bittiğini yazıyor.",
+      "neden": "Araç satışları geriledikçe indirim ve kampanya ihtimali artabilir; kur ve vergi kararları ise fiyatı yukarı çekebilir.",
+      "kimDiyor": "Açıklanmış bir kurum fiyat tahmini yok; yön son haberlere dayanıyor (Bloomberg HT).",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/yatirim-araci-donemi-biterken-otomotivde-elektrikli-modeller-one-cikiyor-3793657"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Haftanın Bilançosu",
+    "baslik": "Bu hafta en çok borsa kazandırdı: Rakamlar ne anlatıyor?",
+    "spot": "Haftalık getiri sıralamasında borsa başa geçti, altın ve döviz arkadan geldi. Peki bu ne demek?",
+    "paragraflar": [
+      "Anadolu Ajansı'nın haftalık özetine göre Borsa İstanbul'da işlem gören hisse senetleri bu hafta ortalama %6,72 değer kazandı. Gram altın %3,57, euro/TL %0,37 ve dolar/TL %0,42 arttı. Yani bu hafta en çok kazandıran araç borsa oldu.",
+      "Cuma günü BIST 100 endeksi %1,32 yükselerek 11.482,60 puanda kapandı. Bir önceki sayıda yazdığımız gibi endeks Perşembe günü %1,26 düşmüştü; Cuma'nın yükselişi bu kaybın büyük bölümünü geri aldı. Bu, borsanın bir günden diğerine ne kadar oynayabildiğini gösteriyor.",
+      "Haftalık getiri güzel görünse de geçmiş getiri geleceğin garantisi değildir. Örneğin Avrupa borsaları aynı Cuma günü teknoloji hisselerindeki satışlar ve enflasyon endişesiyle düştü; Almanya'da DAX %1,92 gerileyerek haftalık kazancını tümüyle verdi (Dünya).",
+      "Gözler şimdi ABD'de. Ekimde 165 bin kişilik yeni istihdam geldi ve işsizlik %4,1'e geriledi. Beklentiden güçlü bu veri, ekonominin sağlam olduğunu gösteriyor; ama aynı zamanda ABD Merkez Bankası'nın (Fed) faizi artırma ihtimalini büyütüyor. CNBC-e'ye göre piyasalar aralıkta 25 baz puanlık artış ihtimalini %80 görüyor.",
+      "Bu bizim cebimizi nasıl etkiler? Fed faizi artırırsa dünya genelinde para pahalanır, gelişmekte olan ülkelerin piyasalarından çıkış olabilir. Böyle dönemlerde kur ve borsa daha oynak olabilir. Öte yandan Orta Doğu'da görüşmelerin ilerlediği haberi enerji fiyatları için rahatlatıcı olabilir: Avrupa'da doğal gaz bu hafta %15,5 düştü (AA)."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Tarım dışı istihdam",
+        "metin": "ABD'de her ay açıklanan, tarım dışındaki sektörlerde kaç kişinin yeni iş bulduğunu gösteren veridir. Güçlü çıkarsa ekonomi sağlam demektir; faiz indirimi beklentileri ise zayıflayabilir."
+      },
+      {
+        "baslik": "Bu ne demek? Baz puan",
+        "metin": "Faiz değişimlerini ölçmek için kullanılır. 100 baz puan %1'dir; 25 baz puan yüzde çeyrek puandır."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "Borsa günü %1,32 yükselişle kapattı",
+      "metin": "BIST 100 endeksi Cuma günü %1,32 artarak 11.482,60 puandan kapandı. AA'nın haftalık özetine göre hisse senetleri hafta genelinde %6,72 kazandırdı.",
+      "etki": "Hisse senedi ya da hisse fonu tutanların haftalık getirisi olumlu oldu; ancak borsa kısa vadede iniş çıkış gösterebilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4114518"
+      }
+    },
+    {
+      "etiket": "Türkiye · Merkez Bankası",
+      "baslik": "TCMB Başkanı: Fon piyasasındaki gelişmeleri yakından izliyoruz",
+      "metin": "TCMB Başkanı Fatih Karahan, finansal istikrar ve likidite koşullarını izlediklerini, gerek görülürse her türlü ek tedbiri proaktif biçimde alacaklarını söyledi. CNBC-e'ye göre Karahan, Türk lirasının finansal sistemdeki payının %61'in üzerinde kaldığını da belirtti.",
+      "etki": "Merkez Bankası fon piyasasındaki çıkışları yakından izliyor; bu, mevduat ve fon sahipleri için sistemin gözetim altında olduğu anlamına geliyor.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-ve-diger-piyasalarla-etkilesimini-takip-ediyoruz/4114582"
+      }
+    },
+    {
+      "etiket": "Dünya · ABD Ekonomisi",
+      "baslik": "ABD'de istihdam beklentiyi aştı, işsizlik %4,1'e indi",
+      "metin": "ABD'de tarım dışı istihdam ekimde 165 bin kişi artarak beklentilerin üzerinde gerçekleşti. İşsizlik oranı %4,1'e geriledi. CNBC-e, güçlü verinin ardından piyasaların Fed'in aralıkta faizi artırma ihtimalini %80 gördüğünü yazdı.",
+      "etki": "Fed faizi artırırsa dünya genelinde finansman maliyeti yükselebilir; bu da kur ve borsada dalgalanmaya yol açabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-ekimde-beklentilerin-uzerine-cikti/4114371"
+      }
+    },
+    {
+      "etiket": "Dünya · Fed",
+      "baslik": "Fed'den Daly: Daha fazla sıkılaşma gerekebilir",
+      "metin": "San Francisco Fed Başkanı Mary Daly, ABD'de yüksek seyreden enflasyonu düşürmek için para politikasında daha fazla sıkılaşmaya ihtiyaç duyulabileceğini söyledi. Bu, Fed'in kararı değil, bir yetkilinin görüşüdür.",
+      "etki": "Fed yetkililerinin sert mesajları, faizlerin uzun süre yüksek kalacağı beklentisini güçlendirebilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/feddaly-daha-fazla-faiz-artisi-gerekebilir-3793859"
+      }
+    },
+    {
+      "etiket": "Dünya · Avrupa Borsaları",
+      "baslik": "Avrupa borsaları haftayı düşüşle bitirdi",
+      "metin": "Avrupa borsaları, teknoloji hisselerindeki küresel satış dalgası ve enflasyon endişeleriyle haftayı düşüşle tamamladı. Almanya'da DAX %1,92 gerileyerek haftalık kazançlarının tamamını geri verdi.",
+      "etki": "Avrupa'daki zayıflık ihracatçılar için dikkat edilecek bir işaret olabilir; Türkiye'nin dış ticaretinde Avrupa'nın payı büyüktür.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/avrupa-borsalarinda-satis-dalgasi-bir-haftalik-kazanc-bir-gunde-silindi-haberi-846743"
+      }
+    },
+    {
+      "etiket": "Türkiye · Piyasa Düzeni",
+      "baslik": "SPK, 88 kişi hakkında suç duyurusunda bulunacak",
+      "metin": "Sermaye Piyasası Kurulu (SPK), üç şirketin pay piyasasındaki işlemleri nedeniyle 88 kişi hakkında suç duyurusunda bulunulmasına ve 2 yıl süreyle işlem yasağı uygulanmasına karar verdi.",
+      "etki": "Piyasada hile yapanlara karşı yaptırım uygulanması, küçük yatırımcının güvenini korumaya yöneliktir.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535"
+      }
+    },
+    {
+      "etiket": "Dünya · Enerji",
+      "baslik": "Trump: İran ile görüşmeler olumlu ilerliyor",
+      "metin": "ABD Başkanı Donald Trump, İran ile görüşmelerin olumlu ilerlediğini ve Hürmüz Boğazı'nın petrol sevkiyatına açık tutulması konusunda önemli ilerleme kaydedildiğini söyledi. AA'ya göre Avrupa'da doğal gaz fiyatları, gerilimin diplomasiyle azalacağı beklentisiyle haftalık %15,5 geriledi.",
+      "etki": "Enerji fiyatları düşerse benzin, doğal gaz ve elektrik maliyetleri üzerindeki baskı hafifleyebilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/trump-iran-ile-gorusmelerimiz-olumlu-ilerliyor-3793865"
+      }
+    },
+    {
+      "etiket": "Türkiye · Bankalar",
+      "baslik": "Halkbank'ın üçüncü çeyrek kârı beklentiyi aştı",
+      "metin": "Halkbank, 2026'nın üçüncü çeyreğinde 8,5 milyar TL net kâr açıkladı. Piyasa beklentisi 7,8 milyar TL idi.",
+      "etki": "Bankaların kârı bilanço sezonunda borsa için önemli bir gösterge; ama bu, mevduat faizi ya da kredi koşulları hakkında doğrudan bilgi vermez.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/halkbank-in-net-kri-beklentiyi-asti-3793857"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay Zekâ · Seyahat",
+      "baslik": "Airbnb, 2027'nin ilk yarısında yapay zekâ destekli seyahat asistanı sunacak",
+      "metin": "Airbnb, misafirlerine rezervasyon değişikliği, ödeme sorunları, para iadesi ve güvenlik desteği gibi konularda yardımcı olacak yapay zekâ asistanını 2027'nin ilk yarısında kullanıma sunacağını açıkladı.",
+      "neden": "Müşteri hizmetlerinin yapay zekâya kayması, seyahat harcamalarında hızlı çözüm sağlayabilir ama insan desteğinin payı azalabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/airbnb-misafirlerine-ozel-yapay-zeka-temsilcisi-gelistiriyor-3793860"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Haftanın sonunda hesap yapmak",
+      "paragraflar": [
+        "Bu hafta borsa yüzde 6,72 kazandırdı. Rakam güzel duruyor; ama hafta içinde bir gün düşüş, bir gün yükseliş yaşandı. Piyasalar tek günde değil, hafta ya da ay gibi daha uzun dilimlerde okunmalı.",
+        "Cumartesi sabahı çayını içerken şu soruyu sormak işe yarar: Param hangi amaçla, ne kadar süreyle duruyor? Cevap belliyse haftalık dalgalanma çoğu zaman tek bir günlük heyecandan daha az önemlidir.",
+        "Önümüzdeki hafta gözler Fed'de ve Merkez Bankası'nın duyuracağı bilgilerde olacak. Haberleri izlemek iyi; ama her haberde kararını değiştirmek zorunda hissetmek gerekmiyor."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Faiz artarsa bütçeme ne olur?",
+      "paragraflar": [
+        "ABD'de faizlerin artabileceği konuşuluyor. Bu, Türkiye'de de kredi ve mevduat faizlerini dolaylı olarak etkileyebilir. Kredi kartı borcu ve ihtiyaç kredisi olanlar için temel kural aynı: borcun maliyetini bilmek.",
+        "Kredi kartı borcunu asgari ödemeyle taşımak faiz yükünü büyütür. Elinde bütçeyi yoracak bir borç varsa önce toplam maliyetini hesapla, sonra gerekirse bankanla yeniden yapılandırma seçeneklerini konuş.",
+        "Ayrıca 'garanti getiri' vaadi eden mesajlara dikkat. Yatırımın getirisi hiçbir zaman önceden bilinemez; bunu vaat eden her teklif dolandırıcılık işareti olabilir."
+      ]
+    }
+  ],
+  "karikatur": {
+    "baslik": "Haftalık Hesap",
+    "dayanak": "Dayanak: BIST 100 haftalık %6,72 kazandırdı (AA); piyasalar Fed'in aralıkta faiz artırma ihtimalini %80 görüyor (CNBC-e).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Borsa bu hafta yüzde 6,72 kazandırmış, Kemal!"
+          }
+        ],
+        "nesne": "grafik-yukari",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Benim çayın getirisi belli: bir bardak, bir hesap."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Bari çaya zam gelmese, o da bir kazanç sayılır."
+          }
+        ],
+        "nesne": "cay",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Ama ABD'de Fed faizi artırabilir, yüzde 80 ihtimal diyorlar."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Faiz artınca kredi de pahalanır, Zeynep."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Ben borçlanmam. Veresiye defterim bile faizsiz!"
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Defterdeki borç da borç, Kemal Abi."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "kafa-kasi",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Peki 'garanti kazanç' diyen mesajlara ne diyoruz?"
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Garanti olan tek şey, dolandırıcılığın kendisi."
+          }
+        ],
+        "nesne": "defter",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Haftayı kazançla kapattık!"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Cumartesi borsa kapalı, bari kazanç da bir gün dursun."
+          }
+        ],
+        "nesne": "grafik-yukari",
+        "nesneYer": "orta"
+      }
+    ]
+  },
+  "senaryolar": {
+    "olumlu": [
+      "Orta Doğu'daki görüşmeler ilerlerse enerji fiyatları düşebilir; bu da enflasyon üzerindeki baskıyı hafifletebilir.",
+      "Borsadaki toparlanma sürerse hisse ve fon sahiplerinin getirisi artabilir."
+    ],
+    "olumsuz": [
+      "Fed aralıkta faizi artırırsa gelişmekte olan ülke piyasalarından çıkış olabilir; kur ve borsa daha oynak hale gelebilir.",
+      "Teknoloji hisselerindeki satışlar sürerse küresel borsalar baskı altında kalabilir."
+    ],
+    "riskler": "Faiz beklentileri, Orta Doğu'daki gerilim ve yapay zekâ hisselerindeki dalgalanma önümüzdeki günlerde piyasaları hızla değiştirebilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Per 12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu (önceki sayıdaki takvime göre)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "9-20 Kasım",
+      "olay": "COP31 İklim Zirvesi, Antalya (önceki sayıdaki takvime göre)",
+      "onem": "orta"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Tarım dışı istihdam",
+      "aciklama": "ABD'de her ay açıklanan, tarım dışı işlerde kaç kişinin yeni işe girdiğini gösteren veridir. Güçlü çıkarsa ekonomi sağlam kabul edilir."
+    },
+    {
+      "terim": "Suç duyurusu",
+      "aciklama": "Bir kurumun, kanuna aykırı olduğunu düşündüğü bir durumu savcılığa bildirmesidir. Duyuru, kişinin suçlu olduğu anlamına gelmez; karar mahkemeye aittir."
+    },
+    {
+      "terim": "İşlem yasağı",
+      "aciklama": "Belirli kişilerin ya da şirketlerin borsada alım satım yapmasının belli bir süre engellenmesidir."
+    }
+  ],
+  "teyitNotlari": [
+    "Cuma günü Wall Street (S&P 500, Nasdaq), Brent petrol ve ABD 10 yıllık tahvil faizi kapanışları teyit edilemedi; bu nedenle bu sayıda yer almıyor.",
+    "BIST 100 kapanışı (11.482,60; %1,32) yalnızca AA'dan teyit edildi (tek kaynak); önceki sayıdaki 11.333,27 ile uyumlu. Haftalık %6,72 de AA'dan.",
+    "Gram altın hesaplanan değerdir (6.566 TL); TRT Haber'in standart altın kilogramı 6.563.000 TL haberiyle (gram yaklaşık 6.563 TL) uyumludur.",
+    "Dolar/TL ve euro/TL TCMB'nin 6 Kasım bülteninden; ECB referansıyla (USD/TRY 50,15) küçük fark var, resmî kaynak TCMB kullanıldı.",
+    "Ons gümüş, Ethereum ve Bitcoin yalnızca otomatik veri kaynağından alındı (tek kaynak).",
+    "ABD tarım dışı istihdam AA ve Bloomberg HT'de 165 bin; CNBC-e'nin bir haberinde 159 bin yazıyor. 165 bin kullanıldı.",
+    "Fed'in aralık artışı ihtimali (%80) tek kaynaktan (CNBC-e).",
+    "TCMB politika faizi %36 önceki sayıdan alındı, bu sayıda yeniden teyit edilemedi.",
+    "Ajanda tarihleri (12 Kasım, COP31) önceki sayıdan taşındı; bu sayıda yeniden teyit edilemedi.",
+    "Konut, arsa ve otomobil için yeni kurum tahmini bulunamadı; yön 'belirsiz'. WebFetch haber sitelerini açamadı; haberler veri/haberler.json'a dayanıyor."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "AA – Borsa günü yükselişle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4114518"
+    },
+    {
+      "baslik": "AA – Bu hafta yatırım araçlarının performansı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4114567"
+    },
+    {
+      "baslik": "AA – TCMB Başkanı Karahan fon piyasası açıklaması",
+      "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-ve-diger-piyasalarla-etkilesimini-takip-ediyoruz/4114582"
+    },
+    {
+      "baslik": "CNBC-e – Karahan'dan üç kritik mesaj",
+      "url": "https://www.cnbce.com/haberler/tcmb-baskani-karahandan-uc-kritik-mesaj-enflasyon-fon-piyasasi-ve-turk-lirasi-h41212"
+    },
+    {
+      "baslik": "AA – ABD'de tarım dışı istihdam ekimde beklentilerin üzerine çıktı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-ekimde-beklentilerin-uzerine-cikti/4114371"
+    },
+    {
+      "baslik": "CNBC-e – Fed köşeye sıkıştı: faiz için yol haritası",
+      "url": "https://www.cnbce.com/piyasalar/fed-koseye-sikisti-piyasalar-artik-buraya-odaklandi-iste-faiz-icin-yol-haritasi-g41243"
+    },
+    {
+      "baslik": "Bloomberg HT – Fed/Daly: Daha fazla faiz artışı gerekebilir",
+      "url": "https://www.bloomberght.com/feddaly-daha-fazla-faiz-artisi-gerekebilir-3793859"
+    },
+    {
+      "baslik": "Dünya – Avrupa borsalarında satış dalgası",
+      "url": "https://www.dunya.com/ekonomi/avrupa-borsalarinda-satis-dalgasi-bir-haftalik-kazanc-bir-gunde-silindi-haberi-846743"
+    },
+    {
+      "baslik": "Habertürk – SPK'dan 3 şirkete suç duyurusu kararı",
+      "url": "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535"
+    },
+    {
+      "baslik": "AA – SPK'den 3 şirketin pay piyasasındaki işlemlere ilişkin suç duyurusu kararı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832"
+    },
+    {
+      "baslik": "Bloomberg HT – Trump: İran ile görüşmelerimiz olumlu ilerliyor",
+      "url": "https://www.bloomberght.com/trump-iran-ile-gorusmelerimiz-olumlu-ilerliyor-3793865"
+    },
+    {
+      "baslik": "AA – Avrupa'da doğal gaz fiyatları haftalık bazda yüzde 15,5 düştü",
+      "url": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftalik-bazda-yuzde-15-5-dustu/4114186"
+    },
+    {
+      "baslik": "Bloomberg HT – Halkbank'ın net kârı beklentiyi aştı",
+      "url": "https://www.bloomberght.com/halkbank-in-net-kri-beklentiyi-asti-3793857"
+    },
+    {
+      "baslik": "Bloomberg HT – Airbnb misafirlerine özel yapay zeka temsilcisi geliştiriyor",
+      "url": "https://www.bloomberght.com/airbnb-misafirlerine-ozel-yapay-zeka-temsilcisi-gelistiriyor-3793860"
+    },
+    {
+      "baslik": "CNBC-e – Altında yükselişin devamı için kritik eşik",
+      "url": "https://www.cnbce.com/altin/unlu-ekonomist-altinda-yukselisin-devami-icin-kritik-esigi-acikladi-iste-son-durum-g41235"
+    },
+    {
+      "baslik": "TRT Haber – Altının kilogram fiyatı 6 milyon 563 bin liraya geriledi",
+      "url": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-563-bin-liraya-geriledi-962452.html"
+    },
+    {
+      "baslik": "Ekonomim – Enflasyon ekimde hızlandı",
+      "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ildeki 725 arsayı açık artırmayla satışa sunacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "Bloomberg HT – Yatırım aracı dönemi biterken otomotivde elektrikli modeller öne çıkıyor",
+      "url": "https://www.bloomberght.com/yatirim-araci-donemi-biterken-otomotivde-elektrikli-modeller-one-cikiyor-3793657"
+    }
+  ]
+}

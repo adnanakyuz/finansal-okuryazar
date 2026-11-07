@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-11-07",
+      "tarihMetni": "7 Kasım 2026, Cumartesi",
+      "sayi": 18,
+      "baslik": "Borsa İstanbul haftayı %6,72 kazançla kapattı, Cuma günü BIST 100 %1,32 yükseldi"
+    },
+    {
       "tarih": "2026-11-06",
       "tarihMetni": "6 Kasım 2026, Cuma",
       "sayi": 17,
