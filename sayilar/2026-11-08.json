@@ -1,0 +1,262 @@
+{
+  "tarih": "2026-11-08",
+  "tarihMetni": "8 Kasım 2026, Pazar",
+  "sayi": 19,
+  "notlar": "Hafta sonu baskısı · BIST 100 ve TCMB kurları 6 Kasım Cuma kapanışı · Altın, gümüş, Bitcoin, Ethereum Pazar sabahı (TSİ 06.30 civarı) otomatik veri; altın ve gümüş piyasaları hafta sonu kapalı · Cuma günü Wall Street ve Brent kapanışı teyit edilemediği için bu sayıda yer almıyor",
+  "gununOzeti": "Borsalar kapalı; yeni haftaya fon soruşturmasındaki gelişmeler ve faiz haberleriyle giriyoruz. Soruşturmada yeni gözaltılar var, Avrupa Merkez Bankası Başkanı da enflasyonun bir süre daha yüksek kalabileceğini söyledi. Sizin için en somut haber, motorinde litre başına yaklaşık 5,4 liralık indirim.",
+  "manset": {
+    "ustBaslik": "Yeni Haftaya Girerken",
+    "baslik": "Fon soruşturmasında gözaltılar sürüyor, piyasalar yeni haftada faiz haberlerine bakacak",
+    "spot": "Soruşturmada BDDK Başkan Yardımcısı'nın da aralarında olduğu dört kişinin gözaltına alındığı bildirildi. Avrupa Merkez Bankası Başkanı Lagarde ise enflasyonun önümüzdeki çeyreklerde yüksek kalabileceğini söyledi. Piyasalar kapalı; son kapanışlara göre BIST 100 11.482,60 puanda.",
+    "ozet": [
+      "Fon soruşturmasında BDDK Başkan Yardımcısı dahil dört kişinin gözaltına alındığı bildirildi (CNBC-e, Ekonomim).",
+      "AMB Başkanı Lagarde: Enflasyon önümüzdeki çeyreklerde yüksek kalabilir; Aralık kararı için kesin konuşmadı (Bloomberg HT, Dünya).",
+      "Motorinde 7 Kasım'dan itibaren litre başına yaklaşık 5,4 TL indirim yapıldı (Habertürk, Bloomberg HT).",
+      "TCMB, yılın son Enflasyon Raporu'nu 12 Kasım'da açıklayacak (TRT Haber)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Dünya · Faiz",
+      "baslik": "Lagarde: Enflasyon bir süre daha yüksek kalabilir",
+      "spot": "Avrupa Merkez Bankası Başkanı, faizlerin yüksek kalma süresi uzadıkça orta vadeli hedefe yönelik riskin arttığını söyledi (Bloomberg HT)."
+    },
+    {
+      "ustBaslik": "Türkiye · Maliye",
+      "baslik": "Hazine ekimde 329,9 milyar lira nakit açığı verdi",
+      "spot": "Hazine'nin ekimdeki geliri 1 trilyon 391 milyar lira, gideri 1 trilyon 721 milyar lira oldu (Bloomberg HT)."
+    },
+    {
+      "ustBaslik": "Türkiye · Dış Politika",
+      "baslik": "Erdoğan bugün Azerbaycan'a gidiyor",
+      "spot": "Cumhurbaşkanlığı'na bu sürede Cumhurbaşkanı Yardımcısı vekalet edecek; tezkere Resmî Gazete'de yayımlandı (Ekonomim)."
+    }
+  ],
+  "piyasalar": [
+    {"ad": "BIST 100", "deger": "11.482,60", "degisim": "%1,32", "yon": "up", "neden": "Cuma günkü kapanış; borsa haftayı yükselişle bitirmişti. Hisse tutanlar için hafta iyi geçti, ama borsa bir günde de düşebilir. Kapanış değeri yalnızca önceki sayıdaki AA haberine dayanır (tek kaynak)."},
+    {"ad": "Dolar/TL", "deger": "50,07", "degisim": "%0,00", "yon": "flat", "neden": "TCMB'nin 6 Kasım gösterge kuru (satış); hafta sonu yeni kur açıklanmaz. Avrupa Merkez Bankası referansı 50,15; resmî kaynak TCMB kullanıldı. Dövizle borcu olanlar için kur yavaş yavaş yukarı gidiyor."},
+    {"ad": "Euro/TL", "deger": "55,96", "degisim": "%0,00", "yon": "flat", "neden": "TCMB'nin 6 Kasım gösterge kuru (satış). Hafta sonu değişmez; Pazartesi yeni bülten gelir."},
+    {"ad": "Gram altın", "deger": "6.566 TL", "degisim": "%0,00", "yon": "flat", "neden": "Ons altın ve dolar/TL'den hesaplanır. Borsa İstanbul'da Cuma günü standart altın kilogramı 6 milyon 563 bin liradan işlem gördü, yani gram yaklaşık 6.563 TL (TRT Haber). Hafta sonu piyasa kapalı olduğu için fiyat değişmedi."},
+    {"ad": "Ons altın", "deger": "4.072 $", "degisim": "%0,00", "yon": "flat", "neden": "Küresel altın piyasası hafta sonu kapalı; değer Cuma kapanışına yakın. Altın dolar ve faiz beklentilerine duyarlıdır. Yalnızca otomatik veri kaynağından alındı (tek kaynak)."},
+    {"ad": "Ons gümüş", "deger": "52,07 $", "degisim": "%0,00", "yon": "flat", "neden": "Hafta sonu piyasa kapalı; Cuma kapanışına yakın değer. Gümüş hem değerli maden hem sanayi metalidir. Yalnızca otomatik veri kaynağından alındı (tek kaynak)."},
+    {"ad": "Bitcoin", "deger": "75.784 $", "degisim": "%0,22", "yon": "down", "neden": "Kripto piyasası hafta sonu da açık; Cumartesiye göre sınırlı düşüş. Kripto paralar çok oynaktır, kısa sürede hem yükselip hem düşebilir (CoinGecko, tek kaynak)."},
+    {"ad": "Ethereum", "deger": "2.235 $", "degisim": "%0,47", "yon": "down", "neden": "Cumartesiye göre sınırlı düşüş. Bitcoin gibi oynak bir varlıktır (CoinGecko, tek kaynak)."}
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Bu sayı için yeni bir kurum tahmini derlenmedi.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. Önceki sayılardan alındı; bu sayıda yeniden teyit edilemedi (tek kaynak). TCMB yılın son Enflasyon Raporu'nu 12 Kasım'da açıklayacak (TRT Haber)."
+    },
+    {
+      "kurum": "ABD Merkez Bankası (Fed)",
+      "mevcut": "Bu sayıda teyit edilmedi",
+      "beklenti": "Piyasalar aralıkta 25 baz puan (yüzde çeyrek puan) artırım ihtimalini %80 görüyor (CNBC-e).",
+      "not": "Bu, piyasanın beklentisidir; Fed'in kararı değildir. Tek kaynak."
+    },
+    {
+      "kurum": "Avrupa Merkez Bankası (AMB)",
+      "mevcut": "Bu sayıda teyit edilmedi",
+      "beklenti": "Başkan Lagarde Aralık kararı için kesin konuşmadı; verilerin ayrıntılı inceleneceğini söyledi (Dünya).",
+      "not": "Lagarde, enflasyonun önümüzdeki çeyreklerde yüksek kalabileceğini ve yüksek faiz süresi uzadıkça orta vadeli hedefe yönelik riskin artacağını belirtti (Bloomberg HT)."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Altın geçen hafta yaklaşık %5 yükseldi, ama yönün ne olacağı belirsiz.",
+      "neden": "Faiz artışı beklentisi güçlenirse altın üzerinde baskı oluşabilir. Öte yandan Çin Merkez Bankası'nın alımlarını sürdürmesi fiyatı destekleyebilir.",
+      "kimDiyor": "Bloomberg HT'ye göre Çin Merkez Bankası ekimde de altın alarak serisini 24 aya çıkardı (bu sayıyı ikinci kaynakla teyit edemedik). Fed'in aralıkta faiz artırma ihtimali piyasada %80 görülüyor (CNBC-e). Açıklanmış net bir kurum hedefi bu sayıda derlenmedi.",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/cin-merkez-bankasi-nin-altin-alimlari-hiz-kesmiyor-3793867"}
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları için bu sayıda yeni bir kurum tahmini bulunamadı; yön belirsiz.",
+      "neden": "Kredi faizleri ve enflasyon konut talebini etkiler. Faizler yüksek kalırsa kredi çekmek zorlaşır, talep yavaşlayabilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön son verilere dayanıyor. Son bulunan veri önceki sayıdaki enflasyon haberidir.",
+      "kaynak": {"ad": "Ekonomim", "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"}
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa fiyatları için bu sayıda yeni bir kurum tahmini bulunamadı; yön belirsiz.",
+      "neden": "Arsa fiyatı konumuna, imar durumuna ve krediye erişime göre çok değişir. TOKİ'nin açık artırma satışları bölgesel fiyat için bir fikir verebilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön son verilere dayanıyor. Son bulunan haber önceki sayıdaki TOKİ açık artırması haberidir.",
+      "kaynak": {"ad": "TRT Haber", "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"}
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve sonrası",
+      "ozet": "Pazar daralınca markalar kampanya ve indirime yöneldi; ama genel fiyat yönü belirsiz.",
+      "neden": "Satışlar yavaşlayınca üreticiler indirim yapabiliyor. Kredi faizleri ve vergiler ise fiyatı yukarı çekebilir.",
+      "kimDiyor": "CNBC-e, Kasım 2026 fiyat listelerine göre en ucuz sıfır otomobilin 1 milyon 328 bin TL'lik bir model olduğunu yazdı ve pazardaki daralmaya dikkat çekti. Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {"ad": "CNBC-e", "url": "https://www.cnbce.com/otomotiv/sifir-otomobilde-en-ucuz-modeller-belli-oldu-iste-model-model-fiyat-listesi-g41261"}
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Fon Soruşturması",
+    "baslik": "Fon soruşturması bu hafta nereye geldi?",
+    "spot": "Soruşturma bankacılık ve sermaye piyasası düzenleyicilerine uzandı. Yatırımcı açısından ne değişti, neleri izlemek gerekiyor?",
+    "paragraflar": [
+      "Fon soruşturmasında yeni gözaltılar var. CNBC-e ve Ekonomim'e göre aralarında BDDK Başkan Yardımcısı'nın da bulunduğu dört kişi gözaltına alındı. Gözaltı bir suçlama değil, bir inceleme aşamasıdır; kimsenin suçlu olduğu mahkeme kararıyla ortaya çıkmış değildir.",
+      "Soruşturma, yatırım fonlarında yaşanan sorunlar üzerine kuruldu. DW Türkçe'ye göre cezaevindeki şüpheli sayısı 117'ye ulaştı. Yeni tutuklananlar arasında kamu görevlilerinin de bulunduğu bildirildi.",
+      "Sermaye Piyasası Kurulu (SPK) ise üç şirketin işlemleriyle ilgili suç duyurusu kararı aldı ve bazı kişiler için işlem yasağı getirdi. Habertürk'ün haberine göre 88 kişi hakkında suç duyurusunda bulunulacak. Bu, düzenleyicinin borsadaki işlemlere yakından baktığını gösteriyor.",
+      "Merkez Bankası Başkanı Karahan, fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer piyasalarla etkileşimini yakından izlediklerini söyledi. Gerek görülürse ek tedbir alınacağını belirtti (Habertürk, AA).",
+      "Sizin için ne anlama geliyor? Fon ve borsa yatırımı yapıyorsanız, yatırımın kimin tarafından yönetildiğine ve fon rapor tarihlerine bakmak iyi bir alışkanlık. Garanti getiri vaadi, her zaman şüpheyle karşılanması gereken bir işarettir."
+    ],
+    "kutular": [
+      {"baslik": "Bu ne demek? Adli kontrol", "metin": "Savcılık ya da hâkim, kişiyi cezaevine göndermeden bazı yükümlülükler getirebilir: yurt dışına çıkış yasağı, imza verme gibi. Buna adli kontrol denir. Tutuklama ise kişinin yargılama bitene kadar özgürlüğünden alınmasıdır."}
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Fon Soruşturması",
+      "baslik": "Fon soruşturmasında BDDK Başkan Yardımcısı dahil dört kişi gözaltına alındı",
+      "metin": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmada eski Takasbank Genel Müdürü ve bir yatırım şirketinin yönetim kurulu başkanı yeniden gözaltına alındı. BDDK Başkan Yardımcısı ve bir madencilik şirketinin yönetim kurulu başkanı da gözaltına alınanlar arasında.",
+      "etki": "Fon ve borsa yatırımı yapanlar için haber akışı yakından izlenmeli; gözaltı, mahkeme kararı değil bir inceleme aşamasıdır.",
+      "kaynak": {"ad": "CNBC-e", "url": "https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-bddk-baskan-yardimcisi-dahil-4-isim-gozaltinda-h41271"}
+    },
+    {
+      "etiket": "Dünya · Faiz",
+      "baslik": "Lagarde: Enflasyon önümüzdeki çeyreklerde yüksek kalabilir",
+      "metin": "Avrupa Merkez Bankası Başkanı Christine Lagarde, enflasyonun yüksek kalmasının orta vadeli hedefe yönelik riski artıracağını söyledi. Aralık kararı için kesin konuşmadı; verilerin ayrıntılı inceleneceğini belirtti.",
+      "etki": "Avrupa'da faizler yüksek kalırsa euro cinsinden borcu olanlar ve Avrupa'ya tatil planlayanlar kur hareketlerini yakından izleyebilir.",
+      "kaynak": {"ad": "Dünya", "url": "https://www.dunya.com/ekonomi/lagardedan-enflasyon-mesaji-aralikta-yeni-faiz-artisi-mi-geliyor-haberi-846821"}
+    },
+    {
+      "etiket": "Türkiye · Akaryakıt",
+      "baslik": "Motorine litre başına yaklaşık 5,4 TL indirim geldi",
+      "metin": "Uluslararası ürün fiyatlarındaki düşüşün ardından motorinin litre fiyatı 7 Kasım'da düştü. Habertürk ortalama 5,40 TL, Bloomberg HT ise 5,44 TL indirim yazdı; küçük fark kaynaklara göre değişen hesap farkı olabilir.",
+      "etki": "Dizel araç kullananlar için depo maliyeti biraz azaldı; ancak akaryakıt fiyatları kısa sürede yeniden değişebilir.",
+      "kaynak": {"ad": "Habertürk", "url": "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-motorine-dev-indsrim-geldi-iste-7-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3925587"}
+    },
+    {
+      "etiket": "Türkiye · Maliye",
+      "baslik": "Hazine ekimde 329,9 milyar lira nakit açığı verdi",
+      "metin": "Hazine'nin nakit gelirleri ekimde 1 trilyon 391 milyar lira, giderleri 1 trilyon 721 milyar lira oldu. Aradaki fark nakit açığı demek. Önceki verideki açık 467,2 milyar liraydı.",
+      "etki": "Devletin gelirleri giderlerini karşılamadığında borçlanma ihtiyacı artar; bu da uzun vadede faiz ve vergi tartışmalarını etkileyebilir.",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/hazine-nakit-dengesi-3793825"}
+    },
+    {
+      "etiket": "Türkiye · Dış Ekonomi",
+      "baslik": "Şimşek: Bölgede yeniden imar ihtiyacı 10 yılda en az 1 trilyon dolar",
+      "metin": "Hazine ve Maliye Bakanı Mehmet Şimşek, savaş sonrası bölgede yeniden imar ihtiyacının gelecek 10 yılda en az 1 trilyon dolara ulaşmasının beklendiğini söyledi. Türk şirketlerinin süreçte aktif rol alacağını belirtti.",
+      "etki": "Bu bir beklenti, kesin bir sipariş değil. Gerçekleşirse inşaat ve müteahhitlik sektörüne iş getirebilir, ama zamanı belirsiz.",
+      "kaynak": {"ad": "Dünya", "url": "https://www.dunya.com/ekonomi/bakan-simsek-1-trilyon-dolarlik-ihtiyaci-acikladi-yeniden-imarda-turkiye-de-var-haberi-846815"}
+    },
+    {
+      "etiket": "Dünya · Diplomasi",
+      "baslik": "Erdoğan ile Trump telefonda görüştü: Masada İran ve Ukrayna vardı",
+      "metin": "İki lider Türkiye-ABD ilişkilerini, İran-ABD gerilimini ve Ukrayna-Rusya savaşını ele aldı. Erdoğan bugün Azerbaycan'ı ziyaret edecek.",
+      "etki": "Bölgesel gerilimin azalması petrol fiyatları ve risk iştahı için olumlu sayılır; ama bu görüşmenin somut sonucu henüz belli değil.",
+      "kaynak": {"ad": "CNBC-e", "url": "https://www.cnbce.com/haberler/erdogan-ile-trump-arasinda-kritik-gorusme-masada-iran-ve-ukrayna-vardi-h41272"}
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay Zeka · Seyahat",
+      "baslik": "Airbnb 2027'de yapay zeka destekli kişisel seyahat asistanı sunacak",
+      "metin": "Airbnb, 2027'nin ilk yarısında misafirlerin rezervasyon değişikliği, ödeme sorunları ve para iadesi gibi işlemlerini 7/24 yapabileceği yapay zeka asistanını kullanıma sunacağını açıkladı.",
+      "neden": "Müşteri hizmetlerinde yapay zeka kullanımı yaygınlaşıyor; sorunlarınızı çözerken bir yazılımla konuşma ihtimaliniz artıyor.",
+      "kaynak": {"ad": "Bloomberg HT", "url": "https://www.bloomberght.com/airbnb-misafirlerine-ozel-yapay-zeka-temsilcisi-gelistiriyor-3793860"}
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Haberden önce soru sormak",
+      "paragraflar": [
+        "Hafta sonu piyasalar kapalı; bu da bir fırsat. Fiyatlar saniye saniye değişmediği için neyin önemli olduğunu düşünebiliriz.",
+        "Bu hafta iki ayrı konu öne çıktı: fon soruşturması ve faiz. İkisinin ortak noktası güven. Yatırımcı, parasını emanet ettiği kurumun kurallara uyduğuna inanmak ister. Soruşturma sürerken kimse hakkında mahkeme kararı çıkmadan hüküm vermemek gerekir.",
+        "Faiz tarafında Avrupa'dan gelen mesaj, enflasyonla mücadelenin kolay olmadığını gösteriyor. Aynı konu bizde de var. 12 Kasım'daki Enflasyon Raporu bu yüzden yakından izlenecek."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Yeni haftada hangi başlıklar izlenebilir?",
+      "paragraflar": [
+        "Pazartesi sabahı borsa açılırken Cuma'nın kapanışı olan 11.482,60 puan referans olacak. Haftalık %6,72'lik yükseliş sonrası haber akışı yönü etkileyebilir.",
+        "Altın geçen hafta yaklaşık %5 yükseldi. Faiz beklentileri ve Çin Merkez Bankası'nın alımları gibi iki farklı etki aynı anda fiyatta rol oynayabilir.",
+        "Gelecek hafta ABD'de açıklanacak enflasyon verileri (Habertürk, AA) küresel piyasaların yönünü etkileyebilir. Tam tarih bu sayıda teyit edilemedi."
+      ]
+    }
+  ],
+  "karikatur": {
+    "baslik": "Haftalık Getiri",
+    "dayanak": "Dayanak: BIST 100 haftalık %6,72 yükseldi (AA); aynı hafta fon soruşturması sürdü.",
+    "kareler": [
+      {"sahne": "kahve", "nesne": "grafik-yukari", "nesneYer": "orta", "karakterler": [{"kim": "ahmet", "yer": "sol", "ifade": "gul", "poz": "gazete", "efekt": "yok"}, {"kim": "kemal", "yer": "sag", "ifade": "normal", "poz": "normal", "efekt": "yok"}], "balonlar": [{"kim": "ahmet", "metin": "Borsa haftada %6,72 yükselmiş, Kemal!"}]},
+      {"sahne": "kahve", "nesne": "cay", "nesneYer": "orta", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "konus", "poz": "isaret", "efekt": "yok"}, {"kim": "ahmet", "yer": "sag", "ifade": "normal", "poz": "gazete", "efekt": "yok"}], "balonlar": [{"kim": "kemal", "metin": "Güzel de çayın fiyatı hâlâ aynı."}]},
+      {"sahne": "kahve", "nesne": "yok", "karakterler": [{"kim": "zeynep", "yer": "sol", "ifade": "endise", "poz": "telefon", "efekt": "soru"}, {"kim": "ahmet", "yer": "sag", "ifade": "konus", "poz": "normal", "efekt": "yok"}], "balonlar": [{"kim": "zeynep", "metin": "Bir fon %50 getiri vaat ediyor, girsem mi?"}, {"kim": "ahmet", "metin": "Önce kim yönetiyor, bakalım."}]},
+      {"sahne": "kahve", "nesne": "defter", "nesneYer": "orta", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "konus", "poz": "isaret", "efekt": "unlem"}, {"kim": "zeynep", "yer": "sag", "ifade": "sasir", "poz": "normal", "efekt": "yok"}], "balonlar": [{"kim": "kemal", "metin": "Garanti getiri diyen, kâğıda yazıp imzalasın."}]},
+      {"sahne": "kahve", "nesne": "yok", "karakterler": [{"kim": "ahmet", "yer": "sol", "ifade": "bagir", "poz": "eller-havada", "efekt": "unlem"}, {"kim": "zeynep", "yer": "sag", "ifade": "normal", "poz": "telefon", "efekt": "yok"}], "balonlar": [{"kim": "ahmet", "metin": "Yazmaz! Garanti dediği kimsede garanti yok."}]},
+      {"sahne": "kahve", "nesne": "defter", "nesneYer": "orta", "karakterler": [{"kim": "kemal", "yer": "sol", "ifade": "gul", "poz": "isaret", "efekt": "yok"}, {"kim": "ahmet", "yer": "sag", "ifade": "sasir", "poz": "kafa-kasi", "efekt": "sok"}], "balonlar": [{"kim": "kemal", "metin": "Garanti olan tek şey, bu veresiye defteri."}, {"kim": "ahmet", "metin": "O da geri dönmüyor ki!"}]}
+    ]
+  },
+  "senaryolar": {
+    "olumlu": [
+      "Fon soruşturması hızla netleşirse yatırımcıların güveni toparlanabilir.",
+      "Motorindeki indirim sürerse ulaşım ve taşıma maliyetleri hafifleyebilir."
+    ],
+    "olumsuz": [
+      "Soruşturma yeni isimlere uzanırsa piyasada belirsizlik artabilir.",
+      "ABD ve Avrupa'da faizler yüksek kalırsa gelişen ülke piyasaları baskı altında kalabilir."
+    ],
+    "riskler": "Bölgesel gerilimler, ABD'de açıklanacak enflasyon verileri ve fon soruşturmasının seyri yeni haftada piyasaların yönünü etkileyebilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {"gun": "Paz 8 Kasım", "olay": "Cumhurbaşkanı Erdoğan'ın Azerbaycan ziyareti; Cumhurbaşkanlığı'na Cumhurbaşkanı Yardımcısı vekalet edecek (Resmî Gazete'de yayımlanan tezkere, Ekonomim)", "onem": "orta"},
+    {"gun": "Per 12 Kasım", "olay": "TCMB yılın son Enflasyon Raporu'nu açıklayacak (TRT Haber)", "onem": "yuksek"}
+  ],
+  "sozluk": [
+    {"terim": "Kaldıraç", "aciklama": "Kendi paranın üstüne borç alarak daha büyük bir yatırım yapmak. Kazanç da zarar da büyür."},
+    {"terim": "Hazine nakit dengesi", "aciklama": "Devletin bir ayda kasasına giren ve çıkan paranın farkı. Çıkan para fazlaysa nakit açığı denir."},
+    {"terim": "Adli kontrol", "aciklama": "Kişiyi cezaevine göndermeden getirilen yükümlülükler; yurt dışı yasağı veya imza verme gibi."}
+  ],
+  "teyitNotlari": [
+    "Cuma günü Wall Street (S&P 500, Nasdaq), Brent petrol ve ABD 10 yıllık tahvil faizi kapanışları teyit edilemedi; bu nedenle bu sayıda yer almıyor.",
+    "BIST 100 kapanışı (11.482,60; %1,32) yalnızca önceki sayıdaki AA haberine dayanıyor (tek kaynak).",
+    "Dolar/TL ve euro/TL TCMB'nin 6 Kasım bültenindendir; ECB referansıyla (USD/TRY 50,15) küçük fark var, resmî kaynak TCMB kullanıldı.",
+    "Altın, ons gümüş, Bitcoin ve Ethereum yalnızca otomatik veri kaynağından alındı (tek kaynak). Gram altın hesaplanan değerdir; TRT Haber'in 6 Kasım kilogram fiyatıyla (gram yaklaşık 6.563 TL) uyumludur.",
+    "Motorin indirimi Habertürk'te 5,40 TL, Bloomberg HT'de 5,44 TL; metinde 'yaklaşık 5,4 TL' yazıldı. Arama motoru bu tutarı bağımsız olarak doğrulamadı.",
+    "BDDK Başkan Yardımcısı'nın gözaltına alındığı haberi CNBC-e ve Ekonomim'de var; ek bir bağımsız arama bunu doğrulayamadı, bu yüzden isim yazılmadı ve haber 'bildirildi' diliyle verildi.",
+    "Çin Merkez Bankası'nın 24. ay altın alımı yalnızca Bloomberg HT'de görüldü; ikinci kaynakla teyit edilemedi (tek kaynak).",
+    "Lagarde açıklaması Bloomberg HT ve Dünya'da tutarlı; arama motoru ayrıca doğrulamadı.",
+    "Şimşek'in 1 trilyon dolar açıklaması Dünya, Ekonomim, CNBC-e ve TRT Haber'de tutarlı. Bunun bir beklenti olduğu belirtildi.",
+    "TCMB politika faizi (%36) ve Fed'in aralık artışı ihtimali (%80) yeniden teyit edilemedi; tek kaynak.",
+    "Konut, arsa ve otomobil için yeni kurum tahmini bulunamadı; yön 'belirsiz'. Kaynaklar önceki sayıdan taşındı (otomobil için bugünkü CNBC-e haberi kullanıldı).",
+    "ABD enflasyon verisinin açıklanma tarihi teyit edilemedi; ajandaya girmedi.",
+    "WebFetch haber sitelerini açamadı; haberler veri/haberler.json'a dayanıyor."
+  ],
+  "kaynaklar": [
+    {"baslik": "CNBC-e – Fon soruşturmasında yeni gelişme: BDDK Başkan Yardımcısı dahil 4 isim gözaltında", "url": "https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-bddk-baskan-yardimcisi-dahil-4-isim-gozaltinda-h41271"},
+    {"baslik": "Ekonomim – Fon soruşturmasında BDDK Başkan Yardımcısı ile Bulls, Takasbank ve Ruzy yöneticileri gözaltında", "url": "https://www.ekonomim.com/ekonomi/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-ve-takasbank-genel-muduru-yeniden-gozaltinda-haberi-929839"},
+    {"baslik": "DW Türkçe – Fon soruşturmasında dört tutuklama daha: Toplam 117 kişi", "url": "https://www.dw.com/tr/fon-soruşturmasında-dört-tutuklama-daha-toplam-117-kişi/a-79884004?maca=tur-rss-tur-all-1495-rdf"},
+    {"baslik": "Habertürk – SPK'dan 3 şirkete suç duyurusu kararı", "url": "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535"},
+    {"baslik": "Habertürk – TCMB Başkanı Karahan'dan 'fon' açıklaması", "url": "https://www.haberturk.com/ekonomi/tcmb-baskani-karahan-dan-fon-aciklamasi-3925487"},
+    {"baslik": "Dünya – Lagarde'dan enflasyon mesajı: Aralıkta yeni faiz artışı mı geliyor?", "url": "https://www.dunya.com/ekonomi/lagardedan-enflasyon-mesaji-aralikta-yeni-faiz-artisi-mi-geliyor-haberi-846821"},
+    {"baslik": "Bloomberg HT – AMB Başkanı Lagarde'dan enflasyon uyarısı", "url": "https://www.bloomberght.com/amb-baskani-lagarde-dan-enflasyon-uyarisi-3793880"},
+    {"baslik": "Habertürk – Motorine indirim geldi", "url": "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-motorine-dev-indsrim-geldi-iste-7-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3925587"},
+    {"baslik": "Bloomberg HT – Hazine nakit dengesi 329,9 milyar TL açık verdi", "url": "https://www.bloomberght.com/hazine-nakit-dengesi-3793825"},
+    {"baslik": "Dünya – Bakan Şimşek 1 trilyon dolarlık ihtiyacı açıkladı", "url": "https://www.dunya.com/ekonomi/bakan-simsek-1-trilyon-dolarlik-ihtiyaci-acikladi-yeniden-imarda-turkiye-de-var-haberi-846815"},
+    {"baslik": "CNBC-e – Erdoğan ile Trump arasında kritik görüşme", "url": "https://www.cnbce.com/haberler/erdogan-ile-trump-arasinda-kritik-gorusme-masada-iran-ve-ukrayna-vardi-h41272"},
+    {"baslik": "Bloomberg HT – Airbnb, misafirlerine özel yapay zeka temsilcisi geliştiriyor", "url": "https://www.bloomberght.com/airbnb-misafirlerine-ozel-yapay-zeka-temsilcisi-gelistiriyor-3793860"},
+    {"baslik": "Bloomberg HT – Çin Merkez Bankası'nın altın alımları hız kesmiyor", "url": "https://www.bloomberght.com/cin-merkez-bankasi-nin-altin-alimlari-hiz-kesmiyor-3793867"},
+    {"baslik": "TRT Haber – Yılın son Enflasyon Raporu 12 Kasım'da açıklanacak", "url": "https://www.trthaber.com/haber/ekonomi/yilin-son-enflasyon-raporu-12-kasimda-aciklanacak-962412.html"},
+    {"baslik": "Ekonomim – Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek", "url": "https://www.ekonomim.com/gundem/cumhurbaskanligina-cevdet-yilmaz-vekalet-edecet-haberi-929860"},
+    {"baslik": "TRT Haber – Altının kilogram fiyatı 6 milyon 563 bin liraya geriledi", "url": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-563-bin-liraya-geriledi-962452.html"},
+    {"baslik": "CNBC-e – Sıfır otomobilde en ucuz modeller belli oldu", "url": "https://www.cnbce.com/otomotiv/sifir-otomobilde-en-ucuz-modeller-belli-oldu-iste-model-model-fiyat-listesi-g41261"},
+    {"baslik": "Ekonomim – Enflasyon ekimde hızlandı", "url": "https://www.ekonomim.com/ekonomi/enflasyon-ekimde-hizlandi-haberi-928942"},
+    {"baslik": "TRT Haber – TOKİ 61 ildeki 725 arsayı açık artırmayla satışa sunacak", "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"}
+  ]
+}
