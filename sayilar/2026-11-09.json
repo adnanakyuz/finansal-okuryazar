@@ -1,0 +1,610 @@
+{
+  "tarih": "2026-11-09",
+  "tarihMetni": "9 Kasım 2026, Pazartesi",
+  "sayi": 20,
+  "notlar": "Haftanın ilk sayısı · BIST 100 ve TCMB kurları 6 Kasım Cuma kapanışı; borsa bugün henüz açılmadı · Ons altın, gümüş, Bitcoin ve Ethereum 9 Kasım sabahı (TSİ 06.40 civarı) otomatik veri · Cuma günü Wall Street ve Brent kapanışı teyit edilemediği için tabloda yer almıyor",
+  "gununOzeti": "Yeni haftaya petrolün düştüğü, altının 4.100 doların üzerine çıktığı bir sabahla başlıyoruz. ABD'nin enflasyon verisi yarın, Türkiye'nin Enflasyon Raporu perşembe günü açıklanacak. Sizin için en somut gelişme: petrolün gerilemesi akaryakıt fiyatlarına yansıyabilir, ama bu kısa sürede yeniden değişebilir.",
+  "manset": {
+    "ustBaslik": "Yeni Haftaya Girerken",
+    "baslik": "Petrol geriledi, altın 4.100 doları aştı; gözler ABD enflasyonunda ve Enflasyon Raporu'nda",
+    "spot": "ABD Başkanı Trump'ın İran'a yeni saldırıları müzakerelerdeki ilerlemeye bağlaması petrolü aşağı çekti. Altın ise güçlü ABD istihdam verisinin ardından 4.100 doların üzerine çıktı. Borsa İstanbul haftayı BIST 100'ün Cuma günkü 11.482,60 puanlık kapanışıyla bitirmişti.",
+    "ozet": [
+      "Dünya'ya göre Brent petrol haftaya düşüşle başladı ve 97 dolar bandına indi.",
+      "Altın 9 Kasım sabahı 4.100 doların üzerinde; Fed'in faiz artırma ihtimalinin yükseldiği yazıldı (Dünya).",
+      "BIST 100, 6 Kasım'da %1,32 yükselişle 11.482,60 puandan kapandı (Bloomberg HT, Endeks24).",
+      "Bu hafta ABD enflasyonu, TCMB Enflasyon Raporu, sanayi üretimi ve cari işlemler dengesi izlenecek (CNBC-e)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Türkiye · Fon Soruşturması",
+      "baslik": "BDDK daire başkanı tutuklandı, tutuklu sayısı 118'e yükseldi",
+      "spot": "Soruşturmada tutuklananların sayısı DW Türkçe'ye göre 118 oldu. Tutuklama bir mahkeme hükmü değildir; süreç sürüyor."
+    },
+    {
+      "ustBaslik": "Hafta Sonu · Emtia",
+      "baslik": "Altın haftayı %5 artıyla, petrol %13,4 düşüşle kapattı",
+      "spot": "CNBC-e'ye göre ons altın haftayı 4.070 dolardan tamamladı; Brent petrol Orta Doğu'da gerilimin azalabileceği beklentisiyle geriledi."
+    },
+    {
+      "ustBaslik": "Teknoloji · Nvidia",
+      "baslik": "Nvidia yönetim kurulu CEO hakkında bağımsız soruşturma başlattı",
+      "spot": "Şirket, soruşturmanın bağımsız üyelerden oluşan bir komiteyle yürütüleceğini açıkladı (Dünya)."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.482,60",
+      "degisim": "%1,32",
+      "yon": "up",
+      "neden": "6 Kasım Cuma kapanışı; haftalık kapanış bir önceki haftaya göre yaklaşık %6,7 yüksek ve yedi haftalık düşüş serisi bitti (Bloomberg HT, Endeks24). Hisse tutanlar için iyi bir hafta oldu; borsa bir günde yön de değiştirebilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,07",
+      "degisim": "%0,00",
+      "yon": "flat",
+      "neden": "TCMB'nin 6 Kasım gösterge kuru (satış); bugünün bülteni henüz yayımlanmadı. Avrupa Merkez Bankası referansı 50,15; resmî olan TCMB kullanıldı. Dövizle borcu olanlar için kur yavaş yavaş yukarı gidiyor."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,96",
+      "degisim": "%0,00",
+      "yon": "flat",
+      "neden": "TCMB'nin 6 Kasım gösterge kuru (satış). Pazartesi bülteniyle güncellenecek."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.642 TL",
+      "degisim": "%1,15",
+      "yon": "up",
+      "neden": "Ons altın ve dolar/TL'den hesaplanan değer (ons × Avrupa Merkez Bankası referans kuru ÷ 31,10); TCMB kuruyla hesap yaklaşık 6.631 TL verir. Kuyumcu ve banka fiyatları farklı olabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.119 $",
+      "degisim": "%1,15",
+      "yon": "up",
+      "neden": "Güçlü ABD istihdam verisinin ardından 4.100 doların üzerine çıktı (Dünya, Investing.com Türkiye). Altın dolar ve faiz beklentilerine duyarlıdır."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "53,18 $",
+      "degisim": "%2,13",
+      "yon": "up",
+      "neden": "Altınla birlikte yükseldi. Gümüş hem değerli maden hem sanayi metalidir (tek kaynak)."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "74.942 $",
+      "degisim": "%1,11",
+      "yon": "down",
+      "neden": "Kripto piyasası hafta sonu da açıktır; son 24 saatte geriledi. Kripto paralar çok oynaktır (CoinGecko, tek kaynak)."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.141 $",
+      "degisim": "%4,17",
+      "yon": "down",
+      "neden": "Bitcoin'e göre daha sert düştü. Kısa sürede hem yükselip hem düşebilen bir varlıktır (CoinGecko, tek kaynak)."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Yılın son faiz toplantısı için yeni bir kurum tahmini derlenmedi.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. Önceki sayılardan ve bir haber sitesinden alındı; resmî duyuruyla yeniden teyit edilemedi (tek kaynak). TCMB Enflasyon Raporu'nu perşembe günü açıklayacak."
+    },
+    {
+      "kurum": "ABD Merkez Bankası (Fed)",
+      "mevcut": "Bu sayıda teyit edilmedi",
+      "beklenti": "Dünya'ya göre güçlü istihdam verisinin ardından Fed'in faiz artırma ihtimali yükseldi.",
+      "not": "Bu, piyasa beklentisidir; Fed'in kararı değildir. Tek kaynak."
+    },
+    {
+      "kurum": "Avrupa Merkez Bankası (AMB)",
+      "mevcut": "Bu sayıda teyit edilmedi",
+      "beklenti": "Başkan Lagarde enflasyonun önümüzdeki çeyreklerde yüksek kalabileceğini söyledi (Bloomberg HT).",
+      "not": "Aralık kararı için kesin konuşmadı."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "2026 yıl sonu",
+      "ozet": "Kurumların yıl sonu tahminleri geniş bir aralıkta; yön net değil.",
+      "neden": "Faiz artışı beklentisi güçlenirse altın baskı görebilir. Gerilim ve güvenli liman talebi ise fiyatı destekleyebilir.",
+      "kimDiyor": "CNBC-e'ye göre UniCredit 2026 yıl sonu tahmin aralığını 3.900-4.500 dolar olarak korudu. Dünya, altının önünde iki kritik engel olduğunu yazdı. Fed'in faiz artırma ihtimali yükseldi (Dünya).",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/altinda-faiz-baskisina-ragmen-yukselis-umudu-kritik-tahmin-aciklandi-g41301"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları nominal artıyor ama enflasyonun gerisinde kalıyor; yön belirsiz.",
+      "neden": "Faizler yüksek kalırsa kredi çekmek zorlaşır, talep yavaşlayabilir. Maliyet artışı ise fiyatı yukarı itebilir.",
+      "kimDiyor": "TCMB Konut Fiyat Endeksi'ne göre eylülde fiyatlar aylık %1,2, yıllık nominal %22,3 arttı; enflasyondan arındırılmış (reel) fiyatlar %5,7 geriledi (CNBC-e, Politikam). Açıklanmış yeni bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa fiyatları için yeni bir kurum tahmini bulunamadı; yön belirsiz.",
+      "neden": "Arsa fiyatı konuma, imar durumuna ve krediye erişime göre çok değişir. TOKİ açık artırmaları bölgesel fiyat için fikir verebilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön son verilere dayanıyor. Son bulunan haber, daha önce duyurulan TOKİ açık artırmasıdır (TRT Haber).",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve sonrası",
+      "ozet": "Sıfır otomobil satışları sert daraldı; fiyat yönü belirsiz.",
+      "neden": "Satışlar düşünce üreticiler kampanya yapabilir. Kredi faizleri ve vergiler ise fiyatı yukarı çekebilir.",
+      "kimDiyor": "ODMD verilerine göre ekimde otomobil ve hafif ticari araç pazarı geçen yılın aynı ayına göre %30,84 daralarak 80.334 adet oldu; otomobil satışları %28,40 gerileyerek 64.939 adet oldu (NTV, Alomaliye). İkinci el için ekim ayı rakamı bulunamadı; açıklanmış bir kurum tahmini yok.",
+      "kaynak": {
+        "ad": "NTV",
+        "url": "https://www.ntv.com.tr/ntvpara/otomobil-satislari-ekim-ayinda-yine-dustu-1749150"
+      }
+    },
+    {
+      "konu": "Akaryakıt",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki günler",
+      "ozet": "Petrol geriledi ama bölgedeki gerilim fiyatları yeniden oynatabilir.",
+      "neden": "Pompa fiyatı petrolün yanı sıra dolar/TL kurundan etkilenir. Petrol düşerse indirim gelebilir, gerilim artarsa tersi olabilir.",
+      "kimDiyor": "CNBC-e'ye göre Brent haftada %13,4 geriledi. Dünya, Brent'in 97 dolar bandına indiğini, Hürmüz'de tanker saldırılarının belirsizliği canlı tuttuğunu yazdı. Açıklanmış bir kurum tahmini yok.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/gundem/trumpin-iran-aciklamasi-petrolu-dusurdu-brent-97-dolara-geriledi-haberi-846911"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Petrol ve Altın",
+    "baslik": "Petrol düştü, altın çıktı: bu haftanın tablosu cebinize nasıl yansır?",
+    "spot": "Geçen hafta altın yükseldi, petrol sert düştü. Bunun arkasında Orta Doğu'daki gerilimin seyri ve faiz beklentileri var.",
+    "paragraflar": [
+      "CNBC-e'ye göre ABD'deki ara seçimlerin ardından güvenli liman talebi arttı ve ons altın haftayı %5 artıyla 4.070 dolardan tamamladı. Güvenli liman, belirsiz zamanlarda yatırımcıların sığındığı varlık demektir. Bu sabah altın 4.100 doların da üzerinde.",
+      "Aynı haftada Brent petrol %13,4 düştü. Neden, Orta Doğu'da gerilimin azalabileceği beklentisi. Dünya'ya göre Trump, İran'a yeni saldırıları müzakerelerde ilerleme şartına bağladı ve Brent 97 dolar bandına indi.",
+      "Ancak tablo net değil. Dünya ve CNBC-e, Hürmüz Boğazı'nda tankerlerin mayına çarptığı iddialarını aktardı. Bölgeden petrol geçişi aksarsa fiyatlar yeniden yükselebilir.",
+      "Bunun cebinize etkisi şöyle: petrol ucuzlarsa akaryakıt fiyatları düşebilir. Motorinde 7 Kasım'da litre başına yaklaşık 5,4 liralık indirim yapıldı (Habertürk). Ama pompa fiyatı dolar/TL kuruna da bağlı; indirimin kalıcı olacağının garantisi yok.",
+      "Altın tarafında işler daha karışık. Faiz artışı beklentisi güçlenirse altın baskı görebilir. Dünya, Fed'in faiz artırma ihtimalinin yükseldiğini yazdı. Bu yüzden bu haftaki ABD enflasyon verisi, hem altın hem döviz için yakından izlenecek."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Güvenli liman",
+        "metin": "Savaş, kriz ya da belirsizlik dönemlerinde yatırımcıların paralarını görece güvenli saydığı varlıklara kaydırmasıdır. Altın en bilinen örnektir. Güvenli sayılması, değerinin düşmeyeceği anlamına gelmez."
+      },
+      {
+        "baslik": "Bu ne demek? Brent petrol",
+        "metin": "Dünyada en çok referans alınan petrol türüdür. Akaryakıt fiyatları Brent fiyatını ve dolar kurunu izler."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "Trump'ın İran açıklaması petrolü düşürdü: Brent 97 dolar bandında",
+      "metin": "Dünya'nın haberine göre Trump, İran'a yeni saldırıları müzakerelerde ilerleme şartına bağladı. Petrol haftaya düşüşle başladı; Hürmüz'deki tanker saldırıları belirsizliği sürdürüyor.",
+      "etki": "Petrol düşerse akaryakıt fiyatı da düşebilir; ama gerilim artarsa tersi olur. Rakam yalnızca haber başlığına dayanıyor.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/gundem/trumpin-iran-aciklamasi-petrolu-dusurdu-brent-97-dolara-geriledi-haberi-846911"
+      }
+    },
+    {
+      "etiket": "Dünya · Altın",
+      "baslik": "Altın 4.100 doları geri aldı",
+      "metin": "Güçlü ABD istihdam verisinin ardından ons altın 9 Kasım sabahı yeniden 4.100 doların üzerine çıktı. Dünya'ya göre Fed'in faiz artırma ihtimali yükseldi ve yatırımcılar yarınki ABD enflasyon verisini izliyor.",
+      "etki": "Altın tutanlar için değer arttı, ama faiz beklentisi değişirse fiyat da yön değiştirebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-4100-dolari-geri-aldi-yukselisin-onunde-iki-kritik-engel-galeri-846910"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fon Soruşturması",
+      "baslik": "BDDK daire başkanı tutuklandı; tutuklu sayısı 118'e yükseldi",
+      "metin": "DW Türkçe ve CNBC-e'ye göre BDDK 3. Daire Başkanı mahkemece tutuklandı. DW'ye göre soruşturma kapsamında tutuklananların sayısı 118'e çıktı. Tutuklama, mahkeme hükmü anlamına gelmez.",
+      "etki": "Fonlara yatırım yapmış olanlar için gelişmeleri resmî duyurulardan izlemek önemli.",
+      "kaynak": {
+        "ad": "DW Türkçe",
+        "url": "https://www.dw.com/tr/fon-soruşturması-bddk-daire-başkanı-tutuklandı-tutuklu-sayısı-118-e-yükseldi/a-79889218?maca=tur-rss-tur-all-1495-rdf"
+      }
+    },
+    {
+      "etiket": "Türkiye · Haftanın Takvimi",
+      "baslik": "Bu hafta: ABD enflasyonu, TCMB Enflasyon Raporu, sanayi üretimi, cari denge",
+      "metin": "CNBC-e'ye göre 9-13 Kasım haftasında piyasalar ABD enflasyon rakamlarına, Türkiye'de TCMB'nin Enflasyon Raporu'na, sanayi üretimine ve cari işlemler dengesine odaklanacak.",
+      "etki": "Enflasyon Raporu, faizin ve fiyatların nereye gidebileceğine dair ipucu verir; kredi ve mevduat kararlarını dolaylı etkiler.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/piyasalarin-gozu-bu-5-gunde-abd-enflasyonu-ve-tcmbden-kritik-mesajlar-g41295"
+      }
+    },
+    {
+      "etiket": "Türkiye · Hazine",
+      "baslik": "Hazine iki devlet tahvili ihalesi düzenleyecek",
+      "metin": "Hazine ve Maliye Bakanlığı, 2 ve 4 yıl vadeli, 6 ayda bir kupon ödemeli sabit kuponlu devlet tahvillerinin yeniden ihracını gerçekleştirecek (CNBC-e).",
+      "etki": "Devletin borçlanma faizi, bankaların kredi ve mevduat faizlerine dolaylı yansıyabilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/hazine-yarin-iki-devlet-tahvili-ihalesi-duzenleyecek-h41285"
+      }
+    },
+    {
+      "etiket": "Dünya · Enerji",
+      "baslik": "Hürmüz Boğazı'nda petrol tankeri mayına çarptı iddiası",
+      "metin": "Dünya'ya göre İran Ordusu Deniz Kuvvetleri, izin verilmeyen bölgede hareket eden bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+      "etki": "Petrol taşımacılığının aksaması fiyatları yukarı çekebilir; bu da akaryakıt ve enerji faturalarına yansıyabilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-petrol-tankeri-mayina-carparak-alev-aldi-haberi-846901"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay Zeka · Şirket",
+      "baslik": "Nvidia yönetim kurulu CEO hakkında bağımsız soruşturma başlattı",
+      "metin": "Dünya ve BBC Türkçe'ye göre Nvidia, CEO'sunun yabancı istihbarat faaliyetinin hedefi olduğuna ilişkin haberler üzerine soruşturma başlattı. Yönetim kurulu, şirketin gizli bilgilerinin ya da ulusal güvenliğin tehlikeye atıldığına dair bir bulgu olmadığını bildirdi (Dünya).",
+      "neden": "Dünyanın en değerli çip şirketlerinden birindeki yönetim sorunu, teknoloji hisselerine ve yapay zeka yatırımlarına dair beklentileri etkileyebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/sirketler/nvidiada-istihbarat-alarmi-yonetim-kurulu-bagimsiz-sorusturma-baslatti-haberi-846909"
+      }
+    },
+    {
+      "etiket": "Yapay Zeka · Yatırım",
+      "baslik": "OpenAI, 1,25 trilyon dolar değerleme üzerinden 11 milyar dolar yatırım aldı",
+      "metin": "CNBC-e'ye göre SoftBank ve MGX'in de katıldığı turun ilk aşamasında 11 milyar dolar toplandı. Değerleme, başlangıçta hedeflenen 1,5 trilyon doların altında kaldı.",
+      "neden": "Yapay zekaya akan para teknoloji piyasalarının yönünü belirliyor; beklentiler değişirse hisseler de oynayabilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/yapay-zeka/openai-125-trilyon-dolar-degerleme-uzerinden-11-milyar-dolar-yatirim-aldi-h41286"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Tahterevalli haftası",
+      "paragraflar": [
+        "Geçen hafta altın yükseldi, petrol düştü. İki hareketin ortak sebebi belirsizlik: Orta Doğu'da ne olacağı henüz belli değil.",
+        "Böyle zamanlarda sabırlı olmak kolay değil. Ama tek bir haberle büyük karar vermek de kolay değil. Fiyatlar bir günde yön değiştirebilir.",
+        "Bu hafta ABD'nin enflasyon verisi ve Türkiye'nin Enflasyon Raporu var. İkisi de faiz beklentilerini etkileyebilir. Haberleri sakin okumak, aceleyle karar vermemek iyi bir başlangıç."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Üç göstergeyi birlikte izlemek",
+      "paragraflar": [
+        "Bu hafta üç şey birbirine bağlı: petrol, altın ve faiz beklentisi. Petrol düşünce enflasyon endişesi azalabilir. Ama güçlü ABD istihdam verisi, faiz artışı ihtimalini yükseltti.",
+        "Faiz artışı beklentisi güçlenirse altın baskı görebilir, dolar güçlenebilir. Tersi olursa altın destek bulabilir. Bu yüzden yarınki ABD enflasyon verisi önemli.",
+        "Türkiye'de ise perşembe günkü Enflasyon Raporu'na bakılacak. Rapor, TCMB'nin enflasyona bakışını gösterir."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Akaryakıt indirimi cebinize ne kadar kalır?",
+      "paragraflar": [
+        "Motorinde 7 Kasım'da litre başına yaklaşık 5,4 liralık indirim yapıldı. Dizel araç kullananlar için bu, depoda küçük de olsa bir rahatlama.",
+        "Ama akaryakıt fiyatı sık değişir. Petrolün yeniden yükselmesi indirimi silebilir. Bu yüzden indirimi 'kalıcı tasarruf' saymak yerine, aylık yakıt bütçenize küçük bir pay olarak düşünmek daha sağlıklı.",
+        "Ayrıca yıl sonuna yaklaşırken market ve sadakat kartlarındaki puanlarınızı kontrol edin; AA'ya göre kullanılmayan puanlar için yıl sonu uyarısı yapıldı."
+      ]
+    }
+  ],
+  "karikatur": {
+    "baslik": "Tahterevalli",
+    "dayanak": "Dayanak: Brent petrol haftada %13,4 düşerken ons altın %5 yükseldi (CNBC-e); motorinde 7 Kasım'da indirim yapıldı (Habertürk).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "gazete",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Petrol haftada %13,4 düşmüş, Kemal!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "fiyat",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Motorinde indirim de gelmiş."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Kalıcı olsa keşke."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "altin",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "telefon",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Altın da haftada %5 yükselmiş!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-yukari",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "kafa-kasi",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Biri aşağı, biri yukarı. Tahterevalli gibi."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "eller-havada",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Benim kira hep yukarı ucunda oturuyor."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Evladım, o tahterevalli tek yönlü."
+          }
+        ]
+      }
+    ]
+  },
+  "senaryolar": {
+    "olumlu": [
+      "Orta Doğu'da müzakerelerde ilerleme olursa petrol daha da gerileyebilir; akaryakıt fiyatlarında rahatlama görülebilir.",
+      "ABD enflasyonu beklentilerin altında gelirse faiz artışı endişesi azalabilir ve piyasalarda risk iştahı artabilir.",
+      "TCMB'nin Enflasyon Raporu'nda enflasyonda iyileşme sinyali çıkarsa faiz beklentileri olumlu etkilenebilir."
+    ],
+    "olumsuz": [
+      "Hürmüz Boğazı'ndaki gerilim artarsa petrol yeniden yükselebilir; akaryakıt ve enerji faturaları etkilenebilir.",
+      "ABD enflasyonu beklentilerin üzerinde gelirse Fed'in faiz artırma ihtimali güçlenebilir; altın ve gelişen ülke piyasaları baskı görebilir.",
+      "Fon soruşturmasında yeni gelişmeler olursa borsa ve yatırım fonları üzerinde belirsizlik sürebilir."
+    ],
+    "riskler": "Haftanın en büyük belirsizliği Orta Doğu'daki gelişmeler ve ABD enflasyon verisidir. İkisi de kısa sürede fiyatları değiştirebilir. Bu sayfadaki bilgiler yatırım tavsiyesi değildir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Pzt 9 Kasım",
+      "olay": "Hazine 2 ve 4 yıl vadeli devlet tahvili ihaleleri düzenleyecek (CNBC-e)",
+      "onem": "orta"
+    },
+    {
+      "gun": "Sal 10 Kasım",
+      "olay": "ABD enflasyon verisi bekleniyor (Dünya)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu'nu açıklayacak (TRT Haber, CNBC-e)",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Vadeli işlem",
+      "aciklama": "Bir şeyin fiyatını bugünden belirleyip ileri bir tarihte alıp satma anlaşmasıdır. Borsa kapalıyken vadeli fiyatlar, yeni günün nasıl başlayabileceğine dair ipucu verir."
+    },
+    {
+      "terim": "Sabit kuponlu tahvil",
+      "aciklama": "Devletin borç alırken verdiği, belirli aralıklarla sabit faiz ödeyen borç senedidir."
+    },
+    {
+      "terim": "Nominal ve reel artış",
+      "aciklama": "Nominal artış, fiyatın rakam olarak ne kadar arttığıdır. Reel artış ise enflasyon düşüldükten sonra gerçek değerin ne kadar arttığıdır."
+    }
+  ],
+  "teyitNotlari": [
+    "Brent petrolün 97 dolar bandına gerilediği bilgisi yalnızca Dünya'nın haberine dayanıyor; kapanış fiyatı ikinci kaynakla teyit edilemediği için tabloya konmadı.",
+    "Cuma günü Wall Street (S&P 500, Nasdaq) ve ABD 10 yıllık tahvil kapanışı teyit edilemedi; tabloda yer almıyor.",
+    "Ons altın 4.119 $: otomatik veri; Dünya ve Investing.com Türkiye başlıkları 4.100 doların üzerini doğruluyor, tam rakam tek kaynak.",
+    "Gümüş, Bitcoin ve Ethereum rakamları tek kaynaktan (otomatik veri).",
+    "Gram altın, ons altın × Avrupa Merkez Bankası referans kuru ile hesaplandı; TCMB kuruyla yaklaşık 6.631 TL çıkar.",
+    "TCMB politika faizi %36 bilgisi önceki sayılardan ve tek bir haber sitesinden alındı; TCMB duyurusu açılamadı.",
+    "TCMB Enflasyon Raporu'nun 12 Kasım tarihi önceki sayıda TRT Haber'e dayanıyordu; CNBC-e haftanın gündeminde raporu 9-13 Kasım haftasında sayıyor.",
+    "ABD enflasyon verisinin açıklanma günü (10 Kasım) Dünya'nın 'yarınki enflasyon' ifadesine dayanıyor; beklenti rakamı teyit edilemedi.",
+    "Konut Fiyat Endeksi rakamları (eylül) haber sitelerinden alındı; TCMB sayfası açılamadı.",
+    "İkinci el otomobil için ekim ayı rakamı bulunamadı.",
+    "Fon soruşturmasında tutuklu sayısı (118) yalnızca DW Türkçe'de görüldü.",
+    "WebFetch ile haber siteleri açılamadığı için haberler haberler.json ve arama sonuçlarıyla doğrulandı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Dünya – Trump'ın İran açıklaması petrolü düşürdü: Brent 97 dolara geriledi",
+      "url": "https://www.dunya.com/gundem/trumpin-iran-aciklamasi-petrolu-dusurdu-brent-97-dolara-geriledi-haberi-846911"
+    },
+    {
+      "baslik": "Dünya – Altın 4.100 doları geri aldı: Yükselişin önünde iki kritik engel",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-4100-dolari-geri-aldi-yukselisin-onunde-iki-kritik-engel-galeri-846910"
+    },
+    {
+      "baslik": "Investing.com Türkiye – Altın, istihdam verisinin ardından 4.100 doların üzerine çıktı",
+      "url": "https://tr.investing.com/news/commodities-news/altn-istihdam-verisinin-ardndan-4100-dolarn-uzerine-ckt-4147009"
+    },
+    {
+      "baslik": "DW Türkçe – Fon soruşturması: BDDK daire başkanı tutuklandı, tutuklu sayısı 118'e yükseldi",
+      "url": "https://www.dw.com/tr/fon-soruşturması-bddk-daire-başkanı-tutuklandı-tutuklu-sayısı-118-e-yükseldi/a-79889218?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+      "baslik": "CNBC-e – Fon soruşturmasında BDDK yöneticisine tutuklama",
+      "url": "https://www.cnbce.com/haberler/fon-sorusturmasinda-bddk-yoneticisine-tutuklama-h41291"
+    },
+    {
+      "baslik": "CNBC-e – Piyasaların gözü bu 5 günde: ABD enflasyonu ve TCMB'den kritik mesajlar",
+      "url": "https://www.cnbce.com/veriler/piyasalarin-gozu-bu-5-gunde-abd-enflasyonu-ve-tcmbden-kritik-mesajlar-g41295"
+    },
+    {
+      "baslik": "CNBC-e – Hazine yarın iki devlet tahvili ihalesi düzenleyecek",
+      "url": "https://www.cnbce.com/haberler/hazine-yarin-iki-devlet-tahvili-ihalesi-duzenleyecek-h41285"
+    },
+    {
+      "baslik": "Dünya – Hürmüz Boğazı'nda petrol tankeri mayına çarparak alev aldı",
+      "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-petrol-tankeri-mayina-carparak-alev-aldi-haberi-846901"
+    },
+    {
+      "baslik": "CNBC-e – Emtia piyasasında haftanın kazananı altın, kaybedeni petrol oldu",
+      "url": "https://www.cnbce.com/emtia/emtia-piyasasinda-haftanin-kazanani-altin-kaybedeni-petrol-oldu-g41283"
+    },
+    {
+      "baslik": "CNBC-e – Altında faiz baskısına rağmen yükseliş umudu: Kritik tahmin açıklandı",
+      "url": "https://www.cnbce.com/altin/altinda-faiz-baskisina-ragmen-yukselis-umudu-kritik-tahmin-aciklandi-g41301"
+    },
+    {
+      "baslik": "Habertürk – Düşen tahvil faizleri altını destekledi",
+      "url": "https://www.haberturk.com/ekonomi/dusen-tahvil-faizleri-altini-destekledi-3925775"
+    },
+    {
+      "baslik": "Dünya – Nvidia'da istihbarat alarmı: Yönetim kurulu bağımsız soruşturma başlattı",
+      "url": "https://www.dunya.com/sirketler/nvidiada-istihbarat-alarmi-yonetim-kurulu-bagimsiz-sorusturma-baslatti-haberi-846909"
+    },
+    {
+      "baslik": "BBC Türkçe – Nvidia şirketi, CEO'sunun casus olduğundan şüphelenilen Çinli biriyle ilişkisini soruşturuyor",
+      "url": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "baslik": "CNBC-e – OpenAI, 1,25 trilyon dolar değerleme üzerinden 11 milyar dolar yatırım aldı",
+      "url": "https://www.cnbce.com/yapay-zeka/openai-125-trilyon-dolar-degerleme-uzerinden-11-milyar-dolar-yatirim-aldi-h41286"
+    },
+    {
+      "baslik": "Bloomberg HT – Piyasalarda günün özeti: 6 Kasım 2026",
+      "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-6-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3793839"
+    },
+    {
+      "baslik": "Endeks24 – BIST 100 yedi haftalık düşüş serisini bitirdi",
+      "url": "https://www.endeks24.com/bist-100-yedi-haftalik-dusus-serisini-bitirdi-2005ten-beri-en-uzunuydu"
+    },
+    {
+      "baslik": "CNBC-e – TCMB duyurdu: Konut fiyatları eylülde reel gerilemeye devam etti",
+      "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+    },
+    {
+      "baslik": "Politikam – Konut fiyat endeksi eylül 2026",
+      "url": "https://www.politikam.com/konut-fiyat-endeksi-eylul-2026-tcmb-kira"
+    },
+    {
+      "baslik": "NTV – Otomobil satışları ekim ayında yine düştü",
+      "url": "https://www.ntv.com.tr/ntvpara/otomobil-satislari-ekim-ayinda-yine-dustu-1749150"
+    },
+    {
+      "baslik": "Alomaliye – Otomotiv pazarında ekim daralması yüzde 30'u aştı",
+      "url": "https://www.alomaliye.com/2026/11/03/otomotiv-pazarinda-ekim-daralmasi-yuzde-30u-asti/"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ilde 725 arsayı açık artırmayla satışa sunacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "TCMB – Gösterge döviz kurları",
+      "url": "https://www.tcmb.gov.tr/kurlar/today.xml"
+    }
+  ]
+}
