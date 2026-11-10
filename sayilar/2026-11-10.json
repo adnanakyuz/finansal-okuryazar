@@ -1,0 +1,697 @@
+{
+  "tarih": "2026-11-10",
+  "tarihMetni": "10 Kasım 2026, Salı",
+  "sayi": 21,
+  "notlar": "BIST 100 9 Kasım Pazartesi kapanışı · TCMB kurları 9 Kasım bülteni · Ons altın, gümüş, Bitcoin ve Ethereum 10 Kasım sabahı (TSİ 06.30 civarı) otomatik veri · Wall Street, Brent ve ABD 10 yıllık tahvil kapanışı teyit edilemediği için tabloda yer almıyor",
+  "gununOzeti": "Borsa İstanbul yeni haftaya güçlü başladı: BIST 100 Pazartesi günü %2,00 yükselip 11.712,67 puandan kapandı. Bugün gözler ABD enflasyon verisinde. Sizin için en somut haber: SPK, fonlarda parası olanlara 'ödemeyi hızlandırırım' diyerek para isteyenlere itibar edilmemesini istedi.",
+  "manset": {
+    "ustBaslik": "Borsa · Yeni Hafta",
+    "baslik": "BIST 100 haftaya %2 yükselişle başladı, 11.712 puanda kapandı",
+    "spot": "Borsa İstanbul'da BIST 100 endeksi Pazartesi günü %2,00 değer kazandı (AA). Bir önceki Cuma kapanışı olan 11.482,60 puana göre bu yaklaşık 230 puanlık artış demek. Bu bir günlük hareket; borsa ertesi gün yön değiştirebilir.",
+    "ozet": [
+      "BIST 100, 9 Kasım'da %2,00 yükselişle 11.712,67 puandan tamamladı (AA).",
+      "TCMB'nin 9 Kasım gösterge kuruna göre dolar 50,18 TL, euro 56,11 TL.",
+      "Brent petrolün 95 dolar civarına gerilediği yazıldı; ABD ile İran arasındaki temaslar izleniyor (Habertürk).",
+      "TÜİK'e göre ekimde en yüksek reel getiriyi brüt mevduat faizi sağladı, en çok kaybettiren BIST 100 oldu."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Fon Soruşturması · Uyarı",
+      "baslik": "SPK: Fonlarda parası olanlardan 'hızlı ödeme' için para isteyenlere itibar etmeyin",
+      "spot": "SPK, tasfiye edilen ya da işleme kapatılan fonlardaki yatırımcılara yönelik dolandırıcılık girişimleri konusunda uyardı. Ödemeler yalnızca yetkili kurumlarca yapılıyor."
+    },
+    {
+      "ustBaslik": "Otomotiv · Satışlar",
+      "baslik": "Toyota Türkiye: Pazardaki daralma kasımda da sürüyor",
+      "spot": "Toyota Türkiye CEO'su, 2027 bütçelerinde artık çok daha olumsuz bir senaryoyu ciddi biçimde değerlendirdiklerini söyledi (Ekonomim)."
+    },
+    {
+      "ustBaslik": "Yapay Zeka · Teknoloji",
+      "baslik": "Nvidia CEO'su hakkındaki iddialar hisseleri sarstı",
+      "spot": "CNBC-e'ye göre Nvidia hisseleri %7'yi aşan düşüş yaşadı. Şirket bağımsız bir soruşturma başlattı; ABD Başkanı Trump FBI'ın konuyu incelediğini söyledi (BBC)."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.712,67",
+      "degisim": "%2,00",
+      "yon": "up",
+      "neden": "9 Kasım Pazartesi kapanışı (AA). Cuma kapanışı 11.482,60'tı; geçen sayıdaki rakamla tutuyor. Hisse tutanlar için güçlü bir gün oldu, ama borsa bir günde yön de değiştirebilir (tek kaynak)."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,18",
+      "degisim": "%0,21",
+      "yon": "up",
+      "neden": "TCMB'nin 9 Kasım gösterge kuru (satış). Avrupa Merkez Bankası referansı 50,14 ile örtüşüyor. Dövizle borcu ya da harcaması olanlar için kur yavaş yavaş yukarı gidiyor."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "56,11",
+      "degisim": "%0,27",
+      "yon": "up",
+      "neden": "TCMB'nin 9 Kasım gösterge kuru (satış). ECB'nin EUR/USD referansı 1,1193 ve dolar/TL ile çaprazlanınca yaklaşık 56,12 çıkıyor."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.634 TL",
+      "degisim": "%0,11",
+      "yon": "down",
+      "neden": "Ons altın × TCMB dolar kuru ÷ 31,10 ile hesaplandı. Kuyumcu ve banka fiyatları farklı olabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.116 $",
+      "degisim": "%0,08",
+      "yon": "down",
+      "neden": "10 Kasım sabahı. Dünya, altının 4.113,77 dolara gerilediğini yazdı. ABD enflasyon verisi öncesinde yatırımcılar temkinli."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "53,18 $",
+      "degisim": "%0,00",
+      "yon": "flat",
+      "neden": "Hem değerli maden hem sanayi metalidir (tek kaynak)."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "74.571 $",
+      "degisim": "%0,50",
+      "yon": "down",
+      "neden": "Son 24 saatte hafif geriledi. Kripto paralar çok oynaktır (CoinGecko, tek kaynak)."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.116 $",
+      "degisim": "%1,20",
+      "yon": "down",
+      "neden": "Bitcoin'e göre daha sert geriledi. Kısa sürede hem düşüp hem yükselebilir (CoinGecko, tek kaynak)."
+    },
+    {
+      "ad": "Sterlin/TL",
+      "deger": "67,38",
+      "degisim": "%0,27",
+      "yon": "up",
+      "neden": "TCMB'nin 9 Kasım gösterge kuru (satış). İngiltere'ye seyahat ya da alışveriş planlayanlar için gösterge."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Yılın son faiz toplantısı 10 Aralık'ta.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. %36 bilgisi önceki sayılardan ve tek bir haber sitesinden alındı; resmî duyuruyla teyit edilemedi (tek kaynak)."
+    },
+    {
+      "kurum": "TCMB Enflasyon Raporu",
+      "mevcut": "12 Kasım Perşembe",
+      "beklenti": "Rapor, kurumun enflasyon yolu hakkındaki yeni görüşünü içerecek.",
+      "not": "Faiz kararı değil, bilgilendirme toplantısıdır; yine de faiz beklentilerine ipucu verebilir (TRT Haber, CNBC-e)."
+    },
+    {
+      "kurum": "ABD tüketici enflasyon beklentisi",
+      "mevcut": "Ekimde değişmedi",
+      "beklenti": "New York Fed anketine göre kısa, orta ve uzun vadeli beklentiler sabit kaldı.",
+      "not": "İşsizliğin artacağı beklentisi %45,3 ile Nisan 2020'den bu yana en yüksek (Bloomberg HT)."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "2026 yıl sonu",
+      "ozet": "Kurum tahminleri geniş bir aralıkta; yön net değil.",
+      "neden": "Faiz artışı beklentisi güçlenirse altın baskı görebilir. Gerilim ve güvenli liman talebi ise fiyatı destekleyebilir.",
+      "kimDiyor": "CNBC-e'ye göre UniCredit 2026 yıl sonu tahmin aralığını 3.900-4.500 dolar olarak korudu. Dünya, bugün ABD enflasyon verisinin altın için izlenen ana gelişme olduğunu yazdı.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/altinda-faiz-baskisina-ragmen-yukselis-umudu-kritik-tahmin-aciklandi-g41301"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları nominal artıyor ama enflasyonun gerisinde kalıyor; yön belirsiz.",
+      "neden": "Faizler yüksek kalırsa kredi çekmek zorlaşır, talep yavaşlayabilir. Maliyet artışı ise fiyatı yukarı itebilir.",
+      "kimDiyor": "TCMB Konut Fiyat Endeksi'ne göre eylülde fiyatlar aylık %1,2, yıllık nominal %22,3 arttı; enflasyondan arındırılmış (reel) fiyatlar %5,7 geriledi (CNBC-e). Açıklanmış yeni bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa fiyatları için yeni bir kurum tahmini bulunamadı; yön belirsiz.",
+      "neden": "Arsa fiyatı konuma, imar durumuna ve krediye erişime göre çok değişir. TOKİ açık artırmaları bölgesel fiyat için fikir verebilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön son verilere dayanıyor. Son bulunan haber, daha önce duyurulan TOKİ açık artırmasıdır (TRT Haber).",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "asagi",
+      "vade": "Kasım ve 2027",
+      "ozet": "Sıfır otomobil satışlarının yavaşlaması sürüyor; fiyat yönü belirsiz ama satışlar için temkinli beklenti var.",
+      "neden": "Satışlar düşünce üreticiler kampanya yapabilir. Kredi faizleri ve vergiler ise fiyatı yukarı çekebilir.",
+      "kimDiyor": "Toyota Türkiye CEO'su pazardaki daralmanın kasımda da sürdüğünü söyledi (Ekonomim). ODMD verilerine göre ekimde otomobil ve hafif ticari araç pazarı yıllık %30,84 daraldı (NTV). Togg kasımda 1,5 milyon TL'ye kadar sıfır faizli kredi duyurdu (CNBC-e). İkinci el için ekim rakamı bulunamadı.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+      }
+    },
+    {
+      "konu": "Akaryakıt",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki günler",
+      "ozet": "Petrol geriledi ama bölgedeki gerilim fiyatları yeniden oynatabilir.",
+      "neden": "Pompa fiyatı petrolün yanı sıra dolar/TL kurundan etkilenir. Petrol düşerse indirim gelebilir, gerilim artarsa tersi olabilir.",
+      "kimDiyor": "Habertürk, Brent petrolün %3'ün üzerinde düşüşle 95 dolar civarına gerilediğini yazdı. Ekonomim'e göre Suudi Arabistan Asya'ya sattığı Arab Light petrolün aralık fiyatını 2 dolar düşürdü. Açıklanmış bir kurum tahmini yok.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/petrol-fiyatlari-hurmuz-iddiasiyla-geriledi-3926068"
+      }
+    },
+    {
+      "konu": "Mevduat faizi",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Ekimde en yüksek reel getiri mevduat faizinde oldu; yön faiz kararlarına bağlı.",
+      "neden": "Merkez Bankası faizi indirirse mevduat faizleri de düşebilir. Enflasyon yavaşlarsa reel getiri korunabilir.",
+      "kimDiyor": "TÜİK verisine göre ekimde brüt mevduat faizi %0,39 ile en yüksek reel getiriyi sağladı (TRT Haber, Habertürk). Açıklanmış yeni bir kurum tahmini yok.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Fon Soruşturması",
+    "baslik": "Fonlarda parası olanlar: Dolandırıcıların hedefi siz olabilirsiniz",
+    "spot": "Fon soruşturması sürerken SPK bir dolandırıcılık uyarısı yaptı. Ödemeler yalnızca yetkili kurumlarca yürütülüyor; para isteyen herkes şüpheli sayılmalı.",
+    "paragraflar": [
+      "Fon soruşturması, 17 Eylül'den beri gündemde (Bloomberg HT). Bazı yatırım fonları tasfiye edildi ya da alım satıma kapatıldı. Bu fonlarda parası olan çok sayıda kişi var.",
+      "SPK, Pazartesi günü bir uyarı yaptı. Ödeme süreçlerini hızlandırma ya da öncelik sağlama vaadiyle ücret, komisyon ve kişisel bilgi isteyen kişi ve kuruluşlara itibar edilmemesi gerekiyor (Bloomberg HT, AA, TRT Haber).",
+      "Bu uyarının arkasındaki mantık basit. Sıkışmış parası olan insan çaresizdir. Dolandırıcılar bunu bilir. Kendini yetkili gibi tanıtır, 'sıranı öne alırız' der ve para ister.",
+      "Ödemeler yalnızca yetkili kurumlarca yürütülüyor. Yani size telefonla, mesajla ya da sosyal medyadan ulaşıp komisyon isteyen kimse resmî bir ödeme sürecinin parçası değil.",
+      "Soruşturma tarafında gelişmeler sürüyor. Bloomberg HT'ye göre Lydia Holding'in yönetim kurulu başkanı gözaltına alındı. Habertürk'e göre BDDK Başkan Yardımcısı ve bir bankanın genel müdürü tutuklandı. Gözaltı ve tutuklama, mahkeme hükmü anlamına gelmez; süreç sürüyor.",
+      "Erdoğan ise fon meselesinde en küçük bir taviz verilmeyeceğini söyledi (Bloomberg HT). Fonlarda parası olanlar için en güvenli yol, resmî duyuruları SPK'nın ve ilgili kurumların kendi kanallarından izlemek."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Tasfiye",
+        "metin": "Bir fonun kapatılıp varlıklarının satılarak yatırımcılara geri ödeme yapılması süreci."
+      },
+      {
+        "baslik": "Bu ne demek? Alım satıma kapatma",
+        "metin": "Bir fonun payları geçici olarak alınıp satılamaz hale getirilir. Yatırımcı parasını o süre boyunca çekemez."
+      },
+      {
+        "baslik": "Nasıl korunurum?",
+        "metin": "Telefonla ya da mesajla gelen 'komisyon karşılığı hızlı ödeme' teklifine para göndermeyin. Bilgilerinizi paylaşmayın. Şüpheli durumu SPK ve bankanıza bildirin."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "BIST 100 haftaya %2 yükselişle başladı",
+      "metin": "AA'ya göre BIST 100 endeksi Pazartesi günü %2,00 yükselişle 11.712,67 puandan kapandı. TRT Haber, güne %0,67 yükselişle 11.559,31 puandan başlandığını yazdı.",
+      "etki": "Hisse ve fon tutanlar için olumlu bir gün oldu. Ancak TÜİK'e göre ekimde en çok kaybettiren araç BIST 100'dü; kısa vadeli oynaklık sürüyor.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4117552"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fon Soruşturması",
+      "baslik": "SPK'dan fon yatırımcılarına dolandırıcılık uyarısı",
+      "metin": "SPK, tasfiye kararı verilen veya alım satıma kapatılan fonlarda yatırımı olanlara yönelik dolandırıcılık girişimlerine karşı uyardı. Ödeme süreçleri yalnızca yetkili kurumlarca yürütülüyor.",
+      "etki": "Fonda paranız varsa para isteyen hiçbir kişiye ya da kuruluşa ödeme yapmayın.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/spk-dan-fon-yatirimcilarina-dolandiricilik-uyarisi-3793990"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fon Soruşturması",
+      "baslik": "Soruşturmada yeni gözaltı ve tutuklamalar",
+      "metin": "Bloomberg HT'ye göre Lydia Holding'in yönetim kurulu başkanı gözaltına alındı. Habertürk'e göre BDDK Başkan Yardımcısı ile bir bankanın genel müdürü tutuklandı. Tutuklama mahkeme hükmü değildir.",
+      "etki": "Gelişmeler, fonlardan çıkış yapamayan yatırımcılar için ödeme takvimine dair beklentileri etkileyebilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/fon-sorusturmasinda-lydia-holding-ykb-cevik-gozaltina-alindi-3793975"
+      }
+    },
+    {
+      "etiket": "Türkiye · Otomotiv",
+      "baslik": "Toyota Türkiye: Otomobil pazarında daralma kasımda da sürüyor",
+      "metin": "Ekonomim'e göre Toyota Türkiye CEO'su, 2027 bütçelerinde daha olumsuz bir senaryoyu ciddi biçimde değerlendirmeye başladıklarını söyledi.",
+      "etki": "Satışlar düşerse üreticiler kampanya ve finansman seçenekleri sunabilir. Yine de fiyat yönü kredi faizine ve vergilere bağlı.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+      }
+    },
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "Brent petrol 95 dolar civarına geriledi",
+      "metin": "Habertürk'e göre Brent petrol, ABD ile İran arasındaki diplomatik temaslar izlenirken %3'ün üzerinde düşüşle 95 dolar civarına indi. Rakam gün içi hareketi gösteriyor, kapanış değil.",
+      "etki": "Petrol düşerse akaryakıt fiyatı da düşebilir; gerilim artarsa tersi olur.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/petrol-fiyatlari-hurmuz-iddiasiyla-geriledi-3926068"
+      }
+    },
+    {
+      "etiket": "ABD · Piyasalar",
+      "baslik": "New York borsası haftaya yükselişle başladı",
+      "metin": "Ekonomim ve Dünya'ya göre New York borsası, gerileyen petrolün enflasyon endişelerini hafifletmesi ve teknoloji hisselerindeki toparlanmayla Pazartesi günü yükselişle kapandı.",
+      "etki": "Küresel iştah, Borsa İstanbul'a da ek yön verebilir ama ilişki her gün aynı değil.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-yukselisle-kapatti-haberi-930193"
+      }
+    },
+    {
+      "etiket": "Türkiye · Yatırım",
+      "baslik": "Ekimde en yüksek reel getiri mevduat faizinde",
+      "metin": "TÜİK verilerine göre TÜFE ile indirgendiğinde ekimde en yüksek aylık reel getiri %0,39 ile brüt mevduat faizinde gerçekleşti. BIST 100 en çok kaybettiren araç oldu.",
+      "etki": "Reel getiri, enflasyon düşüldükten sonra paranızın gerçek kazancıdır; geçmiş getiri geleceği garanti etmez.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+      }
+    },
+    {
+      "etiket": "ABD · Enflasyon",
+      "baslik": "ABD'de enflasyon beklentisi sabit, işsizlik endişesi artıyor",
+      "metin": "New York Fed anketine göre tüketicilerin enflasyon beklentileri ekimde değişmedi; işsizliğin artacağını bekleyenlerin oranı %45,3 ile Nisan 2020'den bu yana en yüksek seviyede.",
+      "etki": "Fed'in faiz kararı, enflasyon ve istihdam dengesine bakar; bu da dolar ve altın fiyatlarını dolaylı etkiler.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/abd-de-enflasyon-beklentileri-sabit-issizlik-endisesi-artiyor-3794009"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay Zeka · Şirket",
+      "baslik": "Nvidia CEO'sunun ilişkisi nedeniyle bağımsız soruşturma",
+      "metin": "BBC Türkçe'ye göre Nvidia, CEO'sunun casus olduğundan şüphelenilen bir kadınla ilişkisi iddiaları üzerine bağımsız soruşturma başlattı. CNBC-e'ye göre hisseler %7'yi aşan düşüş yaşadı.",
+      "neden": "Dünyanın en değerli çip şirketlerinden birindeki yönetim belirsizliği, teknoloji hisselerini ve yapay zeka yatırımlarını etkileyebilir.",
+      "kaynak": {
+        "ad": "BBC Türkçe",
+        "url": "https://www.bbc.com/turkce/articles/cm93z0e73435o"
+      }
+    },
+    {
+      "etiket": "Yapay Zeka · Rekabet",
+      "baslik": "Google iki yeni yapay zekâ işlemci sistemi tanıttı",
+      "metin": "Ekonomim'e göre Google, yapay zekâ modellerinin eğitimi ve çalıştırılması için iki yeni işlemci sistemi tanıttı ve Nvidia ile rekabet ettiği alandaki ürün yelpazesini genişletti.",
+      "neden": "Rekabet arttıkça yapay zekâ hizmetlerinin maliyeti zamanla değişebilir; bu da kullandığımız uygulamaların fiyatına yansıyabilir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sirketler/googledan-nvidiaya-karsi-yeni-hamle-iki-yapay-zeka-islemci-sistemi-tanitildi-haberi-930190"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Yüzde 2'lik günün bıraktığı soru",
+      "paragraflar": [
+        "Borsa Pazartesi günü %2 yükseldi. Güzel haber. Ama bir günlük yükselişe bakıp karar vermek, tek bir günlük havaya bakıp bütün yılın iklimini tahmin etmeye benzer.",
+        "TÜİK'in verisine göre ekimde en çok kaybettiren araç yine BIST 100 oldu. Aynı ay mevduat faizi reel olarak pozitif getiri sağladı. İki rakam yan yana durunca şu soru çıkıyor: bir yatırım aracı kısa sürede çok yükselebilir de çok düşebilir de.",
+        "Biz bunu bir tavsiye olarak söylemiyoruz. Sadece rakamı okumanın yolunu gösteriyoruz: tek güne değil, ne kadar süreyi ve ne kadar riski kaldırabileceğinize bakın."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Bugün izlenecek iki rakam",
+      "paragraflar": [
+        "Bugün ABD enflasyon verisi açıklanıyor. Dünya, ons altının 4.113 dolara gerilediğini ve yatırımcıların bu veriyi beklediğini yazdı. Enflasyon beklentiden yüksek ya da düşük gelirse faiz beklentileri, dolayısıyla altın ve dolar yön değiştirebilir.",
+        "Türkiye'de ise perşembe günü TCMB Enflasyon Raporu açıklanacak. Rapor faiz kararı değildir ama kurumun enflasyonu nasıl gördüğünü gösterir. İkisi birlikte okununca resim netleşir."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "'Parayı hızlı çıkarırım' diyen herkes şüphelidir",
+      "paragraflar": [
+        "SPK'nın uyarısı basit bir kuralı hatırlatıyor: parayı geri almak için önce para isteyen kişi dolandırıcıdır. Resmî süreçler komisyon karşılığı hızlandırılmaz.",
+        "Üç alışkanlık işe yarar. Bir: telefondaki ya da mesajdaki bağlantıya tıklamayın. İki: kimlik, banka ve şifre bilgisini kimseyle paylaşmayın. Üç: şüpheli bir teklif geldiğinde aramayı kapatıp kurumu kendi resmî numarasından kendiniz arayın."
+      ]
+    }
+  ],
+  "karikatur": {
+    "baslik": "Hızlı Ödeme",
+    "dayanak": "Dayanak: SPK, fon yatırımcılarından ödeme için para isteyenlere itibar edilmemesini istedi (AA, Bloomberg HT, TRT Haber).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "nesne": "cuzdan",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "telefon",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Biri aradı: 'Fon ödemenizi hızlandırırız!'"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "soru"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Nasıl hızlandırıyormuş?"
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Önce komisyon göndermem lazımmış."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "bagir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "SPK uyardı: para isteyene itibar etmeyin!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "kafa-kasi",
+            "efekt": "ter"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Ama ya gerçekten hızlandırırsa?"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Gerçeği para istemez, hesabını bilir."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Ben telefonu kapatıp bankayı kendim aradım."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "yok",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Hızlı ödeme olmaz Ahmet Amca, hızlı dolandırma olur."
+          }
+        ]
+      }
+    ]
+  },
+  "senaryolar": {
+    "olumlu": [
+      "Fon soruşturmasında ödemeler düzenli sürerse yatırımcıların güveni toparlanabilir.",
+      "ABD enflasyonu beklentiye uyarsa piyasalarda belirsizlik azalabilir.",
+      "Petrol düşük kalırsa akaryakıt ve enerji maliyetleri hafifleyebilir."
+    ],
+    "olumsuz": [
+      "Soruşturma yeni isimlere uzanırsa borsada oynaklık sürebilir.",
+      "ABD enflasyonu beklentinin üstünde gelirse faiz artışı endişesi altın ve dolar üzerinde baskı yaratabilir.",
+      "Orta Doğu'da gerilim artarsa petrol yeniden yükselebilir."
+    ],
+    "riskler": "Bu sayıdaki rakamların bir bölümü otomatik veriye dayanıyor ve tek kaynaklı. Wall Street, Brent ve ABD tahvil kapanışları teyit edilemedi; bu yüzden tabloda yer almıyor.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Sal 10 Kasım",
+      "olay": "ABD enflasyon verisi bekleniyor (Dünya)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 12 Kasım",
+      "olay": "TCMB Enflasyon Raporu'nu açıklayacak (TRT Haber, CNBC-e)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 10 Aralık",
+      "olay": "TCMB yılın son Para Politikası Kurulu toplantısı",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Reel getiri",
+      "aciklama": "Bir yatırımın getirisinden enflasyon çıkarıldıktan sonra geriye kalan gerçek kazanç. Fiyatlar artarken paranın alım gücünü koruyup korumadığını gösterir."
+    },
+    {
+      "terim": "Enflasyon beklentisi",
+      "aciklama": "İnsanların ya da kurumların önümüzdeki dönemde fiyatların ne kadar artacağını düşünmesi. Bu düşünce, gerçek fiyat artışlarını etkileyebilir."
+    },
+    {
+      "terim": "Dolandırıcılık (sosyal mühendislik)",
+      "aciklama": "Kişiyi kandırarak para ya da şifre almayı hedefleyen yöntem. Genellikle resmî kurum gibi davranan bir telefon ya da mesajla başlar."
+    }
+  ],
+  "teyitNotlari": [
+    "Wall Street (S&P 500, Nasdaq), Brent petrol ve ABD 10 yıllık tahvil kapanış rakamları teyit edilemedi; tabloda yer almıyor. Yalnızca Brent'in 95 dolar civarına gerilediği haberi (Habertürk) ve New York borsasının yükselişle kapandığı (Ekonomim, Dünya) aktarıldı.",
+    "BIST 100 kapanışı 11.712,67 (AA) tek kaynak; rakam, önceki kapanış 11.482,60 ve %2,00 ile tutarlı çıkıyor.",
+    "TCMB kurları (dolar 50,18, euro 56,11, sterlin 67,38) otomatik veri; ECB referansı ile örtüşüyor.",
+    "Ons altın 4.116 $ otomatik veri; Dünya 4.113,77 $ yazdı (farklı saat).",
+    "Gümüş, Bitcoin ve Ethereum rakamları tek kaynaktan (otomatik veri).",
+    "Gram altın, ons altın × TCMB dolar kuru ile hesaplandı.",
+    "TCMB politika faizi %36 bilgisi tek bir haber sitesine dayanıyor; resmî TCMB duyurusu açılamadı.",
+    "TCMB Enflasyon Raporu'nun 12 Kasım tarihi önceki sayıdaki TRT Haber'e dayanıyor; ABD enflasyon verisi için beklenti rakamı bulunamadı.",
+    "10 Aralık PPK tarihi birden fazla haber sitesinde yer aldı; TCMB takvim sayfası açılamadı.",
+    "Konut Fiyat Endeksi rakamları (eylül) önceki sayıdaki haber sitelerinden alındı; TCMB sayfası açılamadı.",
+    "Arsa ve ikinci el otomobil için yeni veri bulunamadı.",
+    "Cari işlemler dengesi açıklama tarihi teyit edilemediği için ajandaya konmadı.",
+    "WebFetch ile haber siteleri açılamadığı için haberler haberler.json ve arama sonuçlarıyla doğrulandı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "AA – BIST 100 haftaya %2 yükselişle başladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4117552"
+    },
+    {
+      "baslik": "Bloomberg HT – SPK'dan fon yatırımcılarına dolandırıcılık uyarısı",
+      "url": "https://www.bloomberght.com/spk-dan-fon-yatirimcilarina-dolandiricilik-uyarisi-3793990"
+    },
+    {
+      "baslik": "Bloomberg HT – Soruşturmada yeni gözaltı ve tutuklamalar",
+      "url": "https://www.bloomberght.com/fon-sorusturmasinda-lydia-holding-ykb-cevik-gozaltina-alindi-3793975"
+    },
+    {
+      "baslik": "Ekonomim – Toyota Türkiye: Otomobil pazarında daralma kasımda da sürüyor",
+      "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+    },
+    {
+      "baslik": "Habertürk – Brent petrol 95 dolar civarına geriledi",
+      "url": "https://www.haberturk.com/ekonomi/petrol-fiyatlari-hurmuz-iddiasiyla-geriledi-3926068"
+    },
+    {
+      "baslik": "Ekonomim – New York borsası haftaya yükselişle başladı",
+      "url": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-yukselisle-kapatti-haberi-930193"
+    },
+    {
+      "baslik": "TRT Haber – Ekimde en yüksek reel getiri mevduat faizinde",
+      "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+    },
+    {
+      "baslik": "Bloomberg HT – ABD'de enflasyon beklentisi sabit, işsizlik endişesi artıyor",
+      "url": "https://www.bloomberght.com/abd-de-enflasyon-beklentileri-sabit-issizlik-endisesi-artiyor-3794009"
+    },
+    {
+      "baslik": "BBC Türkçe – Nvidia CEO'sunun ilişkisi nedeniyle bağımsız soruşturma",
+      "url": "https://www.bbc.com/turkce/articles/cm93z0e73435o"
+    },
+    {
+      "baslik": "Ekonomim – Google iki yeni yapay zekâ işlemci sistemi tanıttı",
+      "url": "https://www.ekonomim.com/sirketler/googledan-nvidiaya-karsi-yeni-hamle-iki-yapay-zeka-islemci-sistemi-tanitildi-haberi-930190"
+    },
+    {
+      "baslik": "CNBC-e – Altın",
+      "url": "https://www.cnbce.com/altin/altinda-faiz-baskisina-ragmen-yukselis-umudu-kritik-tahmin-aciklandi-g41301"
+    },
+    {
+      "baslik": "CNBC-e – Konut (ev)",
+      "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+    },
+    {
+      "baslik": "TRT Haber – Arsa",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "TRT Haber – Borsa İstanbul haftaya yükselişle başladı",
+      "url": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-haftaya-yukselisle-basladi-962645.html"
+    },
+    {
+      "baslik": "TRT Haber – SPK'dan dolandırıcılık uyarısı",
+      "url": "https://www.trthaber.com/haber/ekonomi/spkdan-dolandiricilik-uyarisi-962711.html"
+    },
+    {
+      "baslik": "AA – SPK'den fon yatırımcılarına yönelik uyarı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari/4117537"
+    },
+    {
+      "baslik": "Bloomberg HT – Erdoğan: Fon meselesinde taviz yok",
+      "url": "https://www.bloomberght.com/erdogan-fon-meselesinde-en-kucuk-bir-taviz-ve-tavsama-olmayacak-3794005"
+    },
+    {
+      "baslik": "Habertürk – Fon soruşturmasında yeni tutuklama",
+      "url": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-2-supheli-tutuklandi-3925940"
+    },
+    {
+      "baslik": "Dünya – Altında sert hareket uyarısı",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-sert-hareket-uyarisi-uzmanlar-kritik-seviyeleri-acikladi-galeri-847034"
+    },
+    {
+      "baslik": "CNBC-e – Nvidia hisselerinde yüzde 7'yi aşan düşüş",
+      "url": "https://www.cnbce.com/sirket-haberleri/ceo-hakkindaki-sorusturma-yatirimciyi-kacirdi-nvidia-hisselerinde-yuzde-7yi-asan-dusus-h41412"
+    },
+    {
+      "baslik": "Habertürk – Ekimin en çok kazandıran yatırım aracı",
+      "url": "https://www.haberturk.com/ekonomi/ekim-ayinin-en-cok-kazandiran-yatirim-araci-belli-oldu-3925951"
+    },
+    {
+      "baslik": "Dünya – New York borsası yükselişle kapandı",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-kapandi-haberi-847033"
+    },
+    {
+      "baslik": "CNBC-e – Togg Kasım 2026 kampanyaları",
+      "url": "https://www.cnbce.com/otomotiv/togg-kasim-2026-kampanyalarini-duyurdu-iste-togg-icin-sifir-faizli-kredi-firsatlari-g41390"
+    },
+    {
+      "baslik": "CNBC-e – Piyasaların gözü bu 5 günde",
+      "url": "https://www.cnbce.com/veriler/piyasalarin-gozu-bu-5-gunde-abd-enflasyonu-ve-tcmbden-kritik-mesajlar-g41295"
+    },
+    {
+      "baslik": "NTV – Otomobil satışları ekimde yine düştü",
+      "url": "https://www.ntv.com.tr/ntvpara/otomobil-satislari-ekim-ayinda-yine-dustu-1749150"
+    },
+    {
+      "baslik": "Ekonomim – Savaş primi eriyor, Arap petrolü ucuzladı",
+      "url": "https://www.ekonomim.com/ekonomi/savas-primi-eriyor-arap-petrolu-ucuzladi-haberi-930167"
+    },
+    {
+      "baslik": "Ekonomim – 27,2 milyar liralık geri alım",
+      "url": "https://www.ekonomim.com/ekonomi/272-milyar-lirayi-asan-geri-alim-endeksi-kaldirmadi-haberi-930166"
+    }
+  ]
+}

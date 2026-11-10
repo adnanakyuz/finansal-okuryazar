@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-11-10",
+      "tarihMetni": "10 Kasım 2026, Salı",
+      "sayi": 21,
+      "baslik": "BIST 100 haftaya %2 yükselişle başladı, 11.712 puanda kapandı"
+    },
+    {
       "tarih": "2026-11-09",
       "tarihMetni": "9 Kasım 2026, Pazartesi",
       "sayi": 20,
