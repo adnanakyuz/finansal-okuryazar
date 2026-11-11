@@ -1,0 +1,714 @@
+{
+  "tarih": "2026-11-11",
+  "tarihMetni": "11 Kasım 2026, Çarşamba",
+  "sayi": 22,
+  "notlar": "BIST 100 10 Kasım Salı kapanışı · TCMB kurları 10 Kasım bülteni · Ons altın, gümüş, Bitcoin ve Ethereum 11 Kasım sabahı (TSİ 06.30 civarı) otomatik veri · Wall Street, Brent ve ABD 10 yıllık tahvil için kesin kapanış rakamı teyit edilemediği için tabloda yer almıyor",
+  "gununOzeti": "Dün ABD'de enflasyon beklentiden yüksek geldi ve Fed yetkilisinin faiz artırımı mesajı piyasaları sarstı. Altın ve kripto paralar düştü, Borsa İstanbul %0,43 değer kaybetti. Cebiniz için en yakın tarih yarın: TCMB, yılın son Enflasyon Raporu'nu açıklayacak.",
+  "manset": {
+    "ustBaslik": "Piyasalar · ABD Enflasyonu",
+    "baslik": "ABD enflasyonu beklentiyi aştı, altın 4.050 dolar civarına indi; BIST 100 %0,43 düştü",
+    "spot": "ABD'de tüketici fiyatları ekimde aylık %0,4 arttı; beklenti %0,3'tü (Habertürk, AA). Fed üyesi Waller Aralık'ta faiz artırımını desteklediğini söyledi (Bloomberg HT). Bu haberlerin ardından ons altın ve kripto paralar geriledi. Borsa İstanbul'da BIST 100 ise günü 11.661,86 puanda kapattı.",
+    "ozet": [
+      "ABD TÜFE'si ekimde aylık %0,4 arttı; piyasa beklentisi %0,3'tü (Habertürk, AA, Bloomberg HT).",
+      "Fed üyesi Waller, Aralık'ta faiz artırımına destek verdi; 10 yıllık ABD tahvil faizi %5'e dayandı (Bloomberg HT, CNBC-e).",
+      "BIST 100, 10 Kasım'da %0,43 düşüşle 11.661,86 puandan kapandı (AA, Dünya).",
+      "TCMB, Perşembe günü yılın son Enflasyon Raporu'nu açıklayacak (Borsagündem)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Soruşturma · Fonlar",
+      "baslik": "Fon soruşturmasında 3 isim için tutuklama talebi",
+      "spot": "Soruşturmada 5 şüpheli adliyeye sevk edildi; üç kişi için tutuklama, dört kişi için ev hapsi talep edildi (Ekonomim, CNBC-e). Karar süreci sürüyor."
+    },
+    {
+      "ustBaslik": "Bankacılık · TVF",
+      "baslik": "Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu çatısı altında birleşti",
+      "spot": "Türkiye Varlık Fonu'nun iştiraki, iki katılım bankasının paylarının tamamını devraldı (AA, Dünya)."
+    },
+    {
+      "ustBaslik": "Enerji · Petrol",
+      "baslik": "Petrol geriledi, ABD kurumu Kasım-Aralık için 100 dolar öngörüyor",
+      "spot": "Brent vadeli fiyatları 90-92 dolar civarında; ABD Enerji Enformasyon İdaresi ise kasım ve aralıkta 100 dolar çevresi bekliyor (Dünya, Habertürk)."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.661,86",
+      "degisim": "%0,43",
+      "yon": "down",
+      "neden": "Dünkü kapanış (AA, Dünya). Düşüş, ABD'deki enflasyon sürprizi sonrası küresel çekingenlikle birlikte geldi; bu bir günlük hareket, ertesi gün yön değiştirebilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,20",
+      "degisim": "%0,04",
+      "yon": "up",
+      "neden": "TCMB 10 Kasım gösterge kuru; ECB referansı 50,22 ile örtüşüyor. Dolar bir lira daha pahalanırsa ithal ürünler ve akaryakıt etkilenebilir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "56,38",
+      "degisim": "%0,47",
+      "yon": "up",
+      "neden": "TCMB 10 Kasım gösterge kuru. Euro ile tatil, araç ve ithal ürün alanlar için maliyet bu kurdan hesaplanır."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.535 TL",
+      "degisim": "%1,45",
+      "yon": "down",
+      "neden": "Ons altın × dolar kuru ile hesaplandı (resmî gram fiyatı değildir). Ons altındaki düşüşü yansıtıyor; kuyumcu fiyatı farklı olabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "4.049 $",
+      "degisim": "%1,62",
+      "yon": "down",
+      "neden": "ABD enflasyonunun beklentiyi aşması ve Fed'in faiz artırımı ihtimali altını baskıladı; Habertürk dün 4.053 dolar yazdı (farklı saat)."
+    },
+    {
+      "ad": "Ons gümüş",
+      "deger": "52,50 $",
+      "degisim": "%1,29",
+      "yon": "down",
+      "neden": "Altınla birlikte geriledi (tek kaynak, otomatik veri)."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "73.715 $",
+      "degisim": "%1,15",
+      "yon": "down",
+      "neden": "Satış baskısı sürüyor; ABD'deki Bitcoin fonlarından 2-9 Kasım'da yaklaşık 1,48 milyar dolar net çıkış oldu (CNBC-e). Kripto fiyatları çok oynaktır (tek kaynak)."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.062 $",
+      "degisim": "%2,55",
+      "yon": "down",
+      "neden": "Kripto paralarda genel düşüşle birlikte geriledi (tek kaynak, otomatik veri)."
+    },
+    {
+      "ad": "Sterlin/TL",
+      "deger": "67,58",
+      "degisim": "%0,29",
+      "yon": "up",
+      "neden": "TCMB 10 Kasım gösterge kuru."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Yılın son faiz toplantısı 10 Aralık'ta.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. TCMB 22 Ekim'de faizi %37'den %36'ya indirdi (QNB Invest, Capital)."
+    },
+    {
+      "kurum": "TCMB Enflasyon Raporu",
+      "mevcut": "12 Kasım Perşembe, 10.30",
+      "beklenti": "Rapor, kurumun enflasyon yolu hakkındaki yeni görüşünü içerecek.",
+      "not": "Faiz kararı değil, bilgilendirme toplantısıdır; faiz beklentilerine ipucu verebilir (Borsagündem)."
+    },
+    {
+      "kurum": "Fed (ABD Merkez Bankası)",
+      "mevcut": "Aralık'ta artırım tartışılıyor",
+      "beklenti": "Fed üyesi Waller Aralık'ta artırımı destekliyor; enflasyon hızlanırsa yarım puanlık artıma açık.",
+      "not": "Bu bir Fed üyesinin görüşüdür, kurulun kararı değildir (Bloomberg HT)."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Ons altın 4.000 doların üstünde; ABD enflasyonu ve Fed mesajları kısa vadede baskı yaratıyor, yön belirsiz.",
+      "neden": "Faiz artarsa altın tutmanın göreli cazibesi azalabilir; faiz beklentisi gevşerse altın toparlanabilir. Bir uzman gram altında kısa vadeli eşiğin önemini vurguladı, başka bir yorum 4.000 doların izlendiğini söyledi.",
+      "kimDiyor": "Emtia uzmanı Zafer Ergezen eşik seviyeleri anlattı (Ekonomim); Dünya 4.000 dolar sınırına dikkat çekti. Kurumlar arasında ortak bir yıl sonu tahmini bulunamadı.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/uzman-isimden-altin-tahmini-bu-seviyenin-ardindan-yukselis-hizlanabilir-haberi-930438"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları nominal artıyor ama enflasyonun gerisinde kalıyor; yön belirsiz.",
+      "neden": "Kredi faizleri düşerse ev talebi artabilir ancak yüksek faiz alım gücünü sınırlıyor. Son TCMB verisi eylüle ait; yeni veri yok.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön TCMB Konut Fiyat Endeksi'nin son verilerine (eylül) dayanıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için yeni bir kurum tahmini bulunamadı; yön belirsiz.",
+      "neden": "Arsa fiyatları konut talebine ve imar kararlarına bağlıdır. TOKİ açık artırmaları fiyat oluşumuna ipucu verebilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve 2027",
+      "ozet": "Sıfır otomobil satışlarındaki yavaşlama sürüyor; fiyat yönü belirsiz.",
+      "neden": "Talep zayıfken markalar kampanya yapabilir; faiz ve vergi kararları fiyatları değiştirebilir. İkinci el için yeni veri bulunamadı.",
+      "kimDiyor": "Sektör temsilcileri daralmanın kasımda da sürdüğünü söylüyor (Ekonomim). Açıklanmış bir fiyat tahmini yok.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+      }
+    },
+    {
+      "konu": "Akaryakıt / Petrol",
+      "yon": "belirsiz",
+      "vade": "Kasım-Aralık ve 2027",
+      "ozet": "ABD kurumu Brent için kasım-aralıkta 100 dolar çevresini, 2027'nin son çeyreğinde ise 77 doları öngörüyor.",
+      "neden": "Hürmüz bölgesindeki gerilim ve stoklar fiyatı belirliyor; vadeli fiyatlar bugün 92 dolar civarında, yani kurumun tahmininin altında. Gerilim azalırsa petrol ucuzlayabilir.",
+      "kimDiyor": "ABD Enerji Enformasyon İdaresi (Dünya). Piyasa fiyatı ile kurum tahmini arasında fark var.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/petrol-92-dolara-indi-abd-100-dolar-bekliyor-2027-icin-dikkat-ceken-tahmin-haberi-847183"
+      }
+    },
+    {
+      "konu": "Mevduat faizi",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Ekimde en yüksek reel getiri mevduat faizinde oldu; yön faiz kararlarına bağlı.",
+      "neden": "Merkez Bankası faizi indirirse mevduat faizleri de düşebilir. 12 Kasım Enflasyon Raporu ipucu verebilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön TÜİK/TRT Haber'deki ekim verisine dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · ABD Enflasyonu",
+    "baslik": "ABD'deki enflasyon sürprizi neden bizim cebimizi de ilgilendiriyor?",
+    "spot": "Dün gelen tek bir veri, altından kriptoya, tahvilden borsaya kadar piyasaları aynı anda oynattı.",
+    "paragraflar": [
+      "Dün ABD'de ekim ayı enflasyon verisi açıklandı. Fiyatlar aylık %0,4 arttı. Piyasanın beklentisi %0,3'tü (AA, Habertürk, Bloomberg HT). Gıda ve enerji hariç çekirdek enflasyon da %0,3 oldu; beklenti %0,2'ydi.",
+      "Fark küçük görünüyor, ama piyasalar için önemli. Çünkü enflasyon beklenenden yüksekse merkez bankası faizi indirmekte zorlanır. Hatta yükseltmeyi bile düşünebilir.",
+      "Nitekim Fed üyesi Christopher Waller, Aralık ayında bir faiz artırımını desteklediğini söyledi. Enflasyon hızlanmaya devam ederse yarım puanlık artırıma da destek vereceğini belirtti (Bloomberg HT). Bu bir üyenin görüşü; kurulun kararı değil.",
+      "Bu mesajlardan sonra ABD'de 10 yıllık tahvil faizi yeniden %5'e dayandı (CNBC-e). Faiz yükselince altın gibi getiri sağlamayan varlıklar göreli olarak daha az çekici hale gelebiliyor. Ons altın dün %2'nin üzerinde düştü; bugün sabah 4.049 dolar civarında.",
+      "Bizim için sonuç ne? Dolar ve faiz küresel gelişmelere duyarlı. ABD'de faiz yüksek kalırsa gelişen ülkelere gelen para azalabilir; bu da kur ve borsada dalgalanma yaratabilir. Dünkü Borsa İstanbul düşüşü (%0,43) bu ortamla uyumlu, ama tek nedeni olduğu söylenemez.",
+      "Bugün için gözler yarındaki TCMB Enflasyon Raporu'nda. Rapor faiz kararı değil; ama kurumun enflasyon yolu hakkındaki görüşü, Aralık toplantısı için ipucu verebilir."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? TÜFE (tüketici fiyat endeksi)",
+        "metin": "Bir ailenin sepetindeki mal ve hizmetlerin fiyatının ne kadar değiştiğini gösteren ölçüdür. Market, kira, ulaşım gibi harcamalar bu sepete girer."
+      },
+      {
+        "baslik": "Bu ne demek? Çekirdek enflasyon",
+        "metin": "Fiyatı sık oynayan gıda ve enerji hariç tutulan enflasyondur. Ana eğilimi görmek için kullanılır."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "BIST 100 günü %0,43 düşüşle kapattı",
+      "metin": "Borsa İstanbul'da BIST 100 endeksi 10 Kasım'da %0,43 değer kaybederek 11.661,86 puandan tamamladı. Bir önceki gün %2 yükselmişti; yani iki günlük tabloda yükselişin bir kısmı geri verildi.",
+      "etki": "Borsada tek günlük hareket kalıcı yön göstermez; yatırım fonu veya hisseniz varsa günlük dalgalanmaya göre karar vermek riskli olabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4119182"
+      }
+    },
+    {
+      "etiket": "Dünya · Enflasyon",
+      "baslik": "ABD enflasyonu beklentiyi aştı, Fed'den faiz artırımı sinyali",
+      "metin": "ABD TÜFE'si ekimde aylık %0,4 arttı, beklenti %0,3'tü. Fed üyesi Waller Aralık'ta faiz artırımını destekledi (Bloomberg HT).",
+      "etki": "ABD'de faiz yüksek kalırsa dolar ve küresel faizler etkilenebilir; Türkiye'ye gelen yabancı para da bundan etkilenir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-ekimde-beklentilerin-uzerinde-artti/4118964"
+      }
+    },
+    {
+      "etiket": "Piyasalar · Altın",
+      "baslik": "Altın ve kripto, ABD enflasyonu sonrası düştü",
+      "metin": "Ons altın dün yüzde 2'nin üzerinde düşüp 4.053-4.055 dolara indi (Habertürk, CNBC-e). Gümüş %2,8 geriledi. Bitcoin ve kripto paralarda da satış görüldü (AA).",
+      "etki": "Gram altın fiyatı ons altına ve dolar kuruna göre günlük değişir; kuyumcudaki fiyat bundan farklı olabilir.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/altin-abd-enflasyon-verisi-sonrasi-dustu-3926331"
+      }
+    },
+    {
+      "etiket": "Türkiye · Soruşturma",
+      "baslik": "Fon soruşturmasında 5 şüpheli adliyede",
+      "metin": "OMG Capital Advisors, Takasbank, Bulls Yatırım, Ruzy Madencilik ve Lydia Holding yöneticilerinin de aralarında olduğu 5 şüpheli adliyeye sevk edildi (CNBC-e). Üç kişi için tutuklama, dört kişi için ev hapsi talep edildi (Ekonomim).",
+      "etki": "Fonlarda parası olanlar için süreç sürüyor; 'ödemeyi hızlandırırız' diyerek para isteyenlere itibar etmeyin.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/fon-sorusturmasi-yunus-arinci-murat-omer-gulkan-ve-ali-pasli-icin-tutuklama-talebi-haberi-930441"
+      }
+    },
+    {
+      "etiket": "Türkiye · Ödeme Sistemleri",
+      "baslik": "TCMB iki elektronik para kuruluşunun faaliyet iznini iptal etti",
+      "metin": "Merkez Bankası, A Ödeme ve Elektronik Para Hizmetleri AŞ ile Ozan Elektronik Para AŞ'nin faaliyet izinlerini iptal etti. Karar 11 Kasım tarihli Resmî Gazete'de yayımlandı (Ekonomim, CNBC-e).",
+      "etki": "Bu kuruluşlarda hesabınız veya cüzdanınız varsa kuruluşun ve TCMB'nin duyurularını takip edin, parayı güvenli yerde tutun.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/iki-elektronik-para-kurulusunun-faaliyet-izni-iptal-edildi-haberi-930466"
+      }
+    },
+    {
+      "etiket": "Türkiye · Bankacılık",
+      "baslik": "Ziraat Katılım ve Halk Katılım TVF çatısında",
+      "metin": "Türkiye Varlık Fonu'nun iştiraki TVF Katılım Finans Yatırımları AŞ, iki katılım bankasının paylarının tamamını devraldı. Halkbank işlemi 14,8 milyar TL'ye gerçekleştirdi (CNBC-e).",
+      "etki": "Hesap sahipleri için doğrudan bir değişiklik duyurulmadı; sahiplik yapısı değişiyor.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/ziraat-katilim-ve-halk-katilimin-tvfye-pay-devirleri-tamamlandi/4119444"
+      }
+    },
+    {
+      "etiket": "Türkiye · Hazine",
+      "baslik": "Hazine 18,5 milyar liralık kira sertifikası ihraç etti",
+      "metin": "Hazine, 5 Kasım 2031 itfa tarihli sabit getirili kira sertifikası ihracı yaptı. Tutar 18 milyar 530 milyon 400 bin lira (Bloomberg HT, AA).",
+      "etki": "Devletin iç borçlanma yöntemlerinden biri; kamu borçlanması faizleri etkileyen unsurlardandır.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/hazine-den-18-5-milyar-liralik-kira-sertifikasi-ihraci-3794116"
+      }
+    },
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "Petrol 90-92 dolar bandında; ABD kurumu 100 dolar bekliyor",
+      "metin": "Brent ocak vadeli fiyatı ABD-İran geriliminin azalacağı beklentisiyle 90 doların altına indi (Habertürk). Dünya'ya göre ABD Enerji Enformasyon İdaresi kasım-aralıkta 100 dolar çevresi bekliyor.",
+      "etki": "Petrol ucuzlarsa akaryakıt ve nakliye maliyeti düşebilir; ancak pompa fiyatı vergi ve kura da bağlıdır.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/brent-petrol-abd-iran-geriliminin-azalacagi-beklentisiyle-90-dolarin-altina-indi-3926291"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay zekâ · Fiyat",
+      "baslik": "Google yeni yapay zekâ modelinin API ücretlerini 30 Kasım'dan sonra ikiye katlayacak",
+      "metin": "Google, Gemini 4 Carbon'u geliştiricilere ve ücretli abonelere açtı. Yeni modelin API ücretleri 30 Kasım sonrasında iki katına çıkacak (Dünya).",
+      "neden": "Yapay zekâ kullanan uygulama ve hizmetlerin maliyeti artabilir; bu da ürün fiyatlarına yansıyabilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/googledan-yapay-zekada-yeni-hamle-30-kasimda-fiyatlar-iki-katina-cikacak-haberi-847184"
+      }
+    },
+    {
+      "etiket": "Yapay zekâ · Borsa",
+      "baslik": "Anthropic halka arz planıyla büyük kaynak hedefliyor",
+      "metin": "CNBC-e, Anthropic'in Nasdaq halka arzı ve özel hisse satışıyla 90,4 milyar dolara kadar kaynak hedeflediğini yazdı. Bloomberg HT ise halka arzdan 64,4 milyar dolara varan kaynak hedeflendiğini aktardı; iki haberdeki rakamlar farklı kapsamları anlatıyor olabilir.",
+      "neden": "Yapay zekâ şirketlerinin değerlemeleri küresel borsaların yönünü etkiliyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/anthropicten-90-milyar-dolarlik-halka-arz-hamlesi-spacexin-rekoru-kirilabilir-h41490"
+      }
+    },
+    {
+      "etiket": "Otomotiv · Elektrikli",
+      "baslik": "Çin'in elektrikli araç ihracatı ekimde rekor kırdı",
+      "metin": "Çin'in elektrikli ve hibrit araç ihracatı Ekim'de yıllık %144,7 artarak 582 bin adede ulaştı. Artışta Orta Doğu'daki savaşın petrolü pahalılaştırmasının etkisi gösterildi (Bloomberg HT, AA).",
+      "neden": "Elektrikli araç arzı artarsa ileride araç fiyatları ve ithalat dengesi etkilenebilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/cin-in-elektrikli-arac-ihracati-ekim-de-rekor-kirdi-3794130"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Bir verinin gölgesinde bir gün",
+      "paragraflar": [
+        "Dün tek bir ABD verisi, dünyanın öbür ucundaki fiyatları oynattı. Enflasyon beklenenden yüksek geldi; altın düştü, kripto düştü, borsalar temkinli kapandı.",
+        "Bu tablo bize bir şeyi hatırlatıyor: Piyasalar sık sık aynı anda aynı haberden etkilenir. Bu yüzden her günlük hareketi kendi hayatınıza ait bir işaret saymak gerekmez.",
+        "Yarın Merkez Bankası'nın Enflasyon Raporu var. Rakamlara bakarken önce şunu soralım: Bu bilgi benim aylık bütçemi nasıl etkiler?"
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Altın, faiz ve dolar aynı ipin ucunda",
+      "paragraflar": [
+        "Faiz beklentisi arttığında altın gibi getiri sağlamayan varlıklar baskı altında kalabiliyor. Dün tam bu tabloyu gördük: ons altın %1,62 geriledi.",
+        "İzlenecek üç şey var: Fed yetkililerinin Aralık mesajları, ABD 10 yıllık tahvil faizi ve yarınki TCMB raporu. Bu başlıkların hiçbiri tek başına yön belirlemez; birlikte okumak gerekir."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "'Ödemeyi hızlandırırız' diyene dikkat",
+      "paragraflar": [
+        "Fon soruşturması sürerken dolandırıcıların da faaliyete geçtiği bildiriliyor. Size telefonla ya da mesajla ulaşıp ücret karşılığı 'hızlı ödeme' vaat edenlere itibar etmeyin.",
+        "Resmî kurumlar sizden para istemez. Şüpheli bir arama gelirse kapatın ve kurumu kendi bildiğiniz resmî numaradan arayın.",
+        "Elektronik para hesabı kullanıyorsanız, bakiyenizi ve kuruluşun duyurularını düzenli kontrol etmek iyi bir alışkanlıktır."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Yarınki TCMB Enflasyon Raporu enflasyonun gerilediği izlenimi verirse faiz indirimi beklentisi güçlenebilir.",
+      "Petrol fiyatları düşük kalırsa akaryakıt ve enerji maliyetleri hafifleyebilir.",
+      "ABD'de faiz artırımı beklentisi yatışırsa altın ve gelişen ülke piyasaları toparlanabilir."
+    ],
+    "olumsuz": [
+      "Fed Aralık'ta faiz artırırsa dolar güçlenebilir; gelişen ülkelere para girişi azalabilir.",
+      "ABD 10 yıllık tahvil faizi %5 üzerinde kalırsa küresel borsalarda dalgalanma sürebilir.",
+      "Petrol bölgesel gerilimle yeniden 100 dolara yaklaşırsa enflasyon baskısı artabilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim, ABD'nin faiz politikası ve fon soruşturmasının piyasa güvenine etkisi izlenmesi gereken başlıca risklerdir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Per 12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu'nu açıklayacak, 10.30 (Borsagündem)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 10 Aralık",
+      "olay": "TCMB yılın son Para Politikası Kurulu toplantısı (QNB Invest)",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "TÜFE (tüketici fiyat endeksi)",
+      "aciklama": "Ailelerin satın aldığı mal ve hizmetlerin fiyatının zamanla ne kadar değiştiğini gösteren ölçü."
+    },
+    {
+      "terim": "Sendikasyon kredisi",
+      "aciklama": "Birden fazla bankanın birlikte verdiği büyük kredi. Yapı Kredi dün 18 ülkeden 40 kurumla 933 milyon dolarlık böyle bir kredi aldı."
+    },
+    {
+      "terim": "Elektronik para kuruluşu",
+      "aciklama": "Mobil cüzdan veya ön ödemeli kart gibi hizmetlerle para tutan ve aktaran, Merkez Bankası izniyle çalışan şirket."
+    },
+    {
+      "terim": "Enflasyon Raporu",
+      "aciklama": "Merkez Bankası'nın yılda dört kez yayımladığı, enflasyonun nereye gidebileceğine dair tahminlerini açıkladığı rapor."
+    },
+    {
+      "terim": "Kira sertifikası",
+      "aciklama": "Devletin faiz yerine kira getirisi esasıyla borçlanmak için çıkardığı kâğıt."
+    }
+  ],
+  "teyitNotlari": [
+    "Wall Street (S&P 500, Nasdaq), Brent petrol ve ABD 10 yıllık tahvil için kesin kapanış rakamı teyit edilemedi; tabloda yer almıyor. Yalnızca Brent'in 90-92 dolar civarında olduğu (Habertürk, Dünya), New York borsasının düşüşle kapandığı (Dünya, Ekonomim) ve 10 yıllık faizin %5'e dayandığı (CNBC-e, tek kaynak) aktarıldı.",
+    "BIST 100 kapanışı AA ve Dünya'da aynı (11.661,86, %0,43); önceki kapanışla tutarlı.",
+    "TCMB kurları (dolar 50,20, euro 56,38, sterlin 67,58) otomatik veri; dolar ECB referansı (50,22) ile örtüşüyor, euro ve sterlin tek kaynak.",
+    "Ons altın 4.049 $ otomatik veri; Habertürk dün 4.053 $, Dünya 4.044 $ yazdı (farklı saatler).",
+    "Gümüş, Bitcoin ve Ethereum rakamları tek kaynaktan (otomatik veri).",
+    "Gram altın, ons altın × TCMB dolar kuruyla bizim hesabımızdır; resmî gram fiyatı değildir.",
+    "ABD yıllık TÜFE ve çekirdek yıllık rakamları teyit edilemedi; yalnızca aylık değişimler (%0,4 ve %0,3) aktarıldı.",
+    "TCMB politika faizi %36: QNB Invest ve Capital'de 22 Ekim kararı olarak yer alıyor; TCMB sayfası açılamadı.",
+    "Enflasyon Raporu tarihi (12 Kasım, 10.30) Borsagündem'e dayanıyor; TCMB takvimi açılamadı.",
+    "Konut, arsa, otomobil ve mevduat için yeni kurum tahmini bulunamadı; son verilerle ve tarihleriyle aktarıldı.",
+    "Anthropic halka arz tutarı: CNBC-e 90,4 milyar dolar, Bloomberg HT 64,4 milyar dolar yazdı; farklı kapsam olabilir, çelişki aktarıldı.",
+    "Sigara ve alkol zammı haberi için net tarih teyit edilemediği için yer verilmedi.",
+    "Haber siteleri WebFetch ile açılamadığı için haberler haberler.json ve arama sonuçlarıyla doğrulandı."
+  ],
+  "karikatur": {
+    "baslik": "Tek Veri, Bin Dalga",
+    "dayanak": "Dayanak: ABD enflasyonunun beklentiyi aşması ve Fed'den gelen faiz mesajları altın ve kripto fiyatlarını düşürdü (AA, Habertürk).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "bagir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "ABD'de enflasyon beklentiyi aşmış. Altın düşmüş, faiz artırımı konuşuluyor!"
+          }
+        ],
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "telefon",
+            "efekt": "soru"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Amca, onlar faizi artırınca altın üzülüyormuş."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Altın üzülüyor da bizim ay sonu üzülmüyor mu!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "isaret",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Ben bu piyasa işine karışmam. Ocağın altı yansın yeter."
+          }
+        ],
+        "nesne": "cay",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "kafa-kasi",
+            "efekt": "ter"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Fed bir cümle kuruyor, bizim cüzdan titriyor."
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Telefondaki 'garanti kazanç' mesajlarına da dikkat!"
+          }
+        ],
+        "nesne": "cuzdan",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Bugünün dersi: Fiyat inip çıkar, plan sabit kalmalı."
+          },
+          {
+            "kim": "kemal",
+            "metin": "Bir de çayın şekeri... O hep sabit: iki küp!"
+          }
+        ]
+      }
+    ]
+  },
+  "kaynaklar": [
+    {
+      "baslik": "AA – Borsa günü düşüşle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4119182"
+    },
+    {
+      "baslik": "Dünya – Borsa İstanbul günü düşüşle tamamladı",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-847153"
+    },
+    {
+      "baslik": "AA – ABD'de enflasyon ekimde beklentilerin üzerinde arttı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-ekimde-beklentilerin-uzerinde-artti/4118964"
+    },
+    {
+      "baslik": "Habertürk – ABD'de enflasyon beklentiyi aştı",
+      "url": "https://www.haberturk.com/ekonomi/abd-de-enflasyon-beklentiyi-asti-3926329"
+    },
+    {
+      "baslik": "Bloomberg HT – ABD'de Ekim enflasyonu beklentileri aştı",
+      "url": "https://www.bloomberght.com/abd-de-ekim-enflasyonu-beklentileri-asti-3794098"
+    },
+    {
+      "baslik": "Bloomberg HT – Waller'den Aralık'ta faiz artışına destek",
+      "url": "https://www.bloomberght.com/waller-den-aralik-ta-faiz-artisina-destek-3794059"
+    },
+    {
+      "baslik": "CNBC-e – ABD'de 10 yıllık tahvil faizi yeniden yüzde 5'e dayandı",
+      "url": "https://www.cnbce.com/piyasalar/fed-piyasalari-sarsti-abdde-10-yillik-tahvil-faizi-yeniden-yuzde-5e-dayandi-h41508"
+    },
+    {
+      "baslik": "Habertürk – ABD enflasyonu altını vurdu",
+      "url": "https://www.haberturk.com/ekonomi/altin-abd-enflasyon-verisi-sonrasi-dustu-3926331"
+    },
+    {
+      "baslik": "AA – Enflasyon ve Waller altın ve kripto piyasasında düşüşe neden oldu",
+      "url": "https://www.aa.com.tr/tr/ekonomi/abd-enflasyonu-ve-fed-uyesi-wallerin-sahin-mesaji-altin-ve-kripto-piyasasinda-dususe-neden-oldu/4119129"
+    },
+    {
+      "baslik": "Dünya – Altında sert satış: 4.000 dolar kırılırsa ne olacak?",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-100-dolara-yaklasan-sert-satis-4000-dolar-kirilirsa-ne-olacak-galeri-847182"
+    },
+    {
+      "baslik": "CNBC-e – Bitcoin'de satış dalgası büyüyor",
+      "url": "https://www.cnbce.com/kripto/bitcoinde-satis-dalgasi-buyuyor-sirketler-ve-fonlarda-milyarlik-cikis-h41478"
+    },
+    {
+      "baslik": "Ekonomim – Fon soruşturması: tutuklama talebi",
+      "url": "https://www.ekonomim.com/ekonomi/fon-sorusturmasi-yunus-arinci-murat-omer-gulkan-ve-ali-pasli-icin-tutuklama-talebi-haberi-930441"
+    },
+    {
+      "baslik": "CNBC-e – Fon soruşturmasında 5 şüpheli adliyeye sevk edildi",
+      "url": "https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-5-supheli-adliyeye-sevk-edildi-h41480"
+    },
+    {
+      "baslik": "Ekonomim – İki elektronik para kuruluşunun faaliyet izni iptal edildi",
+      "url": "https://www.ekonomim.com/ekonomi/iki-elektronik-para-kurulusunun-faaliyet-izni-iptal-edildi-haberi-930466"
+    },
+    {
+      "baslik": "CNBC-e – Merkez Bankası'ndan elektronik para şirketine karar",
+      "url": "https://www.cnbce.com/haberler/merkez-bankasindan-elektronik-para-sirketine-faaliyet-durdurma-karari-lisansi-iptal-edildi-h41511"
+    },
+    {
+      "baslik": "AA – Ziraat Katılım ve Halk Katılım'ın TVF'ye pay devirleri tamamlandı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/ziraat-katilim-ve-halk-katilimin-tvfye-pay-devirleri-tamamlandi/4119444"
+    },
+    {
+      "baslik": "Dünya – Ziraat Katılım ve Halk Katılım TVF çatısı altında birleşti",
+      "url": "https://www.dunya.com/sirketler/ziraat-katilim-ve-halk-katilim-tvf-catisi-altinda-birlesti-haberi-847162"
+    },
+    {
+      "baslik": "Bloomberg HT – Hazine'den 18,5 milyar liralık kira sertifikası ihracı",
+      "url": "https://www.bloomberght.com/hazine-den-18-5-milyar-liralik-kira-sertifikasi-ihraci-3794116"
+    },
+    {
+      "baslik": "AA – Hazine 18,5 milyar lira tutarında kira sertifikası ihraç etti",
+      "url": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligi-18-5-milyar-lira-tutarinda-kira-sertifikasi-ihrac-etti/4119115"
+    },
+    {
+      "baslik": "Dünya – Petrol 92 dolara indi, ABD 100 dolar bekliyor",
+      "url": "https://www.dunya.com/ekonomi/petrol-92-dolara-indi-abd-100-dolar-bekliyor-2027-icin-dikkat-ceken-tahmin-haberi-847183"
+    },
+    {
+      "baslik": "Habertürk – Brent petrol 90 doların altına indi",
+      "url": "https://www.haberturk.com/ekonomi/brent-petrol-abd-iran-geriliminin-azalacagi-beklentisiyle-90-dolarin-altina-indi-3926291"
+    },
+    {
+      "baslik": "Dünya – Google yapay zekâda yeni hamle",
+      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/googledan-yapay-zekada-yeni-hamle-30-kasimda-fiyatlar-iki-katina-cikacak-haberi-847184"
+    },
+    {
+      "baslik": "CNBC-e – Anthropic'ten 90 milyar dolarlık halka arz hamlesi",
+      "url": "https://www.cnbce.com/borsa/anthropicten-90-milyar-dolarlik-halka-arz-hamlesi-spacexin-rekoru-kirilabilir-h41490"
+    },
+    {
+      "baslik": "Bloomberg HT – Anthropic halka arzda SpaceX'in rekorunu yakalamaya çalışıyor",
+      "url": "https://www.bloomberght.com/anthropic-halka-arzda-spacexin-rekorunu-yakalamaya-calisiyor-3794091"
+    },
+    {
+      "baslik": "Bloomberg HT – Çin'in elektrikli araç ihracatı Ekim'de rekor kırdı",
+      "url": "https://www.bloomberght.com/cin-in-elektrikli-arac-ihracati-ekim-de-rekor-kirdi-3794130"
+    },
+    {
+      "baslik": "AA – Çin'in elektrikli araç ihracatı ekimde rekor seviyeye çıktı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/cinin-elektrikli-arac-ihracati-ekimde-rekor-seviyeye-cikti/4119284"
+    },
+    {
+      "baslik": "Ekonomim – Uzman isimden altın tahmini",
+      "url": "https://www.ekonomim.com/ekonomi/uzman-isimden-altin-tahmini-bu-seviyenin-ardindan-yukselis-hizlanabilir-haberi-930438"
+    },
+    {
+      "baslik": "CNBC-e – TCMB: Konut fiyatları eylülde reel gerilemeye devam etti",
+      "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ildeki 725 arsayı açık artırmayla satışa sunacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "Ekonomim – Otomobil pazarında tehlike çanları",
+      "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+    },
+    {
+      "baslik": "TRT Haber – Ekimde en yüksek reel getiri mevduat faizinde",
+      "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+    },
+    {
+      "baslik": "Borsagündem – TCMB'nin yılın son Enflasyon Raporu 12 Kasım'da",
+      "url": "https://www.borsagundem.com.tr/tcmbnin-yilin-son-enflasyon-raporu-12-kasimda"
+    },
+    {
+      "baslik": "QNB Invest – TCMB Ekim faiz kararı: politika faizi %36'ya indirildi",
+      "url": "https://www.qnbinvest.com.tr/investodak/qnbarastirma/tcmb-ekim-ayi-faiz-kararini-acikladi-politika-faizi-36ya-indirildi"
+    },
+    {
+      "baslik": "Capital – Merkez Bankası'nın Ekim 2026 faiz kararı",
+      "url": "https://www.capital.com.tr/haberler/tum-haberler/merkez-bankasinin-ekim-2026-faiz-karari-belli-oldu"
+    },
+    {
+      "baslik": "Dünya – New York borsası düşüşle kapandı",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-dususle-kapandi-haberi-847181"
+    },
+    {
+      "baslik": "Ekonomim – New York borsası günü düşüşle kapattı",
+      "url": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-dususle-kapatti-haberi-930467"
+    },
+    {
+      "baslik": "CNBC-e – Ziraat Bankası'nın 3. çeyrek net kârı",
+      "url": "https://www.cnbce.com/sirket-bilancolari/ziraat-bankasinin-3ceyrek-net-kari-503-milyar-tlye-yukseldi-iste-bilanco-detaylari-h41499"
+    },
+    {
+      "baslik": "Bloomberg HT – Yapı Kredi'den 933 milyon dolarlık sendikasyon kredisi",
+      "url": "https://www.bloomberght.com/yapi-kredi-den-933-milyon-dolarlik-sendikasyon-kredisi-3794134"
+    }
+  ]
+}

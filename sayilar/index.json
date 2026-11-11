@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-11-11",
+      "tarihMetni": "11 Kasım 2026, Çarşamba",
+      "sayi": 22,
+      "baslik": "ABD enflasyonu beklentiyi aştı, altın 4.050 dolar civarına indi; BIST 100 %0,43 düştü"
+    },
+    {
       "tarih": "2026-11-10",
       "tarihMetni": "10 Kasım 2026, Salı",
       "sayi": 21,
