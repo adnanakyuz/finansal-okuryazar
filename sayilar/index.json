@@ -1,6 +1,12 @@
 {
   "sayilar": [
     {
+      "tarih": "2026-11-12",
+      "tarihMetni": "12 Kasım 2026, Perşembe",
+      "sayi": 23,
+      "baslik": "Merkez Bankası kredi büyüme sınırlarını gevşetti: ihtiyaç ve taşıt kredisinde sınır %3,5'e çıktı"
+    },
+    {
       "tarih": "2026-11-11",
       "tarihMetni": "11 Kasım 2026, Çarşamba",
       "sayi": 22,

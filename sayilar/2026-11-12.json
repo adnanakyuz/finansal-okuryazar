@@ -1,0 +1,657 @@
+{
+  "tarih": "2026-11-12",
+  "tarihMetni": "12 Kasım 2026, Perşembe",
+  "sayi": 23,
+  "notlar": "BIST 100 ve TCMB kurları 11 Kasım Çarşamba kapanışı/bülteni · Ons altın 12 Kasım sabahı (tek kaynak) · Bitcoin ve Ethereum 12 Kasım sabahı otomatik veri · Wall Street, Brent ve ABD 10 yıllık tahvil için kesin kapanış rakamı teyit edilemediği için tabloda yer almıyor",
+  "gununOzeti": "Merkez Bankası dün akşam kredi büyüme sınırlarını yükseltti: ihtiyaç ve taşıt kredilerinde sekiz haftalık sınır %3'ten %3,5'e çıktı. Bu, bankaların daha fazla kredi verebilmesinin önünü açıyor; faiz indirimi anlamına gelmiyor. Bugün 10.30'da yılın son Enflasyon Raporu açıklanacak; ons altın ise 4.000 doların altında güne başladı.",
+  "manset": {
+    "ustBaslik": "Merkez Bankası · Kredi",
+    "baslik": "Merkez Bankası kredi büyüme sınırlarını gevşetti: ihtiyaç ve taşıt kredisinde sınır %3,5'e çıktı",
+    "spot": "TCMB, bankaların sekiz haftada verebileceği ihtiyaç ve taşıt kredisi artışının sınırını %3'ten %3,5'e yükseltti (Dünya, Bloomberg HT). KOBİ ve diğer işletme kredilerinde de sınırlar 0,5 puan arttı. Bugün saat 10.30'da yılın son Enflasyon Raporu da açıklanacak.",
+    "ozet": [
+      "Sekiz haftalık kredi büyüme sınırı ihtiyaç ve taşıt kredilerinde %3'ten %3,5'e çıktı (Dünya, Bloomberg HT, AA).",
+      "KOBİ ve KOBİ dışı işletmelere verilen TL kredilerde de sınırlar 0,5 puan artırıldı (Dünya, Habertürk).",
+      "Bankaların uzun vadeli mevduat dışı yükümlülükleri için tutulan zorunlu karşılıklara TL cinsinden faiz/telafi ödemesi yapılacak (AA, TRT Haber).",
+      "Bugün 10.30: TCMB yılın son Enflasyon Raporu'nu açıklayacak (Bloomberg HT, Dünya)."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Altın · Ons",
+      "baslik": "Ons altın sabah saatlerinde 4.000 doların altına indi",
+      "spot": "Dünya'ya göre ons altın 12 Kasım sabahı 3.976 dolara geriledi. Satışın arkasında ABD enflasyonu ve Fed'in faiz artırımı beklentisi var."
+    },
+    {
+      "ustBaslik": "Tüketici · Sigorta",
+      "baslik": "Alışverişte sigorta dayatmasına düzenleme: 12 Kasım'da yürürlüğe girdi",
+      "spot": "Satış sonrası 14 gün içinde teklif edilebilecek, iptal zorlaştırılamayacak, primlere üst sınır gelecek (Dünya)."
+    },
+    {
+      "ustBaslik": "Şirketler · Fon krizi",
+      "baslik": "Fon krizi ve artçıları 50 şirketin kredi notunu düşürdü",
+      "spot": "Ekonomim'e göre kriz, zaten borcu yüksek şirketlerin finansmana erişimini daha da zorlaştırdı."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.666,42",
+      "degisim": "%0,04",
+      "yon": "flat",
+      "neden": "11 Kasım kapanışı (AA, Dünya). Dünkü 11.661,86 kapanışına göre yatay kaldı; ABD enflasyonu sonrası temkinli bir gün."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,23",
+      "degisim": "%0,06",
+      "yon": "up",
+      "neden": "TCMB 11 Kasım gösterge kuru; ECB referansı 50,23 ile örtüşüyor. Dolar yavaş yükselirken ithal ürün ve akaryakıt maliyetleri de yavaş yavaş etkilenebilir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,98",
+      "degisim": "%0,71",
+      "yon": "down",
+      "neden": "TCMB 11 Kasım kuru. ABD verisi sonrası dolar güçlenince euro dolar karşısında geriledi (EUR/USD 1,1127, ECB); euro ile alışveriş yapanlar için kur biraz ucuzladı."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "6.421 TL",
+      "degisim": "%1,75",
+      "yon": "down",
+      "neden": "Ons altın × TCMB dolar kuruyla bizim hesabımızdır (resmî gram fiyatı değildir); kuyumcu fiyatı farklı olabilir. Ons altındaki düşüşü yansıtıyor."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.976 $",
+      "degisim": "%1,80",
+      "yon": "down",
+      "neden": "ABD enflasyonu ve Fed'in faiz artırımı beklentisi altını baskıladı (Dünya, tek kaynak). Dünkü sabah rakamıyla (4.049 $) kıyaslandı."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "73.679 $",
+      "degisim": "%0,05",
+      "yon": "down",
+      "neden": "Yatay seyir; kripto fiyatları çok oynaktır (tek kaynak, otomatik veri)."
+    },
+    {
+      "ad": "Ethereum",
+      "deger": "2.052 $",
+      "degisim": "%0,49",
+      "yon": "down",
+      "neden": "Hafif geriledi (tek kaynak, otomatik veri)."
+    },
+    {
+      "ad": "Sterlin/TL",
+      "deger": "67,04",
+      "degisim": "%0,80",
+      "yon": "down",
+      "neden": "TCMB 11 Kasım gösterge kuru (tek kaynak)."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Yılın son faiz toplantısı 10 Aralık'ta.",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. 22 Ekim'de %37'den %36'ya indirilmişti (daha önceki sayımızda QNB Invest, Capital'e dayanıyor)."
+    },
+    {
+      "kurum": "TCMB kredi büyüme sınırları",
+      "mevcut": "İhtiyaç/taşıt: %3,5 (8 hafta)",
+      "beklenti": "Önceki sınır %3'tü; işletme kredilerinde de 0,5 puan artış var.",
+      "not": "Sınır, bankanın kredi hacmini ne kadar büyütebileceğini belirler; faiz kararı değildir (Dünya, Bloomberg HT)."
+    },
+    {
+      "kurum": "Fed (ABD Merkez Bankası)",
+      "mevcut": "Aralık'ta artırım bekleniyor",
+      "beklenti": "ABD'de beklentiyi aşan enflasyon, Fed'in aralıkta faiz artıracağı beklentisini güçlendirdi (TRT Haber, CNBC-e).",
+      "not": "Bu bir piyasa beklentisidir, kurulun kararı değildir."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar",
+      "ozet": "Ons altın 4.000 doların altına indi; yön ABD faiz beklentilerine bağlı. Bazı uzmanlar daha derin düşüş olabileceğini söylüyor.",
+      "neden": "Faiz artarsa altın tutmanın görece cazibesi azalabilir. Faiz beklentisi gevşerse altın toparlanabilir.",
+      "kimDiyor": "Saha Rating'den Ali Perşembe teknik olarak 3.500 dolara kadar düşüş alanı görüyor ve güçlü yükseliş beklemiyor (CNBC-e). Dünya fiyatın 4.000 dolar altına indiğine dikkat çekiyor. Kurumlar arasında ortak yıl sonu tahmini bulunamadı.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/altin-fiyatlarinda-tehlikeli-senaryo-satislar-birbirini-tetikleyebilir-h41588"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatları reel olarak (enflasyondan arındırınca) gerilemeye devam etti; yeni bir kurum tahmini yok.",
+      "neden": "Kredi sınırlarının gevşemesi konut talebini artırabilir ama etkisi henüz ölçülmedi.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön TCMB Konut Fiyat Endeksi'nin son verilerine (eylül) dayanıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için kurum tahmini yok; TOKİ'nin 61 ilde 725 arsayı açık artırmayla satışa sunması arz tarafında önemli bir gelişme.",
+      "neden": "Satışa çıkan arsa sayısı arttıkça bölgesel fiyatlar etkilenebilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve 2027",
+      "ozet": "Sektör temsilcileri pazarın küçüldüğünü söylüyor; taşıt kredisi sınırının yükselmesi talebi destekleyebilir.",
+      "neden": "Taşıt kredisi daha kolay bulunursa talep artabilir; bu da fiyatlara yansıyabilir.",
+      "kimDiyor": "Otomotiv sektör temsilcileri daralmanın sürdüğünü söylüyor (Ekonomim); elektrikli araçta kredi ve vergi düzenlemesi çağrısı yapıldı (Habertürk). Açıklanmış bir fiyat tahmini yok.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+      }
+    },
+    {
+      "konu": "Mevduat faizi",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Ekim ayında en yüksek reel getiri mevduat faizinde gerçekleşti (TÜİK verisine göre).",
+      "neden": "Politika faizi indirilirse mevduat faizleri de zamanla gerileyebilir.",
+      "kimDiyor": "Açıklanmış yeni bir kurum tahmini yok; yön ekim verisine dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Kredi Büyüme Sınırları",
+    "baslik": "Merkez Bankası krediyi neden gevşetti, cebimizi nasıl etkiler?",
+    "spot": "TCMB, bankaların kredi büyümesine koyduğu tavanı yükseltti. Kısacası: bankalar daha fazla kredi verebilecek.",
+    "paragraflar": [
+      "Merkez Bankası dün akşam yeni bir karar açıkladı. Karar faiz kararı değil. Bankaların ne kadar kredi verebileceğine dair bir sınırı değiştiriyor.",
+      "Bu sınır sekiz haftalık dönemlere göre uygulanıyor. İhtiyaç ve taşıt kredilerinde sınır %3'ten %3,5'e çıktı. Yani bir banka sekiz haftada bu kredi türünün toplamını en fazla %3,5 büyütebilecek (Dünya, Bloomberg HT).",
+      "KOBİ ve diğer işletmelere verilen TL kredilerde de sınırlar 0,5 puan artırıldı (Dünya, Habertürk). Küçük işletmeler için bu, kredi bulmayı biraz kolaylaştırabilir.",
+      "Kararın ikinci parçası zorunlu karşılıklarla ilgili. Bankaların uzun vadeli mevduat dışı yükümlülükleri için Merkez Bankası'nda tuttuğu zorunlu karşılıklara TL cinsinden faiz veya telafi ödemesi yapılacak (AA, TRT Haber). Bu, bankaların maliyetini azaltabilir.",
+      "Peki cebinize etkisi ne? Kredi bulmak biraz kolaylaşabilir; ancak kredi faizleri bu kararla otomatik düşmüyor. Faizler bankaların kendi kararına ve politika faizine bağlı. Borçlanmadan önce toplam geri ödemeyi mutlaka hesaplayın.",
+      "Bugünün asıl gündemi ise 10.30'daki Enflasyon Raporu. Rapor, Merkez Bankası'nın enflasyon yolu hakkındaki yeni görüşünü içerecek. Bu rapordan sonra faiz beklentileri değişebilir; ama bu bir faiz toplantısı değil."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Kredi büyüme sınırı",
+        "metin": "Merkez Bankası bankalara 'sekiz haftada kredilerini en fazla şu kadar büyüt' diyor. Amaç, kredilerin çok hızlı artıp enflasyonu körüklemesini önlemek."
+      },
+      {
+        "baslik": "Bu ne demek? Zorunlu karşılık",
+        "metin": "Bankaların topladığı paranın bir kısmını Merkez Bankası'nda bekletmesidir. Bu paranın bankaya faiz getirisi olup olmadığı, bankanın maliyetini etkiler."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Merkez Bankası",
+      "baslik": "TCMB kredi büyüme sınırlarını yükseltti",
+      "metin": "İhtiyaç ve taşıt kredilerinde sekiz haftalık büyüme sınırı %3'ten %3,5'e çıktı. KOBİ ve diğer işletme kredilerinde sınırlar 0,5 puan artırıldı.",
+      "etki": "Bankalar daha fazla kredi verebilir; ancak kredi faizi bu kararla doğrudan düşmez.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/tcmbden-kredi-buyumesine-yeni-duzenleme-limitler-yukseltildi-haberi-847323"
+      }
+    },
+    {
+      "etiket": "Türkiye · Tüketici",
+      "baslik": "Alışverişte sigorta dayatmasına yasak",
+      "metin": "12 Kasım'da yürürlüğe giren düzenlemeye göre sigorta satış sonrası 14 gün içinde teklif edilebilecek, iptal talepleri zorlaştırılamayacak, primlere üst sınır uygulanacak. Reddeden müşteriye fiyat farkı yansıtılmayacak.",
+      "etki": "Mağazada veya internette 'sigortasız satmıyoruz' denirse bu artık kurala aykırı olabilir; sigorta almak zorunda değilsiniz.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/alisveriste-sigorta-dayatmasina-yasak-reddeden-musteriye-fiyat-farki-yok-haberi-847329"
+      }
+    },
+    {
+      "etiket": "Türkiye · Şirketler",
+      "baslik": "Fon krizi 50 şirketin kredi notunu düşürdü",
+      "metin": "Yatırım fonu krizinin yarattığı likidite sorunu, borçluluğu yüksek şirketlerin finansmana erişimini zorlaştırdı. Bazı şirketlerin notu tahvil ödeme riski nedeniyle indirildi.",
+      "etki": "Şirketlerin borçlanması pahalılaşırsa yatırım ve istihdam planları etkilenebilir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/fon-krizi-ve-artcilari-50-sirketin-notunu-kirdirtti-haberi-930687"
+      }
+    },
+    {
+      "etiket": "Türkiye · Tahvil",
+      "baslik": "Dünya Varlık Yönetim kupon ödemesini yapamadı",
+      "metin": "Şirket, 11 Kasım'daki üçüncü kupon ödemesini gerçekleştiremediğini duyurdu. Söz konusu tahvil, 11 Şubat 2026'da ihraç edilen 100 milyon TL'lik tahvil (CNBC-e).",
+      "etki": "Şirket tahvili tutanlar için ödeme gecikmesi riski doğdu; borçlanma aracı alırken ihraççının durumuna bakmak önemli.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/dunya-varlik-yonetim-kupon-odemesinde-temerrude-dustu-3794196"
+      }
+    },
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "MSCI, Türkiye küçük ölçekli şirketler endeksinde değişikliğe gitti",
+      "metin": "AA'ya göre MSCI, Türkiye'nin küçük ölçekli şirketler endeksine 2 yeni hisse ekledi, 18 hisseyi çıkardı.",
+      "etki": "Endekse girip çıkan hisselerde fonların alım-satımı fiyatları kısa vadede oynatabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/kuresel-endeks-saglayicisi-msci-endekslerde-degisiklige-gitti/4121539"
+      }
+    },
+    {
+      "etiket": "Dünya · Almanya",
+      "baslik": "Almanya'nın 2026 büyüme tahmini %0,5'ten %1,3'e yükseltildi",
+      "metin": "Alman Ekonomi Bilirkişi Kurulu, güçlü ihracat ve enerji şoklarının beklenenden hızlı atlatılmasını gerekçe gösterdi; kamu borcu konusunda da uyardı.",
+      "etki": "Almanya Türkiye'nin en büyük ticaret ortaklarından; Avrupa'da talep artarsa ihracatçılara destek olabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/almanya-da-buyume-tahmini-yukseldi-kamu-borcu-uyarisi-geldi-3794243"
+      }
+    },
+    {
+      "etiket": "Dünya · Şirket",
+      "baslik": "easyJet hissedarları Apollo'nun 5,7 milyar sterlinlik teklifini onayladı",
+      "metin": "AB incelemesinin ardından işlemin gelecek yılın ilk çeyreği bitmeden tamamlanması hedefleniyor; tamamlanırsa şirket Londra Borsası'ndan çıkacak.",
+      "etki": "Havayolu sektöründe sahiplik değişimi; bilet fiyatlarına etkisi henüz belli değil.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/hissedarlar-onayladi-apollo-easyjet-i-5-7-milyar-sterline-satin-aliyor-3794240"
+      }
+    },
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "Hürmüz endişesi Brent'i 92 dolar civarında tutuyor",
+      "metin": "Habertürk'e göre Brent petrol 11 Kasım sabahı %1,19 yükselişle 92,58 dolara çıktı; ABD-İran diplomatik girişimleri yükselişi sınırladı. Kapanış rakamı teyit edilemedi.",
+      "etki": "Petrol pahalı kalırsa akaryakıt ve taşıma maliyetleri tarafında baskı sürebilir.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/hurmuz-endisesi-petrol-fiyatlarini-yukseltti-3926473"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "ABD · Yapay zekâ çipleri",
+      "baslik": "WSJ: Nvidia yönetim kurulu CEO'nun görevden alınmasını değerlendiriyor",
+      "metin": "CNBC-e, Wall Street Journal'a dayandırdığı haberde yönetim kurulunun üst yönetim konusunda değerlendirme yaptığını aktardı. Hisseler kapanış sonrası işlemlerde yaklaşık %8 düştü, Nasdaq vadeli işlemleri yaklaşık %1 geriledi. İddialar şirketçe doğrulanmış değil.",
+      "neden": "Dünyanın en değerli çip şirketlerinden birindeki belirsizlik Nasdaq'ı ve yapay zekâ hisselerini sallayabilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/sirket-haberleri/nvidiada-deprem-wsj-yonetim-kurulu-jensen-huangi-gorevden-almayi-degerlendiriyor-h41617"
+      }
+    },
+    {
+      "etiket": "ABD · Teknoloji borsası",
+      "baslik": "Apple hisseleri 2026 başından bu yana %30 yükseldi",
+      "metin": "CNBC-e'ye göre Apple hisseleri yılbaşından bu yana %30 artarak tüm zamanların rekorunu kırdı.",
+      "neden": "Büyük teknoloji hisseleri endeksleri belirliyor; emeklilik ve yatırım fonlarının getirisini de etkileyebilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/apple-hisselerinde-rekor-rallisi-yukselis-yuzde-30a-ulasirken-piyasalar-hareketlendi"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Kredi kolaylaşırken hesap kitap şart",
+      "paragraflar": [
+        "Merkez Bankası kredi kapısını biraz aralayınca akla ilk gelen soru şu oluyor: Borçlanmak kolaylaşınca daha mı rahat edeceğiz? Cevap, borcun ne için alındığına bağlı.",
+        "Gelirinizin üzerinde bir taksit ödemek, kredi kolay bulunsa da zor. Önemli olan kredinin toplam maliyeti ve geri ödeme planı.",
+        "Bugün gözler Enflasyon Raporu'nda. Rapor, enflasyonun nereye gittiğine dair resmî bakışı verecek. Rakamları ve açıklamaları sakince okuyalım."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Altın 4.000'in altında, borsa yatay",
+      "paragraflar": [
+        "Ons altın 3.976 dolara indi. Neden, ABD enflasyonu ve Fed'in faiz artırımı beklentisi. Faiz artarsa altın gibi getiri sağlamayan varlıkların cazibesi azalabilir.",
+        "BIST 100 ise 11.666 puanda yatay kapandı. Bugün izlenecekler: Enflasyon Raporu ve yarın açıklanması beklenen ABD üretici fiyatları (ÜFE) verisi."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Sigorta teklifine 'hayır' deme hakkınız var",
+      "paragraflar": [
+        "Yeni düzenlemeye göre alışverişte size sigorta satılmak istenirse reddedebilirsiniz ve bunun için fiyat farkı ödemeniz istenmemeli (Dünya).",
+        "Poliçeyi almadan önce neyi kapsadığını ve toplam primi sorun. Kararı kasada acele etmeden verin.",
+        "Telefonla gelen 'garanti kazanç' ya da 'tek seferlik kampanya' mesajlarına karşı da dikkatli olun."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Enflasyon Raporu enflasyonda düşüş yolunu doğrularsa faiz indirimi beklentileri güçlenebilir.",
+      "Kredi sınırlarının yükselmesi KOBİ'lerin finansmana erişimini rahatlatabilir."
+    ],
+    "olumsuz": [
+      "ABD'de faiz artırımı gelirse altın ve gelişmekte olan ülke varlıkları baskı altında kalabilir.",
+      "Kredi büyümesi hızlanırsa enflasyon baskısı artabilir."
+    ],
+    "riskler": "Hürmüz Boğazı kaynaklı petrol fiyatı oynaklığı, fon krizinin şirketlere yayılan etkisi ve yapay zekâ hisselerindeki sert hareketler piyasaları sarsabilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Per 12 Kasım",
+      "olay": "TCMB yılın son Enflasyon Raporu'nu açıklayacak, 10.30 (Bloomberg HT, Dünya)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Cum 13 Kasım",
+      "olay": "ABD ÜFE (üretici fiyatları) verisi bekleniyor (CNBC-e)",
+      "onem": "orta"
+    },
+    {
+      "gun": "Per 10 Aralık",
+      "olay": "TCMB yılın son Para Politikası Kurulu toplantısı (QNB Invest)",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Kredi büyüme sınırı",
+      "aciklama": "Merkez Bankası'nın bankalara 'belli sürede kredi miktarını en fazla bu kadar artır' dediği tavandır."
+    },
+    {
+      "terim": "Zorunlu karşılık",
+      "aciklama": "Bankaların topladığı paranın bir kısmını Merkez Bankası'nda tutma zorunluluğudur."
+    },
+    {
+      "terim": "Kupon ödemesi",
+      "aciklama": "Tahvili tutan kişiye belirli aralıklarla ödenen faiz tutarıdır."
+    },
+    {
+      "terim": "Gösterge kur",
+      "aciklama": "Merkez Bankası'nın gün içinde ilan ettiği, resmî işlemlerde referans alınan döviz kurudur."
+    }
+  ],
+  "teyitNotlari": [
+    "Wall Street (S&P 500, Nasdaq), Brent ve ABD 10 yıllık tahvil için 11 Kasım kapanış rakamı teyit edilemedi; tabloda yok. New York borsasının yükselişle kapandığı Dünya ve Ekonomim'de yer alıyor.",
+    "BIST 100 kapanışı AA ve Dünya'da aynı (11.666,42).",
+    "TCMB kurları otomatik veri; dolar ECB referansıyla (50,229) örtüşüyor, euro ve sterlin tek kaynak.",
+    "Ons altın 3.976 $ yalnızca Dünya'dan (tek kaynak); otomatik altın verisi alınamadı. Gram altın bizim hesabımızdır; resmî fiyat değildir.",
+    "Bitcoin ve Ethereum tek kaynak (otomatik veri).",
+    "TCMB politika faizi %36 bilgisi önceki sayımızda QNB Invest ve Capital'e dayanıyordu; TCMB sayfası açılamadı.",
+    "Enflasyon Raporu saati ve tarihi Bloomberg HT ve Dünya'ya dayanıyor; rapor henüz açıklanmadığı için içeriği yazılmadı.",
+    "ABD ÜFE'nin cuma günü açıklanacağı bilgisi tek kaynaktan (CNBC-e).",
+    "Nvidia haberi WSJ'ye dayandırılan tek kaynaklı bir haberdir; şirket açıklaması teyit edilemedi.",
+    "Konut, arsa, otomobil ve mevduat için yeni kurum tahmini bulunamadı; son verilerle aktarıldı.",
+    "Haber siteleri WebFetch ile açılamadığı için haberler haberler.json ve arama sonuçlarıyla doğrulandı."
+  ],
+  "karikatur": {
+    "baslik": "Sınır Kalktı Mı?",
+    "dayanak": "Dayanak: TCMB, ihtiyaç ve taşıt kredilerinde sekiz haftalık büyüme sınırını %3'ten %3,5'e yükseltti (Dünya, Bloomberg HT).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Merkez Bankası kredi sınırını %3'ten %3,5'e çıkarmış, Kemal!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "sasir",
+            "poz": "normal",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Yani bankalar biraz daha kredi verebilecek."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Bana da faiz indirimi verse!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "telefon",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Sınır artması faiz düştü demek değil. Toplam geri ödemeye bakın."
+          }
+        ],
+        "nesne": "cuzdan",
+        "nesneYer": "orta"
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "kafa-kasi",
+            "efekt": "ter"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "konus",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Kredi kolay, ay sonu zor."
+          },
+          {
+            "kim": "kemal",
+            "metin": "Bende de çay kolay, hesap zor."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Bugün saat 10.30'da Enflasyon Raporu var."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Okurum! Ama önce çay."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "bagir",
+            "poz": "eller-havada",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Çayın sınırı yok Ahmet Amca, doldurayım mı?"
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Doldur! Ama bu sefer şekere sınır koy!"
+          }
+        ],
+        "nesne": "cay",
+        "nesneYer": "orta"
+      }
+    ]
+  },
+  "kaynaklar": [
+    {
+      "baslik": "AA – TCMB kredi büyüme sınırlarını yükseltti",
+      "url": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423"
+    },
+    {
+      "baslik": "Dünya – TCMB'den kredi büyümesine yeni düzenleme",
+      "url": "https://www.dunya.com/ekonomi/tcmbden-kredi-buyumesine-yeni-duzenleme-limitler-yukseltildi-haberi-847323"
+    },
+    {
+      "baslik": "Bloomberg HT – TCMB, kredi büyüme sınırlarını yükseltti",
+      "url": "https://www.bloomberght.com/tcmb-kredi-buyume-sinirlarini-yukseltti-3794251"
+    },
+    {
+      "baslik": "Dünya – Alışverişte sigorta dayatmasına yasak",
+      "url": "https://www.dunya.com/ekonomi/alisveriste-sigorta-dayatmasina-yasak-reddeden-musteriye-fiyat-farki-yok-haberi-847329"
+    },
+    {
+      "baslik": "Ekonomim – Fon krizi ve artçıları 50 şirketin notunu kırdırttı",
+      "url": "https://www.ekonomim.com/ekonomi/fon-krizi-ve-artcilari-50-sirketin-notunu-kirdirtti-haberi-930687"
+    },
+    {
+      "baslik": "Bloomberg HT – Dünya Varlık Yönetim kupon ödemesinde temerrüde düştü",
+      "url": "https://www.bloomberght.com/dunya-varlik-yonetim-kupon-odemesinde-temerrude-dustu-3794196"
+    },
+    {
+      "baslik": "AA – MSCI endekslerde değişikliğe gitti",
+      "url": "https://www.aa.com.tr/tr/ekonomi/kuresel-endeks-saglayicisi-msci-endekslerde-degisiklige-gitti/4121539"
+    },
+    {
+      "baslik": "Bloomberg HT – Almanya'da büyüme tahmini yükseldi",
+      "url": "https://www.bloomberght.com/almanya-da-buyume-tahmini-yukseldi-kamu-borcu-uyarisi-geldi-3794243"
+    },
+    {
+      "baslik": "Bloomberg HT – Apollo, easyJet'i satın alıyor",
+      "url": "https://www.bloomberght.com/hissedarlar-onayladi-apollo-easyjet-i-5-7-milyar-sterline-satin-aliyor-3794240"
+    },
+    {
+      "baslik": "Habertürk – Brent petrol yükselişte",
+      "url": "https://www.haberturk.com/ekonomi/hurmuz-endisesi-petrol-fiyatlarini-yukseltti-3926473"
+    },
+    {
+      "baslik": "Dünya – Altın fiyatlarında sert dönüş",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-sert-donus-uzmanlarin-dikkat-cektigi-tehlike-galeri-847328"
+    },
+    {
+      "baslik": "CNBC-e – Altın fiyatlarında tehlikeli senaryo",
+      "url": "https://www.cnbce.com/altin/altin-fiyatlarinda-tehlikeli-senaryo-satislar-birbirini-tetikleyebilir-h41588"
+    },
+    {
+      "baslik": "CNBC-e – Nvidia'da deprem",
+      "url": "https://www.cnbce.com/sirket-haberleri/nvidiada-deprem-wsj-yonetim-kurulu-jensen-huangi-gorevden-almayi-degerlendiriyor-h41617"
+    },
+    {
+      "baslik": "CNBC-e – Apple hisselerinde rekor rallisi",
+      "url": "https://www.cnbce.com/borsa/apple-hisselerinde-rekor-rallisi-yukselis-yuzde-30a-ulasirken-piyasalar-hareketlendi"
+    },
+    {
+      "baslik": "AA – Borsa günü yatay seyirle tamamladı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4121000"
+    },
+    {
+      "baslik": "Dünya – Borsa İstanbul günü yatay seyirle tamamladı",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yatay-seyirle-tamamladi-haberi-847300"
+    },
+    {
+      "baslik": "CNBC-e – Enflasyonu doları uçurdu",
+      "url": "https://www.cnbce.com/doviz/enflasyonu-dolari-uçurdu-dort-haftanin-zirvesi-goruldu-piyasanin-gozu-cuma-gununde-h41598"
+    },
+    {
+      "baslik": "Bloomberg HT – TCMB yılın son Enflasyon Raporu'nu 12 Kasım'da sunacak",
+      "url": "https://www.bloomberght.com/tcmb-yilin-son-enflasyon-raporunu-12-kasimda-sunacak-3793745"
+    },
+    {
+      "baslik": "Dünya – Yılın son Enflasyon Raporu 12 Kasım'da açıklanacak",
+      "url": "https://www.dunya.com/ekonomi/yilin-son-enflasyon-raporu-12-kasimda-aciklanacak-haberi-846659"
+    },
+    {
+      "baslik": "Dünya – New York borsası yükselişle kapandı",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-kapandi-haberi-847326"
+    },
+    {
+      "baslik": "TRT Haber – Ekimde en yüksek reel getiri mevduat faizinde",
+      "url": "https://www.trthaber.com/haber/ekonomi/ekimde-en-yuksek-reel-getiri-mevduat-faizinde-gerceklesti-962651.html"
+    },
+    {
+      "baslik": "CNBC-e – TCMB: konut fiyatları eylülde reel gerilemeye devam etti",
+      "url": "https://www.cnbce.com/veriler/tcmb-duyurdu-konut-fiyatlari-eylulde-reel-gerilemeye-devam-etti-h39594"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 61 ilde 725 arsayı satışa sunacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "Ekonomim – Otomobil pazarında tehlike çanları",
+      "url": "https://www.ekonomim.com/sektorler/otomotiv/otomobil-pazarinda-tehlike-canlari-kotu-senaryo-icin-hazirliklar-basladi-haberi-930159"
+    },
+    {
+      "baslik": "Habertürk – Elektrikli araçlarda kredi ve vergi düzenlemesi çağrısı",
+      "url": "https://www.haberturk.com/ekonomi/elektrikli-araclarda-kredi-ve-vergi-duzenlemesi-cagrisi-ikinci-el-piyasasi-da-gundemde-3926582"
+    }
+  ]
+}
