@@ -1,0 +1,657 @@
+{
+  "tarih": "2026-11-21",
+  "tarihMetni": "21 Kasım 2026, Cumartesi",
+  "sayi": 25,
+  "notlar": "Hafta sonu baskısı · BIST 100 ve ABD endeksleri Cuma 20 Kasım kapanışı; TCMB kurları 19 Kasım bülteni; altın, Brent, Bitcoin Cuma sabahı/öğle saatleri",
+  "gununOzeti": "Yapay zekâ hisselerindeki satış ve Fed'in faizi artırabileceği beklentisi dünya borsalarını bu hafta sert düşürdü. Borsa İstanbul haftayı %6 kayıpla kapattı, ons altın haftada yaklaşık %9 geriledi. Cebine etkisi: yatırım fonu, hisse ya da altın tutuyorsan portföyünün bu hafta değer kaybetmiş olması muhtemel; akaryakıtta ise indirim var.",
+  "manset": {
+    "ustBaslik": "Haftanın Özeti",
+    "baslik": "Küresel satış dalgası: Borsa İstanbul haftayı %6,01 düşüşle 11.131 puanda kapattı",
+    "spot": "Yapay zekâ şirketlerinin değerlemelerine yönelik endişeler ve Fed'den gelen faiz artırımı sinyalleri dünya borsalarını aşağı çekti. ABD'de S&P 500 ve Dow endeksleri zirvelerinden %10'dan fazla gerileyerek düzeltme bölgesine girdi.",
+    "ozet": [
+      "BIST 100 Cuma günü %2,36 düşüşle 11.131,32 puanda kapandı; haftalık kayıp %6,01.",
+      "Ons altın haftada yaklaşık %8,9 düşerek Mart'tan bu yana en sert haftalık kaybı yaşadı.",
+      "Nasdaq Cuma günü %5,28 geriledi; Wall Street'in en kötü haftalarından biri yaşandı.",
+      "Dolar/TL 50,5 civarında, yavaş yükselişini sürdürdü."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Altın",
+      "baslik": "Gram altın 5.779 liraya indi",
+      "spot": "Güçlü dolar ve Fed'in aralıkta faiz artırabileceği beklentisi altını aşağı çekti. Bir hafta önce gram altın 6.300 lira civarındaydı."
+    },
+    {
+      "ustBaslik": "Akaryakıt",
+      "baslik": "Motorinde 6,58 lira indirim, benzinde de indirim bekleniyor",
+      "spot": "Motorin İstanbul'da 90 liranın altına indi. Benzine cumartesi gününden itibaren 1,86 lira indirim yapılması bekleniyor."
+    },
+    {
+      "ustBaslik": "Konut",
+      "baslik": "Konut fiyatlarındaki yıllık artış 77 ayın en düşüğünde",
+      "spot": "Konut fiyatları ekimde yıllık %21,1 arttı; enflasyon düşülünce fiyatlar reel olarak geriliyor."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.131,32",
+      "degisim": "%2,36",
+      "yon": "down",
+      "neden": "Cuma kapanışı; hafta içi 11.102 puana kadar indi, haftalık kayıp %6,01 (Habertürk ve haber siteleri). Borsa endeksi, borsadaki şirketlerin toplam değer hareketini gösterir; fon ve hisse tutanların portföyü bu hafta değer kaybetmiş olabilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,47",
+      "degisim": "%0,05",
+      "yon": "up",
+      "neden": "TCMB 19 Kasım gösterge kuru; Bloomberg HT Cuma sabahı 50,58 verdi. Dolar yavaş yükselirken ithal ürün maliyetleri de yavaş yavaş etkilenebilir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,46",
+      "degisim": "%0,20",
+      "yon": "up",
+      "neden": "TCMB 19 Kasım gösterge kuru (tek kaynak; Bloomberg HT Cuma sabahı 55,60). Euroyla alışveriş edenler için kur biraz yükseldi."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "5.779",
+      "degisim": "%4,7",
+      "yon": "down",
+      "neden": "Cuma sabahı serbest piyasa (Bloomberg HT, TRT Haber); Perşembe sabahı 6.062 liraydı. Altın tutanların değeri bu hafta düştü; küçük birikimde fiyat dalgalanabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.500",
+      "degisim": "%8,9",
+      "yon": "down",
+      "neden": "Haftalık değişim; Cuma sabahı yaklaşık 3.500 dolar (CNBC-e, Anadolu Yatırım, Habertürk). Güçlü dolar ve Fed'in faiz artırabileceği beklentisi altını aşağı çekti."
+    },
+    {
+      "ad": "Brent petrol",
+      "deger": "92,77",
+      "degisim": "%0,9",
+      "yon": "up",
+      "neden": "Cuma sabahı (CNBC-e; Bloomberg HT 'yaklaşık 93 dolar' dedi). Husilerin Riyad saldırısı fiyatı yukarı itti; ancak üst üste üçüncü haftayı kayıpla kapatması bekleniyor. Petrol ucuzlarsa akaryakıt fiyatları da gerileyebilir."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "62.157",
+      "degisim": "%2,6",
+      "yon": "down",
+      "neden": "Cuma öğle saatleri (CoinGecko; CNBC-e sabah 61.500 doların altı dedi). Dört ayın en düşük seviyelerinde; zirvesinden yaklaşık %50 geride. Kripto fiyatları çok oynaktır."
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "6.910,39",
+      "degisim": "%3,7",
+      "yon": "down",
+      "neden": "Cuma kapanışı (arama özeti; tek kaynak). Endeks zirvesinden %10'dan fazla düşerek düzeltme bölgesine girdi. Yurt dışı hisse veya fon tutanlar bu düşüşten etkilenebilir."
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "22.617,73",
+      "degisim": "%5,28",
+      "yon": "down",
+      "neden": "Cuma kapanışı (arama özeti; tek kaynak). Teknoloji hisseleri ağırlıklı endeks bu yıl kazancını sildi; yapay zekâ şirketlerine yönelik endişeler etkili."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Kasım Piyasa Katılımcıları Anketi'nde aralık toplantısı için beklenti %35 (CNBC-e).",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. %36 bilgisi önceki sayılarımıza dayanıyor; Merkez Bankası bu hafta yeni karar açıklamadı. Bu kurum beklentisidir, karar değildir."
+    },
+    {
+      "kurum": "Fed (ABD Merkez Bankası)",
+      "mevcut": "Faiz artırımı sinyali",
+      "beklenti": "Chicago Fed Başkanı Goolsbee 50 baz puanlık (%0,5) artış ihtimalini dışlamadı; piyasalar aralıkta artış bekliyor (Bloomberg HT).",
+      "not": "Fed faizi artırırsa dolar güçlenir, Türkiye gibi gelişen ülkelerden çıkış baskısı artabilir. Bu bir beklentidir, karar değildir."
+    },
+    {
+      "kurum": "Türkiye 5 yıllık CDS (risk primi)",
+      "mevcut": "250 baz puan üzeri",
+      "beklenti": "6 Kasım'dan beri ilk kez 250'nin üzerine çıktı (Ekonomim, Dünya).",
+      "not": "CDS, bir ülkenin borcunu ödeyememe riskinin fiyatıdır. Yükselirse dışarıdan borçlanma maliyeti artabilir."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar ve 2027",
+      "ozet": "Uzmanlar kısa vadede düşüşün sürebileceğini, güçlü yükselişin ise 2027'nin ikinci yarısında gelebileceğini söylüyor.",
+      "neden": "Fed faizi artırırsa altın tutmanın cazibesi azalabilir; dolar güçlenince altın dolar cinsinden ucuzlar.",
+      "kimDiyor": "Biz Finansal Danışmanlık'tan Murat Özsoy güçlü yükselişi 2027'nin ikinci yarısında görüyor (CNBC-e). Mehmet Ali Yıldırımtürk ons altında 3.600 doların altında kalmayı riskli buluyor, düşüş derinleşirse 3.200 doları işaret ediyor (Ekonomim). Neo Portföy'den Şebnem Ayabakan satış baskısının sürebileceğini söylüyor (CNBC-e). Ortak bir yıl sonu tahmini yok.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/altin-ve-gumuste-tablo-degisiyor-biri-digerinden-daha-gec-toparlanabilir-g42247"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatlarındaki yıllık artış %21,1 ile 77 ayın en düşüğüne indi; reel (enflasyondan arındırılmış) fiyatlar geriliyor, satış talebi düşük.",
+      "neden": "Kredi faizleri yüksek kaldıkça talep zayıf kalabilir; kredi sınırlarının gevşemesi talebi destekleyebilir ama etkisi henüz ölçülmedi.",
+      "kimDiyor": "TCMB Konut Fiyat Endeksi ekim verisi %21,1 artış gösterdi (TRT Haber). Satılık konut talebi ekimde yıllık %17,1 geriledi, reel fiyatlar %9, reel kiralar %5,4 düştü; İstanbul'da reel kira %6,3 arttı (CNBC-e). Açıklanmış yeni bir kurum fiyat tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusuk-seviyesinde-963794.html"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için kurum tahmini yok; en son bulunan gelişme TOKİ'nin 61 ilde 725 arsayı açık artırmayla satışa sunması (14 Kasım sayısındaki veri).",
+      "neden": "Satışa çıkan arsa sayısı arttıkça bölgesel fiyatlar etkilenebilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve 2027",
+      "ozet": "Ekimde otomobil satışları yıllık %28,4 azaldı; düşüşün bir kısmı geçen yılın yüksek tabanından geliyor (son bulunan veri, 14 Kasım sayısından).",
+      "neden": "Taşıt kredisi sınırının yükselmesi talebi destekleyebilir; talep artarsa fiyatlar yukarı yönlü baskı görebilir.",
+      "kimDiyor": "ODMD ekim verisine göre otomobil satışı 64.939 adet oldu, ocak-ekim satışları %16,85 azaldı (CNBC-e). Açıklanmış bir fiyat tahmini yok.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/otomotiv/turkiyede-otomobil-satislari-sert-dustu-ekim-ayinda-dikkat-ceken-tablo-g40873"
+      }
+    },
+    {
+      "konu": "Borsa İstanbul",
+      "yon": "belirsiz",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Bir analist BIST 100'ün yılı 12 bin puan civarında tamamlamasını olumlu bir tablo olarak görüyor.",
+      "neden": "Satış baskısının temel nedeni likidite sıkışıklığı olarak gösteriliyor; küresel satış dalgası da baskı yaratabilir.",
+      "kimDiyor": "Kuzey Menkul Değerler'den İbrahim Şişman (CNBC-e). Citigroup stratejistleri ise küresel hisse piyasalarında zirve dönemlerini hatırlatan işaretler görüyor ve Avrupa hisselerindeki pozisyonlarını azalttı (Dünya). Bu görüşler tek tek kurumların görüşüdür.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/uzman-isimden-borsa-istanbul-icin-12-bin-puan-tahmini-dipten-donus-ne-zaman-g42269"
+      }
+    },
+    {
+      "konu": "Politika faizi ve mevduat",
+      "yon": "asagi",
+      "vade": "Aralık toplantısı",
+      "ozet": "TCMB anketinde aralık için beklenti %35; yani küçük bir indirim bekleniyor.",
+      "neden": "Faiz inerse mevduat getirileri ve kredi faizleri de zamanla gerileyebilir; Fed artırım yaparsa indirim hızı yavaşlayabilir.",
+      "kimDiyor": "TCMB Piyasa Katılımcıları Anketi (CNBC-e, 14 Kasım sayısındaki veri). Yeni bir kurum tahmini bu hafta bulunamadı.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/piyasa-katilimcilari-anketi-yil-sonu-enflasyonu-tahmini-yuzde-30-asti-h41724"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Küresel Satış Dalgası",
+    "baslik": "Yapay zekâ hisseleri ve Fed: dünya borsaları neden bu kadar düştü?",
+    "spot": "Bir haftada hisse senetlerinden altına, kriptodan Borsa İstanbul'a pek çok varlık birden değer kaybetti. Nedenler birbirine bağlı.",
+    "paragraflar": [
+      "Bu haftanın en büyük haberi ABD borsalarındaki sert düşüş oldu. Cuma günü Nasdaq endeksi %5'ten fazla geriledi; S&P 500 ve Dow endeksleri zirvelerinden %10'dan fazla aşağı inerek düzeltme bölgesine girdi.",
+      "Düşüşün birinci nedeni yapay zekâ şirketlerine yönelik endişeler. Bu şirketlerin hisseleri çok yükselmişti; yatırımcılar şimdi bu değerlerin haklı olup olmadığını sorguluyor. Rekor büyüklükte işlem gören Anthropic halka arzı bile piyasaları toparlayamadı.",
+      "İkinci neden Fed. ABD Merkez Bankası yetkilileri enflasyon yüksek kalırsa faizi artırmak gerekebileceğini söyledi. Faiz artınca hisse senedi ve altın gibi varlıkların cazibesi azalır, dolar güçlenir. Dolar endeksi Nisan 2025'ten bu yana en yüksek seviyesine yaklaştı.",
+      "Bunun sonucu olarak ons altın haftada yaklaşık %8,9 düştü; gram altın 6.000 liranın üzerinden 5.779 liraya indi. Bitcoin dört ayın en düşük seviyesine geriledi.",
+      "Türkiye'de BIST 100 Cuma günü %2,36 düşerek haftayı %6,01 kayıpla kapattı. Türkiye'nin 5 yıllık CDS'i de 250 baz puanın üzerine çıktı. Bu rakam, ülkenin borçlanma riskinin piyasada nasıl fiyatlandığını gösterir.",
+      "Cebine etkisi şu: yatırım fonu, hisse ya da altın tutuyorsan bu hafta portföyün değer kaybetmiş olabilir. Dalgalanmalar sürebilir; kısa vadeli rakamlara bakarak panik kararlar yerine kendi vadene ve ihtiyacına göre düşünmek mantıklı olabilir. Bu bir yatırım tavsiyesi değildir."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Düzeltme",
+        "metin": "Bir endeksin zirvesinden %10 ya da daha fazla düşmesine 'düzeltme' denir. Yani fiyatlar yükselirken bir süre geri çekiliyor demektir; düzeltmenin sonrasında ne olacağı belli değildir."
+      },
+      {
+        "baslik": "Bu ne demek? CDS (risk primi)",
+        "metin": "CDS, bir ülkenin borcunu ödeyememe riskine karşı alınan sigortanın fiyatıdır. Yükseldiği zaman ülkeye borç verenler daha yüksek faiz isteyebilir."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Dünya · Piyasalar",
+      "baslik": "Küresel piyasalar Fed ve yapay zekâ kaynaklı satış baskısı altında",
+      "metin": "Fed'in ilave sıkılaşmaya gidebileceği beklentisi ve yapay zekâ değerlemeleri endişesi küresel piyasalarda yoğun satışa yol açtı. S&P 500 üst üste altıncı gününü düşüşle tamamladı (Perşembe).",
+      "etki": "Yurt dışı hisse ve fon tutanların portföyü değer kaybetmiş olabilir; dalgalanma Türkiye piyasalarına da yansıyabilir.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/piyasalar-fed-ve-yapay-zeka-kaynakli-satis-baskisi-altinda-/4131959"
+      }
+    },
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "BIST 100 haftayı %6,01 düşüşle 11.131 puanda kapattı",
+      "metin": "BIST 100 endeksi Cuma günü %2,36 düşüşle 11.131,32 puandan kapandı; endeks hafta içinde 11.102 puana kadar indi. Perşembe kapanışı 11.400,09 puandı (Habertürk).",
+      "etki": "Borsa fonu ya da hisse tutanlar için haftalık değer kaybı anlamına gelir; kısa vadeli dalgalanma beklenen bir durumdur.",
+      "kaynak": {
+        "ad": "Haberler.com",
+        "url": "https://www.haberler.com/ekonomi/bist-100-haftayi-yuzde-6-01-dususle-11-131-32-20447092-haberi/"
+      }
+    },
+    {
+      "etiket": "Altın",
+      "baslik": "Altında sekiz ayın en sert haftalık düşüşü",
+      "metin": "Ons altın güçlü dolar ve Fed'in aralıkta faiz artırabileceği beklentisiyle haftada yaklaşık %8,9 değer kaybetti; Mart'tan bu yana en sert düşüş.",
+      "etki": "Gram altın Cuma sabahı 5.779 lirayla bir hafta öncesine göre belirgin biçimde düşük; altın tutanların değeri azaldı.",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/altinda-sekiz-ayin-en-sert-haftalik-dususu-3928677"
+      }
+    },
+    {
+      "etiket": "Türkiye · Akaryakıt",
+      "baslik": "Motorinde 6,58 lira indirim; benzine de indirim bekleniyor",
+      "metin": "Motorin litre fiyatı 20 Kasım'dan itibaren 6,58 lira düştü ve İstanbul'da 90 liranın altına indi. Benzinde 21 Kasım'dan geçerli 1,86 liralık indirimle İstanbul'da litre fiyatının 69,44 liraya inmesi bekleniyor.",
+      "etki": "50 litrelik bir depo motorinde 329 lira ucuzladı; ulaşım ve nakliye maliyetlerine olumlu yansıyabilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/akaryakitta-tabelalar-degisti-motorin-90-tlnin-altina-indi-g42240"
+      }
+    },
+    {
+      "etiket": "Türkiye · Konut",
+      "baslik": "Konut fiyatlarındaki yıllık artış 77 ayın en düşüğünde",
+      "metin": "Konut fiyatları ekimde yıllık %21,1 arttı. Enflasyon düşüldüğünde reel satılık konut fiyatları %9, reel kiralar %5,4 geriledi; satılık konut talebi yıllık %17,1 azaldı.",
+      "etki": "Ev almayı düşünenler için fiyat artışı yavaşlıyor; ancak kredi faizleri yüksek olduğu için talep de düşük.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusuk-seviyesinde-963794.html"
+      }
+    },
+    {
+      "etiket": "Türkiye · Borç",
+      "baslik": "Dış borç stoku üçüncü çeyrekte 549,2 milyar dolara çıktı",
+      "metin": "Brüt dış borç stoku çeyreklik bazda %1,4 arttı; borcun 322,2 milyar doları özel, 203,8 milyar doları kamu sektöründe. Borçların %48,9'u dolar cinsinden.",
+      "etki": "Dolar kuru yükseldikçe dolar borcu olan şirketlerin ve devletin yükü artar; bu da dolaylı olarak ekonomiyi etkiler.",
+      "kaynak": {
+        "ad": "AA",
+        "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-turkiye-dis-borc-istatistiklerini-yayimladi/4131853"
+      }
+    },
+    {
+      "etiket": "Türkiye · Risk",
+      "baslik": "Türkiye'nin risk primi yeniden 250 baz puanın üzerinde",
+      "metin": "5 yıllık CDS, 232 baz puana kadar gerilemişti; 6 Kasım'dan bu yana ilk kez 250'nin üzerine çıktı.",
+      "etki": "Risk primi yükselirse ülkenin dışarıdan borçlanma maliyeti artabilir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/ekonomi/turkiyenin-risk-primi-yeniden-250-baz-puanin-uzerine-cikti-haberi-932423"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay zekâ · Borsa",
+      "baslik": "Anthropic'in rekor halka arzı piyasadaki satışı durduramadı",
+      "metin": "Anthropic halka arzı 81,3 milyar dolarla tarihin en büyük halka arzları arasına girdi; ancak ABD borsaları aynı günlerde sert düştü.",
+      "neden": "Yapay zekâ şirketlerinin değerlemeleri küresel piyasaların yönünü belirleyen ana konulardan biri haline geldi.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/piyasalar/tarihin-en-buyuk-10-halka-arzi-anthropic-813-milyar-dolarla-rekor-kirdi-g42270"
+      }
+    },
+    {
+      "etiket": "Çip · Soruşturma",
+      "baslik": "ABD'de Nvidia hakkında soruşturma açıldığı bildirildi",
+      "metin": "Bloomberg HT'ye göre, Nvidia'nın eski CEO'su Jensen Huang'ın görevinden ayrılmasının ardından şirketin yarı iletken teknolojilerinin Çin'e geçip geçmediği araştırılıyor.",
+      "neden": "Dünyanın en değerli çip şirketlerinden birine yönelik soruşturma teknoloji hisselerindeki baskıyı artırabilir. Bu bir iddia ve soruşturma haberidir; sonuç belli değildir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/abd-de-nvidia-sorusturmasi-3795229"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Düşen hafta, sakin kafa",
+      "paragraflar": [
+        "Bu hafta ekranlardaki kırmızı rakamlar çok oldu. Borsa düştü, altın düştü, kripto düştü. Böyle haftalarda insan hemen bir şey yapmak ister.",
+        "Oysa fiyatların kısa sürede ne yapacağını kimse bilmiyor. Uzmanların görüşleri de bu hafta birbirinden çok farklıydı; kimi düşüşün sürebileceğini, kimi uzun vadede toparlanma gelebileceğini söyledi.",
+        "Cumartesi sabahı çay eşliğinde yapılacak en iyi iş, kendi bütçene ve vadene bakmak: Ne kadarı yakın zamanda lazım olacak, ne kadarı uzun vadeli? Panik yerine bu soruya cevap vermek çoğu zaman daha akıllıca."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Aynı hikâyenin farklı yüzleri",
+      "paragraflar": [
+        "Bu hafta hisse, altın ve Bitcoin aynı yöne gitti. Sebep ortak: Fed'in faizi artırabileceği beklentisi ve yapay zekâ hisselerindeki endişe.",
+        "Önümüzdeki haftalarda izlenecek başlıca başlıklar: Fed yetkililerinin açıklamaları, dolar endeksinin seyri, yapay zekâ şirketlerinin haberleri ve Türkiye'nin risk primi (CDS)."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Düşüşte gelen 'garanti kazanç' mesajlarına dikkat",
+      "paragraflar": [
+        "Piyasa karışık olduğunda dolandırıcılar da harekete geçer. 'Düşüşü fırsata çevir, garanti kazanç' diyen mesajlar tipik bir tuzaktır.",
+        "Garanti getiri vaat eden, acele ettiren ve kişisel bilgi ya da para isteyen her teklif şüpheli sayılmalı. Yatırım için yalnızca lisanslı kurumların resmi kanallarını kullanmak güvenli yoldur."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Fed'in sıkılaşma beklentisi yumuşarsa dolar gevşeyebilir ve altın ile hisseler toparlayabilir.",
+      "Petrol fiyatı gerilemeyi sürdürürse akaryakıt ve enflasyon baskısı azalabilir."
+    ],
+    "olumsuz": [
+      "Fed faizi artırırsa dolar daha da güçlenebilir; gelişen ülke piyasalarından çıkış baskısı artabilir.",
+      "Yapay zekâ hisselerindeki satış sürerse küresel borsalar daha da değer kaybedebilir; Türkiye'nin risk primi yükselmeye devam edebilir."
+    ],
+    "riskler": "Orta Doğu'daki gerilim (Husilerin Riyad saldırısı, Hürmüz Boğazı) petrolü yukarı çekebilir; bu da enflasyon ve akaryakıt fiyatları için risk yaratır.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Çar 9 Aralık",
+      "olay": "Fed faiz kararı, Türkiye saatiyle 22.00 (Ekonomist, Uzmanpara)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 10 Aralık",
+      "olay": "TCMB yılın son Para Politikası Kurulu toplantısı (QNB Invest)",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Risk primi (CDS)",
+      "aciklama": "Bir ülkenin borcunu ödeyememe riskine karşı alınan sigortanın fiyatı. Yükselirse ülke dışarıdan daha pahalı borçlanır."
+    },
+    {
+      "terim": "Güvenli liman",
+      "aciklama": "Piyasalar karıştığında insanların parasını sakladığı varlık, genellikle dolar gibi. Talep artarsa fiyatı yükselir."
+    },
+    {
+      "terim": "Likidite",
+      "aciklama": "Piyasada alıp satmak için ne kadar para ve alıcı olduğu; azalırsa fiyatlar daha sert oynayabilir."
+    },
+    {
+      "terim": "Dış borç stoku",
+      "aciklama": "Bir ülkenin yurt dışına olan toplam borcu."
+    }
+  ],
+  "karikatur": {
+    "baslik": "Kırmızı Hafta",
+    "dayanak": "Dayanak: Yapay zekâ ve Fed endişesiyle borsalar haftayı sert düşüşle kapattı; BIST 100 haftalık %6,01 kaybetti (Habertürk, AA).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "gazete",
+            "efekt": "sok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Borsa haftayı yüzde 6 kayıpla kapatmış, Kemal!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Zeynep, ekran kırmızı mı?"
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Kırmızı değil, bordo oldu artık."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "kafa-kasi",
+            "efekt": "ter"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Altın da düşmüş, kripto da, hisse de..."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "sag",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Benim çay hep aynı fiyatta kalıyor, en azından o istikrarlı."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Düşüşte 'garanti kazanç' diyene dikkat, dolandırıcıdır."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Tamam kızım, ben sadece çay içeceğim."
+          }
+        ]
+      }
+    ]
+  },
+  "teyitNotlari": [
+    "Borsa İstanbul'un Cuma kapanışı (11.131,32; %2,36; haftalık %6,01) arama özetindeki haber sitelerine dayanıyor; Perşembe kapanışı (11.400,09, Habertürk) ile fark (268,77 puan) tutarlı. TRT/AA sayfaları bu oturumda açılamadı.",
+    "S&P 500 (6.910,39) ve Nasdaq (22.617,73) Cuma kapanışı yalnızca arama özetinden alındı (tek kaynak); düzeltme bölgesine girildiği CNBC, CNN ve Nikkei başlıklarında teyit edildi. Perşembe-Cuma düşüş oranları 18 Kasım kapanışlarıyla (7.323,63 ve 24.429,88) tutarlı.",
+    "ABD 10 yıllık tahvil faizi ve Dow Jones için güncel Cuma değeri bulunamadı; tabloda yoktur.",
+    "Ons altın (yaklaşık 3.500 $) ve gram altın (5.779 TL) Cuma sabahı değerleridir; Cuma kapanışı teyit edilemedi. Gram altın: Bloomberg HT ve TRT Haber aynı değeri verdi. Çeyrek altın tabloya alınmadı. Ons altının haftalık %8,9 düşüşü Habertürk'e dayanıyor.",
+    "Brent petrol 92,77 $ Cuma sabahı değeridir (CNBC-e; Bloomberg HT yaklaşık 93 $). Cuma kapanışı bulunamadı.",
+    "Dolar/TL ve Euro/TL TCMB 19 Kasım bülteni değerleridir; Cuma kapanışı teyit edilemedi. Bloomberg HT Cuma sabahı dolar 50,5783, euro 55,6035 verdi. Euro tek kaynak (TCMB). ECB referansı dolar için 50,468 ile örtüşüyor.",
+    "Bitcoin 62.157 $ CoinGecko otomatik verisidir (Cuma öğle); CNBC-e ve Ekonomim sabah 61.500 $ altına indiğini yazdı. Gümüş ve Ethereum tabloya alınmadı.",
+    "TCMB politika faizinin %36 olması önceki sayılarımıza dayanıyor; TCMB sayfası açılamadı.",
+    "Arsa ve otomobil beklentileri için yeni kurum tahmini bulunamadı; 14 Kasım sayısındaki son verilerle (TOKİ, ODMD) aktarıldı. Politika faizi beklentisi de 14 Kasım'daki TCMB anketine dayanıyor.",
+    "TCMB'nin 10 Aralık PPK tarihi QNB Invest takvimine dayanıyor; resmî TCMB takvimi doğrulanamadı. Fed'in 9 Aralık kararı Ekonomist ve Uzmanpara'da aynı.",
+    "Haber siteleri WebFetch ile açılamadığı için haberler haberler.json ve arama sonuçlarıyla doğrulandı.",
+    "Nvidia soruşturması haberi Bloomberg HT özetine ve BBC Business başlığına dayanıyor; ayrıntı yazılmadı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "AA – Küresel piyasalar Fed ve yapay zekâ kaynaklı satış baskısı altında",
+      "url": "https://www.aa.com.tr/tr/ekonomi/piyasalar-fed-ve-yapay-zeka-kaynakli-satis-baskisi-altinda-/4131959"
+    },
+    {
+      "baslik": "Haberler.com – BIST 100 haftayı %6,01 düşüşle 11.131 puanda kapattı",
+      "url": "https://www.haberler.com/ekonomi/bist-100-haftayi-yuzde-6-01-dususle-11-131-32-20447092-haberi/"
+    },
+    {
+      "baslik": "Habertürk – Altında sekiz ayın en sert haftalık düşüşü",
+      "url": "https://www.haberturk.com/ekonomi/altinda-sekiz-ayin-en-sert-haftalik-dususu-3928677"
+    },
+    {
+      "baslik": "CNBC-e – Motorinde 6,58 lira indirim; benzine de indirim bekleniyor",
+      "url": "https://www.cnbce.com/haberler/akaryakitta-tabelalar-degisti-motorin-90-tlnin-altina-indi-g42240"
+    },
+    {
+      "baslik": "TRT Haber – Konut fiyatlarındaki yıllık artış 77 ayın en düşüğünde",
+      "url": "https://www.trthaber.com/haber/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusuk-seviyesinde-963794.html"
+    },
+    {
+      "baslik": "AA – Dış borç stoku üçüncü çeyrekte 549,2 milyar dolara çıktı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-turkiye-dis-borc-istatistiklerini-yayimladi/4131853"
+    },
+    {
+      "baslik": "Ekonomim – Türkiye'nin risk primi yeniden 250 baz puanın üzerinde",
+      "url": "https://www.ekonomim.com/ekonomi/turkiyenin-risk-primi-yeniden-250-baz-puanin-uzerine-cikti-haberi-932423"
+    },
+    {
+      "baslik": "CNBC-e – Anthropic'in rekor halka arzı piyasadaki satışı durduramadı",
+      "url": "https://www.cnbce.com/piyasalar/tarihin-en-buyuk-10-halka-arzi-anthropic-813-milyar-dolarla-rekor-kirdi-g42270"
+    },
+    {
+      "baslik": "Bloomberg HT – ABD'de Nvidia hakkında soruşturma açıldığı bildirildi",
+      "url": "https://www.bloomberght.com/abd-de-nvidia-sorusturmasi-3795229"
+    },
+    {
+      "baslik": "CNBC-e – Altın",
+      "url": "https://www.cnbce.com/altin/altin-ve-gumuste-tablo-degisiyor-biri-digerinden-daha-gec-toparlanabilir-g42247"
+    },
+    {
+      "baslik": "TRT Haber – Arsa",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "CNBC-e – Otomobil (sıfır ve ikinci el)",
+      "url": "https://www.cnbce.com/otomotiv/turkiyede-otomobil-satislari-sert-dustu-ekim-ayinda-dikkat-ceken-tablo-g40873"
+    },
+    {
+      "baslik": "CNBC-e – Borsa İstanbul",
+      "url": "https://www.cnbce.com/borsa/uzman-isimden-borsa-istanbul-icin-12-bin-puan-tahmini-dipten-donus-ne-zaman-g42269"
+    },
+    {
+      "baslik": "CNBC-e – Politika faizi ve mevduat",
+      "url": "https://www.cnbce.com/veriler/piyasa-katilimcilari-anketi-yil-sonu-enflasyonu-tahmini-yuzde-30-asti-h41724"
+    },
+    {
+      "baslik": "Habertürk – BIST 100 Perşembe kapanışı",
+      "url": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3928606"
+    },
+    {
+      "baslik": "Urfada Bugün – BIST 100 haftayı %6,01 kayıpla tamamladı",
+      "url": "https://www.urfadabugun.com/haber/273068/bist-100-haftayi-yuzde-601-kayipla-tamamladi.html"
+    },
+    {
+      "baslik": "Bloomberg HT – Altında sekiz ayın en sert haftalık kaybı",
+      "url": "https://www.bloomberght.com/altinda-sekiz-ayin-en-sert-haftalik-kaybi-3795205"
+    },
+    {
+      "baslik": "Bloomberg HT – Güncel altın fiyatları 20 Kasım 2026",
+      "url": "https://www.bloomberght.com/guncel-altin-fiyatlari-20-kasim-2026-cuma-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3795248"
+    },
+    {
+      "baslik": "TRT Haber – Altında düşüş sürüyor: gram altın 5.775 lira",
+      "url": "https://www.trthaber.com/haber/ekonomi/altinda-dusus-suruyor-gram-altin-5-bin-775-liradan-islem-goruyor-963923.html"
+    },
+    {
+      "baslik": "Bloomberg HT – Dolar ne kadar oldu? 20 Kasım 2026",
+      "url": "https://www.bloomberght.com/dolar-ne-kadar-oldu-20-kasim-2026-dolar-kurunda-son-durum-ne-pkh2-3795235"
+    },
+    {
+      "baslik": "CNBC-e – Petrol fiyatları Riyad saldırısıyla yükseldi",
+      "url": "https://www.cnbce.com/emtia/petrol-fiyatlari-riyad-saldirisiyla-yukseldi-brent-93-dolara-yaklasti-g42236"
+    },
+    {
+      "baslik": "CNBC-e – Bitcoin'de satış dalgası derinleşti",
+      "url": "https://www.cnbce.com/kripto/bitcoinde-satis-dalgasi-derinlesti-dort-ay-sonra-bir-ilk-h42234"
+    },
+    {
+      "baslik": "Habertürk – New York borsasında Anthropic etkisi",
+      "url": "https://www.haberturk.com/ekonomi/new-york-borsasinda-anthropic-etkisi-sert-dususle-kapandi-3928642"
+    },
+    {
+      "baslik": "CNBC-e – Wall Street'te kara tablo",
+      "url": "https://www.cnbce.com/piyasalar/wall-streette-kara-tablo-anthropic-bile-satis-dalgasini-durduramadi-h42235"
+    },
+    {
+      "baslik": "CNN – Nasdaq wipes out gains for the year",
+      "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"
+    },
+    {
+      "baslik": "CNBC – S&P 500 correction: five forces behind the sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+    },
+    {
+      "baslik": "Dünya – Benzine indirim geliyor",
+      "url": "https://www.dunya.com/enerji/benzine-indirim-geliyor-litre-fiyati-70-liranin-altina-gerileyecek-haberi-848304"
+    },
+    {
+      "baslik": "Dünya – Dış borçta 549 milyar dolar aşıldı",
+      "url": "https://www.dunya.com/ekonomi/dis-borcta-549-milyar-dolar-asildi-iste-borcun-dagilimi-haberi-848294"
+    },
+    {
+      "baslik": "Dünya – Türkiye'nin risk primi kritik seviyeyi test etti",
+      "url": "https://www.dunya.com/ekonomi/turkiyenin-risk-primi-kritik-seviyeyi-test-etti-haberi-848297"
+    },
+    {
+      "baslik": "Habertürk – Konut fiyatlarında artış 77 ayın en düşüğünde",
+      "url": "https://www.haberturk.com/ekonomi/konut-fiyatlarinda-artis-77-ayin-en-dusugunde-3928456"
+    },
+    {
+      "baslik": "CNBC-e – Kiralarda üç büyükşehir ayrıştı",
+      "url": "https://www.cnbce.com/gayrimenkul/kiralarda-uc-buyuksehir-ayristi-satilik-konut-fiyatlarinda-reel-dusus-h42259"
+    },
+    {
+      "baslik": "Bloomberg HT – Fed yetkililerinden şahin mesajlar",
+      "url": "https://www.bloomberght.com/fed-yetkililerinden-enflasyonla-mucadelede-sahin-mesajlar-3795223"
+    },
+    {
+      "baslik": "CNBC-e – Gram altın alacaklar dikkat",
+      "url": "https://www.cnbce.com/altin/gram-altin-alacaklar-dikkat-uzman-isimden-fiyat-ve-vade-uyarisi-g42258"
+    },
+    {
+      "baslik": "Ekonomim – Yıldırımtürk: altında 3200 dolar senaryosu",
+      "url": "https://www.ekonomim.com/finans/haberler/altin/mehmet-ali-yildirimturk-yorumladi-altinda-3200-dolar-senaryosu-gerceklesir-mi-dusus-devam-eder-mi-haberi-932416"
+    }
+  ]
+}
