@@ -1,0 +1,701 @@
+{
+  "tarih": "2026-11-23",
+  "tarihMetni": "23 Kasım 2026, Pazartesi",
+  "sayi": 26,
+  "notlar": "Haftanın ilk sayısı · Piyasalar henüz açılmadı; BIST 100, S&P 500 ve Nasdaq Cuma 20 Kasım kapanışı, TCMB kurları 20 Kasım bülteni, altın ve Bitcoin hafta sonu fiyatları",
+  "gununOzeti": "Yeni haftaya sert bir düşüşün ardından giriyoruz: Borsa İstanbul Cuma günü 11.131 puanda kapandı, ons altın hafta sonunda 14 ayın en düşük seviyesine yakındı. Bugün Kabine emekli refah payını görüşecek; Meclis'te 2027 bütçesi oylanıyor. Cebine etkisi: fon, hisse ya da altın tutuyorsan değerleri dalgalanabilir; maaş ve emekli geliri için bu haftaki kararlar önemli.",
+  "manset": {
+    "ustBaslik": "Yeni Hafta",
+    "baslik": "Yeni haftaya sert düşüşle giriliyor: altın 14 ayın dibine yakın, Kabine emekli refah payını görüşecek",
+    "spot": "Borsalar geçen hafta yapay zekâ endişesi ve Fed'in faiz artırabileceği beklentisiyle sert düştü. Altın ve gümüş Eylül 2025'ten bu yana en düşük seviyeleri gördü. Bugün Kabine toplantısında 17 milyon emekliyi ilgilendiren refah payı düzenlemesi gündemde.",
+    "ozet": [
+      "BIST 100 Cuma günü 11.131,32 puanda kapandı; haftalık kayıp %6,01.",
+      "Ons altın hafta sonu 3.500 dolar civarında; 3.502 dolarla Eylül 2025'ten beri en düşük seviyeyi gördü.",
+      "Kabine bugün toplanıyor; gözler emekli refah payı düzenlemesinde.",
+      "Bitcoin hafta sonu yeniden 60 bin doların üzerine çıktı."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Emekli maaşı",
+      "baslik": "Kabine bugün toplanıyor, gündemde refah payı var",
+      "spot": "Toplantıda 17 milyon emekliyi kapsayacak refah payı düzenlemesinde çalışmanın son durumunun ele alınması bekleniyor. Henüz açıklanmış bir karar yok."
+    },
+    {
+      "ustBaslik": "Konut",
+      "baslik": "İkinci ev alacaklar için kredi sınırı değişti",
+      "spot": "BDDK'nın yeni düzenlemesinin ikinci konut alımında kredi erişimini kolaylaştırması ve konut talebini desteklemesi bekleniyor."
+    },
+    {
+      "ustBaslik": "Esnaf",
+      "baslik": "Halkbank esnafa 20-25 milyar liralık kaynak ayıracak",
+      "spot": "Ticaret Bakanı Bolat, esnaf kredilerinde ekspertiz gibi masrafların da kaldırılacağını duyurdu."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "11.131,32",
+      "degisim": "%2,36",
+      "yon": "down",
+      "neden": "Cuma kapanışı; haftalık kayıp %6,01 (Habertürk ve haber siteleri). Borsa endeksi, borsadaki şirketlerin toplam değer hareketini gösterir; fon ve hisse tutanların portföyü geçen hafta değer kaybetmiş olabilir. Bugün piyasa yeniden açılınca fiyatlar değişebilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,49",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "TCMB 20 Kasım gösterge kuru 50,4936; ECB referansı 50,57. Dolar yavaş yükseliyor; ithal ürün maliyetleri de yavaş yavaş etkilenebilir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,40",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "TCMB 20 Kasım gösterge kuru 55,397; ECB'nin EUR/USD (1,099) ve USD/TRY referansından hesaplanan değer yaklaşık 55,6. Euroyla alışveriş edenler için kur yatay."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "5.754",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "Hesaplanan değer: hafta sonu ons altın × dolar kuru ÷ 31,10 (otomatik veri; tek kaynak). Cuma sabahı serbest piyasada 5.779 liraydı. Altın tutanların değeri geçen hafta düştü; küçük birikimde fiyat dalgalanabilir."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.539",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "Hafta sonu fiyatı (gold-api); Habertürk ve AA altının 3.502 dolarla Eylül 2025'ten beri en düşük seviyeyi gördüğünü yazdı. Güçlü dolar ve Fed'in faiz artırabileceği beklentisi altını aşağı çekti."
+    },
+    {
+      "ad": "Gümüş (ons)",
+      "deger": "41,08",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "Hafta sonu fiyatı (gold-api); Habertürk ve AA gümüşün 40,8 dolarla Eylül 2025'ten beri en düşük seviyeyi gördüğünü yazdı."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "60.803",
+      "degisim": "%4,94",
+      "yon": "up",
+      "neden": "Pazar sabahı (CoinGecko, son 24 saatte %4,94 artış); AA da sert satış dalgasının ardından 60 bin doların üzerine dönüldüğünü yazdı. Kripto fiyatları çok oynaktır; birkaç saatte yön değiştirebilir."
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "6.910,39",
+      "degisim": "%3,7",
+      "yon": "down",
+      "neden": "Cuma kapanışı (arama özeti; tek kaynak). Endeks zirvesinden %10'dan fazla düşerek düzeltme bölgesine girdi. Yurt dışı hisse veya fon tutanlar etkilenebilir."
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "22.617,73",
+      "degisim": "%5,28",
+      "yon": "down",
+      "neden": "Cuma kapanışı (arama özeti; tek kaynak). Teknoloji ağırlıklı endeks yapay zekâ şirketlerine yönelik endişelerle sert düştü."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Kasım Piyasa Katılımcıları Anketi'nde aralık toplantısı için beklenti %35 (CNBC-e).",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. %36 bilgisi önceki sayılarımıza dayanıyor; Merkez Bankası bu hafta yeni karar açıklamadı. Bu kurum beklentisidir, karar değildir."
+    },
+    {
+      "kurum": "Fed (ABD Merkez Bankası)",
+      "mevcut": "Faiz artırımı bekleniyor",
+      "beklenti": "CME FedWatch'a göre 9 Aralık'ta 25 baz puanlık (%0,25) artış olasılığı yüzde 95 civarında fiyatlanıyor (arama sonuçları, 18 Kasım verisi).",
+      "not": "Fed faizi artırırsa dolar güçlenir, Türkiye gibi gelişen ülkelerden çıkış baskısı artabilir. Bu bir beklentidir, karar değildir."
+    },
+    {
+      "kurum": "Türkiye 5 yıllık CDS (risk primi)",
+      "mevcut": "250 baz puan üzeri",
+      "beklenti": "6 Kasım'dan beri ilk kez 250'nin üzerine çıktı (Ekonomim, Dünya).",
+      "not": "CDS, bir ülkenin borcunu ödeyememe riskinin fiyatıdır. Yükselirse dışarıdan borçlanma maliyeti artabilir."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar ve 2027",
+      "ozet": "Uzmanlar kısa vadede düşüşün sürebileceğini, güçlü yükselişin ise 2027'nin ikinci yarısında gelebileceğini söylüyor.",
+      "neden": "Fed faizi artırırsa altın tutmanın cazibesi azalabilir; dolar güçlenince altın dolar cinsinden ucuzlar.",
+      "kimDiyor": "Saxo Bank Emtia Stratejileri Başkanı Ole Hansen, altında olası bir toparlanmanın kalıcı olması için doların seyrinin, tahvil getirilerinin ve küresel risk iştahının belirleyici olacağını söylüyor (Ekonomim, 22 Kasım). Biz Finansal Danışmanlık'tan Murat Özsoy güçlü yükselişi 2027'nin ikinci yarısında görüyor (CNBC-e). Ortak bir yıl sonu tahmini yok.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/finans/haberler/dev-bankadan-altin-tahmini-yukselisin-kaderini-3-faktor-belirleyecek-haberi-932667"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Konut fiyatlarındaki yıllık artış %21,1 ile 77 ayın en düşüğüne indi; reel (enflasyondan arındırılmış) fiyatlar geriliyor, satış talebi düşük.",
+      "neden": "Kredi faizleri yüksek kaldıkça talep zayıf kalabilir; kredi sınırlarının gevşemesi talebi destekleyebilir ama etkisi henüz ölçülmedi.",
+      "kimDiyor": "TCMB Konut Fiyat Endeksi ekim verisi %21,1 artış gösterdi (TRT Haber). Satılık konut talebi ekimde yıllık %17,1 geriledi, reel fiyatlar %9, reel kiralar %5,4 düştü; İstanbul'da reel kira %6,3 arttı (CNBC-e). Açıklanmış yeni bir kurum fiyat tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusuk-seviyesinde-963794.html"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için kurum tahmini yok; en son bulunan gelişme TOKİ'nin 61 ilde 725 arsayı açık artırmayla satışa sunması (14 Kasım sayısındaki veri).",
+      "neden": "Satışa çıkan arsa sayısı arttıkça bölgesel fiyatlar etkilenebilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve 2027",
+      "ozet": "Ekimde otomobil satışları yıllık %28,4 azaldı; düşüşün bir kısmı geçen yılın yüksek tabanından geliyor (son bulunan veri, 14 Kasım sayısından).",
+      "neden": "Taşıt kredisi sınırının yükselmesi talebi destekleyebilir; talep artarsa fiyatlar yukarı yönlü baskı görebilir.",
+      "kimDiyor": "ODMD ekim verisine göre otomobil satışı 64.939 adet oldu, ocak-ekim satışları %16,85 azaldı (CNBC-e). Açıklanmış bir fiyat tahmini yok.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/otomotiv/turkiyede-otomobil-satislari-sert-dustu-ekim-ayinda-dikkat-ceken-tablo-g40873"
+      }
+    },
+    {
+      "konu": "Borsa İstanbul",
+      "yon": "belirsiz",
+      "vade": "Yıl sonuna kadar",
+      "ozet": "Bir analist BIST 100'ün yılı 12 bin puan civarında tamamlamasını olumlu bir tablo olarak görüyor.",
+      "neden": "Satış baskısının temel nedeni likidite sıkışıklığı olarak gösteriliyor; küresel satış dalgası da baskı yaratabilir.",
+      "kimDiyor": "Kuzey Menkul Değerler'den İbrahim Şişman (CNBC-e). Citigroup stratejistleri ise küresel hisse piyasalarında zirve dönemlerini hatırlatan işaretler görüyor ve Avrupa hisselerindeki pozisyonlarını azalttı (Dünya). Bu görüşler tek tek kurumların görüşüdür.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/uzman-isimden-borsa-istanbul-icin-12-bin-puan-tahmini-dipten-donus-ne-zaman-g42269"
+      }
+    },
+    {
+      "konu": "Politika faizi ve mevduat",
+      "yon": "asagi",
+      "vade": "Aralık toplantısı",
+      "ozet": "TCMB anketinde aralık için beklenti %35; yani küçük bir indirim bekleniyor.",
+      "neden": "Faiz inerse mevduat getirileri ve kredi faizleri de zamanla gerileyebilir; Fed artırım yaparsa indirim hızı yavaşlayabilir.",
+      "kimDiyor": "TCMB Piyasa Katılımcıları Anketi (CNBC-e, 14 Kasım sayısındaki veri). Yeni bir kurum tahmini bu hafta bulunamadı.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/veriler/piyasa-katilimcilari-anketi-yil-sonu-enflasyonu-tahmini-yuzde-30-asti-h41724"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Altın ve Gümüş",
+    "baslik": "Altın ve gümüş neden 14 ayın dibine indi?",
+    "spot": "Geçen hafta değerli madenlerde sert satış vardı. Nedenlerin başında güçlü dolar ve Fed'in faizi artırabileceği beklentisi geliyor.",
+    "paragraflar": [
+      "Ons altın hafta sonunda 3.500 dolar civarına indi. Habertürk ve AA'ya göre fiyat 3.502 dolarla Eylül 2025'ten bu yana en düşük seviyeyi gördü. Gümüş de 40,8 dolarla aynı döneme gerilemişti.",
+      "Bir önceki sayıda altının haftada yaklaşık %9 düştüğünü yazmıştık. Bir hafta önce gram altın 6.300 lira civarındaydı; hafta sonu hesaplanan değer 5.754 lira. Fark yaklaşık 550 lira.",
+      "Altın faiz getirmez. Bu yüzden ABD'de faiz artarsa, faiz veren yatırımlar daha cazip görünür. Dolar güçlendiğinde de dolar cinsinden fiyatlanan altın başka para birimleriyle alanlar için pahalılaşır. Bu ikisi birlikte baskı yarattı.",
+      "Saxo Bank'tan Ole Hansen, olası bir toparlanmanın kalıcı olması için doların seyrine, tahvil getirilerine ve küresel risk iştahına bakılması gerektiğini söylüyor. Yani düşüşün ne zaman biteceği konusunda ortak bir tahmin yok.",
+      "Cebine etkisi: Altın tutanlar için değer kaybı yaşandı. Altın alım satımı yapmadan önce fiyatların kısa sürede hem iniş hem çıkış yapabildiğini bilmek faydalı. Bu yazı yatırım tavsiyesi değil, geçen haftanın özetidir."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Baz puan",
+        "metin": "Bir baz puan, yüzde birin yüzde biridir (%0,01). 25 baz puan, %0,25 demektir. Fed'in faizi 25 baz puan artırması, faizin çeyrek puan yükselmesi anlamına gelir."
+      },
+      {
+        "baslik": "Bu ne demek? Düzeltme bölgesi",
+        "metin": "Bir endeksin zirvesinden %10 veya daha fazla düşmesine düzeltme denir. Bu, düşüşün büyüdüğünü gösterir ama her zaman uzun süre devam edeceği anlamına gelmez."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Emekli",
+      "baslik": "Kabine bugün toplanıyor, gözler refah payında",
+      "metin": "Cumhurbaşkanlığı Kabinesi bugün Beştepe'de toplanacak. Toplantıda 17 milyon emekliyi kapsayacak refah payı düzenlemesinde çalışmanın geldiği son durumun ele alınması bekleniyor. Henüz açıklanmış bir karar yok.",
+      "etki": "Emekliysen ya da emekli yakının varsa maaş artışına dair netlik bu haftanın konuşulan başlıklarından olabilir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/gundem/kabine-yarin-toplanacak-iste-one-cikan-gundem-basliklari-haberi-932688"
+      }
+    },
+    {
+      "etiket": "Dünya · Altın",
+      "baslik": "Altın ve gümüş 14 ayın en düşük seviyesini gördü",
+      "metin": "Ons altın 3.502 dolara, gümüş 40,8 dolara kadar geriledi; her ikisi de Eylül 2025'ten bu yana en düşük seviyeler. AA, güçlü dolar ve faiz artırımı endişelerinin emtia piyasasındaki satış baskısını derinleştirdiğini yazdı.",
+      "etki": "Altın tutanların portföy değeri geçen hafta düştü; fiyatlar kısa vadede dalgalı kalabilir.",
+      "kaynak": {
+        "ad": "Habertürk Ekonomi",
+        "url": "https://www.haberturk.com/ekonomi/altin-ve-gumus-14-ayin-dibini-gordu-3929178"
+      }
+    },
+    {
+      "etiket": "Türkiye · Konut",
+      "baslik": "BDDK'nın ikinci konut düzenlemesi talebi destekleyebilir",
+      "metin": "AA'ya göre BDDK'nın ikinci konut alımına yönelik kredi sınırlamasını değiştiren düzenlemesinin finansmana erişimi kolaylaştırması ve konut talebini desteklemesi bekleniyor.",
+      "etki": "İkinci ev düşünenler için banka kredisine erişim kolaylaşabilir; faiz oranları ise bankadan bankaya değişir.",
+      "kaynak": {
+        "ad": "AA Ekonomi",
+        "url": "https://www.aa.com.tr/tr/ekonomi/bddknin-yeni-duzenlemesi-ikinci-konut-aliminda-finansmana-erisimi-kolaylastiracak/4132733"
+      }
+    },
+    {
+      "etiket": "Türkiye · Esnaf",
+      "baslik": "Halkbank esnafa 20-25 milyar liralık kaynak ayıracak",
+      "metin": "Ticaret Bakanı Ömer Bolat, Halkbank'ın esnafın bekleyen kredi başvuruları için 20-25 milyar liralık kaynak sağlayacağını açıkladı. Halkbank üzerinden kullandırılan esnaf kredilerinde ekspertiz raporu gideri gibi kesinti ve masrafların da kaldırılacağını duyurdu.",
+      "etki": "Esnaf kredi başvurusu yapacaksa masraf kalemleri azalabilir; ayrıntılar bankanın duyurularından takip edilmeli.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/esnafa-kredi-muslugu-aciliyor-hem-yeni-kaynak-hem-masrafsiz-kredi-adimi-h42336"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fonlar",
+      "baslik": "Moody's: Türkiye'deki fon gelişmeleri sistemik risk değil",
+      "metin": "Moody's yetkilisi Alexander Perjessy, tasfiye sürecindeki fonlarla ilgili gelişmelerin sistemik bir risk oluşturmasını beklemediklerini, bunun kredi notunu etkilemesinin olası görünmediğini söyledi. MASAK'ın Gildencrest Capital hakkında rapor hazırladığı da bildirildi.",
+      "etki": "Fon tutuyorsan, fonun ne içerdiğini ve kimin yönettiğini öğrenmek önemli; kredi notu üzerinde etki beklenmiyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/moody-s-turkiye-deki-fon-gelismeleri-sistemik-risk-olusturmuyor-3795365"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fonlar",
+      "baslik": "Yatırım fonları haftayı ortalama %1,03 kayıpla kapattı",
+      "metin": "CNBC-e'ye göre yatırım fonları geçen hafta ortalama %1,03 kaybetti. Bazı fonlarda yükseliş %37'ye, düşüş %59'a ulaştı. Para piyasası fonları pozitif ayrıştı, kıymetli maden fonları en çok kaybettiren kategori oldu.",
+      "etki": "Aynı hafta içinde fonlar arasında çok büyük fark olabiliyor; fonun hangi varlıklara yatırım yaptığına bakmak gerekiyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/fonlarda-sert-ayrisma-ayni-haftada-yuzde-37-yukselis-yuzde-59-dusus-g42338"
+      }
+    },
+    {
+      "etiket": "Dünya · Gelişen piyasalar",
+      "baslik": "Gelişen piyasa hisseleri ayı piyasasına girdi",
+      "metin": "MSCI gelişmekte olan piyasalar endeksi art arda yedinci gün düşerek Haziran'daki zirvesinden bu yana %21 değer kaybetti. Bu seviye 'ayı piyasası' olarak adlandırılıyor (zirveden %20 veya daha fazla düşüş).",
+      "etki": "Türkiye'nin de içinde olduğu gelişen ülke borsalarına yabancı ilgisi zayıf kalabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/gelisen-piyasa-hisseleri-ayi-piyasasina-girdi-3795369"
+      }
+    },
+    {
+      "etiket": "Türkiye · Meclis",
+      "baslik": "Meclis'te bu hafta 2027 bütçesi oylanıyor",
+      "metin": "TBMM'de bu hafta bütçe görüşmeleri ve yabancı dijital konaklama platformlarına yönelik düzenleme gündemde. Cuma günü Cumhurbaşkanlığı bütçesi ile 2027 bütçe teklifinin maddeleri oylanacak.",
+      "etki": "Bütçe, vergi ve kamu harcamalarının yönünü belirler; ayrıntılar haftanın ilerleyen günlerinde netleşecek.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/gundem/tbmmde-bu-hafta-yogun-gundem-butce-ve-booking-duzenlemesi-masada-haberi-932659"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Teknoloji · Borsa",
+      "baslik": "Anthropic'in halka arzı piyasadaki teknoloji satışını durduramadı",
+      "metin": "CNBC-e'ye göre Anthropic, 93,5 milyar dolarlık rekor halka arzla borsaya çıktı; ancak şirketin ilk haftası Nvidia'nın sert düşüşü ve Nasdaq'taki yaklaşık %10'luk kayıpla gölgelendi.",
+      "neden": "Yapay zekâ şirketlerinin değerlemelerine yönelik endişeler, hisse ve fon tutanları da etkiliyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/anthropicin-tarihi-halka-arzi-rekor-halka-arzin-golgesinde-teknolojide-kara-hafta-g42347"
+      }
+    },
+    {
+      "etiket": "Teknoloji · Güvenlik",
+      "baslik": "Japonya'da 11 milyon kişinin bilgileri sızdırıldı",
+      "metin": "Ekonomim'e göre Japonya'da büyük bir veri sızıntısında 11 milyon kişinin bilgileri ele geçirildi.",
+      "neden": "Sızıntılar dolandırıcılığa zemin hazırlayabilir; tanımadığın kişilerden gelen mesaj ve bağlantılara karşı dikkatli olmak gerekir.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/dunya/japonyada-buyuk-veri-sizintisi-11-milyon-kisinin-bilgileri-ele-gecirildi-haberi-932679"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Düşüşün ertesi sabahı",
+      "paragraflar": [
+        "Geçen hafta ekranlar kırmızıydı. Borsa %6, altın yaklaşık %9 değer kaybetti; Bitcoin ise 60 bin dolar çevresinde dalgalandı.",
+        "Böyle haftalardan sonra insan ya hemen bir şey yapmak ister ya da hiç bakmak istemez. İkisi de insani bir tepki. Ama kararları ekrandaki renge göre değil, kendi bütçene ve vadene göre vermek daha sağlıklı olabilir.",
+        "Bu sayfa tavsiye vermez; yalnızca neyin neden olduğunu anlatır. Bugün Kabine ve Meclis gündemi de var; bunları da sakin sakin izleyeceğiz."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Bu hafta hangi rakamlara bakmalı?",
+      "paragraflar": [
+        "Dolar, tahvil getirileri ve Fed beklentisi altının yönünü belirleyen üç başlık olarak öne çıkıyor. Bunlar birbirine bağlı: Fed'in faiz artırımı beklentisi doları güçlendirdi, güçlü dolar altını baskıladı.",
+        "Borsa tarafında ise küresel satışın sürüp sürmediği önemli. MSCI gelişen piyasalar endeksinin ayı piyasasına girmesi, yabancı ilgisinin zayıf kalabileceğini gösteriyor.",
+        "Fed'in 9 Aralık kararı ve TCMB'nin aralık toplantısı takvimde duruyor. O güne kadar fiyatlar beklentilerle hareket edebilir."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Fon seçerken neye bakılır?",
+      "paragraflar": [
+        "Geçen hafta bazı fonlar %37 kazandırırken bazıları %59 kaybettirdi. Aynı hafta, çok farklı sonuçlar. Fonun neye yatırım yaptığı bu farkı yaratıyor.",
+        "Fon kuruluş belgesinden fonun hangi varlıklara yatırım yaptığını, riskini ve kimin yönettiğini okuyabilirsin. 'Garanti getiri' vaat eden her teklif dolandırıcılık işareti olabilir.",
+        "Bütçeni yaparken acil durum birikimini oynak varlıklardan ayrı düşünmek faydalı olabilir."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Fed faiz artırımı beklentisi yumuşarsa dolar zayıflayabilir ve altın toparlanabilir.",
+      "Kabine'den emekli refah payına dair net bir açıklama gelirse belirsizlik azalabilir.",
+      "Küresel hisse satışı durursa borsalar dengelenebilir."
+    ],
+    "olumsuz": [
+      "Fed faizi artırırsa dolar güçlenebilir; altın ve gelişen ülke borsaları üzerindeki baskı sürebilir.",
+      "Yapay zekâ hisselerindeki satış yaygınlaşırsa küresel borsalar yeniden düşebilir.",
+      "Türkiye'nin risk primi yükselirse dış borçlanma maliyeti artabilir."
+    ],
+    "riskler": "Hafta sonu fiyatları piyasalar açıldığında hızla değişebilir; Orta Doğu'daki gerilim ve ABD-İran görüşmeleri de enerji fiyatlarını etkileyebilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Pzt 23 Kasım",
+      "olay": "Kabine toplantısı; gündemde emekli refah payı (Ekonomim)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Cum 27 Kasım",
+      "olay": "TBMM Genel Kurulu'nda Cumhurbaşkanlığı bütçesi ve 2027 bütçe teklifinin maddeleri oylanacak (Ekonomim)",
+      "onem": "orta"
+    },
+    {
+      "gun": "Çar 9 Aralık",
+      "olay": "Fed faiz kararı, Türkiye saatiyle 22.00 (Ekonomist, Uzmanpara)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 10 Aralık",
+      "olay": "TCMB yılın son Para Politikası Kurulu toplantısı (QNB Invest)",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Ayı piyasası",
+      "aciklama": "Bir borsa endeksinin zirvesinden %20 veya daha fazla düşmesi. Fiyatların uzun süre düşük kalabildiği dönemi anlatır."
+    },
+    {
+      "terim": "Düzeltme",
+      "aciklama": "Bir endeksin zirvesinden %10 veya daha fazla gerilemesi. Ayı piyasasından daha hafif bir düşüş sayılır."
+    },
+    {
+      "terim": "Refah payı",
+      "aciklama": "Emekli maaşlarına, enflasyon artışının üzerine eklenen ek artış."
+    },
+    {
+      "terim": "Baz puan",
+      "aciklama": "Faiz oranlarındaki küçük değişimi ölçen birim. 100 baz puan, yüzde 1 puana eşittir."
+    }
+  ],
+  "karikatur": {
+    "baslik": "Pazartesi Sendromu",
+    "dayanak": "Dayanak: Borsa Cuma günü %2,36, haftada %6,01 düştü; fonlar haftayı ortalama %1,03 kayıpla kapattı (Habertürk, CNBC-e).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Pazartesi sabahı, hafta sonu fiyatlara bakmaya korkuyorum."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "normal",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "soru"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Zeynep, borsa haftayı yüzde 6 kapatmış, duydun mu?"
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Duymaz olur muyum, ekran bana bakıyor."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "gazete",
+            "efekt": "sok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Fonlar da ortalama yüzde 1 düşmüş, ben ne yapacağım?"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "sag",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Amca, çayın fiyatı grafik gibi inip çıkmıyor, sakin ol."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "unlem"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "gazete",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Garanti kazanç diyene de güvenme, o çaydan bile tehlikeli."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "Tamam kızım, bugün sadece haber okuyorum."
+          }
+        ]
+      }
+    ]
+  },
+  "teyitNotlari": [
+    "Piyasalar hafta sonu kapalıydı: BIST 100 (11.131,32; %2,36; haftalık %6,01), S&P 500 (6.910,39) ve Nasdaq (22.617,73) Cuma kapanışı bir önceki sayıdan taşındı; bu sabah yeniden doğrulanamadı. S&P ve Nasdaq tek kaynaklı (arama özeti).",
+    "Dolar/TL (50,4936) ve Euro/TL (55,397) TCMB 20 Kasım bülteni değerleridir; Cuma kapanışı teyit edilemedi. ECB referansı dolar için 50,57 verdi (fark yaklaşık %0,15).",
+    "Ons altın (3.539 $), gümüş (41,08 $) ve Bitcoin (60.803 $) otomatik veriden (gold-api, CoinGecko) alındı; Habertürk/AA altın için 3.502 $, gümüş için 40,8 $ tabanını verdi, AA Bitcoin için 60 bin $ üzerini doğruladı. Gram altın (5.754 TL) hesaplanmış değerdir (tek kaynak). Cuma kapanışı teyit edilemedi.",
+    "Brent petrol, ABD 10 yıllık tahvil faizi ve çeyrek altın için güncel değer bulunamadığından tabloda yoktur.",
+    "BDDK'nın ikinci konut düzenlemesinin ayrıntıları (oranlar) teyit edilemedi; haber yalnızca AA'nın özetine dayanıyor, Kasım 2026'ya ait ek bir arama sonucu bulunamadı.",
+    "Fed'in aralıkta faiz artırma olasılığı (%95 civarı) arama sonuçlarındaki CME FedWatch aktarımına dayanıyor, resmî kaynak değildir. TCMB'nin 10 Aralık toplantı tarihi QNB Invest takvimine dayanıyor; resmî TCMB takvimi doğrulanamadı.",
+    "TCMB politika faizinin %36 olması önceki sayılarımıza dayanıyor; TCMB sayfası açılamadı. CDS değeri bir önceki sayıdan taşındı.",
+    "Konut, arsa, otomobil ve borsa beklentileri için yeni kurum tahmini bulunamadı; bir önceki sayıdaki son verilerle aktarıldı.",
+    "Haber siteleri WebFetch ile açılamadığı için haberler haberler.json özetleriyle doğrulandı."
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Ekonomim – kabine-yarin-toplanacak-iste-one-cikan-gundem-basliklari-hab",
+      "url": "https://www.ekonomim.com/gundem/kabine-yarin-toplanacak-iste-one-cikan-gundem-basliklari-haberi-932688"
+    },
+    {
+      "baslik": "Habertürk Ekonomi – altin-ve-gumus-14-ayin-dibini-gordu-3929178",
+      "url": "https://www.haberturk.com/ekonomi/altin-ve-gumus-14-ayin-dibini-gordu-3929178"
+    },
+    {
+      "baslik": "AA Ekonomi – 4133375",
+      "url": "https://www.aa.com.tr/tr/ekonomi/dolarin-guclenmesi-ve-faiz-artirim-endiseleri-emtia-piyasasindaki-satis-baskisini-derinlestirdi/4133375"
+    },
+    {
+      "baslik": "Ekonomim – dev-bankadan-altin-tahmini-yukselisin-kaderini-3-faktor-beli",
+      "url": "https://www.ekonomim.com/finans/haberler/dev-bankadan-altin-tahmini-yukselisin-kaderini-3-faktor-belirleyecek-haberi-932667"
+    },
+    {
+      "baslik": "AA Ekonomi – 4133256",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti/4133256"
+    },
+    {
+      "baslik": "AA Ekonomi – 4132733",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bddknin-yeni-duzenlemesi-ikinci-konut-aliminda-finansmana-erisimi-kolaylastiracak/4132733"
+    },
+    {
+      "baslik": "CNBC-e – esnafa-kredi-muslugu-aciliyor-hem-yeni-kaynak-hem-masrafsiz-",
+      "url": "https://www.cnbce.com/haberler/esnafa-kredi-muslugu-aciliyor-hem-yeni-kaynak-hem-masrafsiz-kredi-adimi-h42336"
+    },
+    {
+      "baslik": "Bloomberg HT – moody-s-turkiye-deki-fon-gelismeleri-sistemik-risk-olusturmu",
+      "url": "https://www.bloomberght.com/moody-s-turkiye-deki-fon-gelismeleri-sistemik-risk-olusturmuyor-3795365"
+    },
+    {
+      "baslik": "CNBC-e – fonlarda-sert-ayrisma-ayni-haftada-yuzde-37-yukselis-yuzde-5",
+      "url": "https://www.cnbce.com/borsa/fonlarda-sert-ayrisma-ayni-haftada-yuzde-37-yukselis-yuzde-59-dusus-g42338"
+    },
+    {
+      "baslik": "Bloomberg HT – gelisen-piyasa-hisseleri-ayi-piyasasina-girdi-3795369",
+      "url": "https://www.bloomberght.com/gelisen-piyasa-hisseleri-ayi-piyasasina-girdi-3795369"
+    },
+    {
+      "baslik": "CNBC-e – anthropicin-tarihi-halka-arzi-rekor-halka-arzin-golgesinde-t",
+      "url": "https://www.cnbce.com/borsa/anthropicin-tarihi-halka-arzi-rekor-halka-arzin-golgesinde-teknolojide-kara-hafta-g42347"
+    },
+    {
+      "baslik": "Ekonomim – tbmmde-bu-hafta-yogun-gundem-butce-ve-booking-duzenlemesi-ma",
+      "url": "https://www.ekonomim.com/gundem/tbmmde-bu-hafta-yogun-gundem-butce-ve-booking-duzenlemesi-masada-haberi-932659"
+    },
+    {
+      "baslik": "Ekonomim – japonyada-buyuk-veri-sizintisi-11-milyon-kisinin-bilgileri-e",
+      "url": "https://www.ekonomim.com/dunya/japonyada-buyuk-veri-sizintisi-11-milyon-kisinin-bilgileri-ele-gecirildi-haberi-932679"
+    },
+    {
+      "baslik": "AA – Küresel piyasalar Fed ve yapay zekâ kaynaklı satış baskısı altında",
+      "url": "https://www.aa.com.tr/tr/ekonomi/piyasalar-fed-ve-yapay-zeka-kaynakli-satis-baskisi-altinda-/4131959"
+    },
+    {
+      "baslik": "Haberler.com – BIST 100 haftayı %6,01 düşüşle 11.131 puanda kapattı",
+      "url": "https://www.haberler.com/ekonomi/bist-100-haftayi-yuzde-6-01-dususle-11-131-32-20447092-haberi/"
+    },
+    {
+      "baslik": "Habertürk – Altında sekiz ayın en sert haftalık düşüşü",
+      "url": "https://www.haberturk.com/ekonomi/altinda-sekiz-ayin-en-sert-haftalik-dususu-3928677"
+    },
+    {
+      "baslik": "CNBC-e – Motorinde 6,58 lira indirim; benzine de indirim bekleniyor",
+      "url": "https://www.cnbce.com/haberler/akaryakitta-tabelalar-degisti-motorin-90-tlnin-altina-indi-g42240"
+    },
+    {
+      "baslik": "TRT Haber – Konut fiyatlarındaki yıllık artış 77 ayın en düşüğünde",
+      "url": "https://www.trthaber.com/haber/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusuk-seviyesinde-963794.html"
+    },
+    {
+      "baslik": "AA – Dış borç stoku üçüncü çeyrekte 549,2 milyar dolara çıktı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-turkiye-dis-borc-istatistiklerini-yayimladi/4131853"
+    },
+    {
+      "baslik": "Ekonomim – Türkiye'nin risk primi yeniden 250 baz puanın üzerinde",
+      "url": "https://www.ekonomim.com/ekonomi/turkiyenin-risk-primi-yeniden-250-baz-puanin-uzerine-cikti-haberi-932423"
+    },
+    {
+      "baslik": "CNBC-e – Anthropic'in rekor halka arzı piyasadaki satışı durduramadı",
+      "url": "https://www.cnbce.com/piyasalar/tarihin-en-buyuk-10-halka-arzi-anthropic-813-milyar-dolarla-rekor-kirdi-g42270"
+    },
+    {
+      "baslik": "Bloomberg HT – ABD'de Nvidia hakkında soruşturma açıldığı bildirildi",
+      "url": "https://www.bloomberght.com/abd-de-nvidia-sorusturmasi-3795229"
+    },
+    {
+      "baslik": "CNBC-e – Altın",
+      "url": "https://www.cnbce.com/altin/altin-ve-gumuste-tablo-degisiyor-biri-digerinden-daha-gec-toparlanabilir-g42247"
+    },
+    {
+      "baslik": "TRT Haber – Arsa",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    },
+    {
+      "baslik": "CNBC-e – Otomobil (sıfır ve ikinci el)",
+      "url": "https://www.cnbce.com/otomotiv/turkiyede-otomobil-satislari-sert-dustu-ekim-ayinda-dikkat-ceken-tablo-g40873"
+    },
+    {
+      "baslik": "CNBC-e – Borsa İstanbul",
+      "url": "https://www.cnbce.com/borsa/uzman-isimden-borsa-istanbul-icin-12-bin-puan-tahmini-dipten-donus-ne-zaman-g42269"
+    },
+    {
+      "baslik": "CNBC-e – Politika faizi ve mevduat",
+      "url": "https://www.cnbce.com/veriler/piyasa-katilimcilari-anketi-yil-sonu-enflasyonu-tahmini-yuzde-30-asti-h41724"
+    },
+    {
+      "baslik": "Habertürk – BIST 100 Perşembe kapanışı",
+      "url": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3928606"
+    },
+    {
+      "baslik": "Urfada Bugün – BIST 100 haftayı %6,01 kayıpla tamamladı",
+      "url": "https://www.urfadabugun.com/haber/273068/bist-100-haftayi-yuzde-601-kayipla-tamamladi.html"
+    },
+    {
+      "baslik": "Bloomberg HT – Altında sekiz ayın en sert haftalık kaybı",
+      "url": "https://www.bloomberght.com/altinda-sekiz-ayin-en-sert-haftalik-kaybi-3795205"
+    },
+    {
+      "baslik": "Bloomberg HT – Güncel altın fiyatları 20 Kasım 2026",
+      "url": "https://www.bloomberght.com/guncel-altin-fiyatlari-20-kasim-2026-cuma-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3795248"
+    },
+    {
+      "baslik": "TRT Haber – Altında düşüş sürüyor: gram altın 5.775 lira",
+      "url": "https://www.trthaber.com/haber/ekonomi/altinda-dusus-suruyor-gram-altin-5-bin-775-liradan-islem-goruyor-963923.html"
+    },
+    {
+      "baslik": "Bloomberg HT – Dolar ne kadar oldu? 20 Kasım 2026",
+      "url": "https://www.bloomberght.com/dolar-ne-kadar-oldu-20-kasim-2026-dolar-kurunda-son-durum-ne-pkh2-3795235"
+    },
+    {
+      "baslik": "CNBC-e – Petrol fiyatları Riyad saldırısıyla yükseldi",
+      "url": "https://www.cnbce.com/emtia/petrol-fiyatlari-riyad-saldirisiyla-yukseldi-brent-93-dolara-yaklasti-g42236"
+    },
+    {
+      "baslik": "CNBC-e – Bitcoin'de satış dalgası derinleşti",
+      "url": "https://www.cnbce.com/kripto/bitcoinde-satis-dalgasi-derinlesti-dort-ay-sonra-bir-ilk-h42234"
+    },
+    {
+      "baslik": "Habertürk – New York borsasında Anthropic etkisi",
+      "url": "https://www.haberturk.com/ekonomi/new-york-borsasinda-anthropic-etkisi-sert-dususle-kapandi-3928642"
+    },
+    {
+      "baslik": "CNBC-e – Wall Street'te kara tablo",
+      "url": "https://www.cnbce.com/piyasalar/wall-streette-kara-tablo-anthropic-bile-satis-dalgasini-durduramadi-h42235"
+    },
+    {
+      "baslik": "CNN – Nasdaq wipes out gains for the year",
+      "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"
+    },
+    {
+      "baslik": "CNBC – S&P 500 correction: five forces behind the sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+    },
+    {
+      "baslik": "Dünya – Benzine indirim geliyor",
+      "url": "https://www.dunya.com/enerji/benzine-indirim-geliyor-litre-fiyati-70-liranin-altina-gerileyecek-haberi-848304"
+    }
+  ]
+}
