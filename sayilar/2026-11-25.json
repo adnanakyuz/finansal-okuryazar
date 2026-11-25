@@ -1,0 +1,426 @@
+{
+  "tarih": "2026-11-25",
+  "tarihMetni": "25 Kasım 2026, Çarşamba",
+  "sayi": 27,
+  "notlar": "Rakamlar 24 Kasım Salı kapanışı (Brent ve Bitcoin gün içi/akşam değerleri); bugünkü seans henüz başlamadı",
+  "gununOzeti": "Borsa İstanbul dün %1,25 düşüşle 10.965 puanda kapandı; Merkez Bankası ise kredi kartı faizlerini üç yıl sonra ilk kez düşürdü. Yeni oranlar 1 Aralık'ta başlıyor. Cebine etkisi: kredi kartı borcun varsa faiz yükü biraz hafifleyebilir; hisse ve fon tutuyorsan dalgalanma sürebilir.",
+  "manset": {
+    "ustBaslik": "Kredi Kartı",
+    "baslik": "Kredi kartı faizleri üç yıl sonra ilk kez düşüyor; borsa ise günü %1,25 düşüşle kapattı",
+    "spot": "Merkez Bankası kredi kartı faizlerinin hesabında kullanılan referans oranı %3,11'den %2,94'e indirdi. Yeni oranlar 1 Aralık 2026'da başlayacak. Borsa İstanbul ise dün ABD'de teknoloji hisselerinin zayıflamasının gölgesinde düşüşle kapandı.",
+    "ozet": [
+      "Kredi kartı referans oranı Kasım 2023'ten beri ilk kez düşüyor: %3,11'den %2,94'e.",
+      "Nakit avans ve kredili mevduat hesabı faizleri %4,25'ten %4,08'e iniyor.",
+      "BIST 100 dün %1,25 düşüşle 10.965,93 puanda kapandı; 82 hisse değer kaybetti.",
+      "Fitch, fon krizinin Türkiye'nin kredi notuna kısa vadede doğrudan etkisi olmadığını söyledi."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Fed",
+      "baslik": "Fed'den faiz artırımı sinyalleri güçleniyor",
+      "spot": "New York Fed Başkanı Williams, enflasyonun hâlâ yüksek olduğunu ve Fed'in zaman içinde adım atması gerektiğini söyledi. Karar 9 Aralık'ta açıklanacak."
+    },
+    {
+      "ustBaslik": "Otomobil",
+      "baslik": "AB, Türkiye'den hibrit otomobil ithalatına kota getirdi",
+      "spot": "Avrupa Birliği'nin kota kararı 1 Aralık'ta yürürlüğe giriyor. Karar Türkiye'nin yanı sıra Çin, Japonya, İngiltere ve birkaç ülkeyi daha kapsıyor."
+    },
+    {
+      "ustBaslik": "Petrol",
+      "baslik": "ABD-İran görüşmeleri petrolü baskılıyor",
+      "spot": "Diplomatik çabaların yarattığı temkinli iyimserlik petrol fiyatlarını aşağı çekti. Hürmüz Boğazı'ndaki gemi saldırıları ise riski canlı tutuyor."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "10.965,93",
+      "degisim": "%1,25",
+      "yon": "down",
+      "neden": "24 Kasım kapanışı (AA, CNBC-e). Endeks güne hafif yükselişle başladı, öğleden sonra satış baskısı arttı; 100 hisseden 82'si düştü. Borsa endeksi, şirketlerin toplam değer hareketini gösterir; hisse ve fon tutanların portföyü dün değer kaybetmiş olabilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,63",
+      "degisim": "%0,27",
+      "yon": "up",
+      "neden": "TCMB 24 Kasım gösterge kuru 50,6286 (değişim bir önceki bültene göredir); ECB referansı 50,59, Bloomberg HT gün sonu 50,63. Dolar yavaş yükseliyor; ithal ürün fiyatları zamanla etkilenebilir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,32",
+      "degisim": "%0,14",
+      "yon": "down",
+      "neden": "TCMB 24 Kasım gösterge kuru 55,3185; ECB'nin dolar ve EUR/USD referanslarından hesaplanan değer yaklaşık 55,3. Euroyla alışveriş yapanlar için kur yatay seyrediyor."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "5.865",
+      "degisim": "%0,79",
+      "yon": "down",
+      "neden": "Kapalıçarşı gün sonu satış fiyatı (Bloomberg HT ve Genç Gazete). Gün başında 5.898 lira civarındaydı; önceki gün güçlü yükselmişti. Altın tutanların değeri bir gün içinde dalgalanabiliyor."
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.586",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "Bloomberg HT 24 Kasım akşamı verisi (tek kaynak; öğleden sonra bazı yayınlar 3.629 dolar yazdı, saat farkı olabilir). Güçlü dolar ve Fed'in faiz artırabileceği beklentisi altın üzerinde baskı yapıyor."
+    },
+    {
+      "ad": "Brent petrol",
+      "deger": "90,41",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "Bloomberg HT 24 Kasım akşamı verisi; başka yayınlar gün içinde 89-91 dolar bandı verdi. ABD-İran görüşmeleri petrolü aşağı çekerken Hürmüz Boğazı'ndaki gerilim yukarı itiyor; akaryakıt fiyatları zamanla etkilenebilir."
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "60.409",
+      "degisim": "%1,28",
+      "yon": "down",
+      "neden": "24 Kasım öğle saati (CoinGecko, son 24 saatte %1,28 düşüş; tek kaynak). Kripto fiyatları 7/24 değişir; kısa sürede sert oynayabilir."
+    },
+    {
+      "ad": "S&P 500",
+      "deger": "7.201,09",
+      "degisim": "%0,50",
+      "yon": "down",
+      "neden": "24 Kasım kapanışı (arama sonuçlarındaki Reuters/Yahoo özetleri; teyit zayıf). Teknoloji hisseleri geriledi. ABD borsası dünya genelinde fon ve hisse fiyatlarını etkileyebilir."
+    },
+    {
+      "ad": "Nasdaq",
+      "deger": "23.733,54",
+      "degisim": "%1,48",
+      "yon": "down",
+      "neden": "24 Kasım kapanışı (arama sonuçlarındaki özetler). Nasdaq teknoloji ağırlıklıdır; yapay zekâ hisselerindeki dalgalanma endeksi aşağı çekti."
+    },
+    {
+      "ad": "ABD 10 yıllık tahvil faizi",
+      "deger": "%4,91",
+      "degisim": "%0",
+      "yon": "flat",
+      "neden": "24 Kasım seansı yaklaşık %4,906 (tek kaynak). Bu faiz yükselirse gelişen ülkelerden çıkış baskısı artabilir; dolar güçlenebilir."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "Fitch, yıl sonuna doğru TCMB'den bir faiz indirimi daha bekliyor (CNBC-e).",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. %36 bilgisi önceki sayılarımıza dayanıyor; TCMB'nin yılın son toplantısı 10 Aralık'ta. Bu bir kurum beklentisidir, karar değildir."
+    },
+    {
+      "kurum": "Kredi kartı referans faizi",
+      "mevcut": "%3,11 (aylık)",
+      "beklenti": "1 Aralık 2026'dan itibaren %2,94",
+      "not": "Referans oran Kasım 2023'ten beri ilk kez düşüyor. Nakit avans ve KMH faizleri %4,25'ten %4,08'e iniyor (Habertürk, CNBC-e)."
+    },
+    {
+      "kurum": "Fed (ABD Merkez Bankası)",
+      "mevcut": "Faiz artırımı sinyalleri güçlü",
+      "beklenti": "New York Fed Başkanı Williams, Fed'in zaman içinde adım atması gerektiğini söyledi (Bloomberg HT). Karar 9 Aralık'ta.",
+      "not": "Fed faizi artırırsa dolar güçlenebilir, Türkiye gibi ülkelerden sermaye çıkış baskısı artabilir. Bu bir beklentidir, karar değildir."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "2027 sonu ve önümüzdeki haftalar",
+      "ozet": "Alman Commerzbank 2027 sonu için ons altın 4.100 dolar bekliyor; bazı uzmanlar ise kısa vadede 3.200-3.300 dolara geri çekilme olabileceğini söylüyor.",
+      "neden": "Uzun vadede yükseliş bekleyenler talebe bakıyor; kısa vadeyi bekleyenler Fed'in faiz artırabileceğine ve güçlü dolara işaret ediyor. Faiz artarsa altın tutmanın cazibesi azalabilir.",
+      "kimDiyor": "Commerzbank: 2027 sonu ons altın 4.100 $, gümüş 50 $ (Ekonomim). Ali Ağaoğlu ve Özgür Hatipoğlu: ons altında 3.200-3.300 $'a kadar geri çekilme ihtimali; Ağaoğlu yeni yükseliş döneminin 2027'nin ikinci yarısında başlayabileceğini söylüyor (Ekonomim). Görüşler ayrışıyor.",
+      "kaynak": { "ad": "Ekonomim", "url": "https://www.ekonomim.com/finans/haberler/altin/altin-gumus-platin-paladyum-ne-kadar-olacak-iste-dev-bankanin-2027-hesabi-haberi-933106" }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Fon krizi bazı şehirlerde konut satışlarını baskılıyor; İzmir'de konut satışları %24,3 geriledi.",
+      "neden": "Güven kaybı ve yüksek kredi faizi talebi azaltabilir; kredi koşulları gevşerse talep toparlanabilir.",
+      "kimDiyor": "İzmir'deki sektör temsilcileri fon krizinin güven kaybına ve işlem iptallerine yol açtığını söylüyor (Ekonomim, 24 Kasım). TCMB Konut Fiyat Endeksi ekimde yıllık artışın %21,1 ile 77 ayın en düşüğüne indiğini gösterdi (TRT Haber, önceki sayımızdaki veri). Açıklanmış yeni bir kurum fiyat tahmini yok.",
+      "kaynak": { "ad": "Ekonomim", "url": "https://www.ekonomim.com/sehirler/fon-krizi-izmirde-konut-ve-is-yeri-satislarini-vurdu-haberi-933078" }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için bu hafta yeni bir kurum tahmini ya da veri bulunamadı; en son bulunan gelişme TOKİ'nin 61 ilde 725 arsayı açık artırmayla satışa sunması.",
+      "neden": "Satışa çıkan arsa sayısı arttıkça bölgesel fiyatlar etkilenebilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor (TRT Haber, 14 Kasım sayısındaki veri).",
+      "kaynak": { "ad": "TRT Haber", "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html" }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Kasım ve 2027",
+      "ozet": "AB'nin hibrit otomobil kotası 1 Aralık'ta başlıyor; ekimde Türkiye'de otomobil satışları yıllık %28,4 azalmıştı.",
+      "neden": "Talep zayıfken fiyatlar sınırlı artabilir; ihracat kotası üretici ve yan sanayiyi etkileyebilir.",
+      "kimDiyor": "AB Komisyonu hibrit araç ithalatına geçici kota getirdi (AA). ODMD ekim verisine göre satış 64.939 adet oldu (CNBC-e, 14 Kasım sayısındaki veri). Açıklanmış bir fiyat tahmini yok.",
+      "kaynak": { "ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/ab-bazi-ulkelerden-hibrit-otomobil-ithalatina-gecici-kota-getirdi/4135710" }
+    },
+    {
+      "konu": "Politika faizi ve mevduat",
+      "yon": "asagi",
+      "vade": "Yıl sonuna doğru",
+      "ozet": "Fitch, Merkez Bankası'ndan yıl sonuna doğru bir faiz indirimi daha bekliyor.",
+      "neden": "Faiz inerse mevduat getirileri ve kredi faizleri zamanla gerileyebilir; Fed artırım yaparsa indirim hızı yavaşlayabilir.",
+      "kimDiyor": "Fitch Ratings Kıdemli Direktörü Erich Arispe Morales (CNBC-e, Ekonomim). Ayrıca TCMB Başkanı Karahan'ın stopaj düzenlemesi mesajı gündemde (CNBC-e).",
+      "kaynak": { "ad": "CNBC-e", "url": "https://www.cnbce.com/haberler/fitchten-turkiye-degerlendirmesi-fon-krizi-faiz-ve-kredi-notu-mesaji-h42524" }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Kredi Kartı Faizi",
+    "baslik": "Kredi kartı faizi üç yıl sonra neden düşüyor, sana ne kadar yansır?",
+    "spot": "Merkez Bankası, kredi kartı faizlerinin hesabında kullanılan referans oranı düşürdü. İnişin boyutu küçük, ama üç yıl sonra bir ilk.",
+    "paragraflar": [
+      "Merkez Bankası, kredi kartı azami faiz oranlarının hesabında kullanılan referans oranı %3,11'den %2,94'e indirdi. Yeni oran 1 Aralık 2026'da geçerli olacak. Habertürk ve Bloomberg HT'ye göre referans oran Kasım 2023'ten beri %3,11'de duruyordu.",
+      "Bu referans oran, bankaların kredi kartı borcuna uygulayabileceği en yüksek faizin hesabında kullanılır. Oran inince azami faiz de aşağı çekiliyor. Habertürk'e göre azami akdi faiz 0,17 puan azalacak.",
+      "Nakit avans ve kredili mevduat hesabı (KMH) için de indirim var: faiz %4,25'ten %4,08'e iniyor (CNBC-e). KMH, maaş hesabında eksiye düşerken kullanılan kısa vadeli borçtur.",
+      "Bu ne kadar fark yaratır? Küçük bir borç için fark ufak kalır; ama borcu uzun süre taşıyorsan faiz yükün biraz hafifleyebilir. Yine de kredi kartı faizi hâlâ çok yüksek bir seviyede; asıl tasarruf, borcu zamanında kapatmaktan gelir.",
+      "Neden şimdi? Fon Turkey Kurucusu Onur Duygu, faiz indirimlerinin yanı sıra kredi ve kartlara dair düzenlemelerde de gevşeme adımlarının gelebileceğini söylüyor (CNBC-e). Bu bir uzman görüşüdür, açıklanmış bir karar değil.",
+      "Önümüzdeki iki hafta önemli: Fed 9 Aralık'ta, Merkez Bankası 10 Aralık'ta faiz kararını açıklayacak. İki karar da TL'nin ve borçlanma maliyetlerinin yönünü etkileyebilir."
+    ],
+    "kutular": [
+      { "baslik": "Bu ne demek? Referans oran", "metin": "Bankaların kredi kartında isteyebileceği en yüksek faizin hesabında kullanılan taban oran. Merkez Bankası değiştirince bankaların üst sınırı da değişir." },
+      { "baslik": "Bu ne demek? KMH", "metin": "Kredili mevduat hesabı: maaş hesabın eksiye düşünce kullandığın kısa vadeli borç." }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "Borsa İstanbul günü %1,25 düşüşle kapattı",
+      "metin": "BIST 100 endeksi dün 10.965,93 puandan kapandı. Banka hisseleri daha sert geriledi; 100 hisseden 82'si değer kaybetti. Endeks güne hafif yükselişle başlamıştı, öğleden sonra satış baskısı arttı.",
+      "etki": "Hisse ya da fon tutuyorsan portföyünün değeri dalgalanmış olabilir; kısa vadeli düşüş, uzun vadeli planı tek başına değiştirmeyebilir.",
+      "kaynak": { "ad": "AA", "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4136075" }
+    },
+    {
+      "etiket": "Türkiye · Kredi kartı",
+      "baslik": "Kredi kartı faizlerinde üç yıl sonra ilk indirim",
+      "metin": "Merkez Bankası referans oranı %3,11'den %2,94'e indirdi. Nakit avans ve KMH faizleri %4,25'ten %4,08'e düşüyor. Yeni oranlar 1 Aralık 2026'da başlıyor.",
+      "etki": "Kartında borç taşıyorsan faiz yükün biraz hafifleyebilir; borcu zamanında kapatmak yine en etkili yol.",
+      "kaynak": { "ad": "Habertürk Ekonomi", "url": "https://www.haberturk.com/ekonomi/kredi-kartlarinda-yeni-donem-kredi-karti-faizlerinde-3-yil-sonra-ilk-indirim-3929688" }
+    },
+    {
+      "etiket": "Türkiye · Kredi notu",
+      "baslik": "Fitch: Fon krizinin kredi notuna kısa vadede doğrudan etkisi yok",
+      "metin": "Fitch Ratings Kıdemli Direktörü Erich Arispe Morales, fon krizinin Türkiye'nin kredi notu üzerinde doğrudan ve kısa vadeli etkisi bulunmadığını söyledi. Yıl sonuna doğru TCMB'den bir faiz indirimi daha beklediklerini de açıkladı.",
+      "etki": "Kredi notu ülkenin borçlanma maliyetini etkiler; not stabil kalırsa dışarıdan borçlanma maliyetinde ani sıçrama beklenmez. Bu Fitch'in görüşüdür.",
+      "kaynak": { "ad": "CNBC-e", "url": "https://www.cnbce.com/haberler/fitchten-turkiye-degerlendirmesi-fon-krizi-faiz-ve-kredi-notu-mesaji-h42524" }
+    },
+    {
+      "etiket": "Türkiye · Fon soruşturması",
+      "baslik": "Fon soruşturmasında yeni gözaltı; bir isim ev hapsiyle tahliye edildi",
+      "metin": "Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya fon soruşturması kapsamında yeniden gözaltına alındı (BBC Türkçe). Soruşturmada tutuklu bulunan Fatma Betül Sayan Kaya ise ev hapsi şartıyla tahliye edildi (Habertürk).",
+      "etki": "Fon soruşturması sürüyor; yatırım yaparken lisanslı kurumları tercih etmek ve garanti getiri vaatlerine mesafeli durmak önemli.",
+      "kaynak": { "ad": "BBC Türkçe", "url": "https://www.bbc.com/turkce/articles/cx4gnrn4ev5zo?at_medium=RSS&at_campaign=rss" }
+    },
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "ABD-İran görüşmeleri petrolü aşağı çekti, Hürmüz'de gerilim sürüyor",
+      "metin": "Petrol fiyatları, ABD-İran savaşını sona erdirmeye yönelik diplomatik çabaların yarattığı temkinli iyimserlikle düşüş eğilimini sürdürdü (Bloomberg HT). İngiltere Deniz Ticaret Operasyonları, Hürmüz Boğazı'nda 23 Kasım'da üç ticari geminin vurulduğunu açıkladı (Dünya).",
+      "etki": "Petrol ucuzlarsa akaryakıt ve nakliye maliyetleri zamanla hafifleyebilir; Hürmüz'de gerilim artarsa fiyatlar tekrar yükselebilir.",
+      "kaynak": { "ad": "Bloomberg HT", "url": "https://www.bloomberght.com/petrolde-jeopolitik-iyimserlik-3795503" }
+    },
+    {
+      "etiket": "Dünya · Fed",
+      "baslik": "New York Fed Başkanı Williams'tan faiz artırımı mesajı",
+      "metin": "Williams, enflasyonun hâlâ fazla yüksek olduğunu ve yüzde 2 hedefine dönmek için Fed'in zaman içinde adım atması gerektiğini söyledi (Bloomberg HT). Fed'in bir sonraki kararı 9 Aralık'ta.",
+      "etki": "ABD'de faiz artarsa dolar güçlenebilir; bu da dolar/TL'yi, altını ve gelişen ülke borsalarını etkileyebilir.",
+      "kaynak": { "ad": "Bloomberg HT", "url": "https://www.bloomberght.com/fed-cephesinde-faiz-artislarina-destek-buyuyor-3795500" }
+    },
+    {
+      "etiket": "Dünya · Otomobil",
+      "baslik": "AB, Türkiye dahil birçok ülkeden hibrit otomobil ithalatına kota getirdi",
+      "metin": "Avrupa Komisyonu, hibrit otomobil ithalatına geçici kota getirdi. Karar 1 Aralık'ta yürürlüğe giriyor ve Türkiye'nin yanı sıra Çin, Japonya, İngiltere ve birkaç ülkeyi daha kapsıyor.",
+      "etki": "Türkiye'den AB'ye hibrit araç ihracatı sınırlanabilir; bu yan sanayi ve üretim üzerinde etkili olabilir. İç piyasa fiyatlarına etkisi henüz belli değil.",
+      "kaynak": { "ad": "AA Ekonomi", "url": "https://www.aa.com.tr/tr/ekonomi/ab-bazi-ulkelerden-hibrit-otomobil-ithalatina-gecici-kota-getirdi/4135710" }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Teknoloji · Borsa",
+      "baslik": "Anthropic hisseleri halka arz fiyatının altına indi",
+      "metin": "Nasdaq'ta rekorla işlem görmeye başlayan Anthropic hisseleri, açılış öncesi işlemlerde 83 dolarlık halka arz fiyatının altına geriledi (Bloomberg HT, CNBC-e).",
+      "neden": "Yeni halka arzların ilk günlerdeki dalgalanması, yapay zekâ şirketlerine yatırım yapan fon ve hisse sahiplerini de etkileyebilir.",
+      "kaynak": { "ad": "Bloomberg HT", "url": "https://www.bloomberght.com/anthropic-hisseleri-halka-arz-fiyatinin-altina-dustu-3795548" }
+    },
+    {
+      "etiket": "Teknoloji · Şirket",
+      "baslik": "Nvidia'da Jensen Huang istifasından 11 gün sonra görevine döndü",
+      "metin": "Ekonomim'e göre Nvidia CEO'su Jensen Huang, istifasından yalnızca 11 gün sonra yönetim kurulu kararıyla yeniden görevine döndü. Nvidia yönetimi Huang'ın liderliğine güvendiğini belirtti.",
+      "neden": "Nvidia yapay zekâ çiplerinin en büyük üreticisi; şirketin yönetimi küresel teknoloji hisselerinin yönünü etkileyebilir.",
+      "kaynak": { "ad": "Ekonomim", "url": "https://www.ekonomim.com/kuresel-ekonomi/11-gunde-ne-degisti-nvidia-ceosunun-sasirtan-donusu-haberi-933102" }
+    },
+    {
+      "etiket": "Teknoloji · Altın",
+      "baslik": "Fiziksel altın dijital ortamda işlem görecek: ilk pilot işlemler yapıldı",
+      "metin": "Dünya Altın Konseyi, fiziksel altının kasadan çıkarılmadan dijital ortamda alınıp satılmasını ve teminat olarak kullanılmasını sağlayan sistemin pilot işlemlerinin tamamlandığını duyurdu. İlk işlemleri HSBC, JPMorgan ve StoneX gerçekleştirdi.",
+      "neden": "Altın ticaretinin daha hızlı ve kolay olmasını sağlayabilir; ancak bu şimdilik büyük kurumlar arasında bir pilot uygulamadır.",
+      "kaynak": { "ad": "CNBC-e", "url": "https://www.cnbce.com/altin/altin-piyasasinda-yeni-donem-basliyor-uc-finans-devi-sistemi-test-etti-h42521" }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Küçük indirim, büyük soru",
+      "paragraflar": [
+        "Kredi kartı faizinde üç yıl sonra ilk indirim haberi geldi. Fark küçük: %3,11'den %2,94'e. Ama yönün değişmesi, rakamın kendisinden önemli olabilir.",
+        "Aynı gün borsa %1,25 düştü. Böyle günlerde iki haber birbirini yalanlıyor gibi görünür. Oysa biri borçlanma maliyetiyle, diğeri küresel risk iştahıyla ilgili.",
+        "Bu sayfa tavsiye vermez. Ama bir hatırlatma yapabiliriz: faiz indi diye borca girmek, borsa düştü diye panik yapmak aynı şekilde kolay hatalardır. Kararları bütçene ve vadene göre vermek daha sağlıklı olabilir."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Bu hafta hangi rakamlara bakmalı?",
+      "paragraflar": [
+        "Üç rakam öne çıkıyor: ABD 10 yıllık tahvil faizi (%4,9 civarında), Fed'in 9 Aralık kararı beklentisi ve dolar/TL (50,6).",
+        "ABD'de faiz artarsa dolar güçlenebilir; bu da altın ve gelişen ülke borsaları üzerinde baskı yaratabilir. Bunun tersi de mümkün: Fed beklenenden yumuşak bir tonda konuşursa piyasalar rahatlayabilir.",
+        "Türkiye tarafında ise 10 Aralık'taki Merkez Bankası toplantısı ve fon soruşturmasındaki gelişmeler izlenebilir. Bunlar tahmin değil, takip listesidir."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Kredi kartı borcunda üç basit alışkanlık",
+      "paragraflar": [
+        "Faiz biraz inse de kredi kartı borcu hâlâ en pahalı borçlardan biri. Küçük alışkanlıklar büyük fark yaratabilir.",
+        "Birincisi: Hesap özetinde yalnızca asgari tutarı ödemek yerine, mümkünse tamamını ödemek. İkincisi: Nakit avans yapmamak; çünkü faizi daha yüksek, bugün %4,25 civarında. Üçüncüsü: Taksitleri bir yerde yazıp toplamına bakmak.",
+        "Bir de hatırlatma: Garanti getiri vaat eden mesajlar dolandırıcılık işareti olabilir. Para göndermeden önce kurumun lisanslı olup olmadığına bakmak gerekir."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Fed beklenenden yumuşak konuşursa dolar zayıflayabilir; altın ve gelişen ülke borsaları nefes alabilir.",
+      "Kredi kartı faizindeki indirim sürerse borçlanma maliyetleri yavaş yavaş hafifleyebilir.",
+      "ABD-İran görüşmelerinde ilerleme olursa petrol fiyatları gerileyebilir; akaryakıt ve nakliye maliyetleri hafifleyebilir."
+    ],
+    "olumsuz": [
+      "Fed 9 Aralık'ta faiz artırırsa dolar güçlenebilir; gelişen ülkelerden çıkış baskısı artabilir.",
+      "Yapay zekâ hisselerindeki satış yaygınlaşırsa küresel borsalar yeniden düşebilir.",
+      "Hürmüz Boğazı'ndaki gerilim artarsa petrol yeniden yükselebilir."
+    ],
+    "riskler": "Rakamlar piyasalar açıldıkça hızla değişebilir. Fon soruşturmasındaki gelişmeler ve Orta Doğu'daki gerilim sürpriz yaratabilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    { "gun": "Cum 27 Kasım", "olay": "TBMM Genel Kurulu'nda Cumhurbaşkanlığı bütçesi ve 2027 bütçe teklifinin maddeleri oylanacak (Ekonomim)", "onem": "orta" },
+    { "gun": "Sal 1 Aralık", "olay": "Kredi kartı yeni faiz oranları ve AB'nin hibrit otomobil kotası yürürlüğe giriyor (Habertürk, AA)", "onem": "yuksek" },
+    { "gun": "Çar 9 Aralık", "olay": "Fed faiz kararı, Türkiye saatiyle 22.00 (Ekonomist, Uzmanpara)", "onem": "yuksek" },
+    { "gun": "Per 10 Aralık", "olay": "TCMB yılın son Para Politikası Kurulu toplantısı (QNB Invest)", "onem": "yuksek" }
+  ],
+  "sozluk": [
+    { "terim": "Referans oran", "aciklama": "Bankaların kredi kartında isteyebileceği en yüksek faizin hesabında kullanılan taban oran. Merkez Bankası değiştirince üst sınır da değişir." },
+    { "terim": "Önceki kapanış", "aciklama": "Bir önceki işlem gününün son fiyatı. Günlük yükseliş ya da düşüş bu fiyata göre hesaplanır." },
+    { "terim": "Kota", "aciklama": "Bir ürünün bir ülkeye en fazla ne kadar girebileceğini sınırlayan üst sınır." },
+    { "terim": "Stopaj", "aciklama": "Mevduat gibi kazançlardan devletin kaynağında kestiği vergi." }
+  ],
+  "teyitNotlari": [
+    "BIST 100 kapanışı (10.965,93; %1,25) AA, CNBC-e ve paraborsa başlıklarına dayanıyor; iki kaynak tutarlı.",
+    "S&P 500 (7.201,09), Nasdaq (23.733,54) ve ABD 10 yıllık faizi (%4,906) arama sonuçlarındaki özetlerden alındı; resmî kapanış sayfası açılamadı, teyit zayıf/tek kaynak. Aynı özetlerde Nvidia ve yarı iletken endeksi için verilen yüzde değerleri çelişkili göründüğü için kullanılmadı.",
+    "Dolar/TL (50,6286) TCMB 24 Kasım bülteni; ECB referansı 50,59 (23 Kasım), Bloomberg HT gün sonu 50,63. Euro/TL TCMB bülteni 55,3185; ECB'den hesaplanan yaklaşık 55,3.",
+    "Gram altın (5.865) Kapalıçarşı gün sonu fiyatıdır (Bloomberg HT, Genç Gazete). Ons altın (3.586 $) tek kaynaklı akşam verisidir; bazı yayınlar öğleden sonra 3.629 $, otomatik veri öğle saatinde 3.640 $ verdi; saat farkı olabilir.",
+    "Brent (90,41 $) Bloomberg HT akşam verisidir; başka yayınlar 87-91 $ bandı verdi, resmî kapanış teyit edilemedi.",
+    "Bitcoin (60.409 $) CoinGecko 24 Kasım öğle verisidir (tek kaynak).",
+    "23 Kasım Kabine toplantısının sonucunda emekli refah payı için net bir oran bulunamadı; bu nedenle gündem bölümüne emekli refah payı haberi eklenmedi.",
+    "Konut, arsa ve otomobil için bu hafta yeni kurum tahmini bulunamadı; önceki sayılardaki veriler tarihleriyle birlikte kullanıldı.",
+    "Politika faizi (%36) önceki sayılarımıza dayanıyor; bu sabah yeniden doğrulanamadı."
+  ],
+  "karikatur": {
+    "baslik": "Üç Yıl Sonra",
+    "dayanak": "Dayanak: TCMB kredi kartı referans oranını üç yıl sonra ilk kez %3,11'den %2,94'e indirdi; BIST 100 aynı gün %1,25 düştü (Habertürk, AA).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [{ "kim": "kemal", "yer": "sol", "ifade": "gul", "poz": "isaret", "efekt": "yok" }],
+        "balonlar": [{ "kim": "kemal", "metin": "Kredi kartı faizi üç yıl sonra ilk kez düşmüş!" }]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          { "kim": "kemal", "yer": "sol", "ifade": "konus", "poz": "isaret", "efekt": "yok" },
+          { "kim": "zeynep", "yer": "sag", "ifade": "sasir", "poz": "telefon", "efekt": "soru" }
+        ],
+        "balonlar": [
+          { "kim": "kemal", "metin": "Yüzde 3,11'den 2,94'e inmiş." },
+          { "kim": "zeynep", "metin": "Vay be, ne kadar da büyük bir fark!" }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          { "kim": "ahmet", "yer": "sol", "ifade": "bagir", "poz": "gazete", "efekt": "unlem" },
+          { "kim": "zeynep", "yer": "sag", "ifade": "endise", "poz": "normal", "efekt": "ter" }
+        ],
+        "balonlar": [
+          { "kim": "ahmet", "metin": "Borsa da yüzde 1,25 düşmüş, haberi gören mi var?" },
+          { "kim": "zeynep", "metin": "Faiz inince borsa çıkar demişlerdi." }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          { "kim": "kemal", "yer": "sol", "ifade": "normal", "poz": "kafa-kasi", "efekt": "yok" },
+          { "kim": "ahmet", "yer": "sag", "ifade": "endise", "poz": "gazete", "efekt": "soru" }
+        ],
+        "balonlar": [
+          { "kim": "kemal", "metin": "Borçlanmayla borsa aynı bakkala gitmiyor ki Ahmet Amca." },
+          { "kim": "ahmet", "metin": "Hangi bakkal peki?" }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cuzdan",
+        "nesneYer": "orta",
+        "karakterler": [
+          { "kim": "zeynep", "yer": "sol", "ifade": "konus", "poz": "eller-havada", "efekt": "yok" },
+          { "kim": "kemal", "yer": "sag", "ifade": "gul", "poz": "isaret", "efekt": "yok" }
+        ],
+        "balonlar": [
+          { "kim": "zeynep", "metin": "Ben faiz indi diye kartla alışveriş yapacak değilim." },
+          { "kim": "kemal", "metin": "Aferin! Ders: borç, indirimle değil zamanında ödemeyle azalır." }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          { "kim": "ahmet", "yer": "sol", "ifade": "gul", "poz": "gazete", "efekt": "yok" },
+          { "kim": "kemal", "yer": "sag", "ifade": "gul", "poz": "normal", "efekt": "yok" }
+        ],
+        "balonlar": [
+          { "kim": "ahmet", "metin": "Üç yılda 0,17 puan! Çayın şekeri bile bu kadar yavaş erimez." },
+          { "kim": "kemal", "metin": "Çay veresiye, Ahmet Amca; faizi yok." }
+        ]
+      }
+    ]
+  },
+  "kaynaklar": [
+    { "baslik": "AA – Borsa günü düşüşle tamamladı", "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4136075" },
+    { "baslik": "Habertürk – Kredi kartı faizlerinde 3 yıl sonra ilk indirim", "url": "https://www.haberturk.com/ekonomi/kredi-kartlarinda-yeni-donem-kredi-karti-faizlerinde-3-yil-sonra-ilk-indirim-3929688" },
+    { "baslik": "CNBC-e – TCMB kredi kartı faizlerini düşürdü: Yeni oranlar 1 Aralık'ta başlıyor", "url": "https://www.cnbce.com/haberler/tcmb-kredi-karti-faizlerini-dusurdu-yeni-oranlar-1-aralikta-basliyor-h42508" },
+    { "baslik": "CNBC-e – Fitch'ten Türkiye değerlendirmesi: Fon krizi, faiz ve kredi notu mesajı", "url": "https://www.cnbce.com/haberler/fitchten-turkiye-degerlendirmesi-fon-krizi-faiz-ve-kredi-notu-mesaji-h42524" },
+    { "baslik": "Ekonomim – Türkiye için Fitch'ten 3 mesaj: Fon, faiz ve enflasyon", "url": "https://www.ekonomim.com/ekonomi/turkiye-icin-fitchten-3-mesaj-fon-faiz-ve-enflasyon-haberi-933099" },
+    { "baslik": "BBC Türkçe – Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya üçüncü kez gözaltına alındı", "url": "https://www.bbc.com/turkce/articles/cx4gnrn4ev5zo?at_medium=RSS&at_campaign=rss" },
+    { "baslik": "Habertürk – Fatma Betül Sayan Kaya'ya ev hapsi şartıyla tahliye", "url": "https://www.haberturk.com/ekonomi/son-dakika-fatma-betul-sayan-kaya-ya-ev-hapsi-sartiyla-tahliye-3929716" },
+    { "baslik": "Bloomberg HT – Petrolde jeopolitik iyimserlik", "url": "https://www.bloomberght.com/petrolde-jeopolitik-iyimserlik-3795503" },
+    { "baslik": "Dünya – Hürmüz Boğazı'nda gerilim: Üç ticari gemi vuruldu", "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-gerilim-uc-ticari-gemi-vuruldu-haberi-848722" },
+    { "baslik": "Bloomberg HT – Fed cephesinde faiz artışlarına destek büyüyor", "url": "https://www.bloomberght.com/fed-cephesinde-faiz-artislarina-destek-buyuyor-3795500" },
+    { "baslik": "AA Ekonomi – AB, bazı ülkelerden hibrit otomobil ithalatına geçici kota getirdi", "url": "https://www.aa.com.tr/tr/ekonomi/ab-bazi-ulkelerden-hibrit-otomobil-ithalatina-gecici-kota-getirdi/4135710" },
+    { "baslik": "Bloomberg HT – Anthropic hisseleri halka arz fiyatının altına düştü", "url": "https://www.bloomberght.com/anthropic-hisseleri-halka-arz-fiyatinin-altina-dustu-3795548" },
+    { "baslik": "Ekonomim – 11 günde ne değişti? Nvidia CEO'sunun şaşırtan dönüşü", "url": "https://www.ekonomim.com/kuresel-ekonomi/11-gunde-ne-degisti-nvidia-ceosunun-sasirtan-donusu-haberi-933102" },
+    { "baslik": "CNBC-e – Altın piyasasında yeni dönem başlıyor", "url": "https://www.cnbce.com/altin/altin-piyasasinda-yeni-donem-basliyor-uc-finans-devi-sistemi-test-etti-h42521" },
+    { "baslik": "Ekonomim – Altın, gümüş, platin, paladyum ne kadar olacak? Commerzbank 2027 hesabı", "url": "https://www.ekonomim.com/finans/haberler/altin/altin-gumus-platin-paladyum-ne-kadar-olacak-iste-dev-bankanin-2027-hesabi-haberi-933106" },
+    { "baslik": "Ekonomim – Fon krizi İzmir'de konut ve iş yeri satışlarını vurdu", "url": "https://www.ekonomim.com/sehirler/fon-krizi-izmirde-konut-ve-is-yeri-satislarini-vurdu-haberi-933078" },
+    { "baslik": "TRT Haber – TOKİ 61 ildeki 725 arsayı açık artırmayla satışa sunacak", "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html" },
+    { "baslik": "CNBC-e – Stopaj indirimi gündemde: Mevduat, döviz ve borsa nasıl etkilenebilir?", "url": "https://www.cnbce.com/haberler/stopaj-indirimi-gundemde-mevduat-doviz-ve-borsa-nasil-etkilenebilir-h42506" }
+  ]
+}
