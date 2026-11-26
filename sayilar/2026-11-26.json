@@ -1,0 +1,651 @@
+{
+  "tarih": "2026-11-26",
+  "tarihMetni": "26 Kasım 2026, Perşembe",
+  "sayi": 28,
+  "notlar": "Rakamlar 25 Kasım Çarşamba kapanışı; bugünkü seans henüz başlamadı. Bitcoin 7/24 işlem gördüğü için 25 Kasım öğle saatlerine aittir.",
+  "gununOzeti": "Borsa İstanbul dün %2,83 düşüşle 10.655,74 puana indi; bankacılık hisseleri günün en sert düşenleri oldu. Altın da değer kaybetti. Cebine etkisi: hisse ya da fon tutuyorsan portföyün dün değer kaybetmiş olabilir; altın tutuyorsan da aynısı geçerli.",
+  "manset": {
+    "ustBaslik": "Borsa",
+    "baslik": "Borsa İstanbul dün %2,83 düştü; en büyük kayıp bankacılık hisselerinde",
+    "spot": "BIST 100 endeksi günü 10.655,74 puandan kapattı. Bir önceki güne göre kayıp 310 puan oldu. Haberlerde ABD'nin olası yeni gümrük vergileri ile yapay zekâ yatırımları ve faiz endişeleri öne çıkıyor.",
+    "ozet": [
+      "BIST 100 dün %2,83 düşüşle 10.655,74 puanda kapandı (CNBC-e, Referans).",
+      "Bankacılık endeksi yaklaşık %4,46 değer kaybetti (Referans Gazetesi).",
+      "Altında düşüş sürdü; gram altın yaklaşık 5.640 liraya indi (tek kaynak).",
+      "Merkez Bankası dün üç yeni döviz karşılığı TL swap ihalesi açtı; toplam işlem tutarı 3 milyar dolar."
+    ]
+  },
+  "ikinciMansetler": [
+    {
+      "ustBaslik": "Risk",
+      "baslik": "Türkiye'nin risk primi Nisan'dan bu yana en yüksek seviyede",
+      "spot": "Risk primi 274 baz puana çıktı (Bloomberg HT). Bu oran, Türkiye'nin dışarıdan borçlanma riskinin ne kadar pahalı görüldüğünü gösterir."
+    },
+    {
+      "ustBaslik": "Enflasyon",
+      "baslik": "TEPAV: Yıllık gıda enflasyonu %31'e yükseldi",
+      "spot": "Kasım'ın ilk 25 gününde gıda fiyatları %1,97 arttı. Aylık artış yavaşlasa da yıllık tablo mutfağa yansımaya devam ediyor."
+    },
+    {
+      "ustBaslik": "Fon",
+      "baslik": "Fon ara ödemelerinin son kısmı 27 Kasım'da",
+      "spot": "İletişim Başkanlığı, tasfiyesine karar verilen fonlarda 1 milyon liraya kadar ara ödemelerin son kısmının Cuma günü tamamlanmasını hedeflediğini açıkladı."
+    }
+  ],
+  "piyasalar": [
+    {
+      "ad": "BIST 100",
+      "deger": "10.655,74",
+      "degisim": "%2,83",
+      "yon": "down",
+      "neden": "25 Kasım kapanışı (CNBC-e, Referans Gazetesi, Bloomberg HT). Endeks 310 puan geriledi; bankacılık hisseleri satışın merkezindeydi. Borsa endeksi, şirketlerin toplam değer hareketini gösterir; hisse ve fon tutanların portföyü dün değer kaybetmiş olabilir."
+    },
+    {
+      "ad": "Dolar/TL",
+      "deger": "50,67",
+      "degisim": "%0,14",
+      "yon": "up",
+      "neden": "25 Kasım kapanışı (Aposto 50,6730; Bloomberg HT 18.30'da 50,68). Dolar yavaş yükseliyor; ithal ürün fiyatları zamanla etkilenebilir."
+    },
+    {
+      "ad": "Euro/TL",
+      "deger": "55,44",
+      "degisim": "%0,32",
+      "yon": "up",
+      "neden": "25 Kasım kapanışı (Aposto 55,4421; Bloomberg HT 18.30'da 55,44). Euroyla alışveriş ya da tatil planı yapanlar için kur biraz yükseldi."
+    },
+    {
+      "ad": "Gram altın",
+      "deger": "5.640",
+      "degisim": "%2,67",
+      "yon": "down",
+      "neden": "25 Kasım kapanışı (Aposto; tek kaynak). Sabah saatlerinde Bloomberg HT ve Forbes Türkiye 5.740 lira civarı verdi; gün içinde düştü. Altın tutanların değeri bir günde belirgin biçimde azalmış olabilir. (tek kaynak)"
+    },
+    {
+      "ad": "Ons altın",
+      "deger": "3.462",
+      "degisim": "%2,81",
+      "yon": "down",
+      "neden": "25 Kasım kapanışı (Aposto; tek kaynak). Forbes Türkiye gün içinde 3.525 dolar verdi, saat farkı olabilir. Fed'in faiz artırabileceği beklentisi ve güçlü dolar altını baskılıyor. (tek kaynak)"
+    },
+    {
+      "ad": "Bitcoin",
+      "deger": "58.557",
+      "degisim": "%2,62",
+      "yon": "down",
+      "neden": "25 Kasım öğle saati (CoinGecko, son 24 saatte düşüş; başka bir yayın aynı saatlerde yaklaşık 58.985 dolar verdi). Kripto fiyatları 7/24 değişir; kısa sürede sert oynayabilir."
+    }
+  ],
+  "faiz": [
+    {
+      "kurum": "TCMB politika faizi",
+      "mevcut": "%36",
+      "beklenti": "BBVA aralıkta 100 baz puanlık indirim bekliyor (Ekonomim); Goldman Sachs indirimlere ara verilme ihtimalinin arttığını söylüyor (Dünya).",
+      "not": "Politika faizi, bankaların Merkez Bankası'ndan borç aldığı faizdir. %36 bilgisi önceki sayılarımıza dayanıyor, bu sabah yeniden doğrulanamadı. TCMB toplantısı 10 Aralık'ta. Bunlar kurum beklentisidir, karar değildir."
+    },
+    {
+      "kurum": "Kredi kartı referans faizi",
+      "mevcut": "%3,11 (aylık)",
+      "beklenti": "1 Aralık 2026'dan itibaren %2,94",
+      "not": "Önceki sayımızda duyurulan indirim; yeni oranlar 1 Aralık'ta başlıyor."
+    },
+    {
+      "kurum": "Fed (ABD Merkez Bankası)",
+      "mevcut": "Faiz artırımı beklentisi güçlü",
+      "beklenti": "Karar 9 Aralık'ta açıklanacak.",
+      "not": "Altındaki düşüşün nedenlerinden biri, Fed'in faiz artırabileceği beklentisinin gümrük vergisi haberleriyle güçlenmesi (Bloomberg HT). Bu bir beklentidir, karar değildir."
+    }
+  ],
+  "beklentiler": [
+    {
+      "konu": "Altın",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki haftalar ve 2027",
+      "ozet": "Kısa vadede yeni dip arayışı konuşuluyor; uzun vadede bazı kurumlar 2027 sonu için daha yüksek seviyeler bekliyor.",
+      "neden": "Fed faiz artırırsa ve dolar güçlenirse altın tutmanın cazibesi azalabilir. Faiz artışı beklentisi zayıflarsa altın toparlanabilir.",
+      "kimDiyor": "Info Yatırım Danışmanlığı: ons altında orta vadeli yükseliş trendi bozuldu, yeni dip denenebilir (CNBC-e, Ekonomim). CNBC-e'ye konuşan iki uzman hem yeni dip hem yeniden yükseliş senaryosunu anlatıyor. Commerzbank 2027 sonu için ons altın 4.100 dolar bekliyor (Ekonomim, önceki sayımızdaki veri). Görüşler ayrışıyor.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/altin/altinda-trend-tersine-dondu-uzman-isim-yeni-dip-icin-uyardi-g42593"
+      }
+    },
+    {
+      "konu": "Konut (ev)",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Fon krizi bazı şehirlerde konut satışlarını baskılıyor; İzmir'de satışlar %24,3 geriledi.",
+      "neden": "Güven kaybı ve yüksek kredi faizi talebi azaltabilir; kredi koşulları gevşerse talep toparlanabilir. İTO, konut kredilerindeki gevşemeye dikkat çekiyor.",
+      "kimDiyor": "İzmir'deki sektör temsilcileri güven kaybı ve işlem iptallerinden söz ediyor (Ekonomim, 24 Kasım). TCMB Konut Fiyat Endeksi ekimde yıllık artışın %21,1'e inerek 77 ayın en düşüğüne indiğini gösterdi (önceki sayımızdaki veri). Bu hafta yeni bir kurum fiyat tahmini bulunamadı.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/sehirler/fon-krizi-izmirde-konut-ve-is-yeri-satislarini-vurdu-haberi-933078"
+      }
+    },
+    {
+      "konu": "Arsa",
+      "yon": "belirsiz",
+      "vade": "Önümüzdeki aylar",
+      "ozet": "Arsa için bu hafta yeni bir kurum tahmini ya da veri bulunamadı; en son bulunan gelişme TOKİ'nin 61 ilde 725 arsayı açık artırmayla satışa sunması.",
+      "neden": "Satışa çıkan arsa sayısı arttıkça bölgesel fiyatlar etkilenebilir.",
+      "kimDiyor": "Açıklanmış bir kurum tahmini yok; yön son verilere dayanıyor (TRT Haber, 14 Kasım sayımızdaki veri).",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+      }
+    },
+    {
+      "konu": "Otomobil (sıfır ve ikinci el)",
+      "yon": "belirsiz",
+      "vade": "Aralık ve 2027",
+      "ozet": "AB, Türkiye dahil bazı ülkelerden hibrit otomobil ithalatına kota koydu; 1 Aralık'tan itibaren 200 günde en fazla 126 bin 320 araç gönderilebilecek.",
+      "neden": "İç talep zayıfken ihracat kotası üretici ve yan sanayiyi etkileyebilir; iç piyasadaki fiyat etkisi belirsiz.",
+      "kimDiyor": "OSD kararı 'endişe verici' buldu (Bloomberg HT, Habertürk). Açıklanmış bir fiyat tahmini yok; ODMD ekim verisine göre satışlar yıllık %28,4 düşmüştü (önceki sayımızdaki veri).",
+      "kaynak": {
+        "ad": "Habertürk",
+        "url": "https://www.haberturk.com/ekonomi/turkiyenin-hibrit-otomobil-ihracatina-ab-kotasi-3929752"
+      }
+    },
+    {
+      "konu": "Politika faizi ve mevduat",
+      "yon": "belirsiz",
+      "vade": "Aralık toplantısı",
+      "ozet": "Kurumlar aralık ayı faiz kararı konusunda ayrışıyor.",
+      "neden": "Faiz inerse mevduat getirileri ve kredi faizleri zamanla gerileyebilir. Döviz mevduatı artarsa Merkez Bankası indirime ara verebilir.",
+      "kimDiyor": "BBVA aralıkta 100 baz puanlık indirim bekliyor (Ekonomim). Goldman Sachs, döviz mevduatının bir haftada 5 milyar dolar artmasının (yaklaşık %90'ı şirketlerden) indirime ara verme ihtimalini yükselttiğini söylüyor (Dünya).",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/goldman-sachstan-dikkat-ceken-tcmb-tahmini-faiz-indirim-plani-degisebilir-mi-haberi-848823"
+      }
+    }
+  ],
+  "dosya": {
+    "ustBaslik": "Günün Dosyası · Borsa",
+    "baslik": "Borsa bir günde %2,83 düştü: Neden, kimi etkiler?",
+    "spot": "BIST 100 dün 10.655,74 puana indi. Düşüşün en sert hissedildiği yer bankacılık oldu.",
+    "paragraflar": [
+      "BIST 100 endeksi dün güne 10.951 puandan, yani hafif düşüşle başladı. Öğleden sonra satışlar hızlandı ve endeks günü 310 puan kayıpla 10.655,74'te kapattı (CNBC-e).",
+      "En sert düşüş bankacılıkta yaşandı. Referans Gazetesi'ne göre bankacılık endeksi yaklaşık %4,46, holding endeksi %2,83 değer kaybetti. Bir banka hissesi tutuyorsan ya da bankacılık ağırlıklı bir fona yatırım yapmışsan bu hareket portföyünde görünmüş olabilir.",
+      "Haberlerde tek bir neden öne çıkmıyor. Aydınlık, küresel belirsizlikleri, ABD'nin yeni gümrük vergisi uygulayabileceği haberlerini ve yapay zekâ yatırımlarının finansmanına ilişkin endişeleri sayıyor. Aynı gün Çin, ABD'nin gümrük vergisi hazırlığını 'siyasi manevra' diye niteledi (Bloomberg HT).",
+      "Yurt içinde de baskı unsurları var. Türkiye'nin risk primi Nisan'dan bu yana en yüksek seviyeye, 274 baz puana çıktı (Bloomberg HT). Merkez Bankası dün üç swap ihalesi açtı (CNBC-e). Fon tasfiyesi ve güven meselesi de gündemde.",
+      "Bir uzman sabah saatlerinde 10.700 puanı 'kritik eşik' olarak anmıştı (CNBC-e). Endeks bu seviyenin altında kapandı. Bu bir uzman yorumudur; gazetemiz seviye ya da hedef vermez.",
+      "Ne yapmalı sorusunun cevabı bu sayfada yok, çünkü tavsiye vermiyoruz. Ama şu hatırlatılabilir: bir günlük hareket uzun vadeli bir yön göstermez. Kararlarını bütçene ve vadene göre, panik yapmadan vermek her zaman daha sağlıklıdır."
+    ],
+    "kutular": [
+      {
+        "baslik": "Bu ne demek? Bankacılık endeksi",
+        "metin": "Borsa İstanbul'da işlem gören bankaların hisselerinin ortak hareketini gösteren endekstir. Bankalar borsanın büyük bir bölümünü oluşturduğu için düşüşleri tüm endeksi aşağı çeker."
+      },
+      {
+        "baslik": "Bu ne demek? Swap ihalesi",
+        "metin": "Merkez Bankası, bankalara döviz karşılığında belirli bir süre TL verir; süre dolunca işlem tersine döner. Böylece piyasadaki TL miktarı ve döviz arzı yönetilir."
+      }
+    ]
+  },
+  "gundem": [
+    {
+      "etiket": "Türkiye · Borsa",
+      "baslik": "BIST 100 günü %2,83 düşüşle kapattı",
+      "metin": "Endeks günü 310,19 puan kayıpla 10.655,74'te tamamladı. Gün içindeki en düşük seviye 10.744 puandı; yani endeks gün içi tabanın da altında kapattı.",
+      "etki": "Hisse ya da fon tutuyorsan portföyün dün değer kaybetmiş olabilir.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/borsa/borsa-gunu-dususle-tamamladi-25-kasim-2026-h42584"
+      }
+    },
+    {
+      "etiket": "Türkiye · Merkez Bankası",
+      "baslik": "TCMB üç döviz karşılığı TL swap ihalesi açtı",
+      "metin": "Dün 25 Kasım valörlü üç ihale ile toplam işlem tutarı 3 milyar dolar olarak belirlendi. Vadeler 2, 9 ve 28 Aralık 2026.",
+      "etki": "Merkez Bankası bu araçla piyasadaki TL ve döviz miktarını yönetiyor; doğrudan bireysel etkisi sınırlı.",
+      "kaynak": {
+        "ad": "CNBC-e",
+        "url": "https://www.cnbce.com/haberler/merkez-bankasi-tl-icin-dugmeye-basti-3-yeni-dolartl-swap-ihalesi-acildi-h42587"
+      }
+    },
+    {
+      "etiket": "Türkiye · Risk",
+      "baslik": "Türkiye'nin risk primi Nisan'dan bu yana en yüksek seviyede",
+      "metin": "Risk primi (CDS), bir ülkenin borcunu ödeyememe riskine karşı yapılan sigortanın maliyetidir. Dün 274 baz puana çıktı.",
+      "etki": "Risk primi artarsa ülkenin dışarıdan borçlanması pahalanabilir; bu zamanla kredi faizlerine yansıyabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/turkiyenin-risk-primi-nisan-dan-bu-yana-en-yuksek-seviyede-3795617"
+      }
+    },
+    {
+      "etiket": "Türkiye · Faiz",
+      "baslik": "Goldman Sachs: Döviz mevduatı artışı faiz indirimine ara verilmesini gündeme getirebilir",
+      "metin": "Türkiye'de döviz mevduatları bir haftada 5 milyar dolar arttı. Goldman Sachs, artışın yaklaşık %90'ının şirketlerden geldiğini belirtiyor ve Merkez Bankası'nın indirimlere ara verme ihtimalinin yükseldiğini söylüyor.",
+      "etki": "Faiz indirimi gecikirse kredi faizlerindeki gerileme de gecikebilir.",
+      "kaynak": {
+        "ad": "Dünya",
+        "url": "https://www.dunya.com/ekonomi/goldman-sachstan-dikkat-ceken-tcmb-tahmini-faiz-indirim-plani-degisebilir-mi-haberi-848823"
+      }
+    },
+    {
+      "etiket": "Türkiye · Enflasyon",
+      "baslik": "TEPAV: Yıllık gıda enflasyonu %31",
+      "metin": "TEPAV'ın 1-25 Kasım verilerine göre gıda fiyatları ay içinde %1,97 arttı. Aylık artış yavaşlasa da yıllık oran yükseldi.",
+      "etki": "Market alışverişi bir yıl öncesine göre belirgin biçimde pahalı; bütçeni buna göre planlamak faydalı olabilir.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/tepav-yillik-gida-enflasyonu-yuzde-31e-yukseldi-3795622"
+      }
+    },
+    {
+      "etiket": "Türkiye · Fon",
+      "baslik": "Fon ara ödemelerinin son kısmı 27 Kasım'da",
+      "metin": "İletişim Başkanlığı, tasfiyesine karar verilen bazı fonlarda 1 milyon liraya kadar ara ödemelerin son kısmının Cuma günü tamamlanmasını hedeflediğini açıkladı.",
+      "etki": "Fon yatırımcısıysan ödeme takvimini resmî duyurulardan takip et.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarindaki-ara-odemelerin-son-kismi-27-kasimda-tamamlanacak-964360.html"
+      }
+    },
+    {
+      "etiket": "Dünya · Petrol",
+      "baslik": "Brent petrol ABD stoklarındaki artışla geriledi",
+      "metin": "Brent petrolün varili, ABD stoklarındaki artış ve küresel arzın talebi aşacağına yönelik beklentilerle dün sabah 87,88 dolara geriledi. Gün içinde başka yayınlar daha yüksek seviyeler verdi.",
+      "etki": "Petrol ucuzlarsa akaryakıt fiyatları zamanla etkilenebilir; Hürmüz Boğazı'ndaki gerilim ise riski canlı tutuyor.",
+      "kaynak": {
+        "ad": "TRT Haber",
+        "url": "https://www.trthaber.com/haber/ekonomi/petrol-fiyatlarinda-geri-cekilme-suruyor-964401.html"
+      }
+    },
+    {
+      "etiket": "Dünya · Ticaret",
+      "baslik": "Çin: ABD'nin yeni gümrük vergisi hazırlığı 'siyasi manevra'",
+      "metin": "Çin, ABD'nin ürünlerine yeni gümrük vergileri getirmeyi planladığına ilişkin haberleri bu şekilde niteledi ve iki ülkenin ticaret ateşkesini korumasını istedi.",
+      "etki": "Gümrük vergisi haberleri küresel borsalarda ve altında dalgalanma yaratabiliyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/cin-abd-nin-gumruk-vergisi-hazirligi-siyasi-manevra-3795624"
+      }
+    }
+  ],
+  "teknoloji": [
+    {
+      "etiket": "Yapay zekâ · Borsa",
+      "baslik": "Anthropic hisseleri halka arz fiyatının altında",
+      "metin": "Şirketin hisseleri dün 83 dolarlık halka arz fiyatının altına geriledi; bugün seans öncesi işlemlerde %5,74 düşüşle 77,20 dolara indi. Halka arz, bir şirketin hisselerinin ilk kez borsada satışa çıkmasıdır.",
+      "neden": "Yapay zekâ şirketlerindeki dalgalanma küresel borsaların yönünü etkileyebiliyor.",
+      "kaynak": {
+        "ad": "Ekonomim",
+        "url": "https://www.ekonomim.com/finans/haberler/borsa/anthropic-hisselerinde-dusus-durmuyor-halka-arz-fiyatinin-da-altina-indi-haberi-933319"
+      }
+    },
+    {
+      "etiket": "Teknoloji · Şirket",
+      "baslik": "Nvidia CEO'su: Göreve dönüş Trump'ın baskısıyla değil",
+      "metin": "Nvidia'ya yeniden CEO olan Jensen Huang, dönüşünün yönetim kurulunun değerlendirmesi sonucu olduğunu söyledi ve çalışanlardan özür diledi.",
+      "neden": "Dünyanın en değerli çip şirketlerinden birindeki yönetim değişikliği teknoloji hisselerini etkileyebiliyor.",
+      "kaynak": {
+        "ad": "Bloomberg HT",
+        "url": "https://www.bloomberght.com/huang-trump-in-baskisiyla-nvidia-ya-dondugu-iddiasini-reddetti-3795597"
+      }
+    }
+  ],
+  "koseYazilari": [
+    {
+      "kose": "Sabah Kahvesi",
+      "imza": "Başyazı · Yazı İşleri",
+      "baslik": "Bir günlük düşüş, bir yıllık hikâye değil",
+      "paragraflar": [
+        "Borsa dün %2,83 düştü. Böyle günlerde ekranlar kırmızıya döner, haber başlıkları sertleşir. Sakin kalmak zor ama gereklidir.",
+        "Düşüşün nedenleri tek bir cümleye sığmıyor: gümrük vergisi haberleri, yapay zekâ endişeleri, faiz beklentileri. Yani tek bir kötü haber yok; küresel bir tedirginlik var.",
+        "Bu sayfa tavsiye vermez. Ama şunu hatırlatabiliriz: yatırım kararı, günün en kötü saatinde değil, planın yanında alınır."
+      ]
+    },
+    {
+      "kose": "Piyasa Pusulası",
+      "imza": "Piyasalar Masası",
+      "baslik": "Altın, borsa ve Fed aynı yönde",
+      "paragraflar": [
+        "Dün borsa da altın da düştü. İkisinin ortak noktası, Fed'in faiz artırabileceği beklentisinin güçlenmesi oldu (Bloomberg HT).",
+        "Faiz artarsa dolar güçlenebilir; bu da altın ve gelişen ülke borsaları üzerinde baskı yapabilir. 9 Aralık'taki Fed kararı bu yüzden yakından izleniyor.",
+        "İzlenecekler: Fed'in 9 Aralık kararı, TCMB'nin 10 Aralık toplantısı ve risk priminin seyri."
+      ]
+    },
+    {
+      "kose": "Cüzdan Sohbetleri",
+      "imza": "Kişisel Finans Masası",
+      "baslik": "Sert günde bütçeni korumak",
+      "paragraflar": [
+        "Fiyatlar sert düştüğünde ilk tepki çoğu zaman panik olur. Oysa acil durum için ayırdığın para, yatırımından önce gelir.",
+        "Fon tasfiyesi haberleri sonrası 'garanti getiri' vaat eden mesajlar artabilir. Garanti getiri vaadi dolandırıcılık işaretidir. Resmî kurumların duyurularını takip et.",
+        "Kredi kartı faizi 1 Aralık'tan itibaren biraz düşecek, ama kartta asgari ödeme yapmak borcu büyütür. Borcu zamanında kapatmak her zaman en iyi tasarruftur."
+      ]
+    }
+  ],
+  "senaryolar": {
+    "olumlu": [
+      "Fed 9 Aralık'ta beklenenden yumuşak konuşursa dolar zayıflayabilir; altın ve gelişen ülke borsaları nefes alabilir.",
+      "Gümrük vergisi planları yumuşarsa küresel borsalardaki tedirginlik azalabilir.",
+      "Petrol gerilemeyi sürdürürse akaryakıt ve nakliye maliyetleri hafifleyebilir."
+    ],
+    "olumsuz": [
+      "Fed faiz artırırsa dolar güçlenebilir; Türkiye gibi ülkelerden sermaye çıkış baskısı artabilir.",
+      "Risk primi yükselmeye devam ederse dışarıdan borçlanma pahalanabilir.",
+      "Yapay zekâ hisselerindeki satış yayılırsa küresel borsalar yeniden düşebilir."
+    ],
+    "riskler": "Rakamlar piyasalar açıldıkça hızla değişebilir. Orta Doğu'daki gerilim ve gümrük vergisi haberleri sürpriz yaratabilir.",
+    "uyari": "Bu sayfa analiz amaçlıdır, yatırım tavsiyesi değildir."
+  },
+  "ajanda": [
+    {
+      "gun": "Cum 27 Kasım",
+      "olay": "Fon tasfiyesinde 1 milyon liraya kadar ara ödemelerin son kısmının tamamlanması hedefleniyor (İletişim Başkanlığı, TRT Haber)",
+      "onem": "orta"
+    },
+    {
+      "gun": "Sal 1 Aralık",
+      "olay": "Kredi kartı yeni faiz oranları ve AB'nin hibrit otomobil kotası yürürlüğe giriyor (Habertürk)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Çar 9 Aralık",
+      "olay": "Fed faiz kararı (önceki sayımızdaki takvim)",
+      "onem": "yuksek"
+    },
+    {
+      "gun": "Per 10 Aralık",
+      "olay": "TCMB yılın son Para Politikası Kurulu toplantısı (önceki sayımızdaki takvim)",
+      "onem": "yuksek"
+    }
+  ],
+  "sozluk": [
+    {
+      "terim": "Bankacılık endeksi",
+      "aciklama": "Borsada işlem gören bankaların hisselerinin ortak hareketini gösteren sayıdır."
+    },
+    {
+      "terim": "Swap ihalesi",
+      "aciklama": "Merkez Bankası'nın bankalara bir süreliğine döviz karşılığı TL verdiği işlemdir; süre bitince işlem geri döner."
+    },
+    {
+      "terim": "Döviz mevduatı",
+      "aciklama": "Bankada dolar, euro gibi yabancı parayla tutulan hesaptır. Artışı, insanların ve şirketlerin dövizde durma eğilimini gösterebilir."
+    },
+    {
+      "terim": "Gümrük vergisi (tarife)",
+      "aciklama": "Başka ülkeden gelen ürünlere devletin koyduğu vergi. Artarsa ithal ürünler pahalanır."
+    }
+  ],
+  "teyitNotlari": [
+    "Rakamlar sabah 07.00 civarı hazırlandı; veri/rakamlar.json dünkü (25 Kasım 11.48 UTC) çekimdi, bu yüzden kapanış rakamları arama sonuçlarındaki yayınlardan alındı. İlgili sayfalar WebFetch ile açılamadı (ağ erişimi yok); rakamlar arama sonucu özetlerine dayanıyor.",
+    "BIST 100 kapanışı (10.655,74; %2,83; 310,19 puan) CNBC-e, Referans Gazetesi ve Bloomberg HT'de tutarlı. Bankacılık endeksi kaybı kaynaklarda %4,45-%4,46 arası; Referans'ın %4,46'sı kullanıldı.",
+    "Dolar/TL (50,6730) Aposto, Bloomberg HT 18.30 (50,68). Euro/TL (55,4421) Aposto, Bloomberg HT (55,44). Değişim yüzdeleri Aposto'dan; TCMB bülteni açılamadı.",
+    "Gram altın (5.640; %2,67) ve ons altın (3.461,8; %2,81) yalnızca Aposto kapanış tablosundan alındı (tek kaynak). Sabah/gün içi yayınlar (Bloomberg HT, Forbes Türkiye) gram için ~5.740, ons için 3.525 verdi; saat farkı var. Gram altındaki yüzde değişim dünkü sayıdaki 5.865'e göre hesaplanırsa farklı çıkar; kaynağın kendi değişimi yazıldı.",
+    "Bitcoin 58.557 $ (CoinGecko, 25 Kasım 11.48 UTC) ve başka bir yayındaki ~58.985 $ yakın; akşam kapanışı teyit edilemedi.",
+    "Brent, S&P 500, Nasdaq, ABD 10 yıllık tahvil faizi ve gümüş için 25 Kasım kapanışı güvenilir biçimde teyit edilemedi; tabloya konmadı. Brent için 87,88 $ (TRT Haber sabah) ile ~91 $ arası farklı rakamlar görüldü.",
+    "Düşüşün nedenleri Aydınlık ve Ekoturk haberlerinde genel ifadelerle anılıyor (gümrük vergisi, yapay zekâ ve faiz endişeleri); tek bir neden doğrulanmadı.",
+    "TCMB politika faizi (%36) önceki sayılarımıza dayanıyor; bu sabah yeniden doğrulanamadı.",
+    "Konut, arsa ve otomobil için bu hafta yeni kurum tahmini bulunamadı; önceki sayılardaki veriler tarihleriyle kullanıldı. Sabah Anthropic hisse rakamları (77,20 $) seans öncesi işlem verisidir (tek kaynak)."
+  ],
+  "karikatur": {
+    "baslik": "Eşiğin Altı",
+    "dayanak": "Dayanak: BIST 100 dün %2,83 düşüşle 10.655,74 puana indi; bir uzman sabah 10.700 puanı kritik eşik olarak anmıştı (CNBC-e, Referans).",
+    "kareler": [
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "bagir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Borsa dün yüzde 2,83 düşmüş, Kemal! 10.655 puan!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "isaret",
+            "efekt": "yok"
+          },
+          {
+            "kim": "zeynep",
+            "yer": "sag",
+            "ifade": "endise",
+            "poz": "telefon",
+            "efekt": "ter"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Bankacılık endeksi yüzde 4,46 gitmiş."
+          },
+          {
+            "kim": "zeynep",
+            "metin": "Fon uygulamamı açmaya cesaret edemiyorum."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "grafik-asagi",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "konus",
+            "poz": "gazete",
+            "efekt": "soru"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "normal",
+            "poz": "kafa-kasi",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Sabah uzman 10.700 kritik eşik demişti."
+          },
+          {
+            "kim": "kemal",
+            "metin": "Eşik geçildi Ahmet Amca, şimdi bodrum kat."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "karakterler": [
+          {
+            "kim": "zeynep",
+            "yer": "sol",
+            "ifade": "sasir",
+            "poz": "eller-havada",
+            "efekt": "soru"
+          },
+          {
+            "kim": "ahmet",
+            "yer": "sag",
+            "ifade": "bagir",
+            "poz": "gazete",
+            "efekt": "unlem"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "zeynep",
+            "metin": "Kart faizi inecek diye sevinmiştik."
+          },
+          {
+            "kim": "ahmet",
+            "metin": "İndi indi, borsa da onunla indi!"
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cuzdan",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "kemal",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "isaret",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "kemal",
+            "metin": "Ders: önce acil durum parası, sonra yatırım. Garanti getiri vaadi de dolandırıcılık işaretidir."
+          }
+        ]
+      },
+      {
+        "sahne": "kahve",
+        "nesne": "cay",
+        "nesneYer": "orta",
+        "karakterler": [
+          {
+            "kim": "ahmet",
+            "yer": "sol",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          },
+          {
+            "kim": "kemal",
+            "yer": "sag",
+            "ifade": "gul",
+            "poz": "normal",
+            "efekt": "yok"
+          }
+        ],
+        "balonlar": [
+          {
+            "kim": "ahmet",
+            "metin": "Kemal, borsa düştü, çay da ucuzlar mı?"
+          },
+          {
+            "kim": "kemal",
+            "metin": "Bizde düşen yalnızca kahvenin sohbeti, Ahmet Amca."
+          }
+        ]
+      }
+    ]
+  },
+  "kaynaklar": [
+    {
+      "baslik": "CNBC-e – Borsa günü düşüşle tamamladı (25 Kasım 2026)",
+      "url": "https://www.cnbce.com/borsa/borsa-gunu-dususle-tamamladi-25-kasim-2026-h42584"
+    },
+    {
+      "baslik": "Referans Gazetesi – Borsa günü düşüşle tamamladı (25 Kasım)",
+      "url": "https://www.referansgazetesi.com.tr/borsa-gunu-dususle-tamamladi-25-kasim"
+    },
+    {
+      "baslik": "Aydınlık – BIST 100 endeksi geriledi",
+      "url": "https://www.aydinlik.com.tr/haber/borsa-istanbulda-bist-100-endeksi-10852-puana-geriledi-600621"
+    },
+    {
+      "baslik": "Bloomberg HT – Piyasalarda günün özeti: 25 Kasım 2026",
+      "url": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-25-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3795672"
+    },
+    {
+      "baslik": "Aposto – 25 Kasım 2026 Piyasa Kapanışı",
+      "url": "https://aposto.com/piyasalar/kapanis/2026-11-25"
+    },
+    {
+      "baslik": "Forbes Türkiye – Gram altın 5 bin 744 TL, ons altın 3 bin 525 dolar",
+      "url": "https://www.forbes.com.tr/ekonomi/gram-altin-5-bin-744-liradan-ons-altin-3-bin-525-dolardan-islem-goruyor"
+    },
+    {
+      "baslik": "CNBC-e – TCMB 3 yeni dolar/TL swap ihalesi açtı",
+      "url": "https://www.cnbce.com/haberler/merkez-bankasi-tl-icin-dugmeye-basti-3-yeni-dolartl-swap-ihalesi-acildi-h42587"
+    },
+    {
+      "baslik": "Bloomberg HT – Türkiye'nin risk primi Nisan'dan bu yana en yüksek",
+      "url": "https://www.bloomberght.com/turkiyenin-risk-primi-nisan-dan-bu-yana-en-yuksek-seviyede-3795617"
+    },
+    {
+      "baslik": "Dünya – Goldman Sachs'tan TCMB tahmini",
+      "url": "https://www.dunya.com/ekonomi/goldman-sachstan-dikkat-ceken-tcmb-tahmini-faiz-indirim-plani-degisebilir-mi-haberi-848823"
+    },
+    {
+      "baslik": "Ekonomim – Dev banka Türkiye ekonomisi için 2027 beklentilerini duyurdu",
+      "url": "https://www.ekonomim.com/ekonomi/dev-banka-turkiye-ekonomisi-icin-2027-beklentilerini-duyurdu-haberi-933313"
+    },
+    {
+      "baslik": "Bloomberg HT – TEPAV: Yıllık gıda enflasyonu yüzde 31'e yükseldi",
+      "url": "https://www.bloomberght.com/tepav-yillik-gida-enflasyonu-yuzde-31e-yukseldi-3795622"
+    },
+    {
+      "baslik": "TRT Haber – Fon ara ödemelerinin son kısmı 27 Kasım'da",
+      "url": "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarindaki-ara-odemelerin-son-kismi-27-kasimda-tamamlanacak-964360.html"
+    },
+    {
+      "baslik": "TRT Haber – Petrol fiyatlarında geri çekilme sürüyor",
+      "url": "https://www.trthaber.com/haber/ekonomi/petrol-fiyatlarinda-geri-cekilme-suruyor-964401.html"
+    },
+    {
+      "baslik": "Bloomberg HT – Çin: ABD'nin gümrük vergisi hazırlığı siyasi manevra",
+      "url": "https://www.bloomberght.com/cin-abd-nin-gumruk-vergisi-hazirligi-siyasi-manevra-3795624"
+    },
+    {
+      "baslik": "Bloomberg HT – Altında şimdi de tarife baskısı",
+      "url": "https://www.bloomberght.com/altinda-simdi-de-tarife-baskisi-3795599"
+    },
+    {
+      "baslik": "Ekonomim – Anthropic hisselerinde düşüş durmuyor",
+      "url": "https://www.ekonomim.com/finans/haberler/borsa/anthropic-hisselerinde-dusus-durmuyor-halka-arz-fiyatinin-da-altina-indi-haberi-933319"
+    },
+    {
+      "baslik": "Bloomberg HT – Huang, Trump'ın baskısıyla döndüğü iddiasını reddetti",
+      "url": "https://www.bloomberght.com/huang-trump-in-baskisiyla-nvidia-ya-dondugu-iddiasini-reddetti-3795597"
+    },
+    {
+      "baslik": "CNBC-e – Altında trend tersine döndü",
+      "url": "https://www.cnbce.com/altin/altinda-trend-tersine-dondu-uzman-isim-yeni-dip-icin-uyardi-g42593"
+    },
+    {
+      "baslik": "CNBC-e – Altında yeni dip mi, yükseliş mi?",
+      "url": "https://www.cnbce.com/altin/altinda-yeni-dip-mi-yukselis-mi-uzmanlar-iki-senaryoyu-acikladi-g42598"
+    },
+    {
+      "baslik": "CNBC-e – BIST100'de kritik eşik uyarısı",
+      "url": "https://www.cnbce.com/borsa/uzman-isimden-bist100de-kritik-esik-uyarisi-10-bin-700-puan-neden-onemli-g42586"
+    },
+    {
+      "baslik": "Bloomberg HT – İTO'dan ticari kredi faizlerinde indirim çağrısı",
+      "url": "https://www.bloomberght.com/itodan-ticari-kredi-faizlerinde-indirim-cagrisi-3795628"
+    },
+    {
+      "baslik": "Habertürk – Avrupa'dan Türkiye'ye hibrit kotası",
+      "url": "https://www.haberturk.com/ekonomi/turkiyenin-hibrit-otomobil-ihracatina-ab-kotasi-3929752"
+    },
+    {
+      "baslik": "Ekonomim – Fon krizi İzmir'de konut ve iş yeri satışlarını vurdu",
+      "url": "https://www.ekonomim.com/sehirler/fon-krizi-izmirde-konut-ve-is-yeri-satislarini-vurdu-haberi-933078"
+    },
+    {
+      "baslik": "Ekonomim – Altın, gümüş, platin, paladyum 2027",
+      "url": "https://www.ekonomim.com/finans/haberler/altin/altin-gumus-platin-paladyum-ne-kadar-olacak-iste-dev-bankanin-2027-hesabi-haberi-933106"
+    },
+    {
+      "baslik": "TRT Haber – TOKİ 725 arsayı açık artırmayla satışa sunacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/toki-61-ildeki-725-arsayi-acik-artirmayla-satisa-sunacak-962220.html"
+    }
+  ]
+}
